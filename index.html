@@ -47,6 +47,10 @@
   .type-twitter .src{color:#1d9bf0}
   footer{max-width:1100px;margin:0 auto;padding:24px 20px 40px;color:var(--muted);font-size:12.5px;border-top:1px solid var(--line)}
   .empty{text-align:center;color:var(--muted);padding:40px}
+  .section{margin-bottom:28px}
+  .section h2{font-size:15px;color:var(--accent);border-bottom:1px solid var(--line);
+    padding-bottom:6px;margin:0 0 14px;display:flex;gap:8px;align-items:baseline}
+  .section h2 .scount{color:var(--muted);font-weight:400;font-size:12.5px}
 </style>
 </head>
 <body>
@@ -75,7 +79,8 @@
 <footer>
   <b>מה זה:</b> ריכוז אוטומטי של אייטמים סביב חוק התקשורת, ערוץ 12/14, רגולציית מדיה והדמויות המעורבות.<br>
   <b>מקורות:</b> כלכליסט (עומר כביר), גלובס (נבו טרבלסי · גלית חתן), דה-מרקר (יסמין גואטה · נתי טוקר), הארץ (עידו דוד כהן), ישראל היום, וחיפושי גוגל על שמות המפתח.<br>
-  <b>סינון:</b> אייטמים מהאתרים נכנסים רק אם הם מכילים אחת ממילות המפתח; אייטמים מחיפושי גוגל נכנסים ללא סינון.
+  <b>סינון:</b> אייטמים מהאתרים נכנסים רק אם הם מכילים אחת ממילות המפתח; אייטמים מחיפושי גוגל נכנסים ללא תנאי מילות מפתח, אך רק מ-24 השעות האחרונות.<br>
+  <b>תאריך:</b> תאריך הפרסום המקורי כפי שמופיע במקור.
 </footer>
 
 <script>
@@ -113,15 +118,8 @@ function init(){
   render();
 }
 
-function render(){
-  let items = (DATA.items||[]).slice();
-  if(state.q){ const q=state.q; items=items.filter(i=>i.title.includes(q)); }
-  if(state.src) items=items.filter(i=>i.source===state.src);
-  if(state.kw.size) items=items.filter(i=>(i.keywords||[]).some(k=>state.kw.has(k)));
-  items.sort((a,b)=> state.sort==="src" ? (a.source>b.source?1:-1) : (String(b.date)>String(a.date)?1:-1));
-  $("#count").textContent = items.length + " אייטמים מוצגים";
-  const today = (DATA.updated||"").slice(0,10);
-  $("#list").innerHTML = items.length ? items.map(i=>`
+function cardHtml(i, today){
+  return `
     <div class="card type-${i.type||'site'}">
       <a class="title" href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
       <div class="row">
@@ -130,7 +128,27 @@ function render(){
         ${String(i.date)>=today && today?'<span class="badge">חדש</span>':''}
         <span class="tags">${(i.keywords||[]).map(k=>`<span class="tag">${k}</span>`).join("")}</span>
       </div>
-    </div>`).join("") : '<div class="empty">אין אייטמים תואמים לסינון</div>';
+    </div>`;
+}
+
+function sectionHtml(title, arr, today){
+  if(!arr.length) return "";
+  return `<div class="section"><h2>${title}<span class="scount">${arr.length}</span></h2>`
+       + arr.map(i=>cardHtml(i,today)).join("") + `</div>`;
+}
+
+function render(){
+  let items = (DATA.items||[]).slice();
+  if(state.q){ const q=state.q; items=items.filter(i=>i.title.includes(q)); }
+  if(state.src) items=items.filter(i=>i.source===state.src);
+  if(state.kw.size) items=items.filter(i=>(i.keywords||[]).some(k=>state.kw.has(k)));
+  items.sort((a,b)=> state.sort==="src" ? (a.source>b.source?1:-1) : (String(b.date)>String(a.date)?1:-1));
+  $("#count").textContent = items.length + " אייטמים מוצגים";
+  const today = (DATA.updated||"").slice(0,10);
+  const sites  = items.filter(i=>i.type!=="google");   // אתרים + טוויטר
+  const google = items.filter(i=>i.type==="google");   // חיפושי גוגל
+  const html = sectionHtml("אתרים", sites, today) + sectionHtml("חיפושי גוגל", google, today);
+  $("#list").innerHTML = html || '<div class="empty">אין אייטמים תואמים לסינון</div>';
 }
 load();
 </script>

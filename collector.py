@@ -3,13 +3,19 @@
 """
 media-hub collector — runs headless (GitHub Actions / any machine with Python).
 Two source types:
-  1. SITES    — a writer/tag page is scraped directly for that writer's articles.
-  2. SEARCHES — Google News RSS query (reliable from a cloud runner; replaced the
-                old DuckDuckGo HTML endpoint, which datacenter IPs get blocked on).
-Filters by keywords, dedupes (by normalized URL AND normalized title) against the
-existing data.json, and rewrites data.json.
+  1. SITES    — a writer/tag page scraped directly for that writer's articles
+                (kept only if the headline contains a keyword).
+  2. SEARCHES — Google News RSS query. Two flavours:
+                * Israel Hayom writer pages (blocked to direct fetch) → site: query,
+                  keyword-filtered, broad window.
+                * The spec's Google-topic searches → unconditional (no keyword
+                  condition) and LIMITED TO THE LAST 24h (when:1d, per the qdr:d
+                  filter in the original request).
+Publication date = the article's REAL published date (from the URL or the
+article's <meta article:published_time> / datePublished), not the scrape date.
+Dedupes (by normalized URL AND title) against data.json and rewrites it.
 
-No Claude, no browser. X/Twitter is NOT collected here (needs the paid X API).
+X/Twitter is NOT collected here — see README / the X note (needs the paid API).
 
 Run:  python collector.py
 Deps: pip install requests beautifulsoup4        (XML parsing uses the stdlib)
@@ -23,7 +29,10 @@ from bs4 import BeautifulSoup
 
 HERE = pathlib.Path(__file__).parent
 DATA = HERE / "data.json"
-TODAY = datetime.date.today().isoformat()
+TODAY = datetime.date.today()
+TODAY_S = TODAY.isoformat()
+RECENT_CUTOFF = (TODAY - datetime.timedelta(days=1)).isoformat()   # "24h" window
+BACKFILL_CAP = 25          # max article fetches per run to correct old dates
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -59,21 +68,24 @@ SITES = [
      "pattern":r"/[a-z].*/ty-article"},
 ]
 
-# Google News RSS searches. Israel Hayom writers (blocked to direct fetch) via
-# site: queries + the Google-query topics from the spec. `unconditional`=True →
-# keep every result (spec: Google searches enter with no keyword condition).
+# Google News RSS searches.
+#  unconditional=False → Israel Hayom writer coverage, keyword-filtered, broad window.
+#  unconditional=True + recent=True → the spec's Google searches: every new item,
+#    no keyword condition, LAST 24h only (when:1d).
 SEARCHES = [
     {"source":"ישראל היום · אילי זילברברג","q":"site:israelhayom.co.il אילי זילברברג","unconditional":False},
     {"source":"ישראל היום · ביני אשכנזי","q":"site:israelhayom.co.il ביני אשכנזי","unconditional":False},
     {"source":"ישראל היום · אלינור שירקני קופמן","q":"site:israelhayom.co.il אלינור שירקני קופמן","unconditional":False},
-    {"source":"חיפוש גוגל · שלמה קרעי","q":"שלמה קרעי חוק התקשורת","unconditional":True},
-    {"source":"חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12","q":"ערוץ 14 ברדוגו ערוץ 12","unconditional":True},
-    {"source":"חיפוש גוגל · ינון מגל","q":"ינון מגל ערוץ 14","unconditional":True},
-    {"source":"חיפוש גוגל · גלית דיסטל","q":"גלית דיסטל אטבריאן","unconditional":True},
-    {"source":"חיפוש גוגל · דודי ורטהיים","q":"דודי ורטהיים קשת","unconditional":True},
-    {"source":"חיפוש גוגל · אבי ניר","q":"אבי ניר קשת ארץ נהדרת","unconditional":True},
-    {"source":"חיפוש גוגל · פטריק דרהי","q":"פטריק דרהי","unconditional":True},
-    {"source":"חיפוש גוגל · יפעת בן חי שגב","q":"יפעת בן חי שגב","unconditional":True},
+    {"source":"חיפוש גוגל · שלמה קרעי","q":"שלמה קרעי","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · shlomo karhi","q":"shlomo karhi","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12","q":"ערוץ 14 ברדוגו ערוץ 12","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · ערוץ 14","q":"ערוץ 14","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · ינון מגל","q":"ינון מגל","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · אבי ניר","q":"אבי ניר","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · דודי ורטהיים","q":"דודי ורטהיים","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · גלית דיסטל","q":"גלית דיסטל","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · פטריק דרהי","q":"פטריק דרהי","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · יפעת בן חי שגב","q":"יפעת בן חי שגב","unconditional":True,"recent":True},
 ]
 
 def norm_url(u):
@@ -97,6 +109,25 @@ def get(url):
         print(f"  ! {url} -> {e}", file=sys.stderr)
         return None
 
+def url_date(url):
+    """Real pub date embedded in the URL path (TheMarker/Haaretz: /YYYY-MM-DD/)."""
+    m = re.search(r"/(20\d\d-\d\d-\d\d)/", url or "")
+    return m.group(1) if m else None
+
+def fetch_pubdate(url):
+    """Real pub date from the article page meta tags (Calcalist/Globes)."""
+    html = get(url)
+    if not html:
+        return None
+    for pat in (r'property=["\']article:published_time["\'][^>]*content=["\'](20\d\d-\d\d-\d\d)',
+                r'content=["\'](20\d\d-\d\d-\d\d)[^"\']*["\'][^>]*property=["\']article:published_time',
+                r'"datePublished"\s*:\s*["\'](20\d\d-\d\d-\d\d)',
+                r'itemprop=["\']datePublished["\'][^>]*content=["\'](20\d\d-\d\d-\d\d)'):
+        m = re.search(pat, html)
+        if m:
+            return m.group(1)
+    return None
+
 def scrape_site(site):
     html = get(site["url"])
     if not html:
@@ -118,13 +149,15 @@ def scrape_site(site):
         kws = matched_keywords(title)
         if not kws:                    # site items require a keyword match
             continue
-        out.append({"title":title,"url":url,"source":site["source"],
-                    "type":"site","date":TODAY,"keywords":kws})
+        d = url_date(url)              # free date if embedded in the URL
+        out.append({"title":title,"url":url,"source":site["source"],"type":"site",
+                    "date":d or TODAY_S,"keywords":kws,"pv":bool(d)})
     print(f"    -> {len(out)} kept", file=sys.stderr)
     return out
 
 def scrape_search(s):
-    url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(s["q"])
+    q = s["q"] + (" when:1d" if s.get("recent") else "")
+    url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q)
            + "&hl=he&gl=IL&ceid=IL:he")
     xml = get(url)
     if not xml:
@@ -140,21 +173,44 @@ def scrape_search(s):
         link = (item.findtext("link") or "").strip()
         if len(title) < 10 or not link.startswith("http"):
             continue
-        date = TODAY
+        date = TODAY_S
         pd = item.findtext("pubDate")
         if pd:
             try:
                 date = parsedate_to_datetime(pd).date().isoformat()
             except Exception:
                 pass
+        if s.get("recent") and date < RECENT_CUTOFF:   # enforce 24h window
+            continue
         kws = matched_keywords(title)
         if not s["unconditional"] and not kws:
             continue
-        out.append({"title":title,"url":link,"source":s["source"],
-                    "type":"google","date":date,"keywords":kws})
-    out = out[:8]                                   # cap per search
+        out.append({"title":title,"url":link,"source":s["source"],"type":"google",
+                    "date":date,"keywords":kws,"pv":True})
+    out = out[:12]                                   # cap per search
     print(f"    -> {len(out)} kept", file=sys.stderr)
     return out
+
+def backfill_dates(items):
+    """Give every item its real pub date. `pv` (pub-verified) makes this idempotent
+    across runs; only unverified items cost a fetch, capped per run."""
+    budget = BACKFILL_CAP
+    fixed = 0
+    for i in items:
+        if i.get("pv"):
+            continue
+        d = url_date(i["url"])
+        if not d and i.get("type") == "site" and budget > 0:
+            budget -= 1
+            d = fetch_pubdate(i["url"])
+        if d:
+            i["date"] = d
+            i["pv"] = True
+            fixed += 1
+        elif i.get("type") != "site":
+            i["pv"] = True            # google/twitter dates are already real
+    if fixed:
+        print(f"backfilled {fixed} real dates", file=sys.stderr)
 
 def main():
     old = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {"items":[]}
@@ -178,6 +234,7 @@ def main():
         seen_urls.add(u); seen_titles.add(t); new.append(i)
 
     merged = new + items
+    backfill_dates(merged)                          # correct real pub dates
     merged.sort(key=lambda i: str(i.get("date","")), reverse=True)   # newest first
     merged = merged[:400]                                            # hard cap
 
