@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HUB · ניטור תקשורת</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --line:#2a2f3a;
+    --txt:#e8eaed; --muted:#9aa0aa; --accent:#f2c14e; --accent2:#4e9af2;
+    --chip:#242833; --new:#2e7d5b;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f4f5f7; --panel:#fff; --panel2:#f0f1f4; --line:#e2e4e9;
+      --txt:#14171c; --muted:#5c6470; --accent:#c8961d; --accent2:#2f6fd0; --chip:#eceef2; --new:#1f7a52; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:"Segoe UI","Helvetica Neue",Arial,"Assistant",system-ui,sans-serif;line-height:1.5}
+  header{position:sticky;top:0;z-index:10;background:var(--panel);border-bottom:1px solid var(--line);
+    padding:14px 20px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}
+  .brand{display:flex;align-items:baseline;gap:12px}
+  .brand h1{font-size:20px;margin:0;letter-spacing:.5px}
+  .brand .dot{color:var(--accent)}
+  .meta{font-size:12.5px;color:var(--muted)}
+  .wrap{max-width:1100px;margin:0 auto;padding:20px}
+  .controls{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px}
+  input[type=search],select{background:var(--panel2);color:var(--txt);border:1px solid var(--line);
+    border-radius:8px;padding:9px 12px;font-size:14px;font-family:inherit}
+  input[type=search]{flex:1;min-width:200px}
+  .kw-bar{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:18px}
+  .kw{background:var(--chip);border:1px solid var(--line);color:var(--muted);border-radius:999px;
+    padding:4px 11px;font-size:12.5px;cursor:pointer;user-select:none}
+  .kw.on{background:var(--accent);color:#111;border-color:var(--accent);font-weight:600}
+  .count{font-size:13px;color:var(--muted);margin-bottom:10px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;
+    margin-bottom:12px;transition:border-color .15s}
+  .card:hover{border-color:var(--accent2)}
+  .card a.title{color:var(--txt);text-decoration:none;font-size:16px;font-weight:600;display:block}
+  .card a.title:hover{color:var(--accent2)}
+  .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:8px;font-size:12.5px;color:var(--muted)}
+  .src{color:var(--accent2);font-weight:600}
+  .tags{display:flex;flex-wrap:wrap;gap:5px}
+  .tag{background:var(--chip);border-radius:6px;padding:2px 8px;font-size:11.5px;color:var(--muted)}
+  .badge{background:var(--new);color:#fff;border-radius:6px;padding:2px 8px;font-size:11px;font-weight:600}
+  .type-google .src{color:var(--accent)}
+  .type-twitter .src{color:#1d9bf0}
+  footer{max-width:1100px;margin:0 auto;padding:24px 20px 40px;color:var(--muted);font-size:12.5px;border-top:1px solid var(--line)}
+  .empty{text-align:center;color:var(--muted);padding:40px}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>HUB <span class="dot">·</span> ניטור תקשורת</h1>
+    <span class="meta" id="meta"></span>
+  </div>
+  <span class="meta">מתעדכן אוטומטית כל שעה</span>
+</header>
+
+<div class="wrap">
+  <div class="controls">
+    <input type="search" id="q" placeholder="חיפוש חופשי בכותרות…">
+    <select id="src"><option value="">כל המקורות</option></select>
+    <select id="sort">
+      <option value="date">מיון: הכי חדש</option>
+      <option value="src">מיון: לפי מקור</option>
+    </select>
+  </div>
+  <div class="kw-bar" id="kwbar"></div>
+  <div class="count" id="count"></div>
+  <div id="list"><div class="empty">טוען…</div></div>
+</div>
+
+<footer>
+  <b>מה זה:</b> ריכוז אוטומטי של אייטמים סביב חוק התקשורת, ערוץ 12/14, רגולציית מדיה והדמויות המעורבות.<br>
+  <b>מקורות:</b> כלכליסט (עומר כביר), גלובס (נבו טרבלסי · גלית חתן), דה-מרקר (יסמין גואטה · נתי טוקר), הארץ (עידו דוד כהן), ישראל היום, וחיפושי גוגל על שמות המפתח.<br>
+  <b>סינון:</b> אייטמים מהאתרים נכנסים רק אם הם מכילים אחת ממילות המפתח; אייטמים מחיפושי גוגל נכנסים ללא סינון.
+</footer>
+
+<script>
+const $ = s => document.querySelector(s);
+let DATA = {updated:null, items:[]};
+let state = { q:"", src:"", sort:"date", kw:new Set() };
+
+function fmtDate(d){ if(!d) return ""; const p=String(d).split("-"); return p.length===3? p[2]+"."+p[1]+"."+p[0].slice(2) : d; }
+
+async function load(){
+  try{
+    const res = await fetch("data.json?t=" + Date.now());
+    DATA = await res.json();
+  }catch(e){
+    $("#list").innerHTML = '<div class="empty">לא ניתן לטעון את הנתונים (data.json)</div>';
+    return;
+  }
+  init();
+}
+
+function init(){
+  const items = DATA.items||[];
+  $("#meta").textContent = "· " + items.length + " אייטמים · עודכן " + (DATA.updated ? new Date(DATA.updated).toLocaleString("he-IL",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "");
+  const srcs = [...new Set(items.map(i=>i.source))].sort();
+  const srcSel = $("#src"); srcSel.length = 1;
+  srcs.forEach(s=>{ const o=document.createElement("option"); o.value=s; o.textContent=s; srcSel.appendChild(o); });
+  const kws = [...new Set(items.flatMap(i=>i.keywords||[]))].sort();
+  $("#kwbar").innerHTML = "";
+  kws.forEach(k=>{ const c=document.createElement("span"); c.className="kw"; c.textContent=k;
+    c.onclick=()=>{ c.classList.toggle("on"); state.kw.has(k)?state.kw.delete(k):state.kw.add(k); render(); };
+    $("#kwbar").appendChild(c); });
+  $("#q").oninput = e=>{ state.q=e.target.value.trim(); render(); };
+  $("#src").onchange = e=>{ state.src=e.target.value; render(); };
+  $("#sort").onchange = e=>{ state.sort=e.target.value; render(); };
+  render();
+}
+
+function render(){
+  let items = (DATA.items||[]).slice();
+  if(state.q){ const q=state.q; items=items.filter(i=>i.title.includes(q)); }
+  if(state.src) items=items.filter(i=>i.source===state.src);
+  if(state.kw.size) items=items.filter(i=>(i.keywords||[]).some(k=>state.kw.has(k)));
+  items.sort((a,b)=> state.sort==="src" ? (a.source>b.source?1:-1) : (String(b.date)>String(a.date)?1:-1));
+  $("#count").textContent = items.length + " אייטמים מוצגים";
+  const today = (DATA.updated||"").slice(0,10);
+  $("#list").innerHTML = items.length ? items.map(i=>`
+    <div class="card type-${i.type||'site'}">
+      <a class="title" href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
+      <div class="row">
+        <span class="src">${i.source}</span>
+        <span>${fmtDate(i.date)}</span>
+        ${String(i.date)>=today && today?'<span class="badge">חדש</span>':''}
+        <span class="tags">${(i.keywords||[]).map(k=>`<span class="tag">${k}</span>`).join("")}</span>
+      </div>
+    </div>`).join("") : '<div class="empty">אין אייטמים תואמים לסינון</div>';
+}
+load();
+</script>
+</body>
+</html>
