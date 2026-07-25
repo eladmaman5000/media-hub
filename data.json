@@ -1,35 +1,412 @@
 {
-  "updated": "2026-07-24T00:00:00+03:00",
-  "items": [
-    {"title":"מנכ\"ל חדשות 12 חושף: הפגישה עם קרעי שהבהירה מה עומד מאחורי חוק השידורים","url":"https://www.calcalist.co.il/local_news/article/bykp8j1hmg","source":"כלכליסט · עומר כביר","type":"site","date":"2026-07-23","keywords":["חדשות 12","שלמה קרעי","חוק התקשורת"]},
-    {"title":"טיפה בים הרווח: גוגל תשלם קנס נוסף באיחוד האירופי - מיליארד דולר","url":"https://www.calcalist.co.il/calcalistech/article/bjg00ppkrgg","source":"כלכליסט · עומר כביר","type":"site","date":"2026-07-23","keywords":["גוגל","רגולציה"]},
-    {"title":"ברגע האחרון: נמשכה אחת מתביעות ההתמכרות הגדולות נגד מטא בארה\"ב","url":"https://www.calcalist.co.il/calcalistech/article/sjntw4jsfx","source":"כלכליסט · עומר כביר","type":"site","date":"2026-07-23","keywords":["מטא"]},
-    {"title":"אסף קרן יחליף את גיא רוזן ויהפוך לישראלי הבכיר במטא","url":"https://www.calcalist.co.il/calcalistech/article/rymx8vavzg","source":"כלכליסט · עומר כביר","type":"site","date":"2026-07-22","keywords":["מטא"]},
-    {"title":"אפקט ה־AI: גולשים נשארים בגוגל במקום להמשיך לאתרים אחרים","url":"https://www.calcalist.co.il/calcalistech/article/ry11ddqp4zg","source":"כלכליסט · עומר כביר","type":"site","date":"2026-07-21","keywords":["גוגל"]},
-    {"title":"i24NEWS מצטרף למאבק המשפטי לטובת חוק התקשורת של קרעי","url":"https://globes.co.il/news/article.aspx?did=1001550203","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-22","keywords":["חוק התקשורת","שלמה קרעי"]},
-    {"title":"חוק השידורים של השר קרעי מגיע לבג\"ץ. שורה של בעיות נמצאות במוקד","url":"https://globes.co.il/news/article.aspx?did=1001549825","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-19","keywords":["שלמה קרעי","חוק התקשורת"]},
-    {"title":"בג\"ץ הקפיא את חוק התקשורת של השר קרעי","url":"https://globes.co.il/news/article.aspx?did=1001549734","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-19","keywords":["חוק התקשורת","שלמה קרעי"]},
-    {"title":"משתמשים ברחבי העולם מדווחים על תקלות בפייסבוק ובאינסטגרם","url":"https://globes.co.il/news/article.aspx?did=1001549762","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-19","keywords":["פייסבוק"]},
-    {"title":"למרות הרייטינג המדשדש, המדד מוכיח שלתאגיד השידור הציבורי עדיין יש ערך","url":"https://globes.co.il/news/article.aspx?did=1001548388","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-14","keywords":["רייטינג"]},
-    {"title":"בפעם החמישית ברציפות, יוטיוב כובשת את פסגת קטגוריית סטרימינג ומדיה","url":"https://globes.co.il/news/article.aspx?did=1001548409","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-14","keywords":["יוטיוב"]},
-    {"title":"העוזר האישי של מטא מגיע לישראל, אבל לא הכול חלק","url":"https://globes.co.il/news/article.aspx?did=1001549621","source":"גלובס · נבו טרבלסי","type":"site","date":"2026-07-18","keywords":["מטא"]},
-    {"title":"i24 בבקשה בהולה לבג\"ץ: להצטרף כתומך בחוק של קרעי בדיון בעתירות נגדו","url":"https://www.themarker.com/news/themedia/2026-07-22/ty-article/.premium/0000019f-8a41-df92-a7ff-aec378f10000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-22","keywords":["שלמה קרעי","חוק התקשורת"]},
-    {"title":"לאחר שתקף את מדידת הרייטינג שנים: ערוץ 14 מצטרף לוועדת המדרוג כחבר מלא","url":"https://www.themarker.com/news/themedia/2026-07-22/ty-article/0000019f-89ca-d458-a9ff-bbea97310000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-22","keywords":["ערוץ 14","רייטינג"]},
-    {"title":"הרשות השנייה דורשת מקבוצת רפפורט לחשוף את המשקיעים בעסקת רשת 13","url":"https://www.themarker.com/news/themedia/2026-07-21/ty-article/.premium/0000019f-84bd-d6fb-abff-8cfd470e0000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-21","keywords":["הרשות השנייה"]},
-    {"title":"בג\"ץ הוציא צו המקפיא את כניסתו לתוקף של חוק השידורים של קרעי","url":"https://www.themarker.com/news/themedia/2026-07-19/ty-article/0000019f-78b8-dec7-afff-78fd43090000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-19","keywords":["שלמה קרעי","חוק התקשורת"]},
-    {"title":"\"אדוני ראש הממשלה, המשימה הושלמה\": הכנסת אישרה את חוק השידורים של קרעי","url":"https://www.themarker.com/news/themedia/2026-07-16/ty-article/.premium/0000019f-6b39-d161-a5df-effbe47f0000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-16","keywords":["שלמה קרעי","חוק התקשורת"]},
-    {"title":"חוק השידורים מגיע להכרעה: מי מרוויח, מי מפסיד והאם בג\"ץ יעצור אותו?","url":"https://www.themarker.com/news/themedia/2026-07-16/ty-article-magazine/.highlight/0000019f-6a47-ddf1-abbf-6adf2aa10000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-16","keywords":["חוק התקשורת"]},
-    {"title":"\"לפי החלטת הממשלה אין מנכ\"ל לרשות השנייה\": אושרה רפורמת ענק ברדיו","url":"https://www.themarker.com/news/themedia/2026-07-12/ty-article/0000019f-5570-d9b4-abdf-dd79e3540000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-12","keywords":["הרשות השנייה","שלמה קרעי"]},
-    {"title":"ביטן וקרעי מתאחדים ודוהרים להשתלטות על הרדיו, חרף אזהרות גורמי המקצוע","url":"https://www.themarker.com/news/themedia/2026-07-12/ty-article/.premium/0000019f-502c-dc56-adff-7c6ef9800000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-12","keywords":["שלמה קרעי"]},
-    {"title":"קרעי התקפל מול החרדים: האפליקציה שאמורה להחליף את עידן פלוס תוסר מהחוק","url":"https://www.themarker.com/news/themedia/2026-07-09/ty-article/.premium/0000019f-4647-d4ee-a19f-574757ec0000","source":"דה-מרקר · יסמין גואטה","type":"site","date":"2026-07-09","keywords":["שלמה קרעי"]},
-    {"title":"תלונה נגד ערוץ 14: חשד לפגיעה שיטתית בביטחון מדינת ישראל","url":"https://www.haaretz.co.il/gallery/television/news/2026-07-06/ty-article/0000019f-3790-db7c-af9f-37d551a50000","source":"הארץ · עידו דוד כהן","type":"site","date":"2026-07-06","keywords":["ערוץ 14"]},
-    {"title":"גרפיטי רוסס מחוץ למשרדי קשת: \"פלג, דרוקר ואברמוביץ', תשלמו בדם יקירכם\"","url":"https://www.haaretz.co.il/gallery/media/2026-06-03/ty-article/.premium/0000019e-8c4d-d36b-a7bf-ff5ff35f0000","source":"הארץ · עידו דוד כהן","type":"site","date":"2026-06-03","keywords":["קשת 12","גיא פלג"]},
-    {"title":"אבישי בן חיים מצטרף לתוכנית \"הפטריוטים\" בערוץ 14","url":"https://www.haaretz.co.il/gallery/media/2026-06-01/ty-article/.premium/0000019e-827e-d6c2-a1bf-9bfee7760000","source":"הארץ · עידו דוד כהן","type":"site","date":"2026-06-01","keywords":["ערוץ 14"]},
-    {"title":"ערוץ 14 רכש אתר חדשות ברוסית, ומסרב לחשוף מי המוכר","url":"https://www.haaretz.co.il/gallery/media/2026-04-28/ty-article/.premium/0000019d-d4ab-d812-ad9f-ffabedf40000","source":"הארץ · עידו דוד כהן","type":"site","date":"2026-04-28","keywords":["ערוץ 14"]},
-    {"title":"פרשן 14 ברדוגו הודה כי ביקש מראש השב\"כ לפתוח בחקירה נגד ערוץ 12 המתחרה","url":"https://www.ynet.co.il/news/category/184","source":"חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12","type":"google","date":"2026-07-23","keywords":["יעקב ברדוגו","ערוץ 14","ערוץ 12"]},
-    {"title":"הפגישה שמזעזעת את השב\"כ: ברדוגו דרש מזיני חקירה נגד ערוץ 12","url":"https://www.kikar.co.il","source":"חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12","type":"google","date":"2026-07-23","keywords":["יעקב ברדוגו","ערוץ 12"]},
-    {"title":"הכנסת אישרה את הקמת הוועדה לדיון בחוק התקשורת, בראשות דיסטל אטבריאן","url":"https://www.ynet.co.il/news/article/bjrfrpsbwe","source":"חיפוש גוגל · גלית דיסטל","type":"google","date":"2026-07-20","keywords":["חוק התקשורת"]},
-    {"title":"הפטריוטים עם ינון מגל | 21.07.26 (שידור מלא)","url":"https://www.youtube.com/watch?v=zE8nOJFdFkE","source":"חיפוש גוגל · ינון מגל","type":"google","date":"2026-07-21","keywords":["ינון מגל","ערוץ 14","יוטיוב"]},
-    {"title":"היסטוריה. בחסדי ה' רפורמת התקשורת עברה בקריאה שנייה ושלישית — חודשים של עבודה, עשרות דיונים","url":"https://x.com/GalitDistel/status/2077812411654930704","source":"X · גלית דיסטל אטבריאן","type":"twitter","date":"2026-07-16","keywords":["חוק התקשורת"]}
-  ]
+ "updated": "2026-07-25T07:09+00:00",
+ "keywords": [
+  "קשת 12",
+  "ערוץ 12",
+  "חדשות 12",
+  "ערוץ 14",
+  "כוח מאה",
+  "גיא פלג",
+  "דודי ורטהיים",
+  "קוקה קולה",
+  "חרם ערוץ 12",
+  "שלמה קרעי",
+  "חוק התקשורת",
+  "החוק להחלשת התקשורת",
+  "הרשות השנייה",
+  "אבי ניר",
+  "ארץ נהדרת",
+  "עובדה",
+  "רייטינג",
+  "ניר ברקת",
+  "יואב קיש",
+  "יעקב ברדוגו",
+  "ינון מגל",
+  "גוגל",
+  "יוטיוב",
+  "מטא",
+  "פייסבוק",
+  "רגולציה",
+  "תרעלה",
+  "תבהלה"
+ ],
+ "items": [
+  {
+   "title": "i24NEWS מצטרף למאבק המשפטי לטובת חוק התקשורת של קרעי",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001550203",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-25",
+   "keywords": [
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "משתמשים ברחבי העולם מדווחים על תקלות בפייסבוק ובאינסטגרם",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001549762",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-25",
+   "keywords": [
+    "פייסבוק"
+   ]
+  },
+  {
+   "title": "בג\"ץ הקפיא את חוק התקשורת של השר קרעי",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001549734",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-25",
+   "keywords": [
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "העוזר האישי של מטא מגיע לישראל, אבל לא הכול חלק",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001549621",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-25",
+   "keywords": [
+    "מטא"
+   ]
+  },
+  {
+   "title": "למרות הרייטינג המדשדש, המדד מוכיח שלתאגיד השידור הציבורי עדיין יש ערך",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001548388",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-25",
+   "keywords": [
+    "רייטינג"
+   ]
+  },
+  {
+   "title": "בפעם החמישית ברציפות, יוטיוב כובשת את פסגת קטגוריית סטרימינג ומדיה",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001548409",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-25",
+   "keywords": [
+    "יוטיוב"
+   ]
+  },
+  {
+   "title": "מנכ\"ל חדשות 12 חושף: הפגישה עם קרעי שהבהירה מה עומד מאחורי חוק השידורים",
+   "url": "https://www.calcalist.co.il/local_news/article/bykp8j1hmg",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-23",
+   "keywords": [
+    "חדשות 12",
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "טיפה בים הרווח: גוגל תשלם קנס נוסף באיחוד האירופי - מיליארד דולר",
+   "url": "https://www.calcalist.co.il/calcalistech/article/bjg00ppkrgg",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-23",
+   "keywords": [
+    "גוגל",
+    "רגולציה"
+   ]
+  },
+  {
+   "title": "ברגע האחרון: נמשכה אחת מתביעות ההתמכרות הגדולות נגד מטא בארה\"ב",
+   "url": "https://www.calcalist.co.il/calcalistech/article/sjntw4jsfx",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-23",
+   "keywords": [
+    "מטא"
+   ]
+  },
+  {
+   "title": "פרשן 14 ברדוגו הודה כי ביקש מראש השב\"כ לפתוח בחקירה נגד ערוץ 12 המתחרה",
+   "url": "https://www.ynet.co.il/news/category/184",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-23",
+   "keywords": [
+    "יעקב ברדוגו",
+    "ערוץ 14",
+    "ערוץ 12"
+   ]
+  },
+  {
+   "title": "הפגישה שמזעזעת את השב\"כ: ברדוגו דרש מזיני חקירה נגד ערוץ 12",
+   "url": "https://www.kikar.co.il",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-23",
+   "keywords": [
+    "יעקב ברדוגו",
+    "ערוץ 12"
+   ]
+  },
+  {
+   "title": "אסף קרן יחליף את גיא רוזן ויהפוך לישראלי הבכיר במטא",
+   "url": "https://www.calcalist.co.il/calcalistech/article/rymx8vavzg",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "מטא"
+   ]
+  },
+  {
+   "title": "i24NEWS מצטרף למאבק המשפטי לטובת חוק התקשורת של קרעי",
+   "url": "https://globes.co.il/news/article.aspx?did=1001550203",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "חוק התקשורת",
+    "שלמה קרעי"
+   ]
+  },
+  {
+   "title": "i24 בבקשה בהולה לבג\"ץ: להצטרף כתומך בחוק של קרעי בדיון בעתירות נגדו",
+   "url": "https://www.themarker.com/news/themedia/2026-07-22/ty-article/.premium/0000019f-8a41-df92-a7ff-aec378f10000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "לאחר שתקף את מדידת הרייטינג שנים: ערוץ 14 מצטרף לוועדת המדרוג כחבר מלא",
+   "url": "https://www.themarker.com/news/themedia/2026-07-22/ty-article/0000019f-89ca-d458-a9ff-bbea97310000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "ערוץ 14",
+    "רייטינג"
+   ]
+  },
+  {
+   "title": "אפקט ה־AI: גולשים נשארים בגוגל במקום להמשיך לאתרים אחרים",
+   "url": "https://www.calcalist.co.il/calcalistech/article/ry11ddqp4zg",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-21",
+   "keywords": [
+    "גוגל"
+   ]
+  },
+  {
+   "title": "הרשות השנייה דורשת מקבוצת רפפורט לחשוף את המשקיעים בעסקת רשת 13",
+   "url": "https://www.themarker.com/news/themedia/2026-07-21/ty-article/.premium/0000019f-84bd-d6fb-abff-8cfd470e0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-21",
+   "keywords": [
+    "הרשות השנייה"
+   ]
+  },
+  {
+   "title": "הפטריוטים עם ינון מגל | 21.07.26 (שידור מלא)",
+   "url": "https://www.youtube.com/watch?v=zE8nOJFdFkE",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-21",
+   "keywords": [
+    "ינון מגל",
+    "ערוץ 14",
+    "יוטיוב"
+   ]
+  },
+  {
+   "title": "הכנסת אישרה את הקמת הוועדה לדיון בחוק התקשורת, בראשות דיסטל אטבריאן",
+   "url": "https://www.ynet.co.il/news/article/bjrfrpsbwe",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-07-20",
+   "keywords": [
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "חוק השידורים של השר קרעי מגיע לבג\"ץ. שורה של בעיות נמצאות במוקד",
+   "url": "https://globes.co.il/news/article.aspx?did=1001549825",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "בג\"ץ הקפיא את חוק התקשורת של השר קרעי",
+   "url": "https://globes.co.il/news/article.aspx?did=1001549734",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "חוק התקשורת",
+    "שלמה קרעי"
+   ]
+  },
+  {
+   "title": "משתמשים ברחבי העולם מדווחים על תקלות בפייסבוק ובאינסטגרם",
+   "url": "https://globes.co.il/news/article.aspx?did=1001549762",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "פייסבוק"
+   ]
+  },
+  {
+   "title": "בג\"ץ הוציא צו המקפיא את כניסתו לתוקף של חוק השידורים של קרעי",
+   "url": "https://www.themarker.com/news/themedia/2026-07-19/ty-article/0000019f-78b8-dec7-afff-78fd43090000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "העוזר האישי של מטא מגיע לישראל, אבל לא הכול חלק",
+   "url": "https://globes.co.il/news/article.aspx?did=1001549621",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-18",
+   "keywords": [
+    "מטא"
+   ]
+  },
+  {
+   "title": "\"אדוני ראש הממשלה, המשימה הושלמה\": הכנסת אישרה את חוק השידורים של קרעי",
+   "url": "https://www.themarker.com/news/themedia/2026-07-16/ty-article/.premium/0000019f-6b39-d161-a5df-effbe47f0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "שלמה קרעי",
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "חוק השידורים מגיע להכרעה: מי מרוויח, מי מפסיד והאם בג\"ץ יעצור אותו?",
+   "url": "https://www.themarker.com/news/themedia/2026-07-16/ty-article-magazine/.highlight/0000019f-6a47-ddf1-abbf-6adf2aa10000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "היסטוריה. בחסדי ה' רפורמת התקשורת עברה בקריאה שנייה ושלישית — חודשים של עבודה, עשרות דיונים",
+   "url": "https://x.com/GalitDistel/status/2077812411654930704",
+   "source": "X · גלית דיסטל אטבריאן",
+   "type": "twitter",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק התקשורת"
+   ]
+  },
+  {
+   "title": "למרות הרייטינג המדשדש, המדד מוכיח שלתאגיד השידור הציבורי עדיין יש ערך",
+   "url": "https://globes.co.il/news/article.aspx?did=1001548388",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-14",
+   "keywords": [
+    "רייטינג"
+   ]
+  },
+  {
+   "title": "בפעם החמישית ברציפות, יוטיוב כובשת את פסגת קטגוריית סטרימינג ומדיה",
+   "url": "https://globes.co.il/news/article.aspx?did=1001548409",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-14",
+   "keywords": [
+    "יוטיוב"
+   ]
+  },
+  {
+   "title": "\"לפי החלטת הממשלה אין מנכ\"ל לרשות השנייה\": אושרה רפורמת ענק ברדיו",
+   "url": "https://www.themarker.com/news/themedia/2026-07-12/ty-article/0000019f-5570-d9b4-abdf-dd79e3540000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-12",
+   "keywords": [
+    "הרשות השנייה",
+    "שלמה קרעי"
+   ]
+  },
+  {
+   "title": "ביטן וקרעי מתאחדים ודוהרים להשתלטות על הרדיו, חרף אזהרות גורמי המקצוע",
+   "url": "https://www.themarker.com/news/themedia/2026-07-12/ty-article/.premium/0000019f-502c-dc56-adff-7c6ef9800000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-12",
+   "keywords": [
+    "שלמה קרעי"
+   ]
+  },
+  {
+   "title": "קרעי התקפל מול החרדים: האפליקציה שאמורה להחליף את עידן פלוס תוסר מהחוק",
+   "url": "https://www.themarker.com/news/themedia/2026-07-09/ty-article/.premium/0000019f-4647-d4ee-a19f-574757ec0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-09",
+   "keywords": [
+    "שלמה קרעי"
+   ]
+  },
+  {
+   "title": "תלונה נגד ערוץ 14: חשד לפגיעה שיטתית בביטחון מדינת ישראל",
+   "url": "https://www.haaretz.co.il/gallery/television/news/2026-07-06/ty-article/0000019f-3790-db7c-af9f-37d551a50000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-07-06",
+   "keywords": [
+    "ערוץ 14"
+   ]
+  },
+  {
+   "title": "גרפיטי רוסס מחוץ למשרדי קשת: \"פלג, דרוקר ואברמוביץ', תשלמו בדם יקירכם\"",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-06-03/ty-article/.premium/0000019e-8c4d-d36b-a7bf-ff5ff35f0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-06-03",
+   "keywords": [
+    "קשת 12",
+    "גיא פלג"
+   ]
+  },
+  {
+   "title": "אבישי בן חיים מצטרף לתוכנית \"הפטריוטים\" בערוץ 14",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-06-01/ty-article/.premium/0000019e-827e-d6c2-a1bf-9bfee7760000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-06-01",
+   "keywords": [
+    "ערוץ 14"
+   ]
+  },
+  {
+   "title": "ערוץ 14 רכש אתר חדשות ברוסית, ומסרב לחשוף מי המוכר",
+   "url": "https://www.haaretz.co.il/gallery/media/2026-04-28/ty-article/.premium/0000019d-d4ab-d812-ad9f-ffabedf40000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-04-28",
+   "keywords": [
+    "ערוץ 14"
+   ]
+  }
+ ]
 }
