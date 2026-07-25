@@ -69,6 +69,9 @@ SEARCHES = [
     {"source":"חיפוש גוגל · פטריק דרהי","q":"פטריק דרהי","unconditional":True},
 ]
 
+def norm_url(u):
+    return re.sub(r"^https?://(www\.)?", "https://", u).rstrip("/")
+
 def matched_keywords(text):
     t = text or ""
     return [k for k in KEYWORDS if k in t]
@@ -137,7 +140,7 @@ def scrape_search(s):
 def main():
     old = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {"items":[]}
     items = old.get("items", [])
-    seen = {i["url"] for i in items}
+    seen = {norm_url(i["url"]) for i in items}
 
     found = []
     for site in SITES:
@@ -147,9 +150,9 @@ def main():
         print(f"search: {s['source']}", file=sys.stderr)
         found += scrape_search(s)
 
-    new = [i for i in found if i["url"] not in seen]
+    new = [i for i in found if norm_url(i["url"]) not in seen]
     for i in new:
-        seen.add(i["url"])
+        seen.add(norm_url(i["url"]))
 
     merged = new + items
     # keep the list from growing forever: cap at 400 most-recent-first
