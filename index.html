@@ -124,6 +124,7 @@
 const $ = s => document.querySelector(s);
 let DATA = {updated:null, items:[]};
 let state = { q:"", src:"", sort:"date", days:7, kw:new Set(), open:{sites:false, google:false} };
+let seenAtLoad = new Set();   // item URLs the user had already seen before this visit
 
 function fmtDate(d){ if(!d) return ""; const p=String(d).split("-"); return p.length===3? p[2]+"."+p[1]+"."+p[0].slice(2) : d; }
 
@@ -140,6 +141,9 @@ async function load(){
 
 function init(){
   const items = DATA.items||[];
+  const allUrls = items.map(i=>i.url);
+  const stored = localStorage.getItem("hub_seen_v1");
+  seenAtLoad = new Set(stored ? JSON.parse(stored) : allUrls);   // first visit seeds → 0 "new"
   const bySource = {}, byKw = {};
   items.forEach(i=>{ bySource[i.source]=(bySource[i.source]||0)+1;
     (i.keywords||[]).forEach(k=>byKw[k]=(byKw[k]||0)+1); });
@@ -171,6 +175,8 @@ function init(){
   $("#sort").onchange = e=>{ state.sort=e.target.value; render(); };
   $("#days").onchange = e=>{ state.days=+e.target.value; render(); };
   render();
+  const persist = [...new Set([...seenAtLoad, ...allUrls])].slice(-3000);   // remember for next visit
+  try { localStorage.setItem("hub_seen_v1", JSON.stringify(persist)); } catch(e) {}
 }
 
 function renderCoverage(manifest, bySource){
@@ -195,7 +201,7 @@ function cardHtml(i, today){
       <div class="row">
         <span class="src">${i.source}</span>
         <span>${fmtDate(i.date)}</span>
-        ${String(i.date)>=today && today?'<span class="badge">חדש</span>':''}
+        ${!seenAtLoad.has(i.url)?'<span class="badge">חדש</span>':''}
         <span class="tags">${(i.keywords||[]).map(k=>`<span class="tag">${k}</span>`).join("")}</span>
       </div>
     </div>`;
@@ -219,7 +225,9 @@ function render(){
   if(state.src) items=items.filter(i=>i.source===state.src);
   if(state.kw.size) items=items.filter(i=>(i.keywords||[]).some(k=>state.kw.has(k)));
   items.sort((a,b)=> state.sort==="src" ? (a.source>b.source?1:-1) : (String(b.date)>String(a.date)?1:-1));
-  $("#count").textContent = items.length + " אייטמים מוצגים";
+  const newCount = items.filter(i=>!seenAtLoad.has(i.url)).length;
+  $("#count").textContent = items.length + " אייטמים מוצגים"
+    + (newCount ? " · " + newCount + " חדשים מאז ביקורך האחרון" : "");
   const today = (DATA.updated||"").slice(0,10);
   const sites  = items.filter(i=>i.type!=="google");   // אתרים + טוויטר (ימין)
   const google = items.filter(i=>i.type==="google");   // חיפושי גוגל (שמאל)
