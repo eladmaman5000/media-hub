@@ -181,6 +181,11 @@ def scrape_search(s):
     out = []
     for item in root.findall(".//item"):
         title = norm_title(item.findtext("title"))
+        src_el = item.find("source")               # Google News appends " - <Publisher>"
+        pub = src_el.text.strip() if (src_el is not None and src_el.text) else ""
+        for sep in (" - ", " – "):
+            if pub and title.endswith(sep + pub):
+                title = title[:-len(sep + pub)].strip(); break
         link = (item.findtext("link") or "").strip()
         if len(title) < 10 or not link.startswith("http"):
             continue
@@ -229,6 +234,9 @@ def backfill_dates(items):
 def main():
     old = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {"items":[]}
     items = old.get("items", [])
+    for i in items:                                  # strip legacy " - Publisher" on old google items
+        if i.get("type") == "google":
+            i["title"] = re.sub(r"\s+[-–]\s+[^-–]{1,40}$", "", i["title"]).strip()
     seen_urls   = {norm_url(i["url"]) for i in items}
     seen_titles = {norm_title(i["title"]) for i in items}
 
@@ -261,7 +269,13 @@ def main():
     if before2 != len(merged):
         print(f"purged {before2-len(merged)} items older than {MAX_AGE_DAYS}d", file=sys.stderr)
     merged.sort(key=lambda i: str(i.get("date","")), reverse=True)   # newest first
-    merged = merged[:400]                                            # hard cap
+    seen_u, seen_t, dedup = set(), set(), []                          # collapse any url/title dups
+    for i in merged:
+        u, t = norm_url(i["url"]), norm_title(i["title"])
+        if u in seen_u or t in seen_t:
+            continue
+        seen_u.add(u); seen_t.add(t); dedup.append(i)
+    merged = dedup[:400]                                              # hard cap
 
     # Full source manifest — so the hub can show EVERY monitored source (incl. 0).
     sources = ([{"source":s["source"],"kind":"site","active":True} for s in SITES]
