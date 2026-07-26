@@ -1,9 +1,8 @@
 name: refresh-hub
 
 on:
-  schedule:
-    - cron: "*/15 * * * *"   # every 15 min (GitHub free-tier schedules can lag/skip under load)
-  workflow_dispatch: {}       # lets you run it manually from the Actions tab
+  workflow_dispatch: {}       # triggered every 15 min by external cron (cron-job.org) via the API;
+                              # GitHub's own schedule was removed — it was throttled/unreliable
 
 permissions:
   contents: write             # allow the job to commit the updated data.json
