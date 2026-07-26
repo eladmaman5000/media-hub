@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T09:10+00:00",
+ "updated": "2026-07-26T09:52+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -130,27 +130,72 @@
    "active": true
   },
   {
-   "source": "X · שלמה קרעי",
-   "kind": "twitter",
-   "active": false
+   "source": "n12 / מאקו · חדשות 12",
+   "kind": "site",
+   "active": true
   },
   {
-   "source": "X · גלית דיסטל אטבריאן",
-   "kind": "twitter",
-   "active": false
+   "source": "ice · תקשורת",
+   "kind": "site",
+   "active": true
   },
   {
-   "source": "X · דודי ורטהיים",
-   "kind": "twitter",
-   "active": false
-  },
-  {
-   "source": "X · ינון מגל",
-   "kind": "twitter",
-   "active": false
+   "source": "ביזפורטל",
+   "kind": "site",
+   "active": true
   }
  ],
  "items": [
+  {
+   "title": "תאגיד כאן עתר לבג\"ץ נגד קיצוץ 25 מיליון שקל: השתקת ביקורת עיתונאית - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GQ2VJUDVUSWlfd3A0dVMxY0tuMkZCeUthNEx3V1ZmWU5LbXJabFpwNmViSml6QlNfampNMmxlYTJ3Y0I3R2hHbmhlOE1RVFp6RTY0MFFkWnIxRVhLLXYtaWlFUC1Ick0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "גוטליב נגד הוראות הפתיחה באש: \"האויב יודע שהחיילים לא יירו\" - C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRG1nM2ltSDhTei1QakJtLUg0U19RRXBycW1RaUtsZWN2QzRJUmtCbVhVZTNHT3dVdjJLSjNTcHF5UGowbWQ2VldJNjFCdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "הקרב על הרשימה: החלו הפריימריז במפלגת הציונות הדתית - C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzMnNWYkdOYVMySW5SWW4yNVJtWWV2SnBLSWlfY2FFTGdfeXF2WHp0QjdJbDQtajFKZVA4Ri0zWDlXdkZGVTFaRWhxbVRsdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "רייטינג: רוקדימים נפרדו מנייט וג'וליה, קשת 12 השאירה אבק - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoT1U0QjZlMHRSR0dKYUJIelp1OUtiM3gyeFhrZXFUWEE3ZENXcTllaEtiNm9ZRDhRdzA0MkI4QnZkOWZDaGcwa2F0S1JlX1NzeHMtZDE2UXdfNHBNbF8tRUFB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-26",
+   "keywords": [
+    "קשת 12",
+    "רייטינג"
+   ],
+   "pv": true
+  },
+  {
+   "title": "רייטינג - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fNWh0Z2FNaXBKQ2ZMemlfa2R1ZWtCZ0IxdW5wcWVPQVRpTWpBUFZiS3ZoS3FjTFF4RVRxS3lUNHJ2OERKbGpHeFk0NVVSUXlHcEF1R3FKcVFQRVUtZDVFMQ?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-26",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true
+  },
   {
    "title": "תאגיד השידור עותר לבג\"ץ: הממשלה הופכת תקציב לשוט פוליטי - סרוגים",
    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTHJEVnAxMVFtMzRYbms4WTJpVEl4V25BREFuRWRfNks3TkVXY0V5VTV6QmlCS09iQXJrN2pZZjNhcHhGT1lrN3pIMU1saG5CaE8yb1BCOGdlcmI3c0xlaURiRmViUDB0aHc0S1dNNzhTTlJIS3BEamhBZThxTFAxcEVpMjJHeS1HcENWOWJnWjB3TGl4OGNSOVQ3YW0xdk9OX2x3QmNwa2JKbVJpVWpMQWpqVmNxb0dUaG5KbHpXeDYwVnJrQ2M2ZVRKZG5ORjVDWGg5dkVtcEhIWlFjZHZaUW1Obk1DQ2FTMEdUWE5FV1Z6VnRqNXhfQzVEcFB5eS05OU43OHZ6SjM5N1ZxNHExMjZzVzlOSW9jZUNVb2xNa0kybW5LQlFaV3N1SzJ4dnlFbmloYU1abGJNd1N4NWtJ?oc=5",
@@ -531,6 +576,50 @@
    "pv": true
   },
   {
+   "title": "גוגל חושפת: המהלך הענק הגיע ל-68% מהמקצועות - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lZ0RxYUJFUEVjcjRzQWJnSGNWXzdIVW1hOWI1ZWNaU2xGLUNfVmJySWN0cXQ1WXpGdkIyb0JVdm1OQkxHZV9tV2tielJFZ1BHSFBxM0RURlFya25PRWJ0VmZqcU8?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-24",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
+  },
+  {
+   "title": "שלמה קרעי - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Id29TWFpsTzlDLUNuLWxtTTBiWEUtRVFoQ18zSTZCWlNWcjhWVjdvMEc5QWljckYyOVBBMXFZeW5aLW85RHRhNjduSFF4ZE1KSEEyNGVvTUVCYUF3bG5V?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-24",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true
+  },
+  {
+   "title": "אירופה נגד גוגל: הקנס העצום שקיבלה ענקית הטק - mako",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOdWRjSmVfLV9vUWdBZFJkQ0VmS19IMmRNQ3Iwand4NXEyOTRUQTVVSnNROEhhelB6Y0xJdTNxb1lqVUVxLXJJY1hXQmgxWjhFdjBaXzJWQVplSTFIQS12dU53aUxlenEyS3dNNEEwaDd3V2s?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-23",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
+  },
+  {
+   "title": "רייטינג: עידן עמדי לא השאיר שום סיכוי למתחרים - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtZjJUalNnMkloV1YzQUNSamlLWm1ONjBtTHlxNm1vMFJtZ3h5ME9wNXZQS1FPVWg2bkZzZjJQblRHNHVjY0ZQSmtoa3JaY29YeDNBMEFfUkJ6bzZ4anJsbzhR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-23",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true
+  },
+  {
    "title": "חדשות 12 עתרו לבג\"ץ נגד חוק התקשורת - וחשפו שיחה עם השר קרעי - היום",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYZjJXRjZlNGV1M2tfd3lNTG1sMmI2Z1VFZjBiOTRZVk56UTdKSER4dzFBOGZWaDhJeWlfTnU1N1cxaUR6Tk05d0hSb1d0TTB4SGYySDFmb3F3azFYMVh1YTFrSWNOQdIBbkFVX3lxTE9aU0c1VXN5MmFHbS0yQkZUVHdkTTVnbWNGWWt6QTdPZnFuY1VDcnZneHB4aEpUS0VDSmUwNHdKemNBam9ZeVBvSF9DUjJSdmdtZDJvd2lwbmdXWXZValNkdlBna3JZWGx5SzRKZnNR?oc=5",
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -574,6 +663,65 @@
    "keywords": [
     "מטא"
    ]
+  },
+  {
+   "title": "דרמת חוק התקשורת: ערוץ i24NEWS מזהיר מפני פגיעה חמורה - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wX3p5Wnh1MXBTSHNrYVVmVzBiaFZTdnpESWhtSlVVS29QMGVvdlZiSlF2QXZpWmFwb1VBN2t0RE9rcmM2Qzc1MnNhZDEwMnZBVjVQRUhDd1pHZS1M?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true
+  },
+  {
+   "title": "\"הפטריוטים\" וערוץ 14 לא ציפו לתבוסה הזו, קשת 12 חוגגת הצלחה | רייטינג - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QQnJ6QXBNV0I0aFBnMlRaNTZaM0ZSWXhZbG5CMTg2cmZQSHlRMEl2a3lvMGNUenpRTVBYdUQ4cmN2RXdnM3AzRFJkRFhnWU5NVHl1Z1ExREVQam00NWFJT1NR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "קשת 12",
+    "ערוץ 14",
+    "רייטינג"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ינון מגל יודע? ערוץ 14 שם קץ לוויכוחי הרייטינג והצטרף לוועדת המדרוג - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEYlJLRkM4Y2tULXFSLWdaU1dBdmh0UE9Zd2IzbDdMYVBFQ0V3TVZQanZDUFQyTWt0N1Rwa0l4aW9uRmYtWXpVR3VaZEd3LVVHVkNaTVhTZGJ3aTYzMVRILUNR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "ערוץ 14",
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true
+  },
+  {
+   "title": "מגישת ערוץ 14 לקחה על עצמה תענית דיבור: \"ננסה\" - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9md2wxM2kzQ1E4S0NUU3YzVmgtRWlaVkhWaFNuU0tlU2U5ZWJ2R1gtVkVpQVVZajVrdXhYS0dmRDlGMW5rakFtS0FIb2FtaE1mZU82YnhEd0dxOHJo?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "מהפכת ה-AI של גוגל מייבשת את תעבורת הגולשים: המו\"לים מאבדים קליקים והכנסות - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hREVSd1Q2MWd0Z1d0dDU3eUpWTlBEX2NFeklHYTFyY3hmZWF1YnA1R0pEazVYVXdnODVyWlc0QlBiTHBadFZpXzBUWjlvb0RUbFhfYk90NG10LS1KYllPaEFXUnNqMUlIUlFHdmZFTkM?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true
   },
   {
    "title": "i24NEWS מצטרף למאבק המשפטי לטובת חוק התקשורת של קרעי",
@@ -621,6 +769,39 @@
    "pv": true
   },
   {
+   "title": "בשידור חי בערוץ 12: אברי גלעד נפרד מהמסך - \"לראשונה בחיי\" - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNG5vN0NBSEs1cTJHbWM0aDVZYmJWeFA2cEdra1NIQWdDR3JTMnczemhRZWtrUDNMMTNsbU83VDFaWmtIZ2dkWlFCdVROdzJxcWIzXzVkQzR1YjFj?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-21",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true
+  },
+  {
+   "title": "קרב הענקיות הוכרע: \"הפשוטע\" היא המנצחת הגדולה | רייטינג - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqUnQ2RGtQU3pacUgzOWF6aWlHcEtfZERyVF9pSWZGU3BsS0NlVkxRTGpyTjdnckpqUzJSOHZxbGNnTVRsejlkdWhWQndUTjJXa2xST3R5UVZuT0ducEYyUEJB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-21",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ינון מגל באמירה מרתיחה: \"מוותר על הציונות\" - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91SVVVNUtjMWtBQUpzdU9RWW84eGMza0IxZkxCdVFYMDVxcjYxU3VOcmVvYmx1aEhWQ21WNl9nbWNlZk5qSS1GRDByR2RHTEpBNjZzUzBLX3hmemdm?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-21",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true
+  },
+  {
    "title": "אפקט ה־AI: גולשים נשארים בגוגל במקום להמשיך לאתרים אחרים",
    "url": "https://www.calcalist.co.il/calcalistech/article/ry11ddqp4zg",
    "source": "כלכליסט · עומר כביר",
@@ -638,6 +819,50 @@
    "date": "2026-07-21",
    "keywords": [
     "הרשות השנייה"
+   ],
+   "pv": true
+  },
+  {
+   "title": "קמפיין ההפחדה והאיומים של ערוץ 14 נגד יועמ\"שית הכנסת - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORE5keXNZQmF1RE9KYUN6NTlqdjFUbHNQTUV0WTJCNGpiOEM2WVJiSTFzczI2MlJHWThTc1lsS001SDJqaDMyYVEtMEpaUDVBaDZSc2dMT1pZSTF2NEQ1VnVKeEdleDBYaHRpM2Y2eUZnWUF6SUhHenZDWEZORDZraUxlVGg5X28?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-20",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "רייטינג: מסי כבש את הצופים בישראל: כאן 11 בשיא כל הזמנים - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03dlo2d3Bzcm8wbnNUSldHWl9TRm9YQWlROVBDX3k3Y2pzZjdsUGszUXJmRXlPQTBOOWlfUzQzenBfcW5GLXVkckdjUHlyS0I5bDI5UzYxVXQ4WEVNQ1h5VFNB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-20",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ערוץ 14 נגד יאיר גולן: עתירה דחופה לבית המשפט - ice (אייס)",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NRTJZYVA2aF9pdlhKLWE0ZzVqbXYtenRwY2ZJR2NQT3BWRnQ5aXBhbldXQmotSUUtQkxUcVJFcFRBOGVhTlBsTjNOejJYdzBIU0VLblVvWG9ZekVH?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-20",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בג\"ץ הקפיא ארעית את ההליכים למימוש חוק התקשורת של קרעי - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10RGkyMjRSV2phUklwdlQ0VHRxSzZEYTVqLXZLUkNvLTI1NmFFQzAzN0liOTlEQWpfdjNnRXdVUlJMQ3BTc1VEbHplZGdudnVUTkNZcTBod1ZnaTBoQ1Q2d1hFdnd0cG8?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "חוק התקשורת"
    ],
    "pv": true
   },
@@ -688,6 +913,17 @@
    "pv": true
   },
   {
+   "title": "בג\"ץ הוציא צו המקפיא את כניסתו לתוקף של החוק להחלשת התקשורת - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnZVb0FQaW1DTVViTVdZMFpNT2t4bGozSm0wWkQ0Y0FOZUd3b0ROQUNpbnVvMDAyTWc5XzBRNFI1SjhIZmZDWkYxcVNvUml1S00za09laEtBMWFpalJzOHpMRjFqNDFIRWRlSi1abUVwblRsOUhxcTlvNTVYYy1GMTJYdWM1SGc?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-18",
+   "keywords": [
+    "החוק להחלשת התקשורת"
+   ],
+   "pv": true
+  },
+  {
    "title": "העוזר האישי של מטא מגיע לישראל, אבל לא הכול חלק",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001549621",
    "source": "גלובס · נבו טרבלסי",
@@ -695,6 +931,28 @@
    "date": "2026-07-18",
    "keywords": [
     "מטא"
+   ],
+   "pv": true
+  },
+  {
+   "title": "החוק להחלשת התקשורת אושר במליאת הכנסת | N12 - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOGFBYks5QjhpbGlUY2d2VHdlVmdiUTZLb1g4aUp4elNPdXRVZ2JlMmtoYXNZa1N3Wl96WEJuQUNwbUwxLWVpZUk2Y19STFB6WWdxSk1hU0tWZGhUMTN4ajJxazUyM3JHUDBGckZfYUp0STJSTjFtZDc5YVEydUYwOV8tTmdkMTQ?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "החוק להחלשת התקשורת"
+   ],
+   "pv": true
+  },
+  {
+   "title": "הכנסת אישרה את חוק התקשורת של קרעי; ההכרעה עוברת לבג\"ץ - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9USGZQZjl2U0I2QXg3THFTdDB3cHJUMjNOLVVyVGFOZkdfX2x5cXFFRmFJRXhla1hKWENtd19WVm9vdEJHeFBySnRaSDdaNEJ2aWZ5RDg3bWRidkxVWHlSRGdZTTZsZ3Z0?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק התקשורת"
    ],
    "pv": true
   },
@@ -722,17 +980,6 @@
    "pv": true
   },
   {
-   "title": "היסטוריה. בחסדי ה' רפורמת התקשורת עברה בקריאה שנייה ושלישית — חודשים של עבודה, עשרות דיונים",
-   "url": "https://x.com/GalitDistel/status/2077812411654930704",
-   "source": "X · גלית דיסטל אטבריאן",
-   "type": "twitter",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
    "title": "למרות הרייטינג המדשדש, המדד מוכיח שלתאגיד השידור הציבורי עדיין יש ערך",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001548388",
    "source": "גלובס · נבו טרבלסי",
@@ -751,6 +998,17 @@
    "date": "2026-07-14",
    "keywords": [
     "יוטיוב"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בג\"ץ עומד לדחות את העתירות לעצירת חוק התקשורת של קרעי - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIYmx3VGVVUEdGQmhaSGhrWUJ5SGI4ZFRJT2VpZm5RN1hGZS1aNl9fSkdzYk5wZm92NmVoRjlGT0NPbFgyVjk4aG4tMTBRd1ZHeWktcFZ0SjhDLWVKaEtOa185eFpxWHc?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-13",
+   "keywords": [
+    "חוק התקשורת"
    ],
    "pv": true
   },
@@ -822,6 +1080,29 @@
    "pv": true
   },
   {
+   "title": "הדרישה לבלום את תקנות קרעי: \"רגולציה שנתפרה למידותיו של ערוץ 14\" - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1VGQWRIdmQwWVJOYXRPcDFFNEV4b3BBcnpJaVBGZ2FnUkdNQWw2SXFnR29YRWRUZDdOaE1UelhPTGV6dlpqTHN2NmFONlNpcVlSeFdDSmc2Y2tEQ0RCWGdOaUdVOXhZaU81azZ2Z2R5M0pROTN1MUdpRTdFTU9jVDVaZW5ENk0?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-02",
+   "keywords": [
+    "ערוץ 14",
+    "רגולציה"
+   ],
+   "pv": true
+  },
+  {
+   "title": "המטרה - לשלוט בתקשורת בחירום ובבחירות: הסעיף שהוחזר לחוק השידורים - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUJmckE0d29McVp5SHlKclJzQnh1a29CMVVRZXVqOW00TkZaVzNPMVZGcVJCNHhlNndId3laRDdfdnFJZWxKVjFKUWNMbW9pZXhremkweUJ5ZnBTc04zQmZWYmRCcFVyY1k3b1dXSThNM3h3ZVZoQms5eE9ybUI4Wk9raG5MeHM?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-06-11",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
    "title": "גרפיטי רוסס מחוץ למשרדי קשת: \"פלג, דרוקר ואברמוביץ', תשלמו בדם יקירכם\"",
    "url": "https://www.haaretz.co.il/gallery/media/2026-06-03/ty-article/.premium/0000019e-8c4d-d36b-a7bf-ff5ff35f0000",
    "source": "הארץ · עידו דוד כהן",
@@ -830,6 +1111,18 @@
    "keywords": [
     "קשת 12",
     "גיא פלג"
+   ],
+   "pv": true
+  },
+  {
+   "title": "\"האח הגדול\" ניצחה את \"הבת\"; ערוץ 14 התקרב לחדשות 12 במהדורה - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNVg2c0RnYTJ2Ui0ySzhjb0hXcklEYldVSldiYjBMX1RFU2ZHaHhITXpEWmpKX0Z2MmdLV1dvREM5a25IaXNxYldRRmJndms0N2c3aXVScVVESjI4bjFITGFIRHkxbW1ya1gwQXF2NDRJVGRhMEtzWVN5bE9uOWs?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-06-02",
+   "keywords": [
+    "חדשות 12",
+    "ערוץ 14"
    ],
    "pv": true
   },
@@ -845,6 +1138,17 @@
    "pv": true
   },
   {
+   "title": "בג\"ץ הקפיא את פעילות מועצת הרשות השנייה החדשה - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45QjNKQ1FkWUdYdzAtUDgxckpmTUZ4WlczbXRhaGpKbDhoN0pkQk1RWV9nV2xtMkVPVUNUZHZkbXZEQmx4UlVNa2xUMjAtUGQxVVZIYWwtZVJ1VDQ2d0x2WHo2TnhMTkk?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-05-03",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true
+  },
+  {
    "title": "ערוץ 14 רכש אתר חדשות ברוסית, ומסרב לחשוף מי המוכר",
    "url": "https://www.haaretz.co.il/gallery/media/2026-04-28/ty-article/.premium/0000019d-d4ab-d812-ad9f-ffabedf40000",
    "source": "הארץ · עידו דוד כהן",
@@ -852,6 +1156,96 @@
    "date": "2026-04-28",
    "keywords": [
     "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "עתירה לבג\"ץ: לפתוח חקירה נגד ערוץ 14 ובכירי שדרניו - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRTGktR19lNTJ5REF5VEJVRDN4SDRrRmVoNjNRTERvMjBEcHRqWGRzR0lmNFQ1WFVsMFI4Y0ZaX3ZCSDZpNlQ5ekdtTkV6MUdHbm5ZWDJPXzljSEs1M0RPQjdPaUt4OW8?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-04-12",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בג\"ץ סירב שוב לעצור את חקיקת חוק התקשורת של קרעי - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PX183X3kzRTB6bkg2aDNreXZvVjlBWURzMTV3QzVkSzltdlJINXBEakl5d1QtTy1QYU13d0NEbDBxNlN1a0Z2cFR1Vi0tc1RCbjV3TVNqYTR0ZjdsaUtzUmNpTE90NWM?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-03-18",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true
+  },
+  {
+   "title": "הטענות של השר קרעי - והאמת על החוק להחלשת התקשורת - mako",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjNFV1d3VjJmTENnLTZ2aHJBUjF2UmNRWlRoazNqR2RUc2pYZHFxTnpXOWZQZW9QYkptaUY3WlZ2ZzBScE9fdG03OU9kdDRZSVh2RVdraVdDTEdKSUd3TTVDZjlVVjNyYTd3a0VmRXpidUNnbHN3QlhIYmtwZEVUYg?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2025-11-04",
+   "keywords": [
+    "החוק להחלשת התקשורת"
+   ],
+   "pv": true
+  },
+  {
+   "title": "הקואליציה צפויה לאשר את חוק השידורים בקריאה ראשונה - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUm90dVJWVUtydjRITHB2dzZ1NDJkY0dCWDZQeldTMGtmaVNmNXNMZDNjSFlPd0V2eTV0TDZsaUU1YnlqZzJkdy0xX2RLaWxQd1lZTVRWVVpPQVF0ZGJYUktmcS05bDNCVnBZRkw5NmhBaVVueVBldWdnOFBJSkQzVE9QRHppOEk?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2025-11-03",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "חדשות 12 מזנקת ל-26% - ערוץ 14 ממשיך להתחזק עם קרוב ל-10% - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWTmxTYlVHQ2JxZEhtQ0cyWTk1empReWVNNW1OR2RNRGN1SlB4UzVvTGtSMS1mM3dHWmVfWi1UQjhYUVJoZDlsdjNwcG9RMjQzMFlQdW8zbWFtN1NPWERkVnIyZkFaM08zYk5mZ3NzQWNuM0VpOFlEbG9VeVpQOTQ?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2025-06-17",
+   "keywords": [
+    "חדשות 12",
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "הדיון בהארכת הוראת השעה לחוק הפצת השידורים שמעניקה הטבות לערוץ 14 - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2pONlhTU015WG9BMDFuc1RPUkoxQ04tSG1FSHJKSFgzbzBwMEVmS2Izb1VkR21CcEtWSWZFQ1NoWDAwUm93VUVNV2szamRyMzNiZU50RFVkNmZZYU13TmlvVTdDM2RQQ01IZklNQ2VHMlpvOU1jeURrQ2lvZmdKWHl4TG0wRnM?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2025-02-18",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "רייטינג: חדשות 14 עם רבע מיליון צופים - וכמה לפטריוטים? - ביזפורטל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UdlRMZlNHUGh4V0lId1c5Z0I1MW1TeUlBUVlsbV9HVTFXZmZQOVhPSEdRY3pjNlU4WVVzX29lT1pLeHZiaGVXTHpsN2o0MzVKMndGZTg1bmVPSVl6RW1JYWhpS2V0QQ?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2024-11-25",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true
+  },
+  {
+   "title": "בלי פיקוח על התוכן – וביטול הרשות השנייה: קרעי הציג את הרפורמה בשוק התקשורת - mako",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd252SDFMSHZMU01fU1pjTVBaeGcxRFpQQm5XbVBQVXFHZm1iNDF5Nml2VmQ5RzV5UmNnRG1rSlliY2FlSm8tOTAyZVhoaFF6cDU0MURFMXhVeDl2QU5McVlrSDRsb3BKOW5sN3hsbVdmN1l2aDR3UklhQk85OHBObXdHeUFpVzg?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2023-07-17",
+   "keywords": [
+    "שוק התקשורת",
+    "הרשות השנייה"
    ],
    "pv": true
   },
@@ -874,6 +1268,28 @@
    "date": "2021-06-23",
    "keywords": [
     "הרשות השנייה"
+   ],
+   "pv": true
+  },
+  {
+   "title": "תוכניות חדשות 12 - mako",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85Qk9RcXdQOFVCMVpOMEw3UF9xd045N0F2dzdXYmVYbFAtMXg3dHplR202Q1dqOTNicVFrNlhyWThyZXRKNU8tbWVQTVNCZw?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2019-09-02",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ערוץ 12 צפייה ישירה לייב | N12 - mako",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEJqNUpUd1hFVGtlSVBKaEJSOXdPUGl2WDFaVTdWTW41czRiYmpTWWZKYjJsZlpESjU1RWJMQTFzWGc3MzVhWnZPaFRmMW05cXRmTkhXeExrS3A1OUNjRUYxRFpyTFRrSHZ4VWc1aXdkdGFmdk9zaE5VaEtnbjhwUUJvYTBkZG9IU256SDgycURrUVNtbmJFbHdn?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2018-10-30",
+   "keywords": [
+    "ערוץ 12"
    ],
    "pv": true
   }
