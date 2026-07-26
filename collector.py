@@ -77,7 +77,7 @@ SEARCHES = [
     {"source":"ישראל היום · ביני אשכנזי","q":"site:israelhayom.co.il ביני אשכנזי","unconditional":False},
     {"source":"ישראל היום · אלינור שירקני קופמן","q":"site:israelhayom.co.il אלינור שירקני קופמן","unconditional":False},
     {"source":"חיפוש גוגל · שלמה קרעי","q":"שלמה קרעי","unconditional":True,"recent":True},
-    {"source":"חיפוש גוגל · shlomo karhi","q":"shlomo karhi","unconditional":True,"recent":True},
+    {"source":"חיפוש גוגל · shlomo karhi (בינלאומי)","q":"shlomo karhi","unconditional":True,"recent":True,"locale":"en"},
     {"source":"חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12","q":"ערוץ 14 ברדוגו ערוץ 12","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · ערוץ 14","q":"ערוץ 14","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · ינון מגל","q":"ינון מגל","unconditional":True,"recent":True},
@@ -164,8 +164,9 @@ def scrape_site(site):
 
 def scrape_search(s):
     q = s["q"] + (" when:1d" if s.get("recent") else "")
-    url = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q)
-           + "&hl=he&gl=IL&ceid=IL:he")
+    loc = ("&hl=en-US&gl=US&ceid=US:en" if s.get("locale") == "en"
+           else "&hl=he&gl=IL&ceid=IL:he")
+    url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(q) + loc
     xml = get(url)
     if not xml:
         return []
