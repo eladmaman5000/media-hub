@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T16:15+00:00",
+ "updated": "2026-07-26T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,6 +150,24 @@
   }
  ],
  "items": [
+  {
+   "title": "מבעד לאיומים, לעצבים ולקללות מסתתרת אמת אחת: טראמפ לא רוצה להילחם",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVc4enVqSklNZlNoVVAxN1Q5NFp3bVBfdHJpVThOS0dFSkdLaGxZODRES1pxbkgtTFg3bUw5ZHJVVHpEcVVPRWJ5VURBSllPUUhCZ09GWFd6dmF1MzFRcWhNcm9KTzQ4MFl6YnNvb2RYYWNBc2FwUmF5WHZpT0F5X1dIVS1NV3JBYkxYV1k3VUtLa0RXeXZjVkRNNUpaRmk2bnRUMm1TbkNSSGc?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "השמאל הופך את היהודי לאויב - והציבור כבר לא קונה זאת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55Y1BJLXFhTHNtN3FpSEJybWFlSGxMc1Rkd1Q4NDlnVUZGOWl6aV9PNjFLbmtoQU9nVDRxVFJKNTJmbWpfc0Y3b016ejIzQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
   {
    "title": "חבלת ראש במהלך רכיבה: רוכב בן 52 נפצע בירושלים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54blhfWFo5UFRSTHE0c2NVYkdXSjNETGNYYnJFV1dpY05qM01QT2VCb2dldE0xcExCbVUxUnpFZ0NVSVI3YnRPamFZNUxlQQ?oc=5",
@@ -1125,6 +1143,17 @@
    "keywords": [
     "מטא"
    ]
+  },
+  {
+   "title": "בית החולים לא ישדר את ערוץ 14: \"בצל התקופה הרגישה הזו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80aHFhQThqN0hQODlFVkVZMndHV0pfMWh3S0lmOHh0RnR5cFVnM2JlcjN5RmtCdmFWdGYzalZxQ1N2RFc4TE9uMnhWblhuS0VrYkdCS1pyTVp5SDNX?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-22",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
   },
   {
    "title": "דרמת חוק התקשורת: ערוץ i24NEWS מזהיר מפני פגיעה חמורה - ice (אייס)",
