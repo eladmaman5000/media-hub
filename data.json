@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T07:14+00:00",
+ "updated": "2026-07-26T08:07+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -33,7 +33,144 @@
   "תרעלה",
   "תבהלה"
  ],
+ "sources": [
+  {
+   "source": "כלכליסט · עומר כביר",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "גלובס · נבו טרבלסי",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "גלובס · גלית חתן",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "דה-מרקר · יסמין גואטה",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "דה-מרקר · נתי טוקר",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "הארץ · עידו דוד כהן",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "ישראל היום · אילי זילברברג",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "ישראל היום · ביני אשכנזי",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "kind": "site",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · shlomo karhi",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · ערוץ 14",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · ינון מגל",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · אבי ניר",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · דודי ורטהיים",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "kind": "google",
+   "active": true
+  },
+  {
+   "source": "X · שלמה קרעי",
+   "kind": "twitter",
+   "active": false
+  },
+  {
+   "source": "X · גלית דיסטל אטבריאן",
+   "kind": "twitter",
+   "active": false
+  },
+  {
+   "source": "X · דודי ורטהיים",
+   "kind": "twitter",
+   "active": false
+  },
+  {
+   "source": "X · ינון מגל",
+   "kind": "twitter",
+   "active": false
+  }
+ ],
  "items": [
+  {
+   "title": "עובד ניקיון בתל אביב התגלה כשב\"ח, מעסיקו נעצר - C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93b3hyam9EZWpvbTJWVWFzMTd1Ti0tZkt1a3NiTkpIcmtiQkZDbGRaMi1Yb1VVOWVEMHBZSU9vaUNfVTFpQ2syX3BSalVEUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "בכיר ערוץ 14 עקץ את המגיש: \"החלטת להשמיד שורת פוליטיקאים\" - כיפה",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTXpzWnJkYWppYzNhZWJnc3hvdW5HMDA5UUNSLWMxRTE5a2tGdGxnN0haVVQtcFZSYWxvQ0RzQlJRNzlSYVVFOHU0ZEZBbS1IOFNBeG5WVnN3ZmRxd3pjMk5uMUpJUjVqM3JMTmFBbGNLQdIBekFVX3lxTE1odzN2cXAtNXpKWXJUbGhiSzVPQ0t1a1NwYVFxRnNBUjlGcmtEOVREZTJkQU1KcTlRUjBWY0g2NWpfU191WjNkWTY1QVpDWERVSFlMN1FHbm9Vc3BQOEl6LVFicXJ1RDVoWF9wdnpPNTFqTW4tcjZyT193?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true
+  },
   {
    "title": "תקציב בשליטה פוליטית ועיתונות על הכוונת: הכירו את מח\"ש החדשה - TheMarker",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmRDbHZSa1d4VTNZQmVOWGJ5aG4tWkVJbkp3bm5WZnBSdllsNHQ3XzgtaHBQMDFNX1pBaEdFSFpZRHdYd0V0dUtQamUwS1QwQmNTNzBLdzB5Y1JnUzhxZFVZNU9JQThJWGNrOGRzSDBVOG0wYVdCcWNNV1ZRVWlWaGI3Q21uT21DdHVlWnNNSGU3X1luNEhlT0tpTnhUZw?oc=5",
@@ -340,82 +477,6 @@
    "pv": true
   },
   {
-   "title": "בלי פילטרים: מפגש קצוות עם מנכ\"ל התאגיד לשעבר אלדד קובלנץ - i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xVW9OdUw5NlNEa2JsQ1BveXZrWVZCYVpmRFB3UzhHZU1Hc1Nsakl0VzVlV1V2dGtlODN0cXNHOFZ4R1RKQXZSUW9VeW94ZDVGNTlZTUJ1ajVqWjRfNkQ5X3pEMVRVdw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-24",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל לא ראה את זה מגיע | רייטינג - כיפה",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNS03UDJOTVB3VDRwVG5MV1dIYXloQlJTSzFkaDVxbmpoSXIxYm5xU1VIN19BSEUzdW1QVkpyV0ZNLTF0NDFlajl6QVFNdkpBZi01bmFZSTAzVEwzZW5UdTJHdkdPeFhXRTRwNldzUWd1Vk5ZZ09VUG1EcThGcXp3eWNBRVhSdEhvWmhaSnFPNXVuUWc3SnRZV1FXaGVKZE50V1VxOV83a2VmR1d0aGVvT3BXQdIBuwFBVV95cUxQMElGZHpIbWZEN1IxTDlVbjJvTnU5Qll6UEQwVlBMNUFpYUR6SEs2c19GNndQRUZGRFZ5YUJZZUU2MjhiRE04UzA3MUljNDdacHdFSlZyUVBJMVVFX1NrT0dQUkFyY1E3bEhFNnlvY2QwZWh6Tm95Y05yTUhDWVR4NU9JU195SG5XekhwOWpKWEpRbXdoeUtxUWVHcC05djlySXFKVFZaanAzR19pU3pxRC1HQkxDQV95VEQ4?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-24",
-   "keywords": [
-    "רייטינג",
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"האליטות מנהלות מלחמת מאסף על הבית שלהן. זו לא דמוקרטיה\" - מקור ראשון",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vdWttYWFFWXY1NnRXQTZQVUEyUGpncW10UDM0dV9maWc0SHJhSFA2d0hzaTNLdWc1T19tUkpsYmozMklTbEQtd2lFa2lZLXdjMjZDN0hUU2FjV05TeXFac2JkeWZkV09ZUkxJdA?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-24",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "חדשות 12 עתרו לבג\"ץ נגד חוק התקשורת - וחשפו שיחה עם השר קרעי - היום",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYZjJXRjZlNGV1M2tfd3lNTG1sMmI2Z1VFZjBiOTRZVk56UTdKSER4dzFBOGZWaDhJeWlfTnU1N1cxaUR6Tk05d0hSb1d0TTB4SGYySDFmb3F3azFYMVh1YTFrSWNOQdIBbkFVX3lxTE9aU0c1VXN5MmFHbS0yQkZUVHdkTTVnbWNGWWt6QTdPZnFuY1VDcnZneHB4aEpUS0VDSmUwNHdKemNBam9ZeVBvSF9DUjJSdmdtZDJvd2lwbmdXWXZValNkdlBna3JZWGx5SzRKZnNR?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "google",
-   "date": "2026-07-23",
-   "keywords": [
-    "חדשות 12",
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל: \"הם לא רוצים מדינה, הם רוצים שלך לא תהיה\" | צפו - C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TLWlFaFF6NkVzTFlDS1I1RXluY29HRFA4djRmaU5YXzlRV3JJTTEzalVUSURwVmhoTVRBdHJhWmY2ZUdYWmp1OWNnMTRkUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-23",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "גיא פלג מתפוצץ על ינון מגל: \"איש בזוי, אני לא ארכין את הראש\" - ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oa2FXYW11dnFsUXJ0aHhnZUU3UVVEaWVDZTNDUm41SjhjaG9xTks4djlQQzBRdDI3Rmh5NmRXaUx5TWJnSHp6ZEhPQTJXRTVXSGp5U1RMM0JzQWls?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-23",
-   "keywords": [
-    "גיא פלג",
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל תוקף: \"את לא ראויה להיות שופטת במדינת היהודים!\" - C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96d09oVkFjQ2UzSjhYS1ZuVW0ybE9TUlpPTFJiSUxkSGFWSE5FZjN1b0lmdEhISm5tb0c3N1F2Z1FCUFhiSWJid3RiWTdPUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-23",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
    "title": "מנכ\"ל חדשות 12 חושף: הפגישה עם קרעי שהבהירה מה עומד מאחורי חוק השידורים",
    "url": "https://www.calcalist.co.il/local_news/article/bykp8j1hmg",
    "source": "כלכליסט · עומר כביר",
@@ -449,67 +510,10 @@
    ]
   },
   {
-   "title": "פרשן 14 ברדוגו הודה כי ביקש מראש השב\"כ לפתוח בחקירה נגד ערוץ 12 המתחרה",
-   "url": "https://www.ynet.co.il/news/category/184",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-23",
-   "keywords": [
-    "יעקב ברדוגו",
-    "ערוץ 14",
-    "ערוץ 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "הפגישה שמזעזעת את השב\"כ: ברדוגו דרש מזיני חקירה נגד ערוץ 12",
-   "url": "https://www.kikar.co.il",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-23",
-   "keywords": [
-    "יעקב ברדוגו",
-    "ערוץ 12"
-   ],
-   "pv": true
-  },
-  {
    "title": "i24NEWS מצטרף למאבק המשפטי לטובת חוק התקשורת של קרעי",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001550203",
    "source": "גלובס · נבו טרבלסי",
    "type": "site",
-   "date": "2026-07-22",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל ובן כספית - בין ערוץ 14 לעיתון הארץ - 103FM",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFplanVXWEVzUHhRR1VWSEZuQllSaWM1UnFWS0ZtWFVPNzBxRjYtcHo2dkRkYUEtc196dU85R0RndzJXX05RdFNVZVRmNHN3VDdCLVhMUU5ZWEdjY2kxeWhJUGRTYnVIb3ZocEVJNndSQ2lwdlJCWGUySUxLc1FIYw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-22",
-   "keywords": [
-    "ערוץ 14",
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "i24 בבקשה בהולה לבג\"ץ: להצטרף כתומך בחוק של קרעי בדיון בעתירות נגדו - TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRktQMG9hdFVtQVAzc1NfZHVrRlJNb0Uzb0s4cjNBVTNSc3h4WGkzZXN1SzU1QXpVLXBIdjN0dU9TUU43aHNpUkdHSV8zOU50ekZFUTB3NjFabjJqVlJlVS1YVV9TSFpaOGVVZkJ6ZHNqcDh4d3owM3BOY281MUp3OHRBdUpMQXdtZXhSRnh3cG1IVEJ5NXV1TzFyNU1qaTZSbFoydzZ3QXlYcU0?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-07-22",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "i24NEWS מצטרף למאבק המשפטי לטובת חוק התקשורת של קרעי - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wNXJ4N2ZIb0xsR0lsMDB2WE14ZzMzS1hNajFYZll5UGxxREFTRTl0em0zTTJfbGtVYWYtLTExdEtLOHA2bGpXdVYzOHl1Z09JYWNnZUc5OHJlQzdRSVJaVVRCek1uVmEt?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
    "date": "2026-07-22",
    "keywords": [
     "חוק התקשורת"
@@ -551,39 +555,6 @@
    "pv": true
   },
   {
-   "title": "\"כולם מדליפים\": למה לנתניהו וברדוגו דחוף כל כך לחקור את חדשות 12? - TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZC0zSk8zQWFhTU5ObFJldUVlb2lGckhfSlVpYkxLNnV4UFIxOVJVa3dhRVh3eE9RYWVSVTVMa0tLTGlkczkxWTFmTHJjbVhONkRqZmVEQ3FrTXlQaGdVU0l2VGtVXzVTbk4tOUF0Y2R6SnU4ZElYS25wNGZtc1ZWNHU0NWU5bVZ2RVl1cXZoQ2YyY05hbDJoeEh2LVk3WHEzMWJLLUFqRjRSVTQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-21",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל זועם: \"חוות גלעד נשרפה ולא שומעים!\" - C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pT212S1dPNVN3OVI5MWR5ZWFLV2ZjX0FISlR3Y0NGbEd2cE1BSDE3TUpYZVVuTXNMX3U1N3UtbjFPSEMwWGw3eGNmN01CUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-21",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל באמירה מרתיחה: \"מוותר על הציונות\" - ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91SVVVNUtjMWtBQUpzdU9RWW84eGMza0IxZkxCdVFYMDVxcjYxU3VOcmVvYmx1aEhWQ21WNl9nbWNlZk5qSS1GRDByR2RHTEpBNjZzUzBLX3hmemdm?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-21",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
    "title": "אפקט ה־AI: גולשים נשארים בגוגל במקום להמשיך לאתרים אחרים",
    "url": "https://www.calcalist.co.il/calcalistech/article/ry11ddqp4zg",
    "source": "כלכליסט · עומר כביר",
@@ -605,52 +576,6 @@
    "pv": true
   },
   {
-   "title": "הפטריוטים עם ינון מגל | 21.07.26 (שידור מלא)",
-   "url": "https://www.youtube.com/watch?v=zE8nOJFdFkE",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-21",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14",
-    "יוטיוב"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל: \"אין ספק שנחזור להתיישב ברצועת עזה\" | צפו - C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yZ0V5Rmk3ZlBvT3FlV0ZIUXVvRGJOZHBORHlSOGIwWndrdFBVTUI3U2NIRjNOdVN6dlE2Tm5wX2ZDcFJfTzFqMVFIdDY2dw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-20",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"שבר את שיאי הרייטינג לפחות ב-20 השנים האחרונות\" - 103FM",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ybFNNdGUxc1VEUTJZdWFCbzBhWVB0LUpzOHFxam5sVk9WZF9fRFR1RnpfM0ZDNGwyQW92TTVBQ3NZLUhIRkxGTVRKZ09mdHlPdDJ1a0lzTTBmbjdGT0lFUHlaZzFWcnp2d2t6R0h4UVhSbnpYdm5FaDRqM0JYejg?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-20",
-   "keywords": [
-    "רייטינג"
-   ],
-   "pv": true
-  },
-  {
-   "title": "הכנסת אישרה את הקמת הוועדה לדיון בחוק התקשורת, בראשות דיסטל אטבריאן",
-   "url": "https://www.ynet.co.il/news/article/bjrfrpsbwe",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-07-20",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
    "title": "משתמשים ברחבי העולם מדווחים על תקלות בפייסבוק ובאינסטגרם",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001549762",
    "source": "גלובס · נבו טרבלסי",
@@ -666,50 +591,6 @@
    "url": "https://www.globes.co.il/news/article.aspx?did=1001549734",
    "source": "גלובס · נבו טרבלסי",
    "type": "site",
-   "date": "2026-07-19",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בג\"ץ: הוראות חוק השידורים של קרעי יוקפאו עד להחלטה אחרת - היום",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KaFBWWWdHRjRyaG5NT045NjN1Tml5TE96YkdZMnpfU21fMmx5UFJlN092OWdlMEZ0LVBlRC1JWnRsRXI5YzE1ZU9sZ0lVdm9zNGVROVo2WUpMVmRQQVdRQUp0ZGU5QkHSAW9BVV95cUxNLVUzaUJQQVdhd1puSWd3Z25RVGJhOWs1VXdObExLSDYxblhqczBBSk5JeUwxdGpUY2ZEZkpWaC1pZ3dJUlVRMVFlRzF3cVg1ZUVnX1ZXZGtJYjR3QkFQdG1CSHpEZ2lGTEpDM0RhejQ?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "google",
-   "date": "2026-07-19",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true
-  },
-  {
-   "title": "לאחר האישור בכנסת: בג\"ץ הוציא צו ארעי על חלקים מחוק התקשורת של קרעי - היום",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnOHlLZG9NU2wxQ1ZBdFctcHZQcEFLTUN6WnlHY1prWndXZllOQjh5cmtkVU1HMURiZ2o3Ri15OTBKVDRxeTliOWdiQklvQ2dudTkxSWkyMUFkcUNDalhUdVRSNFY3QdIBbkFVX3lxTE9vX3d2M1ExVVdZNjM5aGhxQ3p3RHlFdnEwYUZ6SDloc0wtWnRHU0ZkRGZFOXhRb0pQSDQ3VDJDQi1uUUh2emFGVktNTllSOVhtaWg4SktaZkp4Ukg4ektYaTZXOHhNcF9aTVNKUmxR?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "google",
-   "date": "2026-07-19",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בג\"ץ בצעד בלימה נוסף: הוציא צו נגד חלקים בחוק התקשורת - כלכליסט",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqX1lBMkxVTng3cHdoZGNOM2NlYWxlNUNuNmpfUmlLRVJBZEtuUEl6dDE1TmMwU1BWcjYwTTk3eWthandXZGFSMDZ5QzZHV2ZPck9WalNleEQxM2U1UFJNcVF0QlFpdW9j?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-19",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בג\"ץ הקפיא את חוק התקשורת של השר קרעי - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50Rkd4QnM1QXJmYmJUZkF3clBSVEtuY1Z2TUNUX1RKaXY1OU9UazNFYmJfZm14WHRIQXcyMFYxM1BQRGhOZ3FvdGl0WENIX2JTMkRiU216aFV5TXJzdk9GSUtFYnVJQUpy?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
    "date": "2026-07-19",
    "keywords": [
     "חוק התקשורת"
@@ -752,68 +633,6 @@
    "pv": true
   },
   {
-   "title": "בג\"ץ הוציא צו נגד חוק התקשורת, קרעי: \"הכרעה לא חוקית, לא אשתתף בהליך\" - ynet",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fcGdpbHZRX2pMa25CYlBWMC1ITjFxbTdTUkphRFc3YWN3aGxPOWRLbG9pR2phYzgxQTJqbU5RVEx5enJvM2FnRk5ZOURiSTU2WDBXMl9ERno0QQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-18",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אושר חוק התקשורת של קרעי, שהודה לנתניהו: \"המשימה שהטלת עליי הושלמה\" - ynet",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yVDBJMVRtcF9zZlI2bmpzQ1dhRldaRkZmM3hzS19TZWFzWV9VcHlFR1BNUTRFZzB5NzduWVlLc1d0aEJmQ095cXVaSFdtRThHT1pPT3NkT3lNdw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "הכנסת אישרה סופית את חוק התקשורת של קרעי - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsMjVkV0s5MHFocXgyT3FLek85a1NXN0dUOE1fWDhmYXBUdjhKSnZoTFZSTTFSNWRTdl9FOWpKcDQ2a09PaWV3OVg1c3FxdWtZdjhxdE1oU2dpR2QyeVR0Z3dJenNVOHFT?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "חוק השידורים מגיע להכרעה: מי מרוויח, מי מפסיד והאם בג\"ץ יעצור אותו? - TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdm1sV1NablMxUE5yR1VuWEZ5Y1p2Um03MTE4aE5GdkJQNnJtS0JtTG5ldGoyaVpUcTNYWHpobm0yS2w1cjBxT08wbHVQbzQwV3pLZkw1bnlJT3VuRU5OcFQ1RUhqZ1FxUHZUUkg2cHhCaVNvdm14SVFlcG1pR0NvZURHaG80ZlNDVGxZa3A5LTBGalFlbTN2WV83X25XWFlNLTFFNW9EdlFQaFJHcVJIcWNRdlNkbVVaQmc?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-16",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "הכנסת אישרה את חוק התקשורת בקריאה שנייה ושלישית - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sRnVhd0FURm5mYmpIenBIQURESlNkQmdnVTB6dzZOdHhYWkxONVJFMFRucGVzZG8ydlFib1hmS2dlMG1JVWtMbnY4TWZMQmViaHN6cDBBaEIxZzZYMnBDazRLMnd0SXM?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-16",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "מהפכת התקשורת של קרעי אושרה סופית: התאגיד יחטוף קיצוץ כפול - מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XTTFBV1N2VmczMHpjU1BkUnRnMUZaZzlGQ0hsbU1sT3FQNUxuNnpNR1h1RHVZaEE0eDBJRVUxZGhycEVGVmFEVTZfQkZxYUF3WTFZSGtBWHBUYlI0T2xtZTVFTng?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-16",
-   "keywords": [],
-   "pv": true
-  },
-  {
    "title": "\"אדוני ראש הממשלה, המשימה הושלמה\": הכנסת אישרה את חוק השידורים של קרעי",
    "url": "https://www.themarker.com/news/themedia/2026-07-16/ty-article/.premium/0000019f-6b39-d161-a5df-effbe47f0000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -848,15 +667,6 @@
    "pv": true
   },
   {
-   "title": "נושים שלחו הודעת הפרה לחברת אלטיס, אימפריית הטלקום של פטריק דרהי - TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXlQQ0RWV01DaGZXNHoyaHRYclNfcXJpZV9NRVUxV3VBUVN4Ri1IbFdIWnFHdW1VMjkxTHFJcF9xUXhhdUpUdTk0VTJYYmVTX0M4ZXcwT2trb2kxZjV0bU9ORFFiVTFCV1RrT29EUGVZOGJTdklvazlURVRfeHBicXFOamFjUXY2elUyZzhMdEV0NGI1TmdRU3g3VzdsdmEzaHhRMXBRNA?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-07-15",
-   "keywords": [],
-   "pv": true
-  },
-  {
    "title": "למרות הרייטינג המדשדש, המדד מוכיח שלתאגיד השידור הציבורי עדיין יש ערך",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001548388",
    "source": "גלובס · נבו טרבלסי",
@@ -876,79 +686,6 @@
    "keywords": [
     "יוטיוב"
    ],
-   "pv": true
-  },
-  {
-   "title": "ירון אברהם על יעקב ברדוגו: \"ממנו הבאתי את המודיעין שלי\" - מעריב",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBadFpnVTBiNjBjOUFDcl9DT0RlRDlUUHR1TUVkU09scTlzRnozbThhem9kdmM5RHdnWk5SaWZ2MFFtVE80endoQ1p6akxIYVdjd19Gb3lJUHFhSUNPS2VpRw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-13",
-   "keywords": [
-    "יעקב ברדוגו"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"שיא חדש של זלזול בכנסת\": הדרישה לבלום את חוק השידורים - mako",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVl0ZTgxXzVJOTRacVBXQjFRR0ZpY2RUdGJHcUlXUGlQMkRrYWhpZVBFMVU2SzBxdVlvX1ZpOUFEUEVSOTBrdFp4U1V1bHk2RkdrVE5OMk1RNFlVbDExbnA3RW5NNE13aC1HU1V5SGFvbTRyc0Ixb0tsSWJGY0JvRkd3UXhNWm8?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-07-13",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "מה באמת מסתתר מאחורי ההדלפה לערוץ 12 שסיכנה את לוחמינו? - C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aNndMaXZFajd2N2M0Q3hDSGNiNWF6MFhfQWhPbmRlX3FNWWVqcmg0WUY2M2FDcFBaV05ZWVhJSXRNSjVyU3hLdkY0ejZaZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-12",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "יורם כץ: חוק התקשורת של קרעי יאפשר לממשלה להתערב עמוקות בתוכן - זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE50WWxjMXIxZS1NZ0EwSGlKdVE1UGRjLWdXQUNYTm1kQVU3ZFdXNEloNVdTTHluODczam1WZWY0Sjl6ZFp6?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-12",
-   "keywords": [
-    "חוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בלבול התרעלה: זה האירוע האמיתי מאחורי פרשת ההדלפה לערוץ 12 - ערוץ 14 - C14",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NWFR5V2RhSEViTlA0TXZNR0JubjBOb0I4djdRVTBDT2NRUkRZWWYxdFFBVDJFUW9oTHZGZUJHN0ZiLURMa0xzNVRPY1FjUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-12",
-   "keywords": [
-    "ערוץ 12",
-    "ערוץ 14",
-    "תרעלה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "קשת, \"וואלה\" ו\"ידיעות אחרונות\" מבקשות אישור לקיים משא ומתן משותף עם ענקיות המדיה החברתית והבינה המלאכותית - העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OTHZXakJTczN3SktLWDhHXzdjazdGT01sdF8wbGtXTFZmSkRXTUtUTmtodGNPZmRLQnRobzR5Tl94V2N2TmE2Sg?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2026-07-12",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "אימת התקשורת: מי מפחד מד\"ר יפעת בן חי שגב? - ערוץ 7",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aWGRpRjNJekMyVy1QaHAzeV8zdTEwRXNhWVlMOElpbXhYeXhqUWgxdnRESEtmQnJyV1hwdW9zbnExLUJHcnhYdQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-12",
-   "keywords": [],
    "pv": true
   },
   {
@@ -975,102 +712,6 @@
    "pv": true
   },
   {
-   "title": "מבחן בן-חי שגב: כך משמרת ההגמוניה הישנה את כוחה - וואלה חדשות",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85MDhTN2gyMmk1S0tkeVFPMmF3dzZaOTVqYy1QdzBQZWhORE5yMkptVTBodFItWm83bHY5VzF4Z2xuVGlyX1E1Q1ZkTlpOdw?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-11",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "העסקן המקורב לרה\"מ: נפגשתי עם זיני לשכנע אותו לחקור את ערוץ 12 - mako",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iT25kY1d5TGx2Qjh3M3pyNXN0emhGSFU3Zk9KemdCbC1mODNPWUJhaXpBaUJSSzhyTlFMeDJQTW9nTWFLU08wOFRHcUVFVHo4RnRMSWYyQW5VV2xDU2d4ZnZLSWIxSjNQdTA4X0hnSWxCSmszaTJCMHZHQ3REQQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-10",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "שב\"כ: זיני החליט לחקור את הדלף לחדשות 12 עוד לפני הפגישה עם ברדוגו - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWGJSdkpzNGZ2MktmSDZaa3h4cWpnZnZIRkswSlNQNFowWmgzaXpzYk9xdk1KNUJOTmk4X0E5LUtIQkJYQnFxRjBabG81UDgwR3FzVlRFamFOLUJGY2ZKSWJ4TE5VSVU?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-10",
-   "keywords": [
-    "חדשות 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "יעקב ברדוגו נפגש עם ראש שב\"כ ולחץ עליו לפתוח בחקירת חדשות 12 - הארץ",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEtEUllWT0ZVaDZITmVBd1hDSDN4cDRuSm9MMllTb0pwZFhfYnUyTWpfTTJ1Y2dEdVNlRFZwVzBvZUtxUVh2RHBOOUtmYWVWUGZaVVIxUk9nTXRoVUpkU1MzbE51WnhsdjBmejlnUDhZVFpQa2YyVUN2cFRmemU1ZnZ3Sm5BWE1WeHVBYjRDVUF0SG1Ra2xlNkMyQmVOckZ4MkhnaG92WE92bXc?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-10",
-   "keywords": [
-    "חדשות 12",
-    "יעקב ברדוגו"
-   ],
-   "pv": true
-  },
-  {
-   "title": "יעקב ברדוגו הודה שלחץ על ראש השב\"כ לחקור את ערוץ 12: \"אני לא מפחד מאף אחד\" - davar1.co.il",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVjFPXzZmZm5pM21qcUllM1ZyQWY2NFRndjNHckxldWhNd3FIMUYzSlpNVzZOYm5YRk5jYjFXYTFzRHRUZDRN?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-10",
-   "keywords": [
-    "ערוץ 12",
-    "יעקב ברדוגו"
-   ],
-   "pv": true
-  },
-  {
-   "title": "יעקב ברדוגו: נפגשתי עם ראש שב״כ ודרשתי לחקור את חדשות 12 - זמן ישראל",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMYnFSWXRGT3EzSjhmM1owZXZUQnJfbHBLWHdDVDNXc256ZUVva0RVQ282UnVPNFc1aDNBZFlfR1VZTEFUODRfWnhaZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-10",
-   "keywords": [
-    "חדשות 12",
-    "יעקב ברדוגו"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אימת התקשורת: מי מפחד מד\"ר יפעת בן חי שגב? - i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94RFVITmRPLWZ2QllsOEpOYmlKS1BaV1JLNWY1dXhUTlVUWXgyS1lSdHU3YkdlSEdkZXk4VndrRjdVLThhSzVVaUxrNkRSdndTX1dESnkzdU9rYVpMUm9NcE0wVW0wUQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-10",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "גיא פלג, רביב דרוקר, בן כספית ומתן חודורוב חוטפים: \"לא עיתונאים\" - ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDcTdGeG03OUhkYlJKTTJyS2FKR3hObU1HRC03TmpuX3VBYVJpbmduMVJvNXI4S0ZpZFlFa3RqSjVRUEhzTzRnZno5WnB4ZzJ4ZzlNemlMLUczMkNJ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-09",
-   "keywords": [
-    "גיא פלג"
-   ],
-   "pv": true
-  },
-  {
-   "title": "עדה במשפט נתניהו: \"הייתה הטעייה מכוונת, ניסו להכניס לי מילים\" - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzbFhiRmh2T1FvWm9GQ2M4UVpQZzRNTUFxWkJIaHhUZkVYQXVuOVMtSU51OUpNc1N3ejI4MnNiczVWUlhDZC11UjRabTRBazhzQnRNdEo4Wk9UWXN5elZrNlFQUkE?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-07-09",
-   "keywords": [],
-   "pv": true
-  },
-  {
    "title": "קרעי התקפל מול החרדים: האפליקציה שאמורה להחליף את עידן פלוס תוסר מהחוק",
    "url": "https://www.themarker.com/news/themedia/2026-07-09/ty-article/.premium/0000019f-4647-d4ee-a19f-574757ec0000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -1082,26 +723,6 @@
    "pv": true
   },
   {
-   "title": "כך הפכה הרשות השנייה לחזית החדשה של המשבר החוקתי - כלכליסט",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14Z21aM0Q2Q3pmZlllQXB6NkZxMVBMNUJvQXpOSklPdGJoSURwS3R4STkybDFzbVBfU2pSR3pHeXRwZ0lxVG9ub0UxbFBwbGhEb0U4X1ktakJHZDV2UGtlbWMzazFZV3I4?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-07-07",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ועדת התקשורת אישרה את רפורמת קרעי — אבל הסיעות החרדיות מתנגדות - TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTJvUEJxWHJLVXBBMWxXRFVUY1doaV9QdGVBTF9DSVo4Tkp6S2RsM2c2dTB4MHJfTzJxYzAtdG9idmp0UFBXbW1sUDB4UmNHM1RWOFFIU3JQbWdqZmR5bW85SFZva0t5alNYTl9MTU85aVE3WTlMQlpMNG4tVnFrNUloSl9XNVpBT2cyQU83TnVJOEd0RFRFQW9FNVVrLS10dVlGTnA1YUZQblk?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-07-06",
-   "keywords": [],
-   "pv": true
-  },
-  {
    "title": "תלונה נגד ערוץ 14: חשד לפגיעה שיטתית בביטחון מדינת ישראל",
    "url": "https://www.haaretz.co.il/gallery/television/news/2026-07-06/ty-article/0000019f-3790-db7c-af9f-37d551a50000",
    "source": "הארץ · עידו דוד כהן",
@@ -1110,84 +731,6 @@
    "keywords": [
     "ערוץ 14"
    ],
-   "pv": true
-  },
-  {
-   "title": "אחרי הסערה בליכוד: אתר הפריימריז של ערוץ 14 הועבר ל\"תחזוקה\" - היום",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81WFhmamVjaWlIbWlJWXFpeXBUcEdtbC12NmdsLS1TTUFob2pRSC1mclRLb1FQNTZjY1FacTB5Q0xKeEtSRjlnVlpXT0I5VVR4YUJDYUlhSkxYT1FfTHlmQUc5ejQ2dFNFQWJtTNIBdEFVX3lxTE45RHhzSDh1dmFhcW14WUNTZ0Nick1VQkJVUGlDUm41UWNUT2Y0eC0xR2tNMTlNVGJyemVERG8wRmdUZVNzX3o0NTVEQzR3bC1nQ2pEdmJkaGFkZEdCdXV4RXdtNHRyYS1HVU51VlBaZjY4UGdM?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "google",
-   "date": "2026-07-05",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ח\"כים בליכוד נגד ערוץ 14: \"בלוף – כל אחד יכול להשפיע על הפריימריז\" - היום",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oM0dwY3VyRWhDWlVJQTRhTFFrS0VLeTU1WWozVUYtQzFUVHhIRlNBam9zYlRJZ0R4b1BhT2UzZ2FtNmk4WkxaXzJWdVJFZndMUHEtMUtBZ1dxYnpCZkhGV3JuRUEtOUwwUTNMRtIBdEFVX3lxTE1EcjRuSXdFRkRuUXhDR080X2Q1ZFZ5ZDhoeDBnYzItcU9qek96VkN0eXNTQVIzMmpLZjhiekFSTUF6SEpnYWg0VUE0djlsYk9ZN3UxOWVBUVhiZk5La0ozNkZ5N0phalVld1liQ2xXNHpkSk9P?oc=5",
-   "source": "ישראל היום · ביני אשכנזי",
-   "type": "google",
-   "date": "2026-07-03",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "פטריק דרהי מוכר את הוט מובייל: יקבל מאות מיליונים פחות מהמתוכנן - ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVE9acV9lYWtRN2hvMnBZZU1aRzhMckI3SzdwSzljQlBNZzdaR2JjTUgwUDFCeGxlbjJOam1BaDh6TzBpbXFWbGdOeVNvQVBHd2ZYTl9OUlBzVnJlR3Vz?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-06-30",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "לפי שווי נמוך מההערכות: נחתמה עסקת הוט מובייל - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GWG5UZFR6SEpiVDBXb3h5Nzl3T1lXbDViVnZRSVV4Mm91dDhMYl93blBhLWFNcE5aV2E5U0o0Y3BlSFl2VzVMUmhGMVVqNlRzUzQzcG5SWEpCU2hfM0pZbjczOG5xRy16?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-06-30",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "ספרינט לפני פיזור הכנסת: האם רפורמת השידורים של קרעי תעבור בחקיקה? - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wQUxIYldxMElXR2d3Q3FPVnRseE1vOGhBbDdIcG9Ed052bEdsNnVoQWI3SHAwU0xCVDRvcVhwNWdxVGUtUV9qb25Rem9SeGIzXy1QS1IxUFgtT1VsemhxeDZBQTAyNkxG?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-06-29",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "שיטת ורטהיים: הבריונות של קוקה קולה-קשת על חשבון הציבור | טור מיוחד - i24NEWS",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hN1B6Mk5ZMm1iRE1CZW82ZU41X21welNJek1LRUFlVjk4SVV2bHNBVWE5RzlXUDVvaE1NajR6MXJfNGdyN09hb3FJWlplNGJnMzVqcG56QXRtT1B5c2RpQTdFbE94d3NMYndfYTJNcURuLWc?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2026-06-17",
-   "keywords": [
-    "קוקה קולה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "פטריק דרהי מוכר את חברת הסלולר SFR בצרפת תמורת 20 מיליארד אירו - ynet",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ka3NDaXVXY2hiYl84aGdmLUtKNkxXdlljeXFGd1ljRkh4V2lRWEg1SkRWZGFucDg4R3NHQ1hTOWttVlBmY2MydlJ1dERlWm0ya2JsNEV4Vll4bGo0WFE?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-06-07",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "יפעת בן-חי שגב: היועמ\"שית והתקשורת קשרו קשר כדי להפוך אותי ל\"פרסונה בלתי ניתנת למינוי\" - העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90MjFpdnFtY2ViOF9oUlhPTDExbHNVdTJuVi03S3d1SU14WWc4Wi1YQmI2RXBDNUExRHAyb0t1RXJ6RS1NeW1zVA?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-06-07",
-   "keywords": [],
    "pv": true
   },
   {
@@ -1214,71 +757,6 @@
    "pv": true
   },
   {
-   "title": "גלית דיסטל-אטבריאן הודיעה כי לא תתמודד בבחירות הקרובות - כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naG01cno1Zm81Njc4OXN3bGU3dFZBTWZlSXVqeHh0Q09OMU0xUGpUQU1NZ2tmTHotbEI0STFRZmk5Q1pZWmF4R19vcWVjdExBZW9jb25fQlFOV2pkU0d3bVJyRXBrclk?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-05-25",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "גלית דיסטל־אטבריאן הודיעה כי לא תתמודד בבחירות הקרובות - הארץ",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYi1RbjRHWU43ZmZ2cmZSWE5ad3B6YU9xemljNlBqcGJpV3dOS2o2d2QwcTlHNk1Ub0lSVkwxUlZIZ1Z0Wkl1U0VrWVlBWkZNeDA5TTNONlNwOW9RdFVzeWY4UUNvMXBFX3dtbDRtQ2ZNLTBrN0xWbVlJTVZRbk1XTHRrWndoQThNZnE1NmNWOEI1ZFJ0VFRZQ1RHdXBVT3R3OE84MHNsS3dBM2tL?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-05-25",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "גלית דיסטל אטבריאן פורשת: \"לא ארוץ בפריימריז הקרובים\" - ynet",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jYjRySjJIRXFickNrVGpyRDMyWE51Y0twb3JSWjlwcG51OFF0bnFEVUdXdFEyNTlZV2htS1pQNnpKLXlfY0JRdGM4MUpLcXFOZy1URzJzd2ZIa3c?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-05-25",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "ח\"כ דיסטל-אטבריאן הודיעה על פרישה: \"לא ארוץ בפריימריז\" - רשת 13",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0MFd5SXN5UmZnMlhzbzNfT1RCSndOeXlzMGhxbkRJTkFUaHQ2VTgyWGhIcVhxRUE1bjNxcGdNRUdXZDFjcnlFLS0zSWdiRG1kWGp0RXphOXZWbGZoM1N5blpvUXpoUXl1M0dPUkFkWEQ?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-05-25",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "רפפורט נגד ורטהיים: בכיר לשעבר בקשת 12 — מייעץ לרשת 13 - TheMarker",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk5iUl9ETVdmOUJsUzQ0TGlibTRkaHltU0hYVHZ5RHh5OTlwMzlqci04QXRiMEM3b0JUM2dsY3VrYTQ3VlZnajBZR1BVTDRuVjVWUjJRZkQ5T1d0WUtybEh4Y21JYVEtcVhXOXhYYTVzcHVXS0pEVjF3M3h0YzRHZFhXM05sVWpwZE9xcG9tRUw3THRxa0FkRzNvVWNiSC0tRnczTjhCS2ltcVU?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2026-05-11",
-   "keywords": [
-    "קשת 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "נתניהו יודע שזו ההזדמנות האחרונה לקדם את מהלכי ההשתלטות על התקשורת - העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlSENMRTFDWm9HeW1BYWtxdk15Z3h4ZVJsZHV4TFhhX2pLNWhCM1Z0TWpiY2VtVEFNVWUyMlpxN1AtcFIyZ2xKSw?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-04-30",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "מאפס ל-4 מיליארד אירו - פטריק דרהי במהלך מרשים; ומי הפסיד? - ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tSC1aZkJXSGQ2bVk1eDlPZUUxT0RGWURLcmFYUVFfVjNTa2FTX0pQVlRkMjhZQ0EtM09pb2kwNHF2RmpiLXFFbzRkaDFSWE1lWmdyRTN0TU1lZUcyUWdENGFYNGtzbzZs?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-04-28",
-   "keywords": [],
-   "pv": true
-  },
-  {
    "title": "ערוץ 14 רכש אתר חדשות ברוסית, ומסרב לחשוף מי המוכר",
    "url": "https://www.haaretz.co.il/gallery/media/2026-04-28/ty-article/.premium/0000019d-d4ab-d812-ad9f-ffabedf40000",
    "source": "הארץ · עידו דוד כהן",
@@ -1286,185 +764,6 @@
    "date": "2026-04-28",
    "keywords": [
     "ערוץ 14"
-   ],
-   "pv": true
-  },
-  {
-   "title": "מינוי יפעת בן חי שגב ליו\"ר מועצת הרשות השנייה - המכון הישראלי לדמוקרטיה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xV1JzTl9kZVNsczRWR3QzazJQSWVvRzg2c0NpaHFKM1ZCa2lvT2hVbDF1eXJsNmFYeG5nVWhPZmlObW1Ua3JCSDZSeWJsUQ?oc=5",
-   "source": "חיפוש גוגל · יפעת בן חי שגב",
-   "type": "google",
-   "date": "2026-03-24",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ינון מגל נגד קשת 12 וקוקה קולה: \"אם רעל - אז עד הסוף\" - ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yeEdMWGVLNWE5aVZUREVvVTNKeDJBZVRia2d5RGhhUXl3MXVfd2d2eFhudmp1dFp3NmplemxXbHEyV2lDNE12SWJyZXJnTWd6ZDJHTUF4aU0walRS?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2026-02-10",
-   "keywords": [
-    "קשת 12",
-    "קוקה קולה",
-    "ינון מגל"
-   ],
-   "pv": true
-  },
-  {
-   "title": "ההחלטה הקטנה של \"ארץ נהדרת\" לא מובנת מאליה - mako",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3dmRXFSYV9iUlMzeVhrMTdlRkJZNlo4QUg5WWNHQzdlcERLN2hBSFFJM0ZGNjZRekh3Y1ZoNWhGV2pUQnVBQVBYZzZ1d0dRdTBMTXRjSDdEV2hNeWFselJRV0N2T1Q5R1g1dGJIMDFQUlRZV3EtVFZ5bW43MFJRaUNqbHlLUQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-01-15",
-   "keywords": [
-    "ארץ נהדרת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "כולכם פספסתם את הדבר המטורף שקרה אתמול ב\"ארץ נהדרת\"? - וואלה תרבות",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOVTdoRUFqTFRETDI1U2FPU2RpaFRZWXIzNzBVQV9XNVVBZkk5TjUzUHI0ZlFqa1dvc1ZZMlZ3VThaTG41dzdzbzNn?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2025-01-09",
-   "keywords": [
-    "ארץ נהדרת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בקבוק תבערה הושלך לביתו של איש העסקים דודי ורטהיים, קשת: \"הסתה שחצתה כל קו אדום\" - וואלה ברנז'ה",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE52TE1OTmZKbEZObC1HWnBMZTlJM0gzQk1jc3c4VEFINkEyM3JyZkRTczZmRFJISkd6TlBkdGx6dG9tZk4xTkdVOG9n?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2024-07-31",
-   "keywords": [
-    "דודי ורטהיים"
-   ],
-   "pv": true
-  },
-  {
-   "title": "בקבוק תבערה הושלך לעבר ביתו של דוד ורטהיים בעל השליטה בערוץ 12 - mako",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDR3WndhOHZrZmhiLUNUWG10VkkyNG1JM296RjlUZ3N1SnNtT2NvNlhQa1RXWjd0X3VNaEVic1U4X1dRREZhT1NGVEgzMkFaazV2ZEdodng4VXVYQXd1QjVPb1NwSTF2Q0I0MlVUZU1YaVlwNmNqcmRidm5tSjljY0cxcXcxczhLcXJUdg?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2024-07-30",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true
-  },
-  {
-   "title": "אבי ניר ואבי וייס הם מהמשחיתים הגדולים של הדמוקרטיה הישראלית - העין השביעית",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zcnlWR2pma3N4cW4xY3JteWhsd0NCVnpjVzU0cFo2cjNNMmhtNmkxcW02Ul9HbE1Jc1dFTXU4R2ZEVy02elMzbQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2023-11-10",
-   "keywords": [
-    "אבי ניר"
-   ],
-   "pv": true
-  },
-  {
-   "title": "הרפורמה בשוק התקשורת - היום",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVlzZmVrckFCcnowSHdUbzRnRlZraFdVak1MV29xR2xtTlRlU05JV2FaeV8wTXl1b1pudVh1ZUh5enRmaDNESWM4cWZOTndsRjNaSVA4dDJKQVhiSmU3S2FDbGRQdjMwTFJaM2VrMTlRb2pDWWI5NDA5Z1BpOUgyMHl5UkJmQThEREh6SGw2TnBwZjR5N3pTbFVwRGdDS2NnVmtFSUszWm1rY1RUdnE3ZlRrdXFMTDNnTVBNNDZ5T2pObWFNa2s0QjBvMDh1cUhyRzFad2FzWlBEVGg2?oc=5",
-   "source": "ישראל היום · אילי זילברברג",
-   "type": "google",
-   "date": "2023-02-07",
-   "keywords": [
-    "שוק התקשורת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "קשת חוגגת 20 שנה לארץ נהדרת: מי בא למסיבה? - ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wY285ek40N0NuUjc5b3QyRFVZTk5vNkdMVU9XQTJaNm9zWWF2WV90aHYyUkVqWndveUVTMkkxSFl5dEN3Mk4wTVI1eVVoT295ZTF5dzIyWQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2022-10-01",
-   "keywords": [
-    "ארץ נהדרת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"ארץ נהדרת\" זקוקה לקוסם אחרי עידן נתניהו - הארץ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeERzeVd0UTNESXpLOVZMX2ZrbVRQcDJVcjR0ajFhRC1CWnJnY3lYVXhlRnFyXzY4R0RMTm9PTUNxUU90bEpYMGdGLUp5VFBtbDlMWHIySUVHMXQzaDVtZDZxYjFZbFZEVXE0MVo0TFJITVB4c0pIWEw4WklTMWxNOE5FNGUtYmo2cElpYzlpaDVpZlJsamY5Z3o1UTBtOHNlRFp4aVlJZmlXc0p1cVNRUG54WXYwSkhhbE9OZWxITQ?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2021-11-11",
-   "keywords": [
-    "ארץ נהדרת"
-   ],
-   "pv": true
-  },
-  {
-   "title": "קוקה קולה ישראל שכרה חוקרים פרטיים לעקוב אחרי אדם שמסוכסך עם דרורית ודודי ורטהיים; הפרקליטות גנזה את התיק - המקום הכי חם בגיהנום",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vcy1CcUk4VkFOTFZsZ3llbUJxNk10OWV5Z3hpelhKZXFYU0ZoeHFrbzRnQ0FqR0JBb09VbW9PVFN5QXVDWjhwVHJDWTA2NGlhQjdBQ3EtbWtpLWtkRjF3Rk9n?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2021-10-25",
-   "keywords": [
-    "דודי ורטהיים",
-    "קוקה קולה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "הרשות השנייה - היום",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVBjdnRQa080YkJUcjhwUTJmNGQxYmR1dVlob1pZNlA3NFV5MWhmMWNWdktuXzF1X0xZZTNpRFNlRWNqck9mZWNTd2RmVjF5V1V4VHpmZ2lsMlkzWUQycnprR09oZy1fSHhSOVVGZko3UmFXTVNocTNmU0l1M1FzZUUwNmZRNXQyRGZfXzJZdU1GRkRqRHRIQ3ZFMXhmTHdTck1V?oc=5",
-   "source": "ישראל היום · אלינור שירקני קופמן",
-   "type": "google",
-   "date": "2021-06-23",
-   "keywords": [
-    "הרשות השנייה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "“התחרות היא לא רק בינינו לבין רשת. גוגל ופייסבוק מאיימות על תעשיית התוכן\" - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FZkNfdWthWWQ0MHJZa21GM2wyNmhwVWFzYWNwOHpETXBxR3dJdDhScGo3bTlwdUxCQnJRQ25KWWxacmoyUUN3ZG9ac1IycUxMVnhBVDZpbTU1TnFNZU5rUDloVmRNSzFo?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2019-04-04",
-   "keywords": [
-    "גוגל",
-    "פייסבוק"
-   ],
-   "pv": true
-  },
-  {
-   "title": "מי אתה דודי ורטהיים? האיש ששולט בקוקה קולה ובקשת - גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Wd1U0Q3ozUDhaSElvVC1Nd1p4MlZGU0N3SHlmVjREVS10aEg4R1JzbHl1SkFJd2cyTWFDSmZXbUY3bzhFUThtM0lEd1dZYlIzMEdGM01VeDJZU2lnUXVZSzNvMmw5ZEFf?oc=5",
-   "source": "חיפוש גוגל · דודי ורטהיים",
-   "type": "google",
-   "date": "2019-03-15",
-   "keywords": [
-    "דודי ורטהיים",
-    "קוקה קולה"
-   ],
-   "pv": true
-  },
-  {
-   "title": "רגע אחרי רכישת חברת החדשות, כוכבי \"קשת\" חוגגים - TMI",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QzI4aE9PN2dYbGtFanJPTE9PWjU0akc3SEVOSzdGWnlCeGFWUTV1eE5BRkRaRkNXQ29nR3RoMGFaQTNtSEZIZElWUXNuX0FJRUNaQks4MXdxTXRiTzBsMw?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2018-12-02",
-   "keywords": [],
-   "pv": true
-  },
-  {
-   "title": "ארץ נהדרת בפתיח לעונה העשירית ברוח משחקי הכס - מזבלה.קום",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LT2xzSGMwUV9Fa0x3cXczVTl4Z1pZelBmRjJvelVmNURWeWNWVFI5NGJvaThXRlRjeHpEOGhsWmdrSW1POHVUdTdR?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2012-12-26",
-   "keywords": [
-    "ארץ נהדרת"
    ],
    "pv": true
   }
