@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T15:32+00:00",
+ "updated": "2026-07-26T15:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,6 +150,24 @@
   }
  ],
  "items": [
+  {
+   "title": "פאנליסט 'הפטריוטים' שם סוף לשמועות: \"אתמודד בפריימריז\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rY3RIRkFQVFM4OWxmSWVudjBPUWtFWTJLUVpNWFoxQUdIc3VpdjRuVDQ4TXp5aVdwM3ZmcHdJOUJKcUhQVVF6RGI3d1haQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "הוד השרון: רוכב אופנוע נפצע בינוני בתאונת דרכים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45c2RZc3RKV3NCLXpQVldDaWV2TE5acl8zLW90Tnd0UXNuUzVjejk2OWY1V0cwNjdPaVZkZGtQME80RnJHMHQ1WUo4T0ZuUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
   {
    "title": "טרגדיה בניו יורק: בן 12 נהרג מקליע תועה במהלך קטטה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NdkZlMklMakJ0U0hvajJIbW9TS0g5NlNHLWxDQzh0TzhSSTRTb0ozcFN0Z3dFVFp6cFNqTGdUUndzSmpza0tQNnVZTFN2Zw?oc=5",
@@ -1228,6 +1246,17 @@
    "date": "2026-07-20",
    "keywords": [
     "ערוץ 14"
+   ],
+   "pv": true
+  },
+  {
+   "title": "הקרב החם על הרייטינג: הערוצים ברחו מכאן 11 בגמר המונדיאל",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wdGd6clBaMTVGYWQ1aEotanJEcGtta2EtT0NhR2k1TVR4NXRmelhXakpaZzJoaUg1Nlc4c25uUndsQ29iVGpjdlNZUFU0Z0tGckI1a2lUdFZaNVBVODMxeTNR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "רייטינג"
    ],
    "pv": true
   },
