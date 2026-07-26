@@ -88,6 +88,16 @@ SEARCHES = [
     {"source":"חיפוש גוגל · יפעת בן חי שגב","q":"יפעת בן חי שגב","unconditional":True,"recent":True},
 ]
 
+# X/Twitter accounts to monitor. NOT auto-collected — a cloud runner has no X
+# session, and X's API read access is paid (see README / the X note). Listed here
+# so the hub can SHOW them as monitored sources (verifiable coverage) even at 0.
+TWITTER = [
+    {"source":"X · שלמה קרעי","handle":"shlomo_karhi"},
+    {"source":"X · גלית דיסטל אטבריאן","handle":"GalitDistel"},
+    {"source":"X · דודי ורטהיים","handle":"dverthaim"},
+    {"source":"X · ינון מגל","handle":"YinonMagal"},
+]
+
 def norm_url(u):
     return re.sub(r"^https?://(www\.)?", "https://", u or "").rstrip("/")
 
@@ -185,7 +195,10 @@ def scrape_search(s):
         kws = matched_keywords(title)
         if not s["unconditional"] and not kws:
             continue
-        out.append({"title":title,"url":link,"source":s["source"],"type":"google",
+        # unconditional searches = the spec's Google searches → "google" section;
+        # Israel Hayom writer searches (conditional) belong to the "sites" section.
+        out.append({"title":title,"url":link,"source":s["source"],
+                    "type":("google" if s["unconditional"] else "site"),
                     "date":date,"keywords":kws,"pv":True})
     out = out[:12]                                   # cap per search
     print(f"    -> {len(out)} kept", file=sys.stderr)
@@ -235,11 +248,23 @@ def main():
 
     merged = new + items
     backfill_dates(merged)                          # correct real pub dates
+    # Google section = last 24h only: drop stale google items (incl. old residue).
+    before = len(merged)
+    merged = [i for i in merged
+              if not (i.get("type") == "google" and str(i.get("date","")) < RECENT_CUTOFF)]
+    if before != len(merged):
+        print(f"purged {before-len(merged)} stale google items (>24h)", file=sys.stderr)
     merged.sort(key=lambda i: str(i.get("date","")), reverse=True)   # newest first
     merged = merged[:400]                                            # hard cap
 
+    # Full source manifest — so the hub can show EVERY monitored source (incl. 0).
+    sources = ([{"source":s["source"],"kind":"site","active":True} for s in SITES]
+             + [{"source":s["source"],"kind":("google" if s.get("recent") else "site"),
+                 "active":True} for s in SEARCHES]
+             + [{"source":t["source"],"kind":"twitter","active":False} for t in TWITTER])
+
     out = {"updated": datetime.datetime.now().astimezone().isoformat(timespec="minutes"),
-           "keywords": KEYWORDS, "items": merged}
+           "keywords": KEYWORDS, "sources": sources, "items": merged}
     DATA.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"added {len(new)} new; total {len(merged)}", file=sys.stderr)
 

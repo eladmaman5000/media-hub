@@ -51,6 +51,19 @@
   .section h2{font-size:15px;color:var(--accent);border-bottom:1px solid var(--line);
     padding-bottom:6px;margin:0 0 14px;display:flex;gap:8px;align-items:baseline}
   .section h2 .scount{color:var(--muted);font-weight:400;font-size:12.5px}
+  .kw.zero{opacity:.4;cursor:default}
+  .kw .n{color:var(--muted);font-weight:400}
+  .kw.on .n{color:#111}
+  .coverage{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:10px 14px;margin-bottom:18px;font-size:13px}
+  .coverage summary{cursor:pointer;color:var(--accent2);font-weight:600}
+  .coverage .cov-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:12px}
+  .coverage h4{margin:0 0 6px;font-size:13px;color:var(--accent)}
+  .coverage ul{list-style:none;margin:0;padding:0}
+  .coverage li{padding:2px 0;color:var(--muted);display:flex;justify-content:space-between;gap:10px}
+  .coverage li .n{color:var(--txt)}
+  .coverage li.off{opacity:.55}
+  .coverage li .n.z{color:var(--muted)}
 </style>
 </head>
 <body>
@@ -72,6 +85,10 @@
     </select>
   </div>
   <div class="kw-bar" id="kwbar"></div>
+  <details class="coverage" id="cov">
+    <summary>כיסוי מלא — כל המקורות והחיפושים המנוטרים (כולל 0)</summary>
+    <div class="cov-grid" id="covbody"></div>
+  </details>
   <div class="count" id="count"></div>
   <div id="list"><div class="empty">טוען…</div></div>
 </div>
@@ -103,19 +120,51 @@ async function load(){
 
 function init(){
   const items = DATA.items||[];
-  $("#meta").textContent = "· " + items.length + " אייטמים · עודכן " + (DATA.updated ? new Date(DATA.updated).toLocaleString("he-IL",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "");
-  const srcs = [...new Set(items.map(i=>i.source))].sort();
+  const bySource = {}, byKw = {};
+  items.forEach(i=>{ bySource[i.source]=(bySource[i.source]||0)+1;
+    (i.keywords||[]).forEach(k=>byKw[k]=(byKw[k]||0)+1); });
+
+  $("#meta").textContent = "· " + items.length + " אייטמים · עודכן " +
+    (DATA.updated ? new Date(DATA.updated).toLocaleString("he-IL",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}) : "");
+
+  // source dropdown — every monitored source (from the manifest), with counts
+  const manifest = DATA.sources ||
+    [...new Set(items.map(i=>i.source))].map(s=>({source:s,kind:(items.find(i=>i.source===s)||{}).type,active:true}));
   const srcSel = $("#src"); srcSel.length = 1;
-  srcs.forEach(s=>{ const o=document.createElement("option"); o.value=s; o.textContent=s; srcSel.appendChild(o); });
-  const kws = [...new Set(items.flatMap(i=>i.keywords||[]))].sort();
+  manifest.map(m=>m.source).forEach(s=>{ const o=document.createElement("option");
+    o.value=s; o.textContent=`${s} (${bySource[s]||0})`; srcSel.appendChild(o); });
+
+  // keyword chips — ALL configured keywords with counts; 0-count greyed + inert
+  const kws = DATA.keywords || [...new Set(items.flatMap(i=>i.keywords||[]))];
   $("#kwbar").innerHTML = "";
-  kws.forEach(k=>{ const c=document.createElement("span"); c.className="kw"; c.textContent=k;
-    c.onclick=()=>{ c.classList.toggle("on"); state.kw.has(k)?state.kw.delete(k):state.kw.add(k); render(); };
+  kws.forEach(k=>{ const n = byKw[k]||0;
+    const c=document.createElement("span");
+    c.className = "kw" + (n===0 ? " zero" : "");
+    c.innerHTML = `${k} <span class="n">${n}</span>`;
+    if(n>0) c.onclick=()=>{ c.classList.toggle("on"); state.kw.has(k)?state.kw.delete(k):state.kw.add(k); render(); };
     $("#kwbar").appendChild(c); });
+
+  renderCoverage(manifest, bySource);
+
   $("#q").oninput = e=>{ state.q=e.target.value.trim(); render(); };
   $("#src").onchange = e=>{ state.src=e.target.value; render(); };
   $("#sort").onchange = e=>{ state.sort=e.target.value; render(); };
   render();
+}
+
+function renderCoverage(manifest, bySource){
+  const groups = [
+    ["אתרים", manifest.filter(m=>m.kind==="site")],
+    ["חיפושי גוגל", manifest.filter(m=>m.kind==="google")],
+    ["טוויטר · דורש X API", manifest.filter(m=>m.kind==="twitter")],
+  ];
+  $("#covbody").innerHTML = groups.map(([title,arr])=>{
+    if(!arr.length) return "";
+    const lis = arr.map(m=>{ const n=bySource[m.source]||0;
+      return `<li class="${m.active===false?'off':''}"><span>${m.source}</span><span class="n ${n===0?'z':''}">${n}</span></li>`;
+    }).join("");
+    return `<div><h4>${title} (${arr.length})</h4><ul>${lis}</ul></div>`;
+  }).join("");
 }
 
 function cardHtml(i, today){
