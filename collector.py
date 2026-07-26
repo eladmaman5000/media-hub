@@ -86,16 +86,13 @@ SEARCHES = [
     {"source":"חיפוש גוגל · גלית דיסטל","q":"גלית דיסטל","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · פטריק דרהי","q":"פטריק דרהי","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · יפעת בן חי שגב","q":"יפעת בן חי שגב","unconditional":True,"recent":True},
-]
 
-# X/Twitter accounts to monitor. NOT auto-collected — a cloud runner has no X
-# session, and X's API read access is paid (see README / the X note). Listed here
-# so the hub can SHOW them as monitored sources (verifiable coverage) even at 0.
-TWITTER = [
-    {"source":"X · שלמה קרעי","handle":"shlomo_karhi"},
-    {"source":"X · גלית דיסטל אטבריאן","handle":"GalitDistel"},
-    {"source":"X · דודי ורטהיים","handle":"dverthaim"},
-    {"source":"X · ינון מגל","handle":"YinonMagal"},
+    # Whole-outlet coverage via Google News site: search, keyword-filtered (kind=site).
+    # n12 and mako are the SAME system (Keshet) — n12 article links point to mako.co.il —
+    # so site:mako.co.il covers both.
+    {"source":"n12 / מאקו · חדשות 12","q":"site:mako.co.il (חוק התקשורת OR חוק השידורים OR ערוץ 14 OR ערוץ 12 OR קרעי OR רייטינג OR קשת OR הרשות השנייה)","unconditional":False},
+    {"source":"ice · תקשורת","q":"site:ice.co.il (ערוץ 14 OR ערוץ 12 OR קשת OR רייטינג OR חוק השידורים OR קרעי OR חוק התקשורת)","unconditional":False},
+    {"source":"ביזפורטל","q":"site:bizportal.co.il (חוק התקשורת OR ערוץ 14 OR קרעי OR רגולציה OR רייטינג OR קשת)","unconditional":False},
 ]
 
 def norm_url(u):
@@ -254,14 +251,14 @@ def main():
               if not (i.get("type") == "google" and str(i.get("date","")) < RECENT_CUTOFF)]
     if before != len(merged):
         print(f"purged {before-len(merged)} stale google items (>24h)", file=sys.stderr)
+    merged = [i for i in merged if i.get("type") != "twitter"]        # X removed from sources
     merged.sort(key=lambda i: str(i.get("date","")), reverse=True)   # newest first
     merged = merged[:400]                                            # hard cap
 
     # Full source manifest — so the hub can show EVERY monitored source (incl. 0).
     sources = ([{"source":s["source"],"kind":"site","active":True} for s in SITES]
              + [{"source":s["source"],"kind":("google" if s.get("recent") else "site"),
-                 "active":True} for s in SEARCHES]
-             + [{"source":t["source"],"kind":"twitter","active":False} for t in TWITTER])
+                 "active":True} for s in SEARCHES])
 
     out = {"updated": datetime.datetime.now().astimezone().isoformat(timespec="minutes"),
            "keywords": KEYWORDS, "sources": sources, "items": merged}

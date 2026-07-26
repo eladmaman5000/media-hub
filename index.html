@@ -64,6 +64,17 @@
   .coverage li .n{color:var(--txt)}
   .coverage li.off{opacity:.55}
   .coverage li .n.z{color:var(--muted)}
+  .tickets{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;align-items:start}
+  .ticket{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  .ticket>summary{cursor:pointer;padding:13px 16px;font-size:15px;font-weight:600;color:var(--accent);
+    display:flex;gap:8px;align-items:baseline;list-style:none;user-select:none}
+  .ticket>summary::-webkit-details-marker{display:none}
+  .ticket>summary::before{content:"▸";color:var(--muted);font-weight:400}
+  .ticket[open]>summary::before{content:"▾"}
+  .ticket>summary .scount{color:var(--muted);font-weight:400;font-size:12.5px}
+  .ticket[open]>summary{border-bottom:1px solid var(--line)}
+  .ticket-body{padding:14px 16px}
+  .ticket-body .card:last-child{margin-bottom:0}
 </style>
 </head>
 <body>
@@ -103,7 +114,7 @@
 <script>
 const $ = s => document.querySelector(s);
 let DATA = {updated:null, items:[]};
-let state = { q:"", src:"", sort:"date", kw:new Set() };
+let state = { q:"", src:"", sort:"date", kw:new Set(), open:{sites:false, google:false} };
 
 function fmtDate(d){ if(!d) return ""; const p=String(d).split("-"); return p.length===3? p[2]+"."+p[1]+"."+p[0].slice(2) : d; }
 
@@ -180,10 +191,14 @@ function cardHtml(i, today){
     </div>`;
 }
 
-function sectionHtml(title, arr, today){
-  if(!arr.length) return "";
-  return `<div class="section"><h2>${title}<span class="scount">${arr.length}</span></h2>`
-       + arr.map(i=>cardHtml(i,today)).join("") + `</div>`;
+function ticketHtml(key, title, arr, today){
+  const open = state.open[key] ? " open" : "";
+  const body = arr.length ? arr.map(i=>cardHtml(i,today)).join("")
+                          : '<div class="empty">אין אייטמים</div>';
+  return `<details class="ticket" data-k="${key}"${open}>
+    <summary>${title}<span class="scount">${arr.length}</span></summary>
+    <div class="ticket-body">${body}</div>
+  </details>`;
 }
 
 function render(){
@@ -194,10 +209,13 @@ function render(){
   items.sort((a,b)=> state.sort==="src" ? (a.source>b.source?1:-1) : (String(b.date)>String(a.date)?1:-1));
   $("#count").textContent = items.length + " אייטמים מוצגים";
   const today = (DATA.updated||"").slice(0,10);
-  const sites  = items.filter(i=>i.type!=="google");   // אתרים + טוויטר
-  const google = items.filter(i=>i.type==="google");   // חיפושי גוגל
-  const html = sectionHtml("אתרים", sites, today) + sectionHtml("חיפושי גוגל", google, today);
-  $("#list").innerHTML = html || '<div class="empty">אין אייטמים תואמים לסינון</div>';
+  const sites  = items.filter(i=>i.type!=="google");   // אתרים + טוויטר (ימין)
+  const google = items.filter(i=>i.type==="google");   // חיפושי גוגל (שמאל)
+  $("#list").innerHTML =
+    `<div class="tickets">${ticketHtml("sites","אתרים",sites,today)}${ticketHtml("google","חיפושי גוגל",google,today)}</div>`;
+  document.querySelectorAll("#list details.ticket").forEach(d=>{
+    d.addEventListener("toggle", ()=>{ state.open[d.dataset.k] = d.open; });
+  });
 }
 load();
 </script>
