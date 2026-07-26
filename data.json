@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T10:31+00:00",
+ "updated": "2026-07-26T10:37+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -146,6 +146,15 @@
   }
  ],
  "items": [
+  {
+   "title": "אל-ג'ולאני: \"סוריה פועלת להגיע להסכם ביטחוני עם ישראל\" - C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FeHYzV0dZUlVrVnNVMEJFbnRRVkdCY2Z1Z2h2eXNQWTB5dlh2aHpMaEVaTHFubzlFMkh5VTVmckduVzgxV1htV1NSYkxydw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true
+  },
   {
    "title": "התאגיד מצטרף לעתירות נגד חוק קרעי: \"מהלך ענישה פוליטי מוצהר\" - TheMarker",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS3FvU212bGdKM1dFeE5VSGEwdWVGYWRWYUVqVzdDcjJHR2xldzAxOGdDWGxzRVpGTE1aUkdwQWxhQXcwUnpWWjlWT2RjUE53MXgtd1c3cU40VXJFbWs4TTZmY1JHanBJb0dIUEVUZzU0VUNXSm5LYjhBLW0xbUQtU3l1MFN0WHVvMU1QM2x1emZqcjN1RXRWR2pHUkxOTm9yT2RZYXJJSl9FN3M?oc=5",
@@ -1171,6 +1180,17 @@
    "date": "2026-06-11",
    "keywords": [
     "חוק השידורים"
+   ],
+   "pv": true
+  },
+  {
+   "title": "\"לא נוכל לסמוך ידינו על הנוסח\": הייעוץ המשפטי נגד חוק התקשורת של קרעי - היום",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kOHA5RDBQNUpDYlRFMGFJVjJpekQtTjNjdmFLSzdjQ0ZuTllDSDluS1Z3MHRoeVhlLXd3a3ozMHl5TVQtbXBHVmhWWXFYRG5leFZjYzZGcGp2bmY3SmJiZDBYMTI4cXQ3Rk93SdIBdEFVX3lxTE45RFdhci1pTVJtR2tJOEVJekNJRXRfNHVtaHdIeWxDanNOTHdaS25sZGd5Nm05djlRWS1ZY1hpX3IxNWpITFVGcno4ZE93YXNzd1N6TXdMTlM1Mkdxbm5GMmJicGs4QS1jZ0N0MG1hVlotcjJh?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-06-09",
+   "keywords": [
+    "חוק התקשורת"
    ],
    "pv": true
   },
