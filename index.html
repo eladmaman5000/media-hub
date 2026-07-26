@@ -83,7 +83,7 @@
     <h1>HUB <span class="dot">·</span> ניטור תקשורת</h1>
     <span class="meta" id="meta"></span>
   </div>
-  <span class="meta">מתעדכן אוטומטית כל שעה</span>
+  <span class="meta">מתעדכן אוטומטית כל רבע שעה</span>
 </header>
 
 <div class="wrap">
@@ -93,6 +93,15 @@
     <select id="sort">
       <option value="date">מיון: הכי חדש</option>
       <option value="src">מיון: לפי מקור</option>
+    </select>
+    <select id="days">
+      <option value="1">טווח: 24 שעות</option>
+      <option value="3">טווח: 3 ימים</option>
+      <option value="7" selected>טווח: שבוע</option>
+      <option value="14">טווח: שבועיים</option>
+      <option value="30">טווח: 30 יום</option>
+      <option value="60">טווח: 60 יום</option>
+      <option value="0">טווח: הכל</option>
     </select>
   </div>
   <div class="kw-bar" id="kwbar"></div>
@@ -114,7 +123,7 @@
 <script>
 const $ = s => document.querySelector(s);
 let DATA = {updated:null, items:[]};
-let state = { q:"", src:"", sort:"date", kw:new Set(), open:{sites:false, google:false} };
+let state = { q:"", src:"", sort:"date", days:7, kw:new Set(), open:{sites:false, google:false} };
 
 function fmtDate(d){ if(!d) return ""; const p=String(d).split("-"); return p.length===3? p[2]+"."+p[1]+"."+p[0].slice(2) : d; }
 
@@ -160,6 +169,7 @@ function init(){
   $("#q").oninput = e=>{ state.q=e.target.value.trim(); render(); };
   $("#src").onchange = e=>{ state.src=e.target.value; render(); };
   $("#sort").onchange = e=>{ state.sort=e.target.value; render(); };
+  $("#days").onchange = e=>{ state.days=+e.target.value; render(); };
   render();
 }
 
@@ -203,6 +213,8 @@ function ticketHtml(key, title, arr, today){
 
 function render(){
   let items = (DATA.items||[]).slice();
+  if(state.days>0){ const c=new Date(); c.setDate(c.getDate()-state.days);
+    const cut=c.toISOString().slice(0,10); items=items.filter(i=>String(i.date)>=cut); }
   if(state.q){ const q=state.q; items=items.filter(i=>i.title.includes(q)); }
   if(state.src) items=items.filter(i=>i.source===state.src);
   if(state.kw.size) items=items.filter(i=>(i.keywords||[]).some(k=>state.kw.has(k)));

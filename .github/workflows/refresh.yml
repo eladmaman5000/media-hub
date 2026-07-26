@@ -2,7 +2,7 @@ name: refresh-hub
 
 on:
   schedule:
-    - cron: "0 * * * *"      # every hour (UTC; GitHub may delay a few minutes)
+    - cron: "*/15 * * * *"   # every 15 min (GitHub free-tier schedules can lag/skip under load)
   workflow_dispatch: {}       # lets you run it manually from the Actions tab
 
 permissions:
