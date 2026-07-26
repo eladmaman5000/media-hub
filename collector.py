@@ -31,7 +31,9 @@ HERE = pathlib.Path(__file__).parent
 DATA = HERE / "data.json"
 TODAY = datetime.date.today()
 TODAY_S = TODAY.isoformat()
-RECENT_CUTOFF = (TODAY - datetime.timedelta(days=1)).isoformat()   # "24h" window
+RECENT_CUTOFF = (TODAY - datetime.timedelta(days=1)).isoformat()   # "24h" window (google)
+MAX_AGE_DAYS = 60                                                  # retention; UI picks the view window
+AGE_CUTOFF = (TODAY - datetime.timedelta(days=MAX_AGE_DAYS)).isoformat()
 BACKFILL_CAP = 25          # max article fetches per run to correct old dates
 
 HEADERS = {
@@ -253,6 +255,10 @@ def main():
     if before != len(merged):
         print(f"purged {before-len(merged)} stale google items (>24h)", file=sys.stderr)
     merged = [i for i in merged if i.get("type") != "twitter"]        # X removed from sources
+    before2 = len(merged)
+    merged = [i for i in merged if str(i.get("date","")) >= AGE_CUTOFF]   # drop old items
+    if before2 != len(merged):
+        print(f"purged {before2-len(merged)} items older than {MAX_AGE_DAYS}d", file=sys.stderr)
     merged.sort(key=lambda i: str(i.get("date","")), reverse=True)   # newest first
     merged = merged[:400]                                            # hard cap
 
