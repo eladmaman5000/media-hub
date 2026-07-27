@@ -36,6 +36,7 @@ MAX_AGE_DAYS = 60                                                  # retention; 
 AGE_CUTOFF = (TODAY - datetime.timedelta(days=MAX_AGE_DAYS)).isoformat()
 BACKFILL_CAP = 25          # max article fetches per run to correct old dates
 RUN_STATS = []             # per-source health for THIS run (fetch ok? how many kept?) → data.json "diag"
+LAST_ERR = None           # set by get() on failure so callers can attach the reason to diag
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -110,13 +111,16 @@ def matched_keywords(text):
     return [k for k in KEYWORDS if k in t]
 
 def get(url):
+    global LAST_ERR
     try:
         r = requests.get(url, headers=HEADERS, timeout=25)
         if r.status_code != 200:
+            LAST_ERR = f"HTTP {r.status_code}"
             print(f"  ! {url} -> HTTP {r.status_code}", file=sys.stderr)
             return None
         return r.text
     except Exception as e:
+        LAST_ERR = f"{type(e).__name__}: {e}"
         print(f"  ! {url} -> {e}", file=sys.stderr)
         return None
 
@@ -141,6 +145,7 @@ def fetch_pubdate(url):
 
 def scrape_site(site):
     html = get(site["url"])
+    err = None if html else LAST_ERR
     out, local = [], set()
     if html:
         soup = BeautifulSoup(html, "html.parser")
@@ -162,7 +167,10 @@ def scrape_site(site):
             d = url_date(url)              # free date if embedded in the URL
             out.append({"title":title,"url":url,"source":site["source"],"type":"site",
                         "date":d or TODAY_S,"keywords":kws,"pv":bool(d)})
-    RUN_STATS.append({"source":site["source"],"kind":"site","ok":html is not None,"kept":len(out)})
+    stat = {"source":site["source"],"kind":"site","ok":html is not None,"kept":len(out)}
+    if err:
+        stat["err"] = err
+    RUN_STATS.append(stat)
     print(f"    -> {len(out)} kept", file=sys.stderr)
     return out
 
@@ -172,13 +180,14 @@ def scrape_search(s):
            else "&hl=he&gl=IL&ceid=IL:he")
     url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(q) + loc
     xml = get(url)
+    err = None if xml else LAST_ERR
     kind = "google" if s["unconditional"] else "site"   # google-topic search vs whole-outlet
     ok, root, out = xml is not None, None, []
     if ok:
         try:
             root = ET.fromstring(xml)
         except Exception as e:
-            print(f"    ! parse error: {e}", file=sys.stderr); ok = False
+            print(f"    ! parse error: {e}", file=sys.stderr); ok = False; err = f"parse error: {e}"
     if root is not None:
         for item in root.findall(".//item"):
             title = norm_title(item.findtext("title"))
@@ -205,7 +214,10 @@ def scrape_search(s):
             out.append({"title":title,"url":link,"source":s["source"],"type":kind,
                         "date":date,"keywords":kws,"pv":True,"publisher":pub})
     out = out[:12]                                   # cap per search
-    RUN_STATS.append({"source":s["source"],"kind":kind,"ok":ok,"kept":len(out)})
+    stat = {"source":s["source"],"kind":kind,"ok":ok,"kept":len(out)}
+    if not ok and err:
+        stat["err"] = err
+    RUN_STATS.append(stat)
     print(f"    -> {len(out)} kept", file=sys.stderr)
     return out
 
