@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T19:15+00:00",
+ "updated": "2026-07-27T19:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "צה\"ל מאשר: החל ממחר פועלים ערבים ישובו לעבוד בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zeWxWX0JNUW4yZFpsNzg5WVR2VGlRQVZFQTRwdlh3UUlaMFhyYnZhRHE3RHQzNTNBTjRnVno5d09PdF9PMmNheGM5MkFuUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הברז נסגר: כך נעצרה \"תעשיית הפיצויים\" למפגיני השמאל במשטרה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mQUpqM2FxQlZvSEFBMzVpbWJWSjYyRC1nRzZPeXdiNDhGT18zZkNnVHpYa282MVlZd1oySlRtTEgxZ0h6UHRsOWR4OXZ0UQ?oc=5",
