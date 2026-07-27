@@ -53,9 +53,6 @@ KEYWORDS = ["קשת 12","ערוץ 12","חדשות 12","ערוץ 14","כוח מא
 
 # Writer / tag pages. `pattern` = regex an ARTICLE href must match on that domain.
 SITES = [
-    {"source":"כלכליסט · עומר כביר","base":"https://www.calcalist.co.il",
-     "url":"https://www.calcalist.co.il/tags/%D7%A2%D7%95%D7%9E%D7%A8_%D7%9B%D7%91%D7%99%D7%A8",
-     "pattern":r"/article/[A-Za-z0-9]+"},
     {"source":"גלובס · נבו טרבלסי","base":"https://www.globes.co.il",
      "url":"https://www.globes.co.il/news/%D7%A0%D7%91%D7%95_%D7%98%D7%A8%D7%91%D7%9C%D7%A1%D7%99.tag",
      "pattern":r"/news/article\.aspx\?did=\d+"},
@@ -98,6 +95,8 @@ SEARCHES = [
     {"source":"n12 / מאקו · חדשות 12","q":"site:mako.co.il (חוק התקשורת OR חוק השידורים OR ערוץ 14 OR ערוץ 12 OR קרעי OR רייטינג OR קשת OR הרשות השנייה)","unconditional":False},
     {"source":"ice · תקשורת","q":"site:ice.co.il (ערוץ 14 OR ערוץ 12 OR קשת OR רייטינג OR חוק השידורים OR קרעי OR חוק התקשורת)","unconditional":False},
     {"source":"ביזפורטל","q":"site:bizportal.co.il (חוק התקשורת OR ערוץ 14 OR קרעי OR רגולציה OR רייטינג OR קשת)","unconditional":False},
+    # Calcalist blocks direct scraping (HTTP 403) → route through Google News site: like the rest.
+    {"source":"כלכליסט · עומר כביר","q":"site:calcalist.co.il (חוק התקשורת OR חוק השידורים OR ערוץ 14 OR ערוץ 12 OR קרעי OR רייטינג OR קשת OR הרשות השנייה OR מטא OR גוגל)","unconditional":False},
 ]
 
 def norm_url(u):
