@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T20:00+00:00",
+ "updated": "2026-07-27T20:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ניצחון לנתניהו וכץ: חברי מרכז הליכוד אישרו את כלל ההצעות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RVjhOcXN0OUlVYW13ckpwc2hkaVJPNzNPQi0wNmd0b0JZeGE2cktoOUtuZGRIVDNWTjZCd1pBQ21xcWI4Y2tuZXVOWVZsdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "המלחמה לא נגמרת: פוטין יגייס לצבא הרוסי 25,000 חיילים חדשים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sQy13Vy1ORDhuZFduVUg2eFBtZUwxc2JPeEZpbmVGd2FBQUUyWTFSc1JRakkxTGlGQXctazFxbWc0eTZLcVhNdWlScEVFdw?oc=5",
