@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T15:30+00:00",
+ "updated": "2026-07-27T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "איפה לונדברג חתם לשלוש שנים נוספות במכבי תל אביב",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTc0UURaZEVIb3dSZEdIWlZRRTZ4enFacGE0dy1vbTl2LWxBVGlmNHh5UVdJaTU3VTJ3d2h0S011V19mV1lPTV9MUmhMRkdLbFNnRWhtUUo4TFNBY3Z6NERHSGtSSGEwSHpHTzNKLXJMOUc5UTVpdXB3d2lMOW1oUmc4bmxvb0pSX1NDeGJsUjI1Q1ZpYjhqMDBNZnM3TUozY19V?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "אחרי גל הפיטורין: שינוי הכיוון המפתיע של ענקיות הטכנולוגיה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tcEgtVUJrWXh3T3JOdGxDZWhkSHExdnltcnlIOXhJelV0dks4WFlvQzQ3LVR1WHVlMlZQX2F4eHdYR1lyem12NXhWOGR2Zw?oc=5",
