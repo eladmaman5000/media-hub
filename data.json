@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T19:45+00:00",
+ "updated": "2026-07-27T20:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המלחמה לא נגמרת: פוטין יגייס לצבא הרוסי 25,000 חיילים חדשים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sQy13Vy1ORDhuZFduVUg2eFBtZUwxc2JPeEZpbmVGd2FBQUUyWTFSc1JRakkxTGlGQXctazFxbWc0eTZLcVhNdWlScEVFdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "צה\"ל מאשר: החל ממחר פועלים ערבים ישובו לעבוד בישראל",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zeWxWX0JNUW4yZFpsNzg5WVR2VGlRQVZFQTRwdlh3UUlaMFhyYnZhRHE3RHQzNTNBTjRnVno5d09PdF9PMmNheGM5MkFuUQ?oc=5",
