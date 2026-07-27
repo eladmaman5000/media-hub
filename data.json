@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T15:00+00:00",
+ "updated": "2026-07-27T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "הקרקס של גוש הבלבול נמשך: קרבות על ההנהגה וגימיקים בקפריסין",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10ZmFFSWNNVEZnLWItWjhJbU5VNmtlMGt4VUFWTm9SNjhNTDJiVmVZaDVVbmQ5STNNc2d1cDFyM09ZQVZkeDVJZ2ZLb3ZmZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "בת 4 נפצעה בינוני ברכיבה על קורקינט בראשון לציון",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82MGxFNmtqbFgxaXp1X2FGTVB0ejZoM3BDXzhmRG84RmE0ZXpENkJ1MlZMclplaHJYcUdSelhUdXJXelJRM0xzdmtHa1llQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "בת 74 נפגעה מקורקינט חשמלי באשדוד - מצבה בינוני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VcjJCSUt4WnRRSDR2dU15NTQ0cnN5ZHItY3pzRmgySm83QjRrM1JfYnJqVUN5YTh6c0FsSUEtT0xGLTZfU1pfcnFxalZzUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "אימו של הלוחם שנשקו נחטף בסוף השבוע נגד הוראות הפתיחה באש",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KNFJDSmhhVXJNWl93c29Hek03RDl3Y3h0WGJiWlRfT1diZGE2MzVWaGd3YW8tcFllN041UkdpdmlVU25oempuUnV3OHB5UQ?oc=5",
@@ -941,6 +971,16 @@
    "date": "2026-07-27",
    "keywords": [],
    "pv": true
+  },
+  {
+   "title": "דייויד מוזס - הדבר הבא בכדורסל הישראלי",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56OWlrcS1iXzktaGg2TU41cmk3WUNGM3FnUWFwX21EbkhaZVBNR3FTRHFPdUY3XzY2UkZHMVpaNkZjb3hPN3JOODZXQlE1MmQyZ1dtaGRHQ1RsbmVoc1dDZ1lnTFZ6eTMtZmVzUWNkZGpPZVU?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-07-26",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Sport5"
   },
   {
    "title": "ינון מגל ובן כספית",
