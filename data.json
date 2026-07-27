@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T14:45+00:00",
+ "updated": "2026-07-27T14:57+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -39,11 +39,6 @@
   "HOT"
  ],
  "sources": [
-  {
-   "source": "כלכליסט · עומר כביר",
-   "kind": "site",
-   "active": true
-  },
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
@@ -148,16 +143,14 @@
    "source": "ביזפורטל",
    "kind": "site",
    "active": true
-  }
- ],
- "diag": [
+  },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 403"
-  },
+   "active": true
+  }
+ ],
+ "diag": [
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
@@ -210,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -222,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -252,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -283,9 +276,25 @@
    "kind": "site",
    "ok": true,
    "kept": 12
+  },
+  {
+   "source": "כלכליסט · עומר כביר",
+   "kind": "site",
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "אימו של הלוחם שנשקו נחטף בסוף השבוע נגד הוראות הפתיחה באש",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KNFJDSmhhVXJNWl93c29Hek03RDl3Y3h0WGJiWlRfT1diZGE2MzVWaGd3YW8tcFllN041UkdpdmlVU25oempuUnV3OHB5UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "היועמ\"שית ביקשה מבג\"ץ צו ביניים לחוק מח\"ש",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GdUZvMjBLVTlCZjh6VFNQRnVvcnVOc0FCd3poUDNnTWNxUHVlLU16b181emdycGszdW1LZVZvMG5FWEFVTXJEZk1LSllRQQ?oc=5",
@@ -2403,6 +2412,18 @@
    "pv": true
   },
   {
+   "title": "לאחר שהחזרת סעיפי החרדים נפסלה: חוק השידורים עבר לקריאה שנייה ושלישית",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CRFoxT0JoVTRWeEdDR3JhMzIwYzhfaVlzM3laMEVqcmJ4bnJZYWVzbk5uaGpOc3RyYlN2eFQzMGN6UTMzS0xBNnlJc1F5VzZxNWVqSWpPQnFISmN1Z2FYcmdEMFhHUWs4?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-06",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
+  },
+  {
    "title": "תלונה נגד ערוץ 14: חשד לפגיעה שיטתית בביטחון מדינת ישראל",
    "url": "https://www.haaretz.co.il/gallery/television/news/2026-07-06/ty-article/0000019f-3790-db7c-af9f-37d551a50000",
    "source": "הארץ · עידו דוד כהן",
@@ -2445,6 +2466,18 @@
     "ערוץ 14"
    ],
    "pv": true
+  },
+  {
+   "title": "חיסכון של מיליונים: קרעי מסדר עוד הטבה מפנקת לערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kZ05tcDdwMFpzOGNxTnJFNm5EY2o1RENQY29YV003bHp3NXZHU3BtWUttNGw1S2dXbC1TVzVLYUY2bXZ6eFdvN1V5aVNjbVFrSTBaODhCZ0d1Q0hYeS1oeEJnMFpyMzFY?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-02",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
   },
   {
    "title": "הדרישה לבלום את תקנות קרעי: \"רגולציה שנתפרה למידותיו של ערוץ 14\" - mako",
@@ -2490,6 +2523,19 @@
     "חוק התקשורת"
    ],
    "pv": true
+  },
+  {
+   "title": "מכניעה לטראמפ ועד פינוקים לערוץ 14: כך עוצב מחדש שוק התקשורת ברגע האחרון",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Dc1ZHY25IR216YzRtLXMwRGIwbnNsWUhYR2V0cFVkNTN4RXBxd0hCUTlMa1VEakRQTllTclhDWm9OYmlSN1hOdFlxMEF4eFZ4TVVabXZZbWZuQnVndFpLWXZPN084dXREeUE?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-06-06",
+   "keywords": [
+    "ערוץ 14",
+    "שוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "כלכליסט"
   },
   {
    "title": "גרפיטי רוסס מחוץ למשרדי קשת: \"פלג, דרוקר ואברמוביץ', תשלמו בדם יקירכם\"",
