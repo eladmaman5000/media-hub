@@ -43,6 +43,7 @@
   .tags{display:flex;flex-wrap:wrap;gap:5px}
   .tag{background:var(--chip);border-radius:6px;padding:2px 8px;font-size:11.5px;color:var(--muted)}
   .badge{background:var(--new);color:#fff;border-radius:6px;padding:2px 8px;font-size:11px;font-weight:600}
+  .pub{color:var(--muted);font-size:12px}
   .type-google .src{color:var(--accent)}
   .type-twitter .src{color:#1d9bf0}
   footer{max-width:1100px;margin:0 auto;padding:24px 20px 40px;color:var(--muted);font-size:12.5px;border-top:1px solid var(--line)}
@@ -64,6 +65,9 @@
   .coverage li .n{color:var(--txt)}
   .coverage li.off{opacity:.55}
   .coverage li .n.z{color:var(--muted)}
+  .coverage .st{font-size:11px}
+  .coverage .st.err{color:#e5534b}
+  .coverage .st.ok{color:#3fb950}
   .tickets{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;align-items:start}
   .ticket{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
   .ticket>summary{cursor:pointer;padding:13px 16px;font-size:15px;font-weight:600;color:var(--accent);
@@ -117,7 +121,8 @@
   <b>מה זה:</b> ריכוז אוטומטי של אייטמים סביב חוק התקשורת, ערוץ 12/14, רגולציית מדיה והדמויות המעורבות.<br>
   <b>מקורות:</b> כלכליסט (עומר כביר), גלובס (נבו טרבלסי · גלית חתן), דה-מרקר (יסמין גואטה · נתי טוקר), הארץ (עידו דוד כהן), ישראל היום, וחיפושי גוגל על שמות המפתח.<br>
   <b>סינון:</b> אייטמים מהאתרים נכנסים רק אם הם מכילים אחת ממילות המפתח; אייטמים מחיפושי גוגל נכנסים ללא תנאי מילות מפתח, אך רק מ-24 השעות האחרונות.<br>
-  <b>תאריך:</b> תאריך הפרסום המקורי כפי שמופיע במקור.
+  <b>תאריך:</b> תאריך הפרסום המקורי כפי שמופיע במקור.<br>
+  <b>"חדש":</b> אייטם שטרם נצפה על ידך מאז הכניסה הקודמת ל-HUB (נשמר בדפדפן שלך).
 </footer>
 
 <script>
@@ -180,15 +185,18 @@ function init(){
 }
 
 function renderCoverage(manifest, bySource){
+  const diag = {}; (DATA.diag||[]).forEach(d=>diag[d.source]=d);   // per-source last-run health
   const groups = [
     ["אתרים", manifest.filter(m=>m.kind==="site")],
     ["חיפושי גוגל", manifest.filter(m=>m.kind==="google")],
-    ["טוויטר · דורש X API", manifest.filter(m=>m.kind==="twitter")],
   ];
   $("#covbody").innerHTML = groups.map(([title,arr])=>{
     if(!arr.length) return "";
-    const lis = arr.map(m=>{ const n=bySource[m.source]||0;
-      return `<li class="${m.active===false?'off':''}"><span>${m.source}</span><span class="n ${n===0?'z':''}">${n}</span></li>`;
+    const lis = arr.map(m=>{ const n=bySource[m.source]||0; const d=diag[m.source]; let st="";
+      if(d){ st = d.ok===false ? ' <span class="st err" title="שגיאת משיכה בריצה האחרונה">⚠</span>'
+                  : (d.kept ? ' <span class="st ok" title="נמשך תקין בריצה האחרונה">✓</span>'
+                            : ' <span class="st" title="נמשך תקין, אין התאמות בריצה האחרונה">○</span>'); }
+      return `<li class="${m.active===false?'off':''}"><span>${m.source}${st}</span><span class="n ${n===0?'z':''}">${n}</span></li>`;
     }).join("");
     return `<div><h4>${title} (${arr.length})</h4><ul>${lis}</ul></div>`;
   }).join("");
@@ -200,6 +208,7 @@ function cardHtml(i, today){
       <a class="title" href="${i.url}" target="_blank" rel="noopener">${i.title}</a>
       <div class="row">
         <span class="src">${i.source}</span>
+        ${i.publisher?`<span class="pub">· פורסם ב־${i.publisher}</span>`:''}
         <span>${fmtDate(i.date)}</span>
         ${!seenAtLoad.has(i.url)?'<span class="badge">חדש</span>':''}
         <span class="tags">${(i.keywords||[]).map(k=>`<span class="tag">${k}</span>`).join("")}</span>

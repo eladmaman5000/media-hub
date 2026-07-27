@@ -35,6 +35,7 @@ RECENT_CUTOFF = (TODAY - datetime.timedelta(days=1)).isoformat()   # "24h" windo
 MAX_AGE_DAYS = 60                                                  # retention; UI picks the view window
 AGE_CUTOFF = (TODAY - datetime.timedelta(days=MAX_AGE_DAYS)).isoformat()
 BACKFILL_CAP = 25          # max article fetches per run to correct old dates
+RUN_STATS = []             # per-source health for THIS run (fetch ok? how many kept?) → data.json "diag"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -47,7 +48,7 @@ KEYWORDS = ["קשת 12","ערוץ 12","חדשות 12","ערוץ 14","כוח מא
     "שוק התקשורת","החוק להחלשת התקשורת","הרשות השנייה",
     "אבי ניר","ארץ נהדרת","עובדה","רייטינג","ניר ברקת","יואב קיש","יעקב ברדוגו","ינון מגל",
     "גוגל","יוטיוב","מטא","פייסבוק","רגולציה","תרעלה","תבהלה",
-    "חוק קרעי","i24","הוט","HOT"]
+    "חוק קרעי","גלית דיסטל","i24","הוט","HOT"]
 
 # Writer / tag pages. `pattern` = regex an ARTICLE href must match on that domain.
 SITES = [
@@ -140,28 +141,28 @@ def fetch_pubdate(url):
 
 def scrape_site(site):
     html = get(site["url"])
-    if not html:
-        return []
-    soup = BeautifulSoup(html, "html.parser")
-    pat = re.compile(site["pattern"])
     out, local = [], set()
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if not pat.search(href):
-            continue
-        title = norm_title(a.get_text(" ", strip=True))
-        if len(title) < 15:            # skip nav/thumbnail links with no real title
-            continue
-        url = href if href.startswith("http") else site["base"] + href
-        if url in local:
-            continue
-        local.add(url)
-        kws = matched_keywords(title)
-        if not kws:                    # site items require a keyword match
-            continue
-        d = url_date(url)              # free date if embedded in the URL
-        out.append({"title":title,"url":url,"source":site["source"],"type":"site",
-                    "date":d or TODAY_S,"keywords":kws,"pv":bool(d)})
+    if html:
+        soup = BeautifulSoup(html, "html.parser")
+        pat = re.compile(site["pattern"])
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if not pat.search(href):
+                continue
+            title = norm_title(a.get_text(" ", strip=True))
+            if len(title) < 15:            # skip nav/thumbnail links with no real title
+                continue
+            url = href if href.startswith("http") else site["base"] + href
+            if url in local:
+                continue
+            local.add(url)
+            kws = matched_keywords(title)
+            if not kws:                    # site items require a keyword match
+                continue
+            d = url_date(url)              # free date if embedded in the URL
+            out.append({"title":title,"url":url,"source":site["source"],"type":"site",
+                        "date":d or TODAY_S,"keywords":kws,"pv":bool(d)})
+    RUN_STATS.append({"source":site["source"],"kind":"site","ok":html is not None,"kept":len(out)})
     print(f"    -> {len(out)} kept", file=sys.stderr)
     return out
 
@@ -171,42 +172,40 @@ def scrape_search(s):
            else "&hl=he&gl=IL&ceid=IL:he")
     url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(q) + loc
     xml = get(url)
-    if not xml:
-        return []
-    try:
-        root = ET.fromstring(xml)
-    except Exception as e:
-        print(f"    ! parse error: {e}", file=sys.stderr)
-        return []
-    out = []
-    for item in root.findall(".//item"):
-        title = norm_title(item.findtext("title"))
-        src_el = item.find("source")               # Google News appends " - <Publisher>"
-        pub = src_el.text.strip() if (src_el is not None and src_el.text) else ""
-        for sep in (" - ", " – "):
-            if pub and title.endswith(sep + pub):
-                title = title[:-len(sep + pub)].strip(); break
-        link = (item.findtext("link") or "").strip()
-        if len(title) < 10 or not link.startswith("http"):
-            continue
-        date = TODAY_S
-        pd = item.findtext("pubDate")
-        if pd:
-            try:
-                date = parsedate_to_datetime(pd).date().isoformat()
-            except Exception:
-                pass
-        if s.get("recent") and date < RECENT_CUTOFF:   # enforce 24h window
-            continue
-        kws = matched_keywords(title)
-        if not s["unconditional"] and not kws:
-            continue
-        # unconditional searches = the spec's Google searches → "google" section;
-        # Israel Hayom writer searches (conditional) belong to the "sites" section.
-        out.append({"title":title,"url":link,"source":s["source"],
-                    "type":("google" if s["unconditional"] else "site"),
-                    "date":date,"keywords":kws,"pv":True})
+    kind = "google" if s["unconditional"] else "site"   # google-topic search vs whole-outlet
+    ok, root, out = xml is not None, None, []
+    if ok:
+        try:
+            root = ET.fromstring(xml)
+        except Exception as e:
+            print(f"    ! parse error: {e}", file=sys.stderr); ok = False
+    if root is not None:
+        for item in root.findall(".//item"):
+            title = norm_title(item.findtext("title"))
+            src_el = item.find("source")               # Google News appends " - <Publisher>"
+            pub = src_el.text.strip() if (src_el is not None and src_el.text) else ""
+            for sep in (" - ", " – "):
+                if pub and title.endswith(sep + pub):
+                    title = title[:-len(sep + pub)].strip(); break
+            link = (item.findtext("link") or "").strip()
+            if len(title) < 10 or not link.startswith("http"):
+                continue
+            date = TODAY_S
+            pd = item.findtext("pubDate")
+            if pd:
+                try:
+                    date = parsedate_to_datetime(pd).date().isoformat()
+                except Exception:
+                    pass
+            if s.get("recent") and date < RECENT_CUTOFF:   # enforce 24h window
+                continue
+            kws = matched_keywords(title)
+            if not s["unconditional"] and not kws:
+                continue
+            out.append({"title":title,"url":link,"source":s["source"],"type":kind,
+                        "date":date,"keywords":kws,"pv":True,"publisher":pub})
     out = out[:12]                                   # cap per search
+    RUN_STATS.append({"source":s["source"],"kind":kind,"ok":ok,"kept":len(out)})
     print(f"    -> {len(out)} kept", file=sys.stderr)
     return out
 
@@ -283,7 +282,7 @@ def main():
                  "active":True} for s in SEARCHES])
 
     out = {"updated": datetime.datetime.now().astimezone().isoformat(timespec="minutes"),
-           "keywords": KEYWORDS, "sources": sources, "items": merged}
+           "keywords": KEYWORDS, "sources": sources, "diag": RUN_STATS, "items": merged}
     DATA.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"added {len(new)} new; total {len(merged)}", file=sys.stderr)
 
