@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T18:15+00:00",
+ "updated": "2026-07-27T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל: \"פגישת נתניהו-טראמפ חשובה פוליטית לקראת הבחירות\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YUDNUWkZnMkRHbkN1VGxzVW9VM2ctaTZXR0dBRnQ0UDJGT2NZUHk3WHZLcUFGSGo0cnA2dlgtWTgyWm1jQ2Y4ZzV1c2xsZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "המשטרה פרסמה את שם החשוד ברצח אובנך דינקו ז\"ל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wMWZKR3ZpRXZ4Zlp3TGh2aGtncS03NXFtVENTSkdFSVVTQUJqa29FaHAxZzNiLWdzMGhjQzFlZGdFbjBoMUgwQ2hEMDJwUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "לא רק איראן: החשש מהתערבות טורקית במערכת הבחירות בישראל",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jdzlydGZTSGpmU2ZvclprdEFGRU90MGpuZW1QV0hYRDFnV3Q4b1J0bWwzUXpNNjU5RTV5aHdsdXZXMUpuS004UjVNS09wZw?oc=5",
