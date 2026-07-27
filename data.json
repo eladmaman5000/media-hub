@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T22:30+00:00",
+ "updated": "2026-07-27T22:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,13 +203,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "51% מחברי מרכז הליכוד כבר הצביעו על ההצעה של נתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sa2ZxLUFUbTRweWZyY2dVVzRULXp2cDlTSERHZGgzRDVNM3Jpc0p6ekJWQ3NCcGRBMG5oanNvRmZYd2Rub2lUSHNjOWR3UQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "Likud approves Netanyahu’s plan to expand his control over party slate",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZk5URGxoM012ZVR3dUphcnQweVVPY3g1alJKUTFQTXVrOTRuUFk0d1hBRjBMWUFfbjN6QldSN0VOZUxkWWJ5V19renVmRkg2cDY5ZUUyMUpvRklhV3d1TjBQRU9CTC1KdzQza3lCSUw3R0pQMWc5ektzWmg0S1kwRUg3b25ldW96NTlncjhqeVNJLUxWdXhUdEFCenk0TUgzbk42ZzNrUdIBpwFBVV95cUxOZk5URGxoM012ZVR3dUphcnQweVVPY3g1alJKUTFQTXVrOTRuUFk0d1hBRjBMWUFfbjN6QldSN0VOZUxkWWJ5V19renVmRkg2cDY5ZUUyMUpvRklhV3d1TjBQRU9CTC1KdzQza3lCSUw3R0pQMWc5ektzWmg0S1kwRUg3b25ldW96NTlncjhqeVNJLUxWdXhUdEFCenk0TUgzbk42ZzNrUQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
   {
    "title": "לקראת הפגישה עם טראמפ: רה\"מ נתניהו ופמלייתו נחתו בוושינגטון",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dkxyVFcyRTVjS1dCUWZDdGtxS3RBc3gyQUdGNzRvbFVFM0I5ZjBCcExFdHphR2RpTUIyZ0NJcTROZVNoRXkyWnFSLVhWdw?oc=5",
