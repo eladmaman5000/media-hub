@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T20:30+00:00",
+ "updated": "2026-07-27T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "במהלך בר המצווה - המתפללים נדהמו לגלות כי ספרי התורה נגנבו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82aU5WempUMTREUGdZVmFaNmtEaFp3SVBCMXUyQmdxRm5IUk80U1g4LTg4NUdmMS00WlFCaF9KcndCaWljTzlhMUppYUlxUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "ניצחון לנתניהו וכץ: חברי מרכז הליכוד אישרו את כלל ההצעות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RVjhOcXN0OUlVYW13ckpwc2hkaVJPNzNPQi0wNmd0b0JZeGE2cktoOUtuZGRIVDNWTjZCd1pBQ21xcWI4Y2tuZXVOWVZsdw?oc=5",
