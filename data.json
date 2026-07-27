@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T06:00+00:00",
+ "updated": "2026-07-27T06:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,6 +150,15 @@
   }
  ],
  "items": [
+  {
+   "title": "כוכב ה-NBA נגד ממדאני: \"ראש עיר שמשחק אותה נשיא\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sM3ptUFZFaG5adHBpRE5kRFZwaGt1TXFoX3lVZEsyQVZIYlVwUkRVUWdIRXlaM3NrSGtBTVZpX3lib0pOMS04UXY2ODVMZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true
+  },
   {
    "title": "30 אלף חיילים מצפון קוריאה בדרך? הדיווח שמדאיג את אוקראינה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Sc0p0R25JZVFGejZ2RS1XVXFMWF9lVzU2TFc1aEV2UFNtM3EwODFYdjY1NWtTLXlMUDFVcWRId1NVYWZqQ21GRGVwZk5qQQ?oc=5",
@@ -1174,6 +1183,17 @@
    "date": "2026-07-24",
    "keywords": [
     "שלמה קרעי"
+   ],
+   "pv": true
+  },
+  {
+   "title": "גוגל חוטפת קנס שמן בסך מיליארד דולר: \"מתלוננים אינטרסנטים\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uTURwMlg1aDhvWkFKR0Z1cnczdndYbjJ2SFgtbTd2T0J1LU4xQTBZSHlDOWpBOTdBRGgxZ29JVXhIUzlld2JVcG13clAtcVF4VlhQTW9CMDQ4VkpyU216LTRxQXQ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-23",
+   "keywords": [
+    "גוגל"
    ],
    "pv": true
   },
