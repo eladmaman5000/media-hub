@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T22:45+00:00",
+ "updated": "2026-07-27T23:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכוונת על מלניה: איראן באיום חדש לבני משפחת טראמפ | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZ3JOdktyLWF2UGdTd3ZRZE0zSnJKeDZTRzdQcFdXYXFNdXd5TFlWVU52OXBoOG1QZHViVDZGRXFDY0sxZVVLQ0l0LXVydw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "51% מחברי מרכז הליכוד כבר הצביעו על ההצעה של נתניהו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Sa2ZxLUFUbTRweWZyY2dVVzRULXp2cDlTSERHZGgzRDVNM3Jpc0p6ekJWQ3NCcGRBMG5oanNvRmZYd2Rub2lUSHNjOWR3UQ?oc=5",
