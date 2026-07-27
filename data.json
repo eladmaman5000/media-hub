@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T17:45+00:00",
+ "updated": "2026-07-27T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -286,7 +286,17 @@
  ],
  "items": [
   {
-   "title": "טוהר הבחירות בסכנה? ראש השב\"כ בדיון חסוי - ציטוטים בלעדיים",
+   "title": "Likud secures top slots in vote to expand Netanyahu's control over party list",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wWHNNbm1EOW5mZ3gyUWVIczgxb0lyVk5zWXAyQ0dyTFFnSGJoM0EwN2N5U0pENFk2Sy1VZ3VLX1REd2s0aV9LX2FJRW81amVpQ0hSZmg5ZEVuMnljWkR6aGpTREpOU240WlhFeFdFVVlvMUx4V2wxQi12OA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
+  {
+   "title": "טוהר הבחירות בסכנה? ראש השב\"כ בדיון חסוי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xbEhFQlUtWWVoTFRzRjZJRUJTRVdzZHFVTTRUNUJaQ0JUSWRzdGxqRG91TlNfZkMweGpUY3dscHVPTVdfTVA4c3NMUUVIQQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
