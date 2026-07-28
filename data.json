@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T19:30+00:00",
+ "updated": "2026-07-28T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "השר קרעי נגד בג\"צ: \"לפרק את בג״צ עכשיו. לפני שהם גונבים את המדינה\"",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LWE9SalZCOHN2MTVicElqS21KY2txeUxzRWdKV0hac2VIRkFQUEZlZENWRS1IemdqVlVad2RselpCZkhfWWtuR2hR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות 04"
+  },
   {
    "title": "בכירי הממשלה החליטו לוותר על חוק המעצרים ועל חוק התקשורת",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Wbm1VYTFRSHY0TGVHN2J2VVhPUHVWY0xOREdsNWM5OU9PQ0hxNXJXV053ZVhBZ3Q1RFNOcVJyTHJEdWd4dTNhcGczbUhCdVVacm1sbmg3MDFnem03RVVna0RNZEMxSXM?oc=5",
