@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T19:00+00:00",
+ "updated": "2026-07-28T19:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו מסכם: \"אחת השיחות הטובות ביותר שקיימתי עם טראמפ\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZejU1Z3JCNnRxR19QZzBjU1VweUFMb2t1NUp0bDFMMlljVFlwcktVanpTZ2p4MktWSEVLaVhWMjRSTk5TSUUzYWpUYjVLUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "איתמר פליישמן: \"נתניהו לא יתקפל מול זובור\" | צפו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyN0wyX1VJS0NUeWJaQm13dHBlVTk3dnVxS3pnZ09taG9qZ3hULXRhejA3UGhrNTY4R3FTRFhCRXg4YVYxZGQxTlExekhvZw?oc=5",
