@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T19:15+00:00",
+ "updated": "2026-07-28T19:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,48 @@
   }
  ],
  "items": [
+  {
+   "title": "בכירי הממשלה החליטו לוותר על חוק המעצרים ועל חוק התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Wbm1VYTFRSHY0TGVHN2J2VVhPUHVWY0xOREdsNWM5OU9PQ0hxNXJXV053ZVhBZ3Q1RFNOcVJyTHJEdWd4dTNhcGczbUhCdVVacm1sbmg3MDFnem03RVVna0RNZEMxSXM?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "כאן 11"
+  },
+  {
+   "title": "לוחמי מילואים שהוקפצו להגן על חיילת נאשמים בהתעללות במחבל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pblItRnpVYlFhWlBxOHFMeXdXeW9STzdIWnpnLURnYmQ1MFppR2Q4cWRkaHc4U0xXbzJWaGJHOHlOZXZtSjYxREdHRjVoQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "בכיר חמאס מודה: ישראל פירקה את מוקדי הכוח בבתי הכלא",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPcFV3YTNHTmdRRHBNc1ZiUC1qZjFqaW9JUE9JV1M2VlZoaV9oblFfTUtMZzFvMkpydmNxSkNFSERNX0htLXpqQ3A4eUZJQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "נתניהו אחרי המפגש עם טראמפ: \"אחת השיחות הטובות ביותר שקיימתי\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GeWxSV3Y2azFUZlpIZzhQTHNiWGhKQVhLZzlNeFZ3b0ZOcGpnRl9iQVlNSEczLTcwM3lWTzFXbEhhZk1ISEROdmIxblNxRzBQMUtzTUx6bktNNEptTkU4NFRBOGU?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "נתניהו מסכם: \"אחת השיחות הטובות ביותר שקיימתי עם טראמפ\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZejU1Z3JCNnRxR19QZzBjU1VweUFMb2t1NUp0bDFMMlljVFlwcktVanpTZ2p4MktWSEVLaVhWMjRSTk5TSUUzYWpUYjVLUQ?oc=5",
