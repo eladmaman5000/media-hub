@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T05:15+00:00",
+ "updated": "2026-07-28T05:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -286,6 +286,40 @@
  ],
  "items": [
   {
+   "title": "פעם שנייה בתוך שלושה שבועות: הדלת של חדשות 12 נופצה",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JM0dONWJITGs2RGZuYWxLZW5RaEpqU29US0hpeWlsME00Y2V4N0NKa01xTGFyeEVTemZ1SzRGd0RHZFR5bFUwd21NQ0ZULVpFU2pmYTN1NHc1M0FnUk9OTQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "יעקב ברדוגו תוקף: \"הם יגרמו להפסד של הימין בבחירות\"",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZF80NXluQ1RCTFNHNDRUd3NtaTRWbmNWbDJTeUNLLUJweW92aE9VSnU1bVRoX2k4RVMyMXBoNjQ5OUpPWDduQXJ0R2NJSnozSGdtQnhycnBzQU9NVjhISll1OGpsS0p3cWhGVnR1dnV1VUs5eEVPS2NVX1JmdWpuOGdRUk5MS3BDRHItV1M4Rkh1WFY3dmV4VWVQX2tKSnRnUkNvME1XMkY3WThhUVItaWlXaHJpMXo1TzJUU0hVbHpuNC01aU1IRmxuSzVQakpQaE1HVmFjeTY3UjMtTEVTSnhPQWRvMmtQeUxkU0V2TGx6SmpzX2pDZkpRQ1FqdnFmbmtYa3BlSFpybXc1NUVPekgzeWs3OXM4RGY1RU9Da3RBak15MWxQUldlSXZ0dFN4eF9ET0ZGQUhzNjlRakFjNHRJSUZPMUY1alZQZlU3VFhZS2pkWkRwYnprcw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "נבחרי הציבור מול המשפטנים: מי באמת קובע את המדיניות בישראל?",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pLUlUdDNJVWhiQXdOVGNmdXBWQm9jQkc1c0w4WWxNSktzOFUzYnNkWlg0SUdTVTdWX2pTWEhkV2hpVEV0WXMtcVBaVGlYZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "Ahead of High Court hearing: Signs posted of lawmakers who backed deserter detention freeze",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CREZGY1NkNm9JMDV5X2ZuNWtISl8wd1RkUTRlRXRvQmpYU1BvYVM4ZEdXZkk5dFRFNndDOFlPRW1yWTVPVk9PS0xKZ1RnalVhVE9uSw?oc=5",
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -350,7 +384,7 @@
    "publisher": "C14"
   },
   {
-   "title": "נתניהו רשם ניצחון בועידת הליכוד - אבל יש לו סיבה לדאגה",
+   "title": "נתניהו רשם ניצחון בועידת הליכוד",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wN1BHMGRJUWpWVzQwdEJnREpOVFVJYy1NOFRZdFRmbDVsWXV6QU1xUEprSFFOdlE5Z0VtQ0ZTaUFNazk5d3BHd3RMVGJXYXNOcHQ1WGNfYVM2WS00bDdEd0dveFA?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
