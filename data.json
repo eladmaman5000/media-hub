@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T07:45+00:00",
+ "updated": "2026-07-28T08:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -179,7 +179,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -1553,6 +1553,17 @@
    "type": "google",
    "date": "2026-07-27",
    "keywords": [],
+   "pv": true
+  },
+  {
+   "title": "\"העובדה שלא היו יותר מקרי מוות או לידות מעידה על האנשים שמגיעים לשם\"",
+   "url": "https://www.haaretz.co.il/gallery/television/2026-07-26/ty-article-magazine/.premium/0000019f-7f0c-d820-addf-ffcc893e0000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-07-26",
+   "keywords": [
+    "עובדה"
+   ],
    "pv": true
   },
   {
