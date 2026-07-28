@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T08:15+00:00",
+ "updated": "2026-07-28T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -286,7 +286,59 @@
  ],
  "items": [
   {
-   "title": "רייטינג: לא רק רביב דרוקר - מתן חודורוב הנחית מכה על יעקב ברדוגו",
+   "title": "הפח שטומן ג'ולאני לישראל: זו התוכנית האמיתית של נשיא סוריה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ya2c1YzlySm9oSUlaU1ZYWDNyQnllbFk2M1czY0tKQjBucHNlSEtrMlFYaWFFdlphcEJIXzR6TmRMb0xWN2MwX1lfeEhNUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "רצח בניהו רזי: קצינת שב\"ס נעצרה בחשד שסייעה לחשוד הנמלט",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lM2lyck9VRVNTV0ZXVV9JaTdTTDlTUUJFTGQ5aTB5MTdoX0Y3RTdpblpzYk8yT2huYTczNVFYOG9ZOExCR21NRFk0M0R0Zw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אייל ברקוביץ' תקף את מגיש ערוץ 14: \"עסקן, לקקן, עבד וקומבינטור\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15RFozZm1DbFk3bnRZaXFXNGF0SGJPN1hhMjRQUFpwV2JXN0NaQmRscXZqdllVdkJrWC1xaUpJeUtaVGxEVHNiY1dsUGNqWlpkbHZ3akQ4SDdxdzlJMzBxTg?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ספורט 1"
+  },
+  {
+   "title": "\"תבינו עם איזו מכונת רעל יש לנו עסק\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTdnYUZvZDRqaGRoNm1iYXhVc2JSUy1Qb29waWRJZWFrdlFWS3NZOEUzek9LNDlxZXhPdDhVZnVTRlpNUk13TTNHRFdsN2tlU0tXdXBYeUpYdlIxcXQ2OGRxYXpGaTdVS3pIUHVaYkFYeDRvejJRUXZrWTNMSmh3ZA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
+   "title": "\"נותנים גב ליו\"ר התנועה\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlpqQmFhekZ1NVMwUktWRHI5NDB3MnpuTUZrSlBlVGdDN1lIUHFuTnB6U1VkMmgtM0RxY1dyYjdiX28zejVPWXVhRXpMTVRyRDZ6MF9sV0R4UHZ5Q3haQ0xHYkh0Rkk5Y3hUc3VoaWs0RWN5cGV4R21nVzZpQ0N4NA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
+   "title": "רייטינג: לא רק רביב דרוקר",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYmV6OHFtX3JONmVYWHFlblp0UC1tdjhjdEtNVjF3VjRhMUQ1NzJmVkswYmRnUkd2VU84RExVa293SWxndkc5WTZtLWVFY19sdXdtVkJ1WnlVdDAwdzRhaA?oc=5",
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "type": "google",
@@ -1969,6 +2021,18 @@
     "ערוץ 14"
    ],
    "pv": true
+  },
+  {
+   "title": "בג\"ץ: הוראות חוק השידורים של קרעי יוקפאו עד להחלטה אחרת",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KaFBWWWdHRjRyaG5NT045NjN1Tml5TE96YkdZMnpfU21fMmx5UFJlN092OWdlMEZ0LVBlRC1JWnRsRXI5YzE1ZU9sZ0lVdm9zNGVROVo2WUpMVmRQQVdRQUp0ZGU5QkHSAW9BVV95cUxNLVUzaUJQQVdhd1puSWd3Z25RVGJhOWs1VXdObExLSDYxblhqczBBSk5JeUwxdGpUY2ZEZkpWaC1pZ3dJUlVRMVFlRzF3cVg1ZUVnX1ZXZGtJYjR3QkFQdG1CSHpEZ2lGTEpDM0RhejQ?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "הקרב החם על הרייטינג: הערוצים ברחו מכאן 11 בגמר המונדיאל",
