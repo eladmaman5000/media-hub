@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T03:45+00:00",
+ "updated": "2026-07-28T04:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -1832,6 +1832,18 @@
     "מטא"
    ],
    "pv": true
+  },
+  {
+   "title": "חוק התקשורת אושר; הוארך שירות החובה ל-32 חודשים במסגרת הוראת שעה",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96b2hsdXpSb3ZDeWRkeE1aVExDTEJsczEyZm4xLWZEd3VoMUxQSEhIU2tTeUJFNFY1TmlObkxIdWdCdzI5WGlfcEI3NUstZTlybzhibU0yQ1V1V0hMbFFqak1rbjhYcGdlN3pic9IBdEFVX3lxTE5yTVI3QXJMQUFwdEFONEdjVEdkSU1YaUJjRm9ubjZCWk1seWZzV0dIRG9nRElZS3Q3aGNEVEhQekRZbDFodS11M3NsUW9jaEZFOUVwakZjVGRIekVUSUVUaUkzY3RCbTlmZUh3RHlRa1lVWU9t?oc=5",
+   "source": "ישראל היום · ביני אשכנזי",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "החוק להחלשת התקשורת אושר במליאת הכנסת | N12 - mako",
