@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T00:00+00:00",
+ "updated": "2026-07-28T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל ובן כספית",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRGtMWEc1VU1IQ1JmeXBVS3NSU0dOQmdvU0xRTVluMTl6RnRqSnY2YVFiZXR2djluaV9tbExUSDBDMWo2bW03OGxhS2ZwZ25saHEyWXZvdDZIdDgtVWJwUHhrdUhfdWdGb0lEQTk3Um1ZOGFESUZuS25GTGZubms3MQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "הכוונת על מלניה: איראן באיום חדש לבני משפחת טראמפ | צפו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZ3JOdktyLWF2UGdTd3ZRZE0zSnJKeDZTRzdQcFdXYXFNdXd5TFlWVU52OXBoOG1QZHViVDZGRXFDY0sxZVVLQ0l0LXVydw?oc=5",
