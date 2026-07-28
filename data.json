@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T04:45+00:00",
+ "updated": "2026-07-28T05:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,13 +209,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -257,7 +257,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "Ahead of High Court hearing: Signs posted of lawmakers who backed deserter detention freeze",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CREZGY1NkNm9JMDV5X2ZuNWtISl8wd1RkUTRlRXRvQmpYU1BvYVM4ZEdXZkk5dFRFNndDOFlPRW1yWTVPVk9PS0xKZ1RnalVhVE9uSw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ynetnews"
+  },
+  {
+   "title": "בפעם השנייה: נופצה דלת הכניסה לחדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQaHZvUERDRk1ody1FVzhncHhqTGZuZUtFaXJ3RnBvUzRvc2YxZzVlYkR5aXJlbU5ndkQtVFJtaGc3SzFEdURyR3RVWjFQT0NiSVRKUkt5emNtcUNyOThzVktqRmFpZmJEa3VCUWQ1VUZwV2NNaHMtSG1n?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-28",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "דיון גורלי: מה בג\"ץ צפוי להכריע בסוגיית מעצר בני הישיבות?",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rSTFTcXAtQzRPRWx6UVBBVW1XMnJQN2VON3VjSXZOVXlzN1Y3RXF0dFlOaGpPaEV1dGsyR29pNDE0elRBeGFTbk44ZnN4dw?oc=5",
