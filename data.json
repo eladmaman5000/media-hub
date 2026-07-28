@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T13:30+00:00",
+ "updated": "2026-07-28T13:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -257,7 +257,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הבקשה הדחופה שזלנסקי יציג לטראמפ על רקע המחסור בטילי פטריוט",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uQkRwazgxSFctT3MybE9xZVFPU1A5R2U0b2I0OUlhRHJraGVyR2I3aUstUU9HQ3N5OFlqRXpXN25maE1fQ1NJWTFHdW42QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שר הביטחון: ארה\"ב לא מאשרת תקיפה במטרות האנרגיה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iWXFxaWpIZy13RnRtRURVNkFEZEJVRGhZWlZIRWJrclp5d25IRHM4dE0zRnFNTmZiOXd0andodUN2cjE5Uy1YSzQ2aWVDUQ?oc=5",
