@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T12:00+00:00",
+ "updated": "2026-07-28T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -286,6 +286,41 @@
  ],
  "items": [
   {
+   "title": "\"להעניש את המבקרים, לסייע למקורבים\": קשת 12 עתרה נגד חוק השידורים",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40b21qNl9qckwxaWlOUUczV0pXN1ZMNWU4RDVGREJCT1Z4bEFMWE85YTQ4a3JESlR3Z0pjRVlTMmtPdUxvR0F3bFZiTEpTRC1uWTV1QW1LaEFtZnE5aFJxanJCbDd3T1NJNnU4TlFB0gFuQVVfeXFMTjRvbWo2X2pyTDFpaU5RRzNXSlc3Vkw1ZThENUZEQkJPVnhsQUxYTzlhNDhrckRKVHdnSmNFWVMya091TG9HQXdsVmJMSlNELW5ZNXVBbUtoQW1mcTloUnFqckJsN3dPU0k2dThOUUE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12",
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "שריפה ביער הנשיא: ערימת גחלים נמצאה בנקודת ההתלקחות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ycURodGZ6aG42VEFMbjZrdnFqLS1QcUFBSVZLZUtZamw3UHZHZFV3S3pqWE52dnJXV0k2VE1McVBjdjliNTlCVEhFcm9YQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ינון מגל התפוצץ מעצבים: 'שקרן, תתבייש, כסיל, קח את הדברים שלך ותעוף מפה'",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JOHZ2Q0VucUp3RUlaTUxHM3lESUt6MmRMNVAwbHpESXQzT1dDMVBhWkJDNHVoM3BZM1ZaZ3FMekF2S0VxVVZJ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
+  {
    "title": "אליהו יוסיאן: זו הדרך היחידה להפיל את המשטר האיראני",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95NUpIb2liQ080dkI4RVNSVmxzMnpkcmhKRkFaQkNmcUU0UzFyWkYtWHhEaWRtQ2VSbGh4QTJMN2FOelN5WUFYNDM5YlNveDg?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -296,7 +331,7 @@
    "publisher": "C14"
   },
   {
-   "title": "ביסמוט: \"המשטר באיראן חי על זמן שאול - יודע על מה אני מדבר\"",
+   "title": "ביסמוט: \"המשטר באיראן חי על זמן שאול",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xTzM0bnluSENyeWlRYWxsM3llYzBnT29IbHlNWHREWXRfVDloNjhIbldERzJrMUh0UGZvcTl1eEpoZ2JoQTA1QUdsbV9QUQ?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
