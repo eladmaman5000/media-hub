@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T09:00+00:00",
+ "updated": "2026-07-28T09:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,41 @@
   }
  ],
  "items": [
+  {
+   "title": "יעקב ברדוגו לא ציפה לזה: מתן חודורוב שינה את התמונה",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iVzJJX29nOUZnOWg5MVZBM3lnZEVrRWU4QkZ6bVNmb2NHaGd5c0NkVE1wNEVnOFpxZjMtZGNUbFUzOTdCS1RLYnZBamI5T1NoVnRtNHR1N09QYUlKbHlTZVhOdkE?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "רייטינג: המהלך השקט של מתן חודורוב שהרעיד את יעקב ברדוגו",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5SGdjekNmWkE2UGVMMjFOSDNrVF92MmplU1RnWVBjTFl4Skxkcld2dUlpYkF3Qkg5NUQ2cGpJMnk2S2RZcTlvNTdwT0FVSnJRNWpiOHM0akxCaWp6LTJ1dVQyV0Q?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "רייטינג",
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "השר כ\"ץ :\"אנחנו מאוד רוצים לתקוף באיראן - ארה\"ב לא מאשרת\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Sbkdhem1LRW9hQkh4Q2ZmMVpZN1dLZ3dOYUpHMkxqNkw0Si0zb1JYVjNGZktIVUpvcmF1eGZ2NmxLQUQ1UHpMZk1jbjFEZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "דלת מערכת חדשות 12 נופצה בפעם השנייה בתוך שלושה שבועות",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnSkp6aVNxSUVINlUzc3h1UUZMdzNrQmtEVThpakhTWHQtNjl4YUJDRG5JOFd3R0htRXZaWUtSRGk4RXlvelBJeXFHRVR4TzlKNXNpNjMyTW9uald6cS1LV0Vn?oc=5",
@@ -2390,6 +2425,18 @@
     "i24"
    ],
    "pv": true
+  },
+  {
+   "title": "\"תאגיד השידור בגד בייעודו\", \"ערוץ 14 הוא לא עיתונות\" | צפו בעימות",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MOVNNdkg2NzUtU0xtZUc3VG1fSUFBeDdpaXBLYU03NHV0Nk84Y0hVZW9mSFA1NjA2WUwyeFhoQlJpQjFTNm1iX05oUGpfWDJDMHFkS1FzUDB1LXowei1tMU9GalNyZnBheWZtYdIBdEFVX3lxTE53OEc1SnJtT0J1NmRoSnlZRndpRUdpMG51dVRyenVaS0d6V0xSdnhYNzVoZkNldGNaWE9PU0ZZTkxRRFpsUjZMU0JZMU9TYkdyN3ZWRGE1Z3Vob1NodjZVLUxwSnVsZ2VoTlBpUDNqdWpxQXJp?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-06-23",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "המטרה - לשלוט בתקשורת בחירום ובבחירות: הסעיף שהוחזר לחוק השידורים - mako",
