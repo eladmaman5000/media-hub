@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T15:30+00:00",
+ "updated": "2026-07-28T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "בשיא העונה: דגלים שחורים בכנרת - המתרחצים פונו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWSGlVWnJJWVg5ZS1YTkVLWlE3cHRkdVFfRGlVOTlXUDNUUE00dDdWT0NwRUhmUTRfQ3QweFkxY3RmeS1JUFVhYnV1dGdpUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הכנסת אישרה רפורמה מקיפה בניירות ערך ובקרנות השקעה פרטיות",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ydTQ2eXdZZUl6VkpCai1Rd0JNWE9Xb0RqVGJnaDVkUVVfMEJoZGlIbXNxRmxiLWxsTEFlemMyNVM3cnpFeDBhVzlZSWhfYkY4cjEzRUFxUGdDaHlVaTRfLVF3?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "הכנסת הרחיבה את סמכויות ועדת הדיור הלאומי",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMWVSanMxazVkWVlxdUxZb1puVFVreGoxb2RGLWpVaUxaTXdPeWctVUZKUXlWVXdOMkVoSl81X0JETEg4TmpkTWNRYzB3X2ZXdHVkczU3ZkpjTXRpT2dmWXln?oc=5",
