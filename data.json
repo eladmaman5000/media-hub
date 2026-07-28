@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T17:00+00:00",
+ "updated": "2026-07-28T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "תנועת אריאל חונכת מבנה חדש ומפואר בבירה",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nYWx4WUlURklGSERUM05jbXpYQ1pmNWVxSGFaVzN3X0F4dDZ2N0g5MkJ6eGVTU0dhMzZTZEM5YjV6ek4wYzBQb1Z0LUJDVVU?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ד\"ר אבישי בן חיים: \"תצוגת מנהיגות שילמדו עוד שנים רבות\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VN2g4aTU5UHFId0g1elRmb1VQUmJHbWVaUTA1dDhGNjN3QmY3WGhJUTV1WHJZMU1XN3pHclBnM3hmSkFMU0lQWkkzS3ZNQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מחיר הניתוק: הצצה מפחידה למפת הדרכים של השמאל הקיצוני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHazg0YTVpc2lDUW1oc2ctOFhZUERFYUI3SF9qeHpVempaM1gxTW9CZUQySWNvRF9XSm55LUMxeHNSbGN3enZWdkloUDNydw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "מאחורי דלתיים סגורות: טראמפ וזלנסקי נפגשו בבית הלבן",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NN2ZxbzRHRk9LX1phMndXU2oyY3NBMGdFR2g4cTNSWGZnMzljdDYtaWdiYnE4aGx4WFRPV2t6U3NfdjZzTExablVzLXJEUQ?oc=5",
