@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T20:45+00:00",
+ "updated": "2026-07-28T21:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "Supreme Court boycott? Closed-door consultations revealed",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aREYzaHNGWjV3bVV5QmxjTlV3Nk9BWW1menUxYUVFYnZSNDhUSGRfZ3hWMkxlb2hFV1JSY2hHcExjaWxsRlRuRDV0dTk4NHdlVzNjVGlSQlZkZw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Israel National News"
+  },
+  {
+   "title": "בעקבות התערבות ראש השב\"כ: 'ישראל יהודית' תירשם כמפלגה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpY0xfb0NTUkFwMDI3aHVpZm00cVF1Tlpkc2ZnYnRkMnNkQXQtWktZQ0g0MlR0VUtIY3FNTE8wcWYxZFhXLWpmeGV2WWZVQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "מחכה לשריון? אלמוג כהן לא הגיש מועמדות לפריימריז של הליכוד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ydVBNaGFyaVdETVpla2VwRWphdnItU29PZnlwQlVFYXV6WF9ybVBtN3pQUmxnUWM5N1N1dXhleldsS21oZkNveVlWMnh5QQ?oc=5",
