@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T10:00+00:00",
+ "updated": "2026-07-28T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,41 @@
   }
  ],
  "items": [
+  {
+   "title": "קשת 12 עותרת לבג\"ץ נגד חוק השידורים: \"טיפול הונגרי\"",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdXh6czBlNkF6V0NoTzlxUkFXbXA3dE5fM3VsUkVsMGp0LUdDUzhaUzFHQkk1WWNXdUF3SHhpQ0pNd0xoSUtrT1NCMmxNUkVYWGxVaUdyNlNOWDdBZ2ZxR3oyZWt0SmZveENaY2oyVHNodHJvdHFmWDkwVGV0cUVLRUdsZEZrWVl2bXlCbFNldUtoUHlkNm9OMkJMTDVaS3NFWnIwTENnOHVyLS1lbUZmc1hwT283dG9GcnZldnREZER4TTVZRktDbHhnOTVpaDZNTVZ0NTB4VGxZbm9EUWFyVzFid1huZlpZcW1RTkctUlRQRGdDN0xqRXZuWjFfTGhjOXBPc0lZb3lsQ0pnYlRfMTF5ai0wQjlEdk51WUpRNVNxTDd1SEs3WHN6MnJwaWt6OW1QYWQ0TmloVkt4alJWLXZsWk1HUGZTeExWZ0lLQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12",
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "קשת 12 עותרת לבג\"ץ: \"מטרתה לפרק את הערוץ\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwd2ZqM1JpLUVzYjg3YVF2dE9DT0xjeWtmMENZLVotSzFiNXVfMThLdjBFb1RlRnU0QzNPeEJUek90LVlmWTFoVEdKRWR3YlQwdC1MN1g2Z01fV3M?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "במשטרה גוברת ההערכה: אלדר דיין לא נעדר - אלא ברח",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03Q2xkM2pERWlyeFBWMG1nX0hJLWNoX3dTYUFobkhfZ0R0ZXpDdFpDeEx0SlhWTmhDM28wQ1JsVWR4akUteUZpaEtxQmxKUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "נשיא צרפת: \"זה המצב החמור ביותר מאז מלחמת העולם השנייה\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qenJXR1ZobEdBOU00X0Y2bTl6bnRacmdCNVJOM1BNUFZPbExIblZ3XzFVdElJaDJlRTJyTkRzOW95UmM1V1R4SmJSUDBZZw?oc=5",
@@ -1746,6 +1781,18 @@
    "date": "2026-07-27",
    "keywords": [],
    "pv": true
+  },
+  {
+   "title": "תאגיד כאן יוצא למלחמה חזיתית בחוק התקשורת: זה הצעד שנקט",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0WURXTUJ1dnNsY2k3ZGlKaVRGNkVONm5aSzBPNUZhMWZYdkM2NVpSbnFwaC1meUNKUVZ4N1hpRHBRcUlwbnpZQVZPZ2VRdUNOMkczc3ZhdnR0QQ?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-26",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "\"העובדה שלא היו יותר מקרי מוות או לידות מעידה על האנשים שמגיעים לשם\"",
