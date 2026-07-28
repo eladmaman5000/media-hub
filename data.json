@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T06:45+00:00",
+ "updated": "2026-07-28T07:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,19 @@
   }
  ],
  "items": [
+  {
+   "title": "כמעט בתחתית: ינון מגל לא ציפה לזה | רייטינג",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelNTOHpnTVZnY1JoamI0YWd4X25BV0VKaHNTNFA5OUtZRVlKXzNHTm5ZQU9LdlllUXRGTnFjVmhwdk9KYUZkY1diVlZ3eWxuN3dRUnBnSXJNeUJSODM5dGl5QzdOTURxMzhGanVVNDBEWkRwZUlJeGk0azBqbjRFQUpBMGQ1U0NLc0lxWmF0V2NHVTQ1ckZva0FwcTJJSzdqS01oa3RPRlFtdGhMck5ERV9WSdIBuwFBVV95cUxNRjdPZlJPT1F6bmFscy1LeXBMaE1HbzhtY1YycnVEUjBoSktKaTd4bFA2UWJvcWxRVkVNeTNNQ1BmdHdhNGttWU9GY0V0OGl2UkpJeUVJR1dYMTZZVzFQa0N4NEhpTm8xY3RnTkYtTkNYUTUtQ0NnX3JSSDdFb29hTklVRWlyc3lWVGgxQzdTZ1lwVkdHeE1ROG1HZlV2eWZtLUVOejYyVVczZFpJX05Fd055M3dKMldXOUpV?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "נציג הכנסת בדיון: \"אין ברירה אלא לבטל את החוק\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfWkxYR0c2MElOQW1VWC1GSlItdU42OURnVkk4dk5YZUp5eHFTUG1wTEU5aGRwN25kTXJ2NjFlODZKS1NtRmF3MV9obExLdw?oc=5",
