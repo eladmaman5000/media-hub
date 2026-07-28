@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T10:15+00:00",
+ "updated": "2026-07-28T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -311,7 +311,7 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "במשטרה גוברת ההערכה: אלדר דיין לא נעדר - אלא ברח",
+   "title": "במשטרה גוברת ההערכה: אלדר דיין לא נעדר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03Q2xkM2pERWlyeFBWMG1nX0hJLWNoX3dTYUFobkhfZ0R0ZXpDdFpDeEx0SlhWTmhDM28wQ1JsVWR4akUteUZpaEtxQmxKUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
