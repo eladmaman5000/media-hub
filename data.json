@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T21:30+00:00",
+ "updated": "2026-07-28T21:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "\"הליכוד הייתה אמורה להיות מפלגת ענק. נתניהו מוריד לה 30 מנדטים\"",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFNyVWtXaWxWdk1lVFF3VlIwb2h3bkFkNkU3YmdTazRUU084SmJ0dUgyR3RPY2NQc1pzWldLZ2d6cmUtdzhYRVFEdGFFa3BHNTloQVBLT1JfM2xfbko2NVBYZDExRmNFTUFFOVdJYXJ2ZGtiaWgxeWdsazJQazJaYWtQbFcxY181QUw2OS1ZR29VMUNLRXN4emxvWjFreXpVbDRUS1FiZkRYNzBRRmliS2dtOHZRQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "קרבות הבוץ בתוך האופוזיציה: \"מביך לראות את ההתקפות שלו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IM2EwV2V1RnRNbU9UdDBXMEhNVXVsYlh2cFIyU01xUUxVTGJxV2dXWGhmTUxXZVQ0NE9sRmJ0em9qbnFpVDZIQk8wZXJ1QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "Supreme Court boycott? Closed-door consultations revealed",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aREYzaHNGWjV3bVV5QmxjTlV3Nk9BWW1menUxYUVFYnZSNDhUSGRfZ3hWMkxlb2hFV1JSY2hHcExjaWxsRlRuRDV0dTk4NHdlVzNjVGlSQlZkZw?oc=5",
