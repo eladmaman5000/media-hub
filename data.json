@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T07:01+00:00",
+ "updated": "2026-07-28T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"מי אתם בכלל שאתם פונים לטראמפ?\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLXF5UWhxVVEwZ1pmbHI3VGRsQWxVc0I5Q3BiM3g2Mmp4Z19YZXVOV2QyQXJnOHVwMjkwaXlmRTRQNDU3aWtxNVhPUTZPLXRJUWk1RU9mRXE2bGRwNF9mLXhLaTF6QkhfdTZOVjJTNkJFOVJPQ0VwdzVrR1lRNjFFdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "כמעט בתחתית: ינון מגל לא ציפה לזה | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelNTOHpnTVZnY1JoamI0YWd4X25BV0VKaHNTNFA5OUtZRVlKXzNHTm5ZQU9LdlllUXRGTnFjVmhwdk9KYUZkY1diVlZ3eWxuN3dRUnBnSXJNeUJSODM5dGl5QzdOTURxMzhGanVVNDBEWkRwZUlJeGk0azBqbjRFQUpBMGQ1U0NLc0lxWmF0V2NHVTQ1ckZva0FwcTJJSzdqS01oa3RPRlFtdGhMck5ERV9WSdIBuwFBVV95cUxNRjdPZlJPT1F6bmFscy1LeXBMaE1HbzhtY1YycnVEUjBoSktKaTd4bFA2UWJvcWxRVkVNeTNNQ1BmdHdhNGttWU9GY0V0OGl2UkpJeUVJR1dYMTZZVzFQa0N4NEhpTm8xY3RnTkYtTkNYUTUtQ0NnX3JSSDdFb29hTklVRWlyc3lWVGgxQzdTZ1lwVkdHeE1ROG1HZlV2eWZtLUVOejYyVVczZFpJX05Fd055M3dKMldXOUpV?oc=5",
