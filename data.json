@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T06:30+00:00",
+ "updated": "2026-07-28T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,38 @@
   }
  ],
  "items": [
+  {
+   "title": "נציג הכנסת בדיון: \"אין ברירה אלא לבטל את החוק\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfWkxYR0c2MElOQW1VWC1GSlItdU42OURnVkk4dk5YZUp5eHFTUG1wTEU5aGRwN25kTXJ2NjFlODZKS1NtRmF3MV9obExLdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "כ\"ץ, גנץ וסמוטריץ' על במה אחת: ועידת הביטחון יוצאת לדרך",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4LVZ0OU04azVHYk1KOUtWbzlERzYzQmRGeEt6T0xLUWxDUEJzb21ZeF9lYjJPcUxoeFJBRDFuUWlPMFVFZWNkUWVFWWg4QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ערוץ 14 עקף את חדשות 13; \"בואו לאכול איתי\" בלטה בכאן 11",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Hdm5GQjVDWGtDLUtYT2s0eEhfSy1MMWpUSFhKckZ2ckRrLUt2Q0lEbVFrRUhhbEJXOWpPUF9kbWwxSEZKVDRCeFY5YS1HcDhRZF9VeEpVeXlxaU5aZGhTWXlqdkUzTVdNSHljUFFvR05jNDA0NGh4UURrODdZRXM?oc=5",
+   "source": "ביזפורטל",
+   "type": "site",
+   "date": "2026-07-28",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
   {
    "title": "עימותים פרצו בין האזרחים לכוחות המשטר האיראני | תיעודים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84WWw2LVV6U2Fpc01zVzJ4NXFINVVNQ192V1ZvMGNEQzJoTDRPY2J4eTd2eElFamlYbWUzc205amNMTjRjcEpIQjUwUVJBQQ?oc=5",
