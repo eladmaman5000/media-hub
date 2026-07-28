@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T15:45+00:00",
+ "updated": "2026-07-28T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -178,8 +178,9 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -197,7 +198,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -286,7 +287,7 @@
  ],
  "items": [
   {
-   "title": "בשיא העונה: דגלים שחורים בכנרת - המתרחצים פונו",
+   "title": "בשיא העונה: דגלים שחורים בכנרת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWSGlVWnJJWVg5ZS1YTkVLWlE3cHRkdVFfRGlVOTlXUDNUUE00dDdWT0NwRUhmUTRfQ3QweFkxY3RmeS1JUFVhYnV1dGdpUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
