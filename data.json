@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T16:30+00:00",
+ "updated": "2026-07-28T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו וטראמפ נפגשים כעת בבית הלבן. במוקד: איראן",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pUlUxUXNzLWpTd0l2Vjk4UWNoYVdsWDhoVDVsYUk4T1o0clExLWdlWlFVdEhYSk96TkdvbEpvT01kUGlOZGVlb0U4bHo1aWM?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "תמה פגישת רה\"מ נתניהו והנשיא טראמפ בבית הלבן",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HZTZWMnZPdDJDS2ZVd0xXd09iXzNHYnFYR2x5RzN1RklTVFlhR3dlVWI1aTdWUWVGcjZ2WVo2UTVmZHJOWklxYzk0T1FDUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "נתניהו ספד בוושינגטון לגרהאם: ישראל איבדה ידיד גדול",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tMzJGc1RIWFBvQko2bWhRYmd0SGplMWoxUnZ0REw3Um5sN2tmVlJfaFAyc1JCWm0xRk9VTUJzYllQZW1fRHdvdzI4NzRLMk50N05zTURzaTBGdkk0NHdFbHNB?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "לראשונה בישראל: סנגור יוכל להיכנס לחדר החקירות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiNW5KQldyRm1jblZ4c184WVIzcEJJb19hMXdGNldyV3ZkR3o4dFdZVzhhTVZacE42VzZocTlMZzUzS3hablo0bm1WVUpyZw?oc=5",
