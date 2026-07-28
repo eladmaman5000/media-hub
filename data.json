@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T03:00+00:00",
+ "updated": "2026-07-28T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תשאירו את המזגן מחובר - שיא החום עוד בדרך | התחזית המלאה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RVHc3bjlQbjJFdUY3eWc0dVNWSVB4V1p5LVdNak1vVEZmajdMX1ZIb1JYQUtLTy1MVjRfb3Z0Yl9vUGtIWTc0R3ZybE1Cdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שגרירות ארה\"ב מגבילה נסיעות עובדה ליו\"ש בשל המצב הביטחוני",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hTTFNN0lROVFMeGtKcm91OFQ2cHkzbHJtVFZTN1d1dXJXd3Fja0lJMXNrSXl6blY3Yk53OVlMTW5wSjVkazVqZm0yd3BQVGsyU3FNVTJyT2RrZjd3dDE5RzhIMWFSdm_SAW9BVV95cUxQSUc0Rl90TUZDNnVRbDl0czVkelBwTlpCSC1oeUttUjdkMjBBU3kyWnVuNUdGVlFQQUtKeVVzczZ6QWswX1NQTkRjM2FXOUI1ZFZ2d19HemxGZm1fa21sMnQ0c1FIVGdiZmRReGdMWjg?oc=5",
