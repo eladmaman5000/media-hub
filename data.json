@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T08:47+00:00",
+ "updated": "2026-07-28T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -184,124 +184,159 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "דלת מערכת חדשות 12 נופצה בפעם השנייה בתוך שלושה שבועות",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnSkp6aVNxSUVINlUzc3h1UUZMdzNrQmtEVThpakhTWHQtNjl4YUJDRG5JOFd3R0htRXZaWUtSRGk4RXlvelBJeXFHRVR4TzlKNXNpNjMyTW9uald6cS1LV0Vn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "ברקע פגישת טראמפ-זלנסקי: מתקפת כטב\"מים נרחבת על מוסקבה",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0VVNic1BpbUJTdThEOXBPVGhfWmZZN2llVlFQLXFiRDhrdFpPVi1LZWpoZGh2Sjg5cFVmUDB2ZjZ4WkpOUXpzTmFzc05wRTg?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "דווקא נגד מסי: זה השער היפה ביותר במונדיאל 2026 | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwOGhqaWtreXpOaTBrY2NKbXhfdVJGeUZldk54aDNmVk56eHY2alNMaW5JMTZaQl9naXRPektGekdEaGpjUXJhdldFN2JKUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הבינה המלאכותית הצליחה לפצח: זה מה שהחלומות אומרים עליכם",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOcVVjOW1rMUpLOGRkSnVqZEFqS0xxRjJDMUgzZTlHV3BVcG5kb0t1dmFBaXhqYVdGXzJEeE01VkgtMG90TVB6SlBmS013dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אכיפה בררנית בירושלים? הערבי תקף, והיהודי מאחורי סורג ובריח",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jY1BGZmhVUmlvX1RfVWYzMktDaG03bUE1LXFSTjVLMmVPWG14ei1Tc3VBZDRhN2ZZVmNfakROcVNwYUdfckRHV0tRTXZnZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הפח שטומן ג'ולאני לישראל: זו התוכנית האמיתית של נשיא סוריה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ya2c1YzlySm9oSUlaU1ZYWDNyQnllbFk2M1czY0tKQjBucHNlSEtrMlFYaWFFdlphcEJIXzR6TmRMb0xWN2MwX1lfeEhNUQ?oc=5",
