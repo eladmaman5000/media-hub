@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T14:45+00:00",
+ "updated": "2026-07-28T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מגיש חדשות 14 יוצא נגד חדשות 12: \"מטשטשים פיגוע\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpTWJ3Z29WczZKTVYzM0lPSWVvUjF0blFRd3dGMzU5RmVtRW9ocVI1ZkNyeXNVZTJrdUFyNlBuVDh1OWQtS0ZZRVlxbGZGUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "השר בן גביר לעולם קטן: \"הרסתי 5,750 בתים בנגב\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PWm9QQS1hVUg0cW1HNmZyWkpTQzhvcFhwNlZ6bHBzd1h2T1F5U01qVW9MYWlPNlhvNDNJT1ptd3hnelR4WTlQdEptWF9rdw?oc=5",
