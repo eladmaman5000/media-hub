@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T11:15+00:00",
+ "updated": "2026-07-28T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,38 @@
   }
  ],
  "items": [
+  {
+   "title": "‘Someone will die’: Vandal smashes Channel 12 office doors again, leaves threatening note",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRElEdkpxQ09BLXFRZF9pY3dCRnVINk8tZVNSSi1yTWZwUHJSeFM5d0c4MzhFNkw1VDZQRks3bWF3cjlZZUh2b3A1NEwxU2N5VzF0ZTNMWEFvQVdkMDhsb1VUVFY4a3diZkZBRENiS0dZWnA3RnBkMGkxY200dXowV1J6Mzg0MFhJWmtaT0lXNFQyN1FyNkVaQWdsZHpqSFZ5TWNfNDZSSWRVWnZ3azUwM0hWMV9oR3fSAbwBQVVfeXFMTlIxRWl0d296QnNlUVBKZVNoZzNyeXJnc19LSGplWkdqWE9aVUJxR0dWbk85TkRkZENkYXdqNU1NcDVTZ3BnRkhrY1F0V2k0WUM2V3d4T1N1cVo2S1RBcDBkZFdMSVhrRzFTZ3cxQ29feWVPSDFOQlFnOC1rcEQ4Q0d0OFJzN3JoQzNtUGxFVVFmYk5hWUVZZ05SZDVoN0hNVVBXdVgxTUpkSnowOFNPVkVvUlJwUDZiUmY5TDQ?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Times of Israel"
+  },
+  {
+   "title": "\"הרכבת יצאה מהתחנה, פעולה משולבת נגד איראן - עניין של זמן\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14c1MyQlQ3TjFuZFVKcmVISjM3TnpOX0c5dUtGNTJtaGc0Sy1LQUtscjFkNGNGbHpLX3JFaFdvSnV4dWFZXzduUFEzbVRUQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ינון מגל התפוצץ בשידור: \"תתבייש, כסיל\"",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zWW00blltdW52QnAtTW0tT0NObE5TYW1vOVZuLUVlLUM1SW5OOHJtaEVXYlFVRlVlTVBucnRVbEhNc25OSDhUMg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "קשת 12 מצטרפת לעתירות לבג\"ץ: \"הממשלה צריכה לחדול מהשתלחויות מסיתות\"",
    "url": "https://www.themarker.com/news/themedia/2026-07-28/ty-article/.premium/0000019f-a846-de01-a5bf-ff46cb9c0000",
