@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T21:45+00:00",
+ "updated": "2026-07-28T22:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בגלל רובוטים אנושיים: טראמפ פותח חזית חדשה מול סין",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tVllMREhFM3dPUzdhWDNLaS1yMDJuMGM3RGpjYk80VURLRmdYem9hNTJ1SkhaNjNLMG02UEtjVVQweG1UUWVoc0NCM3hwdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"הליכוד הייתה אמורה להיות מפלגת ענק. נתניהו מוריד לה 30 מנדטים\"",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFNyVWtXaWxWdk1lVFF3VlIwb2h3bkFkNkU3YmdTazRUU084SmJ0dUgyR3RPY2NQc1pzWldLZ2d6cmUtdzhYRVFEdGFFa3BHNTloQVBLT1JfM2xfbko2NVBYZDExRmNFTUFFOVdJYXJ2ZGtiaWgxeWdsazJQazJaYWtQbFcxY181QUw2OS1ZR29VMUNLRXN4emxvWjFreXpVbDRUS1FiZkRYNzBRRmliS2dtOHZRQQ?oc=5",
