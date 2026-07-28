@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T16:00+00:00",
+ "updated": "2026-07-28T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -178,9 +178,8 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -198,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -286,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "סגן ראש עיריית באר שבע מצטרף למפלגת נעם",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XelZydk1EcDVhc1ZXYXNmYmtRRjZLX0xNdmY4YW1Pa2RNa1NWWks4eElSTDZxWXc0V3FHRDhoVHFjb2lvT1ZseTNVMUt3dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בשיא העונה: דגלים שחורים בכנרת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWSGlVWnJJWVg5ZS1YTkVLWlE3cHRkdVFfRGlVOTlXUDNUUE00dDdWT0NwRUhmUTRfQ3QweFkxY3RmeS1JUFVhYnV1dGdpUQ?oc=5",
