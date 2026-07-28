@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T08:01+00:00",
+ "updated": "2026-07-28T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,29 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג: לא רק רביב דרוקר - מתן חודורוב הנחית מכה על יעקב ברדוגו",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYmV6OHFtX3JONmVYWHFlblp0UC1tdjhjdEtNVjF3VjRhMUQ1NzJmVkswYmRnUkd2VU84RExVa293SWxndkc5WTZtLWVFY19sdXdtVkJ1WnlVdDAwdzRhaA?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "רייטינג",
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "\"ערב הלחימה הגדול ביותר בישראל מאז ומעולם\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjZ0MjZCOVY0UHhTTHgyZkY0OWNaWWhYaHFSVUF3b3Y1MEJ1NHN3MjVBbFhTMWE0QmY0QVl0QVhFejN1RHZIWkZqY0RDSDBYRlViMEZoVGRlU0s0d0RaMmJmWkQxMTdtbzJMWDBmZE4xMlFBTF9PaGwxeDZ5THFERg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "\"מי אתם בכלל שאתם פונים לטראמפ?\"",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLXF5UWhxVVEwZ1pmbHI3VGRsQWxVc0I5Q3BiM3g2Mmp4Z19YZXVOV2QyQXJnOHVwMjkwaXlmRTRQNDU3aWtxNVhPUTZPLXRJUWk1RU9mRXE2bGRwNF9mLXhLaTF6QkhfdTZOVjJTNkJFOVJPQ0VwdzVrR1lRNjFFdw?oc=5",
