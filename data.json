@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T03:30+00:00",
+ "updated": "2026-07-28T03:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -286,6 +286,18 @@
  ],
  "items": [
   {
+   "title": "אפילו מגישת ערוץ 14 סברה שברדוגו עבר את הגבול בשידור חי",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tNlR1XzFOYUVmczgzYVQ3S0NaY1NJNlo3ZFJGY002NXBNTXJidHNjd1VoVVRjX3A3SXNfeG03Tko1T1ZiUWpsWUhB?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "וואלה תרבות"
+  },
+  {
    "title": "לקראת הדיון בבג\"ץ: נתלו שלטים של הח\"כים שתמכו בהקפאת מעצר עריקים",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15Y1hZa1FlUDBSa1FHSFBrbEd4SXh2STJPbXkwVlhjU3lJSGk1VVR2NXBMaDVRWUY5Q1R0OWNLWVJpeDlibFdNV0JYM3pyT0RuWU1rS1J3OUZlZw?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -304,6 +316,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "אייל ברקוביץ' נגד יעקב ברדוגו: \"עסקן, לקקן, עבד של המלך\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORHlzU2pvWUVIeEw5VGdUNHU5aU05Q3lKSlJtVXlpd0NBd1pNRktMdnlvbEJrQVV5Y3RWTDdHeEczdmhKMjJUQnByNEZYbUswQnhldFhfQmFnNmo0?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-27",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "תשאירו את המזגן מחובר",
