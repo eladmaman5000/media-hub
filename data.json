@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T11:30+00:00",
+ "updated": "2026-07-28T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -257,7 +257,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -286,6 +286,29 @@
  ],
  "items": [
   {
+   "title": "קשת 12 עתרה לבג\"ץ נגד חוק השידורים: \"חקיקה פרסונלית ומפלה\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81amx0b2thZ3JsNjdhRGdfeWM2R25pWm5mNmxXb25mWUlKSUhDVmo0bUc0SlNJSkJwazUtZDlSbDN6OTZubFA0TS12eTd4TVZxUWMzR2Fyak90SFBCUjVBT012LUJSQXPSAW9BVV95cUxOcXo4bHplb1d4Qnh4OVVmM1Q4aS1fYWgzMWwwZmNwUVF6MDVXaTNwM21DZVVwWmM5YmhDMTZjT2VCa0RMZVQ1dkVjQ25QOXJieDFwSUhMSGFSWDV1c2R2UmF6T3Q4aUxCZm5qMlhhb0U?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12",
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "בכיר במשרד רה\"מ לשעבר: נתניהו וטראמפ מתואמים יותר ממה שנראה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd0FHQmtGbE56YjBtTFZLMHl0OTdWanF3WVBSaFRmdG1hSHh3RGplOHNmbjV4eFBQSW03bmlSSkJnTjZuUUw1N2JVZG1OZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "‘Someone will die’: Vandal smashes Channel 12 office doors again, leaves threatening note",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRElEdkpxQ09BLXFRZF9pY3dCRnVINk8tZVNSSi1yTWZwUHJSeFM5d0c4MzhFNkw1VDZQRks3bWF3cjlZZUh2b3A1NEwxU2N5VzF0ZTNMWEFvQVdkMDhsb1VUVFY4a3diZkZBRENiS0dZWnA3RnBkMGkxY200dXowV1J6Mzg0MFhJWmtaT0lXNFQyN1FyNkVaQWdsZHpqSFZ5TWNfNDZSSWRVWnZ3azUwM0hWMV9oR3fSAbwBQVVfeXFMTlIxRWl0d296QnNlUVBKZVNoZzNyeXJnc19LSGplWkdqWE9aVUJxR0dWbk85TkRkZENkYXdqNU1NcDVTZ3BnRkhrY1F0V2k0WUM2V3d4T1N1cVo2S1RBcDBkZFdMSVhrRzFTZ3cxQ29feWVPSDFOQlFnOC1rcEQ4Q0d0OFJzN3JoQzNtUGxFVVFmYk5hWUVZZ05SZDVoN0hNVVBXdVgxTUpkSnowOFNPVkVvUlJwUDZiUmY5TDQ?oc=5",
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -296,7 +319,7 @@
    "publisher": "The Times of Israel"
   },
   {
-   "title": "\"הרכבת יצאה מהתחנה, פעולה משולבת נגד איראן - עניין של זמן\"",
+   "title": "\"הרכבת יצאה מהתחנה, פעולה משולבת נגד איראן",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14c1MyQlQ3TjFuZFVKcmVISjM3TnpOX0c5dUtGNTJtaGc0Sy1LQUtscjFkNGNGbHpLX3JFaFdvSnV4dWFZXzduUFEzbVRUQQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
