@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T17:15+00:00",
+ "updated": "2026-07-28T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,38 @@
   }
  ],
  "items": [
+  {
+   "title": "צפו: כתב ערוץ 14 הותקף בשידור חי בהפגנת השמאל - ערוץ 14 | C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aWUpLTjRmZmcyV1c5OG9mV05SbENWa2dXeWdDZm9aak9fMndzM3ZTSlhxOHZwcDFXWmYtZDFPdVA2Y1FPMGozajNhMm9EQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "שלזינגר: \"להתלונן על ההתיישבות לטראמפ = מוייסר!\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvUGx1Zm1QRzM5Y3BZX2F2NXg5TU5PU0NmajJDbEl0cEhEc1lSRmVwRmtEMXczVG1ZRnpuQkt2NDY4UlBodnoyYllpX2h2Zw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "המתווכת בוחרת צד: התוכנית של עומאן שמדאיגה את וושינגטון",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jbXBrOWsxREhGT2x6ZUdPN2VkZ0paVDJoTF8ySFJ5QkFvSEFialNBcTN6S3F1SzhLOXhNbVo3QTlPb1otM29fUmRDRFdoQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "תנועת אריאל חונכת מבנה חדש ומפואר בבירה",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nYWx4WUlURklGSERUM05jbXpYQ1pmNWVxSGFaVzN3X0F4dDZ2N0g5MkJ6eGVTU0dhMzZTZEM5YjV6ek4wYzBQb1Z0LUJDVVU?oc=5",
