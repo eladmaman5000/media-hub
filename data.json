@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T03:15+00:00",
+ "updated": "2026-07-28T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -286,7 +286,27 @@
  ],
  "items": [
   {
-   "title": "תשאירו את המזגן מחובר - שיא החום עוד בדרך | התחזית המלאה",
+   "title": "לקראת הדיון בבג\"ץ: נתלו שלטים של הח\"כים שתמכו בהקפאת מעצר עריקים",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15Y1hZa1FlUDBSa1FHSFBrbEd4SXh2STJPbXkwVlhjU3lJSGk1VVR2NXBMaDVRWUY5Q1R0OWNLWVJpeDlibFdNV0JYM3pyT0RuWU1rS1J3OUZlZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
+  {
+   "title": "המודיעין הדרמטי שנתניהו צפוי להציג בפני טראמפ בוושינגטון",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12eWhORl9CMWtvYk1XNXBKOTJ4THRxaG1RbHk4R1JzdVQ0TXlaMzRqODlBZWdpNEgxWkEzTnl0bVoxaDFqUi03UGNFcUs4UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "תשאירו את המזגן מחובר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RVHc3bjlQbjJFdUY3eWc0dVNWSVB4V1p5LVdNak1vVEZmajdMX1ZIb1JYQUtLTy1MVjRfb3Z0Yl9vUGtIWTc0R3ZybE1Cdw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
