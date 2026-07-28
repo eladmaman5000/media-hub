@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T22:15+00:00",
+ "updated": "2026-07-28T22:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "גלעד ארדן בצעד דרמטי נגד יעקב ברדוגו: \"התנצלות פומבית או תביעה\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aYWNvTkFfeVpicTUySkZQZnl6QlZYNnlONXpWSy1KT0JjX3VFZmRacmhUUG9TdFRKcFFELXpJYnZHZkpESERpZVhLNlhLZWIwSEV4U2x5X21hR1dkTnl4NFM4cw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "יעקב ברדוגו"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בשווי מיליארדים: ההחלטה הדרמטית של טראמפ - ועל מי היא תשפיע",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qTHlJckNwVGRuXzFiTmduVWpLX0wwX2VDdW9EcnA4RDlDdTNuREpuLTFPa25kV2hWYjJBek5ldXFyeGtUQ1hXYy12U2w5dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בגלל רובוטים אנושיים: טראמפ פותח חזית חדשה מול סין",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tVllMREhFM3dPUzdhWDNLaS1yMDJuMGM3RGpjYk80VURLRmdYem9hNTJ1SkhaNjNLMG02UEtjVVQweG1UUWVoc0NCM3hwdw?oc=5",
