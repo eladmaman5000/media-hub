@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T20:00+00:00",
+ "updated": "2026-07-28T20:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מחכה לשריון? אלמוג כהן לא הגיש מועמדות לפריימריז של הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ydVBNaGFyaVdETVpla2VwRWphdnItU29PZnlwQlVFYXV6WF9ybVBtN3pQUmxnUWM5N1N1dXhleldsS21oZkNveVlWMnh5QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"ישראל היא מגדלור של אור\": חירט וילדרס בריאיון בלעדי | צפו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kSm5KMXVoRFNBQzFHT1k3NVZyQXVOaE1nSGctS01UTm9jdHlBVzk5M0ZLdnJqV0NBcUlCUTF1T3RnTEo0WThPYk01TXBBQQ?oc=5",
