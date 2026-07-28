@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T12:30+00:00",
+ "updated": "2026-07-28T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מבקר המדינה היוצא מתניהו אנגלמן בריאיון ראשון | ישיר",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45SFN6WV9mNENUSlBVaW9heU00eFU4YVplYUwtTld2SDFPUEg0X0FudXR4dlBDczlRUFZfVUpNN1Q0Tml3dVUzTWxKUnVkUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"זה יקרה בלי התרעה\": התרחיש שצה\"ל ממש לא מוכן אליו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nX0NuWkthN1JablZ3T0ZJRlJVUVQ3NEhIRFh1UjZEOWw4T0dGSl9QZ1hxUmhnU3Nqdlp5bE82dkFRc2NJSWdIN1Z4aHZ0Zw?oc=5",
