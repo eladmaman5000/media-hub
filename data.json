@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T15:00+00:00",
+ "updated": "2026-07-28T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "פיפ\"א מודה בטעות שיפוט קריטית לטובת ארגנטינה במונדיאל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aN0ZyZmNGUkFwMFV1OWFROFlGOU95LWtRc1ByaWNHWlRBVUFOQ0VCUDllQndvM010Mmp6RTJMOU10SmtJTUs1MGZXRDBtZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "המשטרה תפסה את אביאור ששון - החשוד ברצח בניהו רזי | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWeFlUTU9SNENjb3dBakFyT0hBcmFXaDdJUWJiMEhfTjkxVFRRNXlSQ3c5Zk9JUVdheXVjdkdrZFRFRmZlekx5SHdjTDVvbE0?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מ.ס אשדוד: גיא וויזינגר צורף, אבינו חוזר לנוער",
+   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPUXJfTWx2cjhER2Z2bVRraXlSYkxkUlR1NmNnU1ZST0ZHeXhLMFVGaUJDbVhrTG5JRWcwY3RUalFIWXpyUVZwSDhTbWZLclZFanFOT0twWWVfUWRYQ19Rclc3QUJPZmFIVnBtMEFQS3Q0TDROWGZKYjVKYmNMUF81azdycU5hUEJCeHBnRXF3aFQ3WVdDOEg1bE5HdVBLNjhiZ05HQmV2UXJBVUR4dThLZnZZTFIta0RWdkpGemVNOXl6bF81UkV5RVB0M184M0Q3MEgzTjNWTVRFR1c0eFY2eDdWdTFhd01EXzdxT2RoSzVOWDBrYWU3U0pvWG9zcjl4SkZ0WGN4TUthUElmekhBZTFNbW1QYTlZT3RHLVh1RDdjNlpsejVoeVNIZ0h5N3lrc2JkZkxFTnRpOWpXV0l3YUhhaENKOTk3amhMTXdOWGF3bDRRR1NyYUlLRUJJdnlrSXF2bUJpNTFzRmV6cWhPSlBEb0VJRk95ZFVHNkYwdzFaZ2JyQ2VVam1wWnlzUkdsNDl6c0NOaw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אשדוד נט"
+  },
   {
    "title": "מגיש חדשות 14 יוצא נגד חדשות 12: \"מטשטשים פיגוע\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpTWJ3Z29WczZKTVYzM0lPSWVvUjF0blFRd3dGMzU5RmVtRW9ocVI1ZkNyeXNVZTJrdUFyNlBuVDh1OWQtS0ZZRVlxbGZGUQ?oc=5",
