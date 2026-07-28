@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T11:00+00:00",
+ "updated": "2026-07-28T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -167,7 +167,7 @@
    "source": "דה-מרקר · יסמין גואטה",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "דה-מרקר · נתי טוקר",
@@ -286,6 +286,57 @@
  ],
  "items": [
   {
+   "title": "קשת 12 מצטרפת לעתירות לבג\"ץ: \"הממשלה צריכה לחדול מהשתלחויות מסיתות\"",
+   "url": "https://www.themarker.com/news/themedia/2026-07-28/ty-article/.premium/0000019f-a846-de01-a5bf-ff46cb9c0000",
+   "source": "דה-מרקר · יסמין גואטה",
+   "type": "site",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true
+  },
+  {
+   "title": "יו\"ר התעשייה האווירית: \"המלחמות הבאות יישלטו מהחלל\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ORGhodzZJZEJTamlIU0VFQ3hoMmNaUkExMENLS1R3bWh1dGRtbFNOQ3ZMamtYdXg3a19zMFVMODh3WDF5TlRGT2JXTFBnZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "לקראת פגישת טראמפ-נתניהו: אלה הנושאים שעל הפרק",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPMVZjZGY3NldZdVBLV3V1YldCdGJNTWpqV0VfY3RBcEJXd2FTQ2VKZ2hMdVQzM1pHRGU0VnpwYU50QXNzQXZrelMtU0FIZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "שיקלי חושף: זו המדינה שמציבה את האיום החמור ביותר על ישראל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uZWVFWE1WZ0lOX2RZSkJHa0Q3TWJsM1gxUXF0RUZ6cmdJa0NPQXYtZ3pVYkV3UFBLY2l5dnRqZ1ZDUzcxZFFTd3Z4MllOdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "כ\"ץ לצה\"ל: היערכו לכיבוש מחנה טרור נוסף",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nVlFVaU10MnR2V0EyRTgxN2tibXREOEw0eHVjMEszU3dwUXpnWjhuSTVLbVlBN0hVYk8zcG1KcXRyVjFUeGFFRVJiMnhNaWM?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "קשת 12 עתרה נגד חוק התקשורת: \"חקיקה להחלשת ביקורת על השלטון\"",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YY2dpTkRkOHdDSEFNa0sxUmJfZm5FQlpOeVpQSlFyX0s5ZU5XWXZwbW4xdm5IRjZGWmJHbUVZMlJtOVE3cVo5RU9EeU14cnpDa3NVUWVXcEZUc2phUmxLQ0RIV25NWkRt?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -309,7 +360,7 @@
    "publisher": "C14"
   },
   {
-   "title": "ראה את המשטרה וניסה לברוח - אבל טעות קטנה הסגירה אותו",
+   "title": "ראה את המשטרה וניסה לברוח",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZSl9OOEpGWW5RSUprWTYyd1BOWVdkYnoxc2diS0xCUGVZM0k2Yk52RlI5NVNTMm05TlhoZmpYRjFyOGhLa0czLXpXcWpOZw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
