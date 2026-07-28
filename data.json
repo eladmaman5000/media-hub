@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T17:30+00:00",
+ "updated": "2026-07-28T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,13 +203,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -286,7 +286,27 @@
  ],
  "items": [
   {
-   "title": "צפו: כתב ערוץ 14 הותקף בשידור חי בהפגנת השמאל - ערוץ 14 | C14",
+   "title": "Netanyahu to hand-pick 8 candidates, solidifies control over Likud election slate",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFpVeG5RUktPY3lFYkcwUmphZ0dxZ1cyOGt2SWZMYi14ZkN2Wk1HNmd1SHJRdzA3QXMxb2R0UUNERDNTMkU3dEJJWU9BVnFmTnNKUThVZkVHbkdfZFZUb25NTllDM3NWUHlCWTk5T0xyd24wWXF1NFppS1FiNTNyTldMQ0s2MUpmMFd4OWFfWHo3TjZhTDZqQVpZUjlyTlBIeWFPWWxwVk04Zw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "All Israel News"
+  },
+  {
+   "title": "פריצת דרך לחולי פרקינסון: ניסוי עולמי חדש בשלב מתקדם",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8teXByanR4UGwyNkJGREVjakhub2d3TGc1d0twcFZhQzJFLVpoZldqRlBXb0Rsd3l5bW0xVE5yTmRBS0xDRUJ3OEJMNDRaUEE?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "צפו: כתב ערוץ 14 הותקף בשידור חי בהפגנת השמאל",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aWUpLTjRmZmcyV1c5OG9mV05SbENWa2dXeWdDZm9aak9fMndzM3ZTSlhxOHZwcDFXWmYtZDFPdVA2Y1FPMGozajNhMm9EQQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
