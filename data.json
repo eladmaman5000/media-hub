@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T08:45+00:00",
+ "updated": "2026-07-29T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -251,7 +251,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "\"על אפכם, על חמתכם ועל חמותכם\": ינון מגל ובן כספית פתחו מבערים בשידור חי",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pV2VZUFRvTjdFV0RIa0FlY1dDdjF1a1JtbTN3MFh2bTJJZFB3dU9CM2JCN1gzUVoxX3l0VWswbXBsaFZId0dER1k1SUt3VjN3S2VidDNiUjFzeHBabGRmNVVielo?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "אסף רפפורט במינוי יוקרתי: זה המנכ\"ל החדש של ישראל בידור",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rbVVENXBLLWIwZk50c3djWUl5LVVOMnB2WF9hTUFoeG9FTkF0ZkxuTzNrVk1UVFFiRV9JclRldTdSdFVkNkl5cTdOY3V1bEZnTHRLdTQ1ZE5QUGla?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "נרמול ישיבה עם עבאס מוכיחה: השנאה לנתניהו גדולה מהכל",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16TklHTk1jU2ZfaFJKR0JzcnFzX0FDOWRxTEZPRFJDVzNfRGJjWDNicTBNc0xZcHRuaS15MGh0VjZwSTVLUjBQc0hPSmItRWc?oc=5",
