@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T10:30+00:00",
+ "updated": "2026-07-29T10:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -286,6 +286,16 @@
  ],
  "items": [
   {
+   "title": "מגעים עם איראן בלב הצבא: פרשה חמורה נחשפה ביחידה סודית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTenZZUUJhd0M5NklpTE16SzdQM0Vkd3U4Z2s4MldsdnJlU20yR0M3WjF5aGdVWFhobGtDUHltd0FnVC1lQkROX3pLVFh2dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "נוף הגליל מפתיעה את סמוטריץ' במחווה מרגשת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXUm0zeGlXeDgySnEyT0VQM1Z4eUZkN3NPUjM2OFpaNzNIWXVkVXVneXhIemw1YkloWnRQX0NINE9yQmtJQjhyMUJSSlZPdw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -306,7 +316,7 @@
    "publisher": "C14"
   },
   {
-   "title": "רוסיה מאשימה את מייסד טלגרם בטרור - ומוציאה נגדו צו מעצר",
+   "title": "רוסיה מאשימה את מייסד טלגרם בטרור",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MTENXOUdZNUF5YkNhZmdsWVNBWWlzZS1GeGlXUWZ2QnpzUDEwVnJxNGVLLTB6MGgzRlVNYndvcmxTRkFtSkpJVzUyOUtlUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
@@ -723,6 +733,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "חרם על בג\"ץ? ההתייעצויות נחשפות",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBONlo2bkN2WTlMWl9ncmNPeFg5aXRqa1gzckVKdTh0aHBZRGdOYmlUbnZNQTg1emZtMlBDYkZlV2hWNmxjclpUQg?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
   },
   {
    "title": "\"הם רוצים נגדכם\": האזהרה של יקי אדמקר ליהדות התורה | צפו",
