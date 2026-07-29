@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T09:45+00:00",
+ "updated": "2026-07-29T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,29 @@
   }
  ],
  "items": [
+  {
+   "title": "בלי הכרעה בעזה ובלבנון, גם הישג מול איראן לא יספיק",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBENW1teTg1TC13UVlBX2RLTDMtQWhKRVpFVGRnbjJEd0lLQlg3cFJTWkpaVDdWTXZfLV9MRHNpemk0NWZPZkJuSGRhVVhSdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ינון מגל נשלח להתנצל - והגיב במתקפה חריפה על חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SU3BvTWJxYm9xdVBjc1Vrb3JINFdwUHNMc0RURUpjT3RDa1hxbVNkbEt2YnJHMUxTN3lEUUhLRUM3TGhNQUF2SFhWME1VdHI1aGFNQXlJRFBjdGZnWW5kU0JkMmw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "חדשות 12",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "בשורה לחולי סרטן העצם? תרופה ניסיונית האטה את התקדמות המחלה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fRkllNnlKR29rUTBxYkJnQVBURnQ0SVExSWV4TURFZ0g3TktjNkpSTWNvdWd6cWF1QWl5R29pWjVzVzNCUWp6VlY0N3FBUQ?oc=5",
