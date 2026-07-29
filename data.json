@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T07:00+00:00",
+ "updated": "2026-07-29T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "לוחמינו מטהרים את דרום לבנון: עשרות אמצעי לחימה הושמדו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xS0lGY3locUlsbi1TVy03QkNnR21OREtSVEdHMGZzcEgySGZBdEg0VXE3aWJxLWQwaEhnN2dPeGJVYkZLQkxxLWNGOEtoQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אכיפה במדבר יהודה: כוחותינו הרסו מבנים בשמורה ההסכמית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BN3R4M09md0N6Z0FTbHpYc00tM0lmQjNyWjQ0NlR3dGtHQUcwczhCMDdkZEVQeWJ3SUhPVXdMWXVjT3NuN3NTVzB1UG0tUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "התרגלנו לכל האלימות הזו",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVkppTjE2YVBydmdXb19vRXRTT1Z3di1sWW5VTUNwcFk1NkF1SkhWbGJBVjFrVXRsYUp3VEFJM2tpUXhJUjlnQmNabTdxYWZ3VWh5MWs3Q3JEQQ?oc=5",
@@ -423,6 +443,16 @@
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
    "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"הם רוצים נגדכם\": האזהרה של יקי אדמקר ליהדות התורה | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83Q2pxdEdONEJtaXRaRnFGZTRrREsyRzdIZzU1S0xQVGpHdnN0ZGNlUWVLbGNmblFBcnB5NkJqal9paFkwRTQzVExHdUlPdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
    "keywords": [],
    "pv": true,
    "publisher": "C14"
