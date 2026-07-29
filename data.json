@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T06:00+00:00",
+ "updated": "2026-07-29T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -209,13 +209,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Fringe Israeli settler group is sneaking into Syria to try to claim land for a Jewish outpost",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVBUMUI5SHh5cVdXTklrdW1DN1FqaHVXbzJjN21nbW0yd0M4aTFuVGtzNWpWM2M3Vk5hNWJENzRoS3FrRWRvN1ZhNTB2MkNHMlRmSURzQldPWTdCZFF5R1hjRmUwVEJ4RTF6TkhXbDZyU2Y0WTd4TXVqRHh0MXc2V2l0VlVfWVUxYkdUTF9ubmJ5TVp4TkpTTHpubHpiN3F4M1lSY2FFVWNLSS1nQ3JoazFzazZUTy1icFdhOGxBeTRKQWRLcHpzRGtLSzBweFVu?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "yourvalley.net"
+  },
   {
    "title": "טראמפ: \"הייתה פגישה טובה מאוד\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44dEVsb0VjV3NUUnhrRXZibXBVemZIU0d2cW43T0gxZVRuWVhIZFFJTVhGWEhfOGxDRkdKb25Pcmxqc3NVS2FnYUxlcjAxQQ?oc=5",
