@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T07:45+00:00",
+ "updated": "2026-07-29T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -209,13 +209,13 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רייטינג: יונית לוי מצליחה לצוף מעל בשורה חריגה",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RUZ4X3g2dTF3UnA0M3VseVktR1Y1TGRUTDJpbzlwUXR0NUJOZ1I5QUpmRWkzMEFxaFZBR1UtWmJaMFFyb3hEcHB3RVgtR3J0ZnVsenhzQXdNNGQ5TGVqVA?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "תיעוד גבורתו של בניהו מלט הי\"ד נחשף",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zYkZhaWNyQk5JQTFiX2hXY2RMTkVXQnZXY1lSbU5FSG1xMTZDeVEyWFJMbkpVLWU5THBOZG1pZkxTR1d2YkZGdWJfOHhEOW8?oc=5",
