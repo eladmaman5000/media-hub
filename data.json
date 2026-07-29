@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T05:00+00:00",
+ "updated": "2026-07-29T05:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "C14 - ערוץ 14 | C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jQkFwb1BGV3pxcE01OElJWlRtQ1RCQnpjNU1ablNnSmJGbHdjVHJwbEtyRGltOW1YbUlUeVJSSU5fVklWc1U1TVFRSzhmUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ממדאני בצעד אנטישמי נוסף: \"אין כאן אפילו יהודי אחד\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xV2hKQ3pEdzJtUXFiMGUxbk54Wm1JQ0F0OC1LdmZvMjFrTmxaWHpiNXhLQ1Nkck1BYUxsdmxqTE1tY0UyZFl0SDZ6ZWZhZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "התיעוד החריג של נתניהו וזלנסקי שעורר קונספירציות אנטישמיות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ndS1md0tXT0toTFQxRDlKandpdFBrMTF4QVQ1RkZEUTRLRnJTcnFqQjhJcm1Nd2M4VGJzTUFvUG1lUW5Ub1RURnNtcXlQQQ?oc=5",
