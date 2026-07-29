@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T19:00+00:00",
+ "updated": "2026-07-29T19:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,46 @@
   }
  ],
  "items": [
+  {
+   "title": "עובד זר בן 33 נפגע מטרקטור בבית חלקיה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TUm4tdkZMNS02cHBOVTJ2YVJuSWpXdFJxSjdhNTR6anEzNVZDLVJhZUduUHI3bU1NVTVrX0lNWERXX3FVcEJCaHNfdlp6QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "תאונה בכביש 4: רוכב אופנוע בן 67 נפצע בינוני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qY0w3WkFMblNTR25LR0RvN2lseG1UbnBpVnBNV3NwWDNfSlRNdENnbFV2d0lvMkFQcFkxT2hKcGxRa1paVW8xUnFzaXotdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "פליישמן זועם: \"לפיד שופך דלק על העלילה האנטישמית\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aQUY2OVVQOWlWeU5hV196eVVsa3dHUmUzWjZlYWtYVUxPMWNTSmpMNTNOMDk2UjFtbllqcnkwWHNjS2JRd0J4NWN0N0czdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "יום חג להתיישבות: אושרה התכנית ההיסטורית להכפלת כביש 60",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nMXBwR2ctZ0dWcmxUd0FyeHotcF9BektKcDhZUkZ0WnQxTUFJVlVyeVRIT1V2VmZ3RVlGdFBYOW5DaWY3LUs4VE5oRFNYdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "חיפושים אחר אדם חשוד בהרצליה, המשטרה: אין חשד לפח\"ע",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtOENGQlNCTFRKdkowMjBCVDRuOTAzRl9BXzFtX2Joak1Ja0VpNzJXclBvbXV1TTBRdWZDSU01UVE0bksydlQ5R1NEZVBBQQ?oc=5",
