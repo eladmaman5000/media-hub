@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T14:45+00:00",
+ "updated": "2026-07-29T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אמת בפרסום\": בית המשפט דחה את תביעת לשון הרע של ח\"כ רוטמן נגד גיא פלג",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RbEhkbkZXSTFyZFU2blc5aUxUTUt3NXZGSzRsWDhkMHdoSzJfcURLSm1SV1haMldxRFhaVWttajUyNkNkZDNPVWNqc1JuV2locV80U1RUcEd1dW5kTHhxc1JfZmNVd9IBbkFVX3lxTE11U1owcWZ0TWZEWnNxbWw0WVFDZ3hwVVVTcHlTSVFZUWVOOXVHUGlKc1dwR0dOZDh6RnVQZ2VXTkw0X0dHWGpQdkZNSWJyX3pzdTlpdHEtUEVvVmo5SU5lS3lqd1FXNFlNbnc4ZWdR?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-07-29",
+   "keywords": [
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "גולדקנופף ייעץ לחרדי להוציא פטור מצה\"ל \"דרך מכרים\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fd2dBdXpCeVBVS21VQndFdENFYjVUdlMxWXMxZEk5T3Jqa2ItdUVBWHI4UUpNUWFyYmduMjJyUEpZSGFGOFJ4aFZfVTJHQ290bEFOTVJYMUJmMUh3U0kyUDlramlsWms?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כאן 11"
+  },
   {
    "title": "הליכוד נגד שרן השכל: ההסכם עם תקווה חדשה לא הופר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BWWsxSFQtWXJxbXhlUXFuNVdpT2d3c1BLamU1TnVfV1hQWG5KYTctbVQzVTYxcW1kc3VHODliUWpTVmxJUVpXUUZub2RiZw?oc=5",
