@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T11:15+00:00",
+ "updated": "2026-07-29T11:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,13 +203,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -286,6 +286,16 @@
  ],
  "items": [
   {
+   "title": "הסכנה השקטה: המשבר שמדאיג את מערכת הבריאות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40WEx6bERnLUpndHk4Ym02ZG1aTGRzcVBIaVhIaVhiY1FCdHhKWVRxeEdkSDFEbEd5bW5fTEJBRGhVNTlmZW1JSk0xbXdXQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "כספית: 'אתה משחק באש' • מגל: 'חושבים שהם יתקפו וישתקו להם? שלא יתבכיינו'",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00RlZybldkTk8xcnNmaU5ZczFKcWdyS3JDUkxKRHhPZ2lrSzJHeFEtLXJQN25QUFdVWEpibkhaZzVuWFZjZlJJ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -306,7 +316,7 @@
    "publisher": "C14"
   },
   {
-   "title": "הסדרן ביקש מהנערים להפסיק לעשן - והוכה עד שאיבד הכרה",
+   "title": "הסדרן ביקש מהנערים להפסיק לעשן",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QMzFkaWpWdjBoRlZjODZoVWRJa0pYMUwxNjYtaGJEQ2hXZzlBT3NTcTh4bFBpNEdPTzhINFJockhwYzBNdmVpODljYkswUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
@@ -807,6 +817,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "איומים ברצח עיתונאים, ניפוץ דלתות - והשרים שותקים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsMVV0anI5NlZMYk5RbU9wMXZfV18zNmhQb252cGRsUlRBcmE3YV9VRjR6YURrbmZ3TE56MHl5cnd5Ty1SMGdBVkI2QWlDX3FJV2NmdF9wTmxKcHhzQkozSzFB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
   },
   {
    "title": "חרם על בג\"ץ? ההתייעצויות נחשפות",
