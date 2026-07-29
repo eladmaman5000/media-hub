@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T17:30+00:00",
+ "updated": "2026-07-29T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -286,6 +286,36 @@
  ],
  "items": [
   {
+   "title": "יד בנימין: בת 34 נפצעה בינוני בתאונת טרקטורון",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zMHVGWFl0R3ZSOG5mS0ZfSmFwWmRIaFpWNldqVlEtMHg4dWIweGRscXFROW9oMTkyR216cjFsNlFqVFhTTWJPWEJnWjJhQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הרמטכ\"ל בדרום לבנון: \"אם נידרש - נעמיק אל אזורים נוספים\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RSy1OVmVXWHZPVkVRZWFHN2VJQVp3bkRnV0gzdmFhWVhkUVBscGQ4RldIM2R0TEMtTE9SeGljcVNuZWFMZWQ5bWNRdkV3UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מתחת לרדאר: איראן טיפחה את הדור הבא של תוכנית הגרעין",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrWWJIaXhkaExDZHlWZWE1U3dXMjNRWHJ0a1BHSFBlaXNBV09NOGQ1Vlg0ZHBmNGlwNm5qNVI1LU9xaTBXUTFYbFF2QVJpQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "\"פטור מגיוס? תעשה!\": השיחה בין גולדקנופף לעריק החרדי",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IcVU0SkxaYklGWjgyX0tTM1hwbEJlM01NcnJJdEZKcW9GQVZVdm5Oa0NmT19wdEJpcXdscHZYVnFBeFlPQklFZV9wQm1kSEszV05vRW5VSWVfNGpnMDVPa1BKaURTVVE?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -306,7 +336,7 @@
    "publisher": "C14"
   },
   {
-   "title": "המיליציות של איראן התעוררו - ארה\"ב וסעודיה שיגרו מסר ברור",
+   "title": "המיליציות של איראן התעוררו",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92NWU2VGhUM2RGMmFQNnh3ZFJScG03VXJMUk1mOEo0d3V1X1ZVSkZkRVFuMmFQazRVXzJjMGszZTh1RF9kdE9VRzJ4OXRRUUU?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
