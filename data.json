@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T16:31+00:00",
+ "updated": "2026-07-29T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -154,9 +154,8 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "גלובס · גלית חתן",
@@ -186,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -216,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -287,6 +286,16 @@
  ],
  "items": [
   {
+   "title": "ברדוגו טוען שאיזנקוט הוא לא איש של ספרים. אז יש לי כמה הצעות בעניין",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMU9fNTRjMDNSN0xLUUtraVd1OTlzOHhWd1FZZTM0ODZzTjhPTWlOdzhfb3lqUl83MkxxQU9KbV9vWm84ZFdnZml6MnkwMU1SdS1Ob2pJS291YjNQZkMxbTE2d3dleGI3amt1Y05aaDFaaTFJNkpnVzhrcUJRdjI2a1FPVjlsTzltamNOeXlOWXByNFVTM19JTTJWTUlSVDdBUFlsZEdiQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
    "title": "ח\"כ ואטורי: \"יאיר גולן הוא גייס חמישי\" | צפו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZaUM0SmdzY3ZfNWYtTHFOM1pOS2ZMc2c0cVlTRTRyU1hBR0c0RlVhYXg0YWNHeHJVYU5MUEt6WFJjNm4zVFNfd2lVQmdxUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -307,7 +316,7 @@
    "publisher": "C14"
   },
   {
-   "title": "הקרב על המשבצת המבוקשת - שעלול לסבך את שר התקשורת לשעבר",
+   "title": "הקרב על המשבצת המבוקשת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxbHFTNEs4OW1hNEpCUy14RElERTYwUEJpVUE0TXlCclcxSkdBU09UdFRVZ0tJckZaSnpWelRCcUR1Uk53WEtXT2VoWjYwdw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
