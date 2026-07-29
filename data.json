@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T17:00+00:00",
+ "updated": "2026-07-29T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי נחרץ: \"שבג\"ץ ייעלם וילך לדיראון עולם\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qdVlrRzdfSmdJTkhGVGg1bVJqV2ZidVByNXloY1podl9vSm0yUWVaSmlOV2pMTkF2MVBhVnRqSlJPU1VWQ0pOSnJuWUZsUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "במשטרה מתחזקת ההערכה: אלדר דיין לא נעדר - אלא בבריחה",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNOEI0N3RiUFNhUHM4OWNkV042UjAzMUlma25rcUd2SlZFSmVCb3JwOUlmWlFZN2I1SVMzR1JJZU1GM0pPWTRDV2lobVVzZ2M?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בכיר בליכוד: \"אלמוג כהן יהיה חלק מרשימת המפלגה לכנסת הבאה\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnYlI2MXc1dmdTMFVlc1VNdWxQeW5SaFU5X3hSWnFNME1zbnIwbndPRXRnekNER09wWW1KY2F5cmQyQ2dVeGtZTURoVktMUQ?oc=5",
