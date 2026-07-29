@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T08:00+00:00",
+ "updated": "2026-07-29T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "צוקרברג תוקף: \"הפחד מ-AI מוגזם\" | אלו הסיבות שלו לאופטימיות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LWHk3dzRqZjk2bDZsNFBieTR1VTZ5bEN5U1FMcXB4YWxGQjVKS1doc2tlZWpUR0EyTHNGNW9ITFlIQjZGRzFvN1pqYk1tQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"אולי זה הזמן שתתנצל, אתה משחק באש\": בן כספית וינון מגל בעימות ישיר",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaeGJTMm5JZzdvLU5Lbl9yeWZEY3N4blNvb08yNnluc2xFOUdxS1hZTEdFQTQ2akp4OEQtdS1TdDNCNXJNSnlqbjlnMzdaTDkzWWkxVExGMkFSZmZoamd5YnQ5VnY?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "רייטינג: יונית לוי מצליחה לצוף מעל בשורה חריגה",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16RUZ4X3g2dTF3UnA0M3VseVktR1Y1TGRUTDJpbzlwUXR0NUJOZ1I5QUpmRWkzMEFxaFZBR1UtWmJaMFFyb3hEcHB3RVgtR3J0ZnVsenhzQXdNNGQ5TGVqVA?oc=5",
