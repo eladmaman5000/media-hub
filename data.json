@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T05:30+00:00",
+ "updated": "2026-07-29T05:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טראמפ: \"הייתה פגישה טובה מאוד\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44dEVsb0VjV3NUUnhrRXZibXBVemZIU0d2cW43T0gxZVRuWVhIZFFJTVhGWEhfOGxDRkdKb25Pcmxqc3NVS2FnYUxlcjAxQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"הם פשוט איבדו את הבלמים\": המשפטנית שניצחה את היועמ\"שית פותחת חזית",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XMExfVXRsYXpuTHdiTk51M1dqZUFkQld1bW1kSVJXNzNCM0kxOEphcHRja29pSldDRFQ1U0R4V1haU0FVXzBFU20zc2R2UWlXWnBJZWVndTNIXy1EWHoyRm5ZaGI?oc=5",
@@ -356,6 +366,19 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "קשת 12 מצטרפת לעתירות נגד חוק השידורים: \"הממשלה צריכה לחדול מהשתלחויות מסיתות\"",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVVQREFSTHM0WUdNWWZ2eTZ6Q20zUWRZbExtLXphS21HT1QyWmdQX205Y3czMGJycVc0TmZScF9WcVJOQ3NJbnJxV1RqLXB3OXR3bk01U3A5VmlyTEh1RFowYm1fUmdrWmkzRmhaSGRubEJOQkdoTEE0aV9Md09JNU44dnpYb2tpQkV5WUhCdnJ2TU9PNzRyeEJzZVdYLTdBRzJKbDlQaExkSm8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12",
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
   },
   {
    "title": "הסתיימה ההרשמה להתמודדות בפריימריז של הליכוד",
