@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T21:00+00:00",
+ "updated": "2026-07-29T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -286,7 +286,7 @@
  ],
  "items": [
   {
-   "title": "דיווח באוקראינה: רוסיה מתכננת מתקפת טילים נרחבת - כבר הלילה",
+   "title": "דיווח באוקראינה: רוסיה מתכננת מתקפת טילים נרחבת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMQnQ2ckpVUVFTcjZhV05QNDQxU2hQenA0dUpmeVpIWTRxelVWVzZpZTYtQ3Nodk14ZHZGaW1Hb2c5RGh4R2xEbk5ROUZKZw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
