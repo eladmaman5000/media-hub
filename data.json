@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T12:15+00:00",
+ "updated": "2026-07-29T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מזל טוב! מאיה ורטהיימר ואסף זמיר בבשורה מרגשת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwS1RIRVRyTDlCU0w3YVpId0dUREVYQzlnSkNSWTZYSWNibkVYaFIzbEZwTlpqQTVkR1VaSElLazNBT3NHX0dyTTd6dHBiZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "צוקרברג נגד המהלך הדרמטי של ארה\"ב: \"זה לא יעבוד\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwOWVLLXdESzRiMzJibndCMWFZTGpkZ1dPZU9hVklBSnBraDZoYWdtSlJZZGFFZlp2R0V0TjF5SWtJMjkzYjBXUjFGOGItZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "טענות קשות נגד המשטרה: \"נפצענו בשירות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VMU5UOVg2ZENMTHBReGNEM0ZRa2c2MHRoVEs5OHdTLXNHRGs2Z18zOWZlMWpjNkw3MUtCcG9PcVZiQkJmNFVnZGxJU2NOQQ?oc=5",
