@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T13:00+00:00",
+ "updated": "2026-07-29T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דיווח באיראן: ארה\"ב תקפה אתר סמוך לגבול אזרבייג'ן",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rTl9BQ3VQZC1vZ3drSkMtQ0NRS3VoZmZMVDI4RHh3aWl4SmF5V1E4c2RqcGJyWjBWSndMX29Vdzdyc19TeXJSUTNmYkt2Zw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "נשיא פיפ\"א הציע שוחד בתמורה לכך שיצביעו בעד תוכניתו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56S201VmQxUDMxRHFzcjdUTkw1dUx6dEdSem93bGt0LWVDQk56Tk9LeHM2cWc2c083b1YyamhrUGw1OGlOZndoTVh0bi02Zw?oc=5",
