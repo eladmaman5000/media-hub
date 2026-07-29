@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T16:45+00:00",
+ "updated": "2026-07-29T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בכיר בליכוד: \"אלמוג כהן יהיה חלק מרשימת המפלגה לכנסת הבאה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnYlI2MXc1dmdTMFVlc1VNdWxQeW5SaFU5X3hSWnFNME1zbnIwbndPRXRnekNER09wWW1KY2F5cmQyQ2dVeGtZTURoVktMUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "ברדוגו טוען שאיזנקוט הוא לא איש של ספרים. אז יש לי כמה הצעות בעניין",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMU9fNTRjMDNSN0xLUUtraVd1OTlzOHhWd1FZZTM0ODZzTjhPTWlOdzhfb3lqUl83MkxxQU9KbV9vWm84ZFdnZml6MnkwMU1SdS1Ob2pJS291YjNQZkMxbTE2d3dleGI3amt1Y05aaDFaaTFJNkpnVzhrcUJRdjI2a1FPVjlsTzltamNOeXlOWXByNFVTM19JTTJWTUlSVDdBUFlsZEdiQQ?oc=5",
