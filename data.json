@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T05:15+00:00",
+ "updated": "2026-07-29T05:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -286,7 +286,27 @@
  ],
  "items": [
   {
-   "title": "C14 - ערוץ 14 | C14",
+   "title": "\"הם פשוט איבדו את הבלמים\": המשפטנית שניצחה את היועמ\"שית פותחת חזית",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XMExfVXRsYXpuTHdiTk51M1dqZUFkQld1bW1kSVJXNzNCM0kxOEphcHRja29pSldDRFQ1U0R4V1haU0FVXzBFU20zc2R2UWlXWnBJZWVndTNIXy1EWHoyRm5ZaGI?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "איראן דחתה את ההצעה העומאנית לחלוקת השליטה במצר הורמוז",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XcmZZV0tpeFljZUxHb28zaGNUVnlocGFWRTNud29RWHNBZXBrbTZQNWJkVlIwcXY0c0RHcGZfZkx0bnUzQ0YyLWNjOG5xdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "C14",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jQkFwb1BGV3pxcE01OElJWlRtQ1RCQnpjNU1ablNnSmJGbHdjVHJwbEtyRGltOW1YbUlUeVJSSU5fVklWc1U1TVFRSzhmUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
