@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T18:15+00:00",
+ "updated": "2026-07-29T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,48 @@
   }
  ],
  "items": [
+  {
+   "title": "השופט סולברג בביקורת חריפה על מפלגת הדמוקרטים: לא שוויוניים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzRlhkc1R5dVdoUExsUVlJUlpzbWdYWVlnUTE1aHc0V2tKOFEzM2V0Ui1yVk1Eb2dpYkNwR3Q2cGtpTk5Lbmt0MEZfN2NBZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מחקר קטלני: ילדה נהרגה מטיפול גנטי ניסיוני במוח",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XRHhXQklSZEw4ekIyclZrakNGT3Z4dEdxaTI4MHNkbVVRVWtoVloyY0J3bURjWENEam0xcUUyaFpRTjY1bTloRXpJMmRRZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "רוב הציבור סבור: מימון טיסות להחזרת מצביעים - שוחד בחירות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWbVlGSnRfQW5LUDlZS0VHcmdZc3hrUWtlQ09DTE9PUUpFcm9qeDFqVlFudmVPUnctbm9rTGhPNGVHa3JPWTF6NmdaSC1adw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "COL מרכז התקשורת החב״די - ינון מגל נשנק מבכי ושיתף בזיכרון כואב מגוש קטיף",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xR3I3THVlYUp1M3B1MFFiWUZRdlNybU5jaXhUcHF5aTN0eEc3ZWhuMkMwMWhfSHhlRzFCWGc2c3dJeHhR?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "חב״ד און ליין"
+  },
   {
    "title": "השר: \"ישראל עוד לא אמרה את המילה האחרונה מול איראן\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzM0M0LTA5V1R6LVJOSjN3SU1RWUJ6dDdZVFB0ZTMyMWhqRlZoOGtEUzFwOG9yN1EydHk3WGNmMW1TdThxeVdFLUpudXZyZw?oc=5",
