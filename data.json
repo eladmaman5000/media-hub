@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T10:45+00:00",
+ "updated": "2026-07-29T11:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,30 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל ובן כספית - סימטריה?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnR0QkM2c2xHRkFZQlJtclU2VW9pSUY3dDB2M092aWdLYzloZFp5eDJlUWxTWFF2blJxVUdDcWE4YXJDZ3ZmckdFMWhwU09lUS1KdS1qTXhXX2pRSHo0eTNieUd6N0xNR2R2WWdpX0dsdXhubjdqaTRMRkNQMElXSQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
+   "title": "ינון מגל ובן כספית התעמתו בשידור: \"אתה משחק באש\"",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2ekdIdGJfV2hnLUdKSlVzZE5TWVlsclBSVGN5ZlJDcV9oQzh2WnVGdXJMdzk0ZUJDbVpnb1l5UmwyV3U5c1pzcw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
   {
    "title": "מגעים עם איראן בלב הצבא: פרשה חמורה נחשפה ביחידה סודית",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTenZZUUJhd0M5NklpTE16SzdQM0Vkd3U4Z2s4MldsdnJlU20yR0M3WjF5aGdVWFhobGtDUHltd0FnVC1lQkROX3pLVFh2dw?oc=5",
