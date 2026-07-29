@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T15:30+00:00",
+ "updated": "2026-07-29T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ראש הממשלה נפגש כעת עם שר המלחמה האמריקאי פיט הגסת'",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EOGdyeEE3ck9TdmJIM1VjTTg0bU9NbndzbFIyVFo4V0oxV2RmbVR5MDU3cEduYlpoVFk3RDFJaE5XaFh0YkRaV1UzbVRwUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הנסיך הארי הסתבך: חשבון העתק שמאיים עליו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95dGNvazloRXRZYnZrZmd3LVJTeldoMHAxUGg4WFo5NGtOeDZ3ZXhJUFhCTVE3Z2xXNHB4NGxwM0Q2V2JrMjNWVkxHdHB2dw?oc=5",
