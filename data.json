@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T11:30+00:00",
+ "updated": "2026-07-29T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "טענות קשות נגד המשטרה: \"נפצענו בשירות - והפכנו לשקופים\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VMU5UOVg2ZENMTHBReGNEM0ZRa2c2MHRoVEs5OHdTLXNHRGs2Z18zOWZlMWpjNkw3MUtCcG9PcVZiQkJmNFVnZGxJU2NOQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הסטארט-אפ שמכריז מלחמה על תוכן AI",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6a2ZrWUEtLWFnOVlkTllBdHRCTDcwQWxuWG5lYjd2SGZuQ1NWR0gwSm9KaXl3dW1xVlRkQl9ZRTVNZVlDdzE1UUlkSXVaMHc?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"עלול לעלות בחיי אדם\": האזהרה החריגה של מפקד הצבא האמריקני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCdGFZNEVhWkkzbk9VOU5QSVVvWDlvQW1Ed0ZnSVF4dndVbURIaEozRUZ2X3JvZV80cHpkbS1GYmtZa0NpbU1ybWxBb1BXUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הסכנה השקטה: המשבר שמדאיג את מערכת הבריאות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40WEx6bERnLUpndHk4Ym02ZG1aTGRzcVBIaVhIaVhiY1FCdHhKWVRxeEdkSDFEbEd5bW5fTEJBRGhVNTlmZW1JSk0xbXdXQQ?oc=5",
@@ -819,7 +849,7 @@
    "publisher": "C14"
   },
   {
-   "title": "איומים ברצח עיתונאים, ניפוץ דלתות - והשרים שותקים",
+   "title": "איומים ברצח עיתונאים, ניפוץ דלתות",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsMVV0anI5NlZMYk5RbU9wMXZfV18zNmhQb252cGRsUlRBcmE3YV9VRjR6YURrbmZ3TE56MHl5cnd5Ty1SMGdBVkI2QWlDX3FJV2NmdF9wTmxKcHhzQkozSzFB?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
