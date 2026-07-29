@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T16:15+00:00",
+ "updated": "2026-07-29T16:31+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -154,8 +154,9 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "גלובס · גלית חתן",
@@ -233,7 +234,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +286,46 @@
   }
  ],
  "items": [
+  {
+   "title": "ח\"כ ואטורי: \"יאיר גולן הוא גייס חמישי\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZaUM0SmdzY3ZfNWYtTHFOM1pOS2ZMc2c0cVlTRTRyU1hBR0c0RlVhYXg0YWNHeHJVYU5MUEt6WFJjNm4zVFNfd2lVQmdxUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "דיווח: כלי שיט הותקף במצרים על ידי כטב\"מים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodEhMdExIMWxkV25WRTBWUnZ4V0J5enNUT09sSUJJYV9ZV3NsNEdNZmsyYlV3Z2hKZFBlOGxsS1dHaXNfbTBhdE1keW9MZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הקרב על המשבצת המבוקשת - שעלול לסבך את שר התקשורת לשעבר",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxbHFTNEs4OW1hNEpCUy14RElERTYwUEJpVUE0TXlCclcxSkdBU09UdFRVZ0tJckZaSnpWelRCcUR1Uk53WEtXT2VoWjYwdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "צפי הכנסות של עשרות מיליוני שקלים: פרטנר תספק תשתיות לפרויקט מס הגודש",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPei1HQnJaUHJHQ0wzUzU4VmZ1bGRrNXUzNFRfS3BzSnhzMzJRRmFlX1B6ODZpZktHZTU4QTFoMGkzamh3T2NRekRaREFGc3VMNWItM2YyQmhQOUNtV3NrZlZrVFQ4T24tNldWOXppM1NFcWNmd3ZjMF9tTW9mYVNpbDhqZ2ZFNl9nUzllbXdnU0tHdmQ0TU9wekFNZ1FfYlhqaVU4?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "ראש הממשלה נפגש כעת עם שר המלחמה האמריקאי פיט הגסת'",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EOGdyeEE3ck9TdmJIM1VjTTg0bU9NbndzbFIyVFo4V0oxV2RmbVR5MDU3cEduYlpoVFk3RDFJaE5XaFh0YkRaV1UzbVRwUQ?oc=5",
