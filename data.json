@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T17:15+00:00",
+ "updated": "2026-07-29T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -286,6 +286,49 @@
  ],
  "items": [
   {
+   "title": "\"פטור מגיוס? תעשה!\": השיחה בין גולדקנופף לעריק החרדי",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IcVU0SkxaYklGWjgyX0tTM1hwbEJlM01NcnJJdEZKcW9GQVZVdm5Oa0NmT19wdEJpcXdscHZYVnFBeFlPQklFZV9wQm1kSEszV05vRW5VSWVfNGpnMDVPa1BKaURTVVE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כאן 11"
+  },
+  {
+   "title": "\"פה מדברים לאט\": ההערה הפוגענית של השופטת לעדים החרדים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52TXFmMlN4SEkwXzY2YTBBR2V2ZEJGNmlybTJIdXFZR20tSmFPdmhZRERxRFlza0tKOW9qR1Q3WWpRWDFHYXRsR01oRlhJUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "המיליציות של איראן התעוררו - ארה\"ב וסעודיה שיגרו מסר ברור",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92NWU2VGhUM2RGMmFQNnh3ZFJScG03VXJMUk1mOEo0d3V1X1ZVSkZkRVFuMmFQazRVXzJjMGszZTh1RF9kdE9VRzJ4OXRRUUU?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "גיא פלג וקשת 12 בבית המשפט: תביעת דיבה בסך 1,091,300 שקל",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRVJ0bjhzbFo3bTgxY0pFQXRvVTZhNS1jWUwzRFExeERrTXdXVVVjZTRXaUJtTGN3ZnQxZ00zUWttSzBZejN3alQ5MGpIMklldWNGUGtuZHBldw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-29",
+   "keywords": [
+    "קשת 12",
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
    "title": "קרעי נחרץ: \"שבג\"ץ ייעלם וילך לדיראון עולם\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qdVlrRzdfSmdJTkhGVGg1bVJqV2ZidVByNXloY1podl9vSm0yUWVaSmlOV2pMTkF2MVBhVnRqSlJPU1VWQ0pOSnJuWUZsUQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -296,7 +339,7 @@
    "publisher": "אמס"
   },
   {
-   "title": "במשטרה מתחזקת ההערכה: אלדר דיין לא נעדר - אלא בבריחה",
+   "title": "במשטרה מתחזקת ההערכה: אלדר דיין לא נעדר",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNOEI0N3RiUFNhUHM4OWNkV042UjAzMUlma25rcUd2SlZFSmVCb3JwOUlmWlFZN2I1SVMzR1JJZU1GM0pPWTRDV2lobVVzZ2M?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
