@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T08:30+00:00",
+ "updated": "2026-07-29T08:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "נרמול ישיבה עם עבאס מוכיחה: השנאה לנתניהו גדולה מהכל",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16TklHTk1jU2ZfaFJKR0JzcnFzX0FDOWRxTEZPRFJDVzNfRGJjWDNicTBNc0xZcHRuaS15MGh0VjZwSTVLUjBQc0hPSmItRWc?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"נמאס לי מממשלות נקמה\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmp2eUwxN1laOENKRHozdHNIYS00ZEZ0b1FYX2xIcUZONGpydElWZTVZWTBQM1cxV0owWmxjYWdVOUZWSEtaZkNXSDZWclBwa2tjNkZCenlJalVObzJDdWxIc3ZiRlFvZkJjNEcxanhwMHhHQkJ3dmo0N1dLYlBQWg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "בסמוך לבסיס יוניפי\"ל: כוחותינו השמידו מפקדת חיזבאללה בלבנון",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QZ0ZLaHpkQ2stWGxfVnNHeXBRQ281UWgzVVp1aDNuZ2o0aUI1cWllR1lhVVcwSmFmY1BSV0dwbkZwWXFaXzM3UjIyTV9BUQ?oc=5",
