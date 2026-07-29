@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T06:15+00:00",
+ "updated": "2026-07-29T06:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "איפה ה\"כאפה\"? זה מה שבאמת קרה בפגישה בין טראמפ לנתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtOEhYSDJPUnZCWi1IV05kVF8wTVZ2MHNFZkhMRy0wTjhVYjJlM2paejE5UzFFS2tfNFBjemdVOTlXQVlMTGZMdFVuYVE3dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "גופת גבר אותרה בשטח פתוח בתל אביב; החשד לפלילים נשלל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEUmJ3UmVyTVU1SEVlYktsYmtmTlA5c2Y4WjVWQ3dkOE5jbUR3SnZPOE96allFdHh0N3d5bVNMSzBZVng2XzZIOF8yNlFwdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "Fringe Israeli settler group is sneaking into Syria to try to claim land for a Jewish outpost",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVBUMUI5SHh5cVdXTklrdW1DN1FqaHVXbzJjN21nbW0yd0M4aTFuVGtzNWpWM2M3Vk5hNWJENzRoS3FrRWRvN1ZhNTB2MkNHMlRmSURzQldPWTdCZFF5R1hjRmUwVEJ4RTF6TkhXbDZyU2Y0WTd4TXVqRHh0MXc2V2l0VlVfWVUxYkdUTF9ubmJ5TVp4TkpTTHpubHpiN3F4M1lSY2FFVWNLSS1nQ3JoazFzazZUTy1icFdhOGxBeTRKQWRLcHpzRGtLSzBweFVu?oc=5",
