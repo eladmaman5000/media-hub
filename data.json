@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T00:00+00:00",
+ "updated": "2026-07-29T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל ובן כספית",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOajVpdWREV2FiaExpQk9wSV9QSERwelBRYTRYS2NvMXJESXpsWXAyY2l3TklRQkFuQkNiMkxSQnpRdVp5SFVfakVTdVFEQTN5SE94YjhZcHVlWml2QzNaY01zdjgxdWN6SHFSdWZ1aGlUOHVwOUZUcDV3MWl1M3dGTA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-28",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "גלעד ארדן בצעד דרמטי נגד יעקב ברדוגו: \"התנצלות פומבית או תביעה\"",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aYWNvTkFfeVpicTUySkZQZnl6QlZYNnlONXpWSy1KT0JjX3VFZmRacmhUUG9TdFRKcFFELXpJYnZHZkpESERpZVhLNlhLZWIwSEV4U2x5X21hR1dkTnl4NFM4cw?oc=5",
@@ -1560,6 +1572,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "דרמה בערוץ 14: בכירה ברשות השניה הודיעה על התפטרותה בשידור חי",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQQWhrTmlMbzF3dmlua2d6d09TTTJGTzhLdmlxdEw1Y1d3VklvejFKczdHNTloaVcxcHZzbUpDMHVTdEUtWXplUUl4YkdxbkdjWlpqUkFmMFh6VGhf?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-27",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "שגרירות ארה\"ב מגבילה נסיעות עובדה ליו\"ש בשל המצב הביטחוני",
