@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T10:00+00:00",
+ "updated": "2026-07-29T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -286,6 +286,48 @@
  ],
  "items": [
   {
+   "title": "גוגל משנה את Docs: הפיצ'ר שיעשה לכם סדר בתגובות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmOEFYLXlzbW15dzk5NmhKYUZYWkIzcERiM2VKUVdiSXNXcEZtdmVRTkVaME5RVnFLNi1QcmF2TU1OSU5mTWdDc196ZnIyUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [
+    "גוגל"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מתוך הכאב לצמיחה: החווה בבנימין הפכה ליישוב מוסדר",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wUTR6d2gwQU1KdHBlRklNdnpWaVFZZ21wUHk3QXlVeUwyMkRXYml3eUpkZDdzWU1TR21JdzdUN0JUWGZSek9QeXVvMG1uUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "פועל נפל לבטן אונייה - וחולץ במבצע מורכב | תיעוד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VQjlXLWEya3pKbzQ3dFlvcTF3c1Iwbk9pc0ozb3dDOVg0a2loNXdPaE1ZOVp4bm5fTzVYTFBWRF9uSTRxOE9PV29sR2pLUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "מדינות באירופה שוקלות להחרים את המונדיאל - זו הסיבה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwb3Z6NkdacmZRQmotQnBTZmdFYV9XRVBKa0dzWDRwNi0wcllOSHozbmNpcTZiWkg5N1lQQnhaZldWcjg2cEJSaTFjTFhhZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "בלי הכרעה בעזה ובלבנון, גם הישג מול איראן לא יספיק",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBENW1teTg1TC13UVlBX2RLTDMtQWhKRVpFVGRnbjJEd0lLQlg3cFJTWkpaVDdWTXZfLV9MRHNpemk0NWZPZkJuSGRhVVhSdw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -296,7 +338,7 @@
    "publisher": "C14"
   },
   {
-   "title": "ינון מגל נשלח להתנצל - והגיב במתקפה חריפה על חדשות 12",
+   "title": "ינון מגל נשלח להתנצל",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SU3BvTWJxYm9xdVBjc1Vrb3JINFdwUHNMc0RURUpjT3RDa1hxbVNkbEt2YnJHMUxTN3lEUUhLRUM3TGhNQUF2SFhWME1VdHI1aGFNQXlJRFBjdGZnWW5kU0JkMmw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
