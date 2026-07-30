@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T10:00+00:00",
+ "updated": "2026-07-30T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "\"חבורת מטומטמים\": המודעה שהוציאה את ינון מגל מדעתו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vdVVTUTVrVnkwMS1Yb2JZakhmbk1jVGRiREhRNW9tR2RHZUYtTnJmbnIxTGNqQ25NdW1CSWh1SjQ3TzhvaVh1Nld3bWhrdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "השמאל מחפש מנהיג - ומסתפק בעוד גנרל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrOVJVNDQ2SzFQUXVXb2g5N0l3dzJiUV9HdEE2QTg2bjMyV0k4SkcxMVg2S1lienJleFVVZk1Cc3R2U2x0R1BxUDJLMncydw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "מתקפה רוסית קטלנית באוקראינה: פולין הזניקה מטוסי קרב",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jem5mTTg1SmJpeC1lWmt3VHFRclVBYzRtSm5lV3NHNGpfc0NnTF9LMmZkVmFpaDd6M3IwYWU0UGwtWHp0MV9sZUtKcUJQQQ?oc=5",
