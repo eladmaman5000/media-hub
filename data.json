@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T19:30+00:00",
+ "updated": "2026-07-30T19:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -285,6 +285,38 @@
   }
  ],
  "items": [
+  {
+   "title": "יוני שטבון: מתן לגיטימציה למרד בגבעתי - נותן גם לאחים לנשק",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wUXVoNU12dWNZMFJWc29sNHZwSk9QOTRod2hscnBfNzFERFhWX0QtUjNPcHdsLXp0NEFFQUdxLTlrRk84dXQ0dU5ibXVlQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "נהריה: רוכב אופניים חשמליים כבן 60 נפצע בינוני בתאונת דרכים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BVHo5eDQzcUg5VUwtUTZqWWVaOHpoRzByVnJORDFYTHQ4QTN2bnZMbC1Sa3FPODRPSzItZV9WYVVhNmhrNUhlUEY3bkhQQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"ביזוי ועובדות מסולפות\": דרישה לפתוח בחקירה נגד ערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QUERfZk1SbmttODhEeHY5d3FsRkZkLVJHaldOei1oZkRlTEI3RTMxQjdodUVDTllqbFl0d2g3WF8yMzJIMVZpNnVuczBtUklQN1YzZUlpUXA2NnY5N3pYVTc3T3hmSTBteXVTdV9sa25lN3dVWE95b0Nn?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "ישרפו קולות לימין? מפלגה חרדית נוספת תתמודד בבחירות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wSjljQmdRd3ZBdHVyRmVoN0FzRjZMQ3laWHZOZUVTOHlBaWxidDJHN1hvTFhUSEJLbjktUkZJemp0UTg1dTFFdXNDWkJqZw?oc=5",
