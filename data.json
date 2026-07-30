@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T13:00+00:00",
+ "updated": "2026-07-30T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -285,6 +285,38 @@
   }
  ],
  "items": [
+  {
+   "title": "למרות החשש מהסלמה: קבוצת לופטהנזה מרחיבה את הפעילות בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WcDhYR3pnVHNfSzY5WE01dllZakxCYVk5aXk0R1VjUXlGNnpFcFNkUVBkc3VzeFFxb3NHUy01dkVHQWdNUUFUeG4zVUllZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"מועצת השלום\" לעזה מצהירה: זו מפת הדרכים לפירוק חמאס מנשקו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XQ1ZtR3J3bUY2TjBvYUdYVjJvMTJQOVppeEVJd3pZSDZpNVl5MC1lTUVmeDduZ0VpNlh1Q1p5b1JnOXdaU0hsTWV1RUVjZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "עקיבא נוביק במכתב פתוח לינון מגל",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JMzdjS1RPUlZudENNaklmTTJMZGlJbm9sa2JmMjNkV1NPUXgxQzFlNnI0a2EzSG45ZzNCOWtGbENyYlpvWWFuYw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "inn.co.il"
+  },
   {
    "title": "פייס אוף בייס | הרשתות של שלמה קרעי",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjFOTTVMcHI3aUJIZG5keEc5RzRnLWdvSTdJZzYwV1kwYTF0cUVGYjVkcEhuc0FRZW8yVU5qZVVOcVdrdXJPMDdXUm1QQTRjQ29neWxjZ1l6Y1hzdXJPbmFYdERCMS1taktkS0gwR0hRaTI5bEF3T1p0QW9keEp6dmVhTnZQSG8?oc=5",
@@ -2086,6 +2118,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "השב\"כ משתתף בחקירת ניפוץ דלת חדשות 12 ומכתב האיומים שהונח",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fbnJGYWw5cWRBMGUxbTRhMm5QREFicWtlZGdPNmVjNzhaeHhWRXExTUc4bF92T0F4dl9YQzV3bGp3enJTRWNpanYzdlBfTnpKUFpkR3hQZFJEWnhLYjdRd21fRXFrSWtsSjM0QUwwemUwcXpRVkNkNVZB?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-28",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
   },
   {
    "title": "\"להעניש את המבקרים, לסייע למקורבים\": קשת 12 עתרה נגד חוק השידורים",
