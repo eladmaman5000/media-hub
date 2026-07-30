@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T14:45+00:00",
+ "updated": "2026-07-30T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "עשרות אלפי אנשים במחאה חריפה נגד ממדאני: \"לא רצוי פה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rVUNwaGY1VjRjSXkzQ3NLaDlZU0JPQkNmWUsxN3JIVzhYRXA1MmJkNUVCLW5nUGdZSm5rdkZUOEl3SVBBLUNQYkp5X21QUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "פאנליסטית ערוץ 14 מצטרפת למפלגתו של אביגדור ליברמן",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55bjI0bkp6ZDJ6a1YyaF9pZ1BiLTcyQ0NOV0xWT1oyRlNiVEtZSkdTLThiQll3emlBUVlBdURYSkVPWUpGTmhYNDhXa2c5UQ?oc=5",
