@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T12:30+00:00",
+ "updated": "2026-07-30T12:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,50 @@
   }
  ],
  "items": [
+  {
+   "title": "פייס אוף בייס | הרשתות של שלמה קרעי",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjFOTTVMcHI3aUJIZG5keEc5RzRnLWdvSTdJZzYwV1kwYTF0cUVGYjVkcEhuc0FRZW8yVU5qZVVOcVdrdXJPMDdXUm1QQTRjQ29neWxjZ1l6Y1hzdXJPbmFYdERCMS1taktkS0gwR0hRaTI5bEF3T1p0QW9keEp6dmVhTnZQSG8?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "שלמה קרעי יצר \"מלשינון\" לעובדי מדינה \"נגד הדיפ סטייט\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBYVUzeXlINlM4TFZldUhNTWxPeWlpRDJxRi12MzV3el90Z2lnTDZ0dHhxaGF5WWh5SzFvbmtjZWpNel9DakNHeUotMUp3Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
+  {
+   "title": "ישראל וחמאס מתקרבים להסכם על פירוז הרצועה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OdVBSREFCekZwSFhETWNwUlRvV29SNXFtUHlBbG1WWGVqY1ZITXgwYllRQUk3Z3ptQVpiaEh2R3ZpMW9xc3RCTnhCbFZMUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "האמת מאחורי סיפור ה\"הדחה\" של \"הצל\" מהמשטרה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RM1pFOUdJLVYzTlNYdURnSnppLVZZWVQ0U2dtZFM3MjdrY1BHV1NYb3c4aU5SVWZsT2x1R3Qwejl4aU90MWJGOC1CZE94dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "אחרי הפרידה מקשת 12: התפקיד החדש של מעיין פרתי",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001550906",
