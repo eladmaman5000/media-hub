@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T16:00+00:00",
+ "updated": "2026-07-30T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,60 @@
   }
  ],
  "items": [
+  {
+   "title": "קרעי מקים ערוץ דיווח על פקידים שמעכבים החלטות ממשלה",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZ3o5Y0p6Ynh6YllZblZaT1pnTjJaMFhJZFBpOFVaSHZERWx6Ymw2RTZ4SThTc0NmRGY5aHVKZXc2Yno2T1VwX0pTWEFWS0dhQ25EZHRlWXUwVW9LeDNxdXF6Y25jcnJPdXhETW9OVkJ0QVF1V09XVFR1d2h2ZXZtN1gyQzd0RjM3ak1GLUJ4ODFXVEpSQWFDRUlqSVYyVEdESjVFc1lCQjVrRDlSaVZkV0VLVkExYlM3aFJMbE9yQlZpbllOYzlRaHdkT3JiTlVia01rd0s3STZwLVpYeFdCX2ktWWJoSzJkamFDM0k3cWRhTU9LVEZhZlY3dUxUMWtfeWxobWVTYWxYaXlMQXF4cnd2SEJ3OXpxZEVtT3Fyb1dWaFR1TWNtbEVOT0JreGJlVHRVZE1nYlNiZGFmbVVPQ2hoWVNfejU2WlEtYW9mRjNIVkE?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
+  {
+   "title": "פרשן ערוץ 14 עותר לבית הדין של הליכוד: \"חוסר שוויון\" - ערוץ 14 | C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydGFuM1dRbldPbFlobE9JNTdoS2Y3dHZ2T0hhbmQwVXZFZVFLSWlIaHdTRlc1MEYwWXZ0SnNpX0h1a1JCSGN3UFBkdmhJdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "כך פולקסווגן ניסתה לכבוש את השמיים - והתרסקה אל המציאות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mMGJ6UGVkY25XNHZPeWFGUGxWQXFCam9tUG0ydmJ4bmhZb0ZQV25WUEt6Q2txQkRpb2dhVnp5X0NxZHdzVW1WYTI0dmhZUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "דן שילון חוטף: \"מסית רעיל, בודד ואומלל שלא מעניין אף אחד\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jVGJQeEdrMkE0SC1XX2hOYkVMblhUMUZCZW0zS3NWZ3plUlctQjJVTlBxdVdBZXpGV2h6MjJiajhkT3EwRE8yWHl2Vi1BZnNPTjFVMVB6bGxWWTF4?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "פרסום ראשון: נעצר החשוד בהשלכת לבנים ואיום על חייהם של עובדי חדשות 12",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xN2JpQmltNTRWeTNEd2RYcktJTzhxM2t1enQ2aXRyaU5MWjF3MXB4eWJaQU9BYW5ISWljUG1PSTZYc0RWcHhhM1RCTFBzQ01WVVpVRzg5MmpRbmRWUG1vM1Ewd0V6RmVJelJSM1o4Q1pjYms0Y3ZlUmNB?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-30",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
   {
    "title": "חשוד נעצר בחשד למעורבות ברצח בחוף הכרמל; המשטרה: הרקע פלילי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xMTFyQlhBSzlRWnVDUWxIVFRvLXphN05EalpxQzVjN3ZlR3BFYkNRRTlvcldDdnNVV1A4eDdDUzdvQkUxd0JIa1o0ajRDUQ?oc=5",
