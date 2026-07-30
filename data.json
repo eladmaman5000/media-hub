@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T17:30+00:00",
+ "updated": "2026-07-30T17:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,30 @@
   }
  ],
  "items": [
+  {
+   "title": "נעצר חשוד באיום על עיתונאים והשלכת לבנים על מערכות חדשות 12 ו\"הארץ\"",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjg2OFNRYll4ajVibFlRT3dySVRkZnl6RWdoSHNCQ3RmSmVYdzREeHlmVjYxekRjZlNOZGZNZnB1eDRQY244UkdnQXYtOS1mS29ZRGdWTk9aSjk0RWVlajNoaHRuSjdFRmpxeFNtQkducFk4V2NhZTZfQ0p4LXIwSVhxZXEzNXBJNkdta3FSX3B5SE15ZS1jQw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "חדשות 12"
+   ],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "הערבות של בעל המניות בערוץ 12 - לקמפיין של איזנקוט",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQZS1SVXR2Qm9oSUFRSE92VXpINWYwYV9XU0FfQzNpQngtdUZTUlA1aXJPdk1QemxNdzB6LUQyRHRTOTZuVGQzZ2hkWHFBZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"כל הסכם עם חמאס זו חזרה לאותה קונספציה\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmZm44a3RZX2VrYlVwR3NBdWpGSFR5YnF6UjBMbTRzaFZDRGpWbXl3cUJzTUFqX3hTZW9jQUpUOGVtbEt3Vk5NNFhBXzZQdw?oc=5",
