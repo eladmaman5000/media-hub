@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T18:15+00:00",
+ "updated": "2026-07-30T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -257,7 +257,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "יקי אדמקר: \"תנצלו את הקשר עם ההורים כשהם בחיים\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxUFB4SENheUV2S1NWeTFRNU1fTDFtNjJ2WEVzN3lnWm14Ty1HbkhXQllBN1FzSGdzY3R2a21NYXZxT013NGR0X25xS0ludw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "רכב עלה באש בהרצליה; אין נפגעים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zZGxVZ0VvMjhlQXdxZ3R5VkNReGxndlZ5Y0Ixby1aV2R0TktNM1B3dXJQRVR2S3oxUE14MTF6U1VHamRuei16RmJ0bmhkUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "דרמה בשדה תימן: לוחמי גבעתי נטשו את הבסיס - ויצאו לנפקדות",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zSEZsLVNHRzMwQUNwSnYtYmg4M0ZmT3RUMkpPcHhGWWRuSDl1T3pRNzBvZFR6ODQ0Q3ZCZlBsVkNCWW51M1VFSUpBcTdoUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"כמו ארגון פשיעה\": קצינים בכירים דורשים להדיח את אריה דורון",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IRFpZU09EYlVkc3lQM0FMcVJDTVFlVTlRamlxNjJOMXNfc0VhWmVrTnJScVo4THpZNmdkUTRoNnVneVJTTzZrWUhqejlSdw?oc=5",
