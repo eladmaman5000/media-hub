@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T23:30+00:00",
+ "updated": "2026-07-30T23:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "המשימה הושלמה: ערב בלתי נשכח לכדורגל הישראלי באירופה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aaDdtZmdUeG5Va01IcFFOSFU0Vk1uTXBjdDBNRHc3S3RMUGNNeV8yeUthM0MzOV9OeENqd3gycmNvc3NiMWJqVnJRbDV3UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "טראמפ: מועצת השלום הגיעה להסכם לפירוק מוחלט של חמאס מנשק",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZazY0OXg1UlhVNTF0bWwtX2ZSajZFejlaVVY2VGVkNTY3QkVRMVI5b25SanFGSGl2ay1DTEY5a1pRanI3NkZEZVVNNFNnUQ?oc=5",
