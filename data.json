@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T07:00+00:00",
+ "updated": "2026-07-30T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -286,7 +286,21 @@
  ],
  "items": [
   {
-   "title": "בין שבת לראשון: עלייה נוספת במחיר הדלק - זה התעריף החדש",
+   "title": "ערוץ 14 לא ציפו לקרב הצמוד הזה, קשת 12 חוגגים ניצחון | רייטינג",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5US3FKX0ZfUFd0WnBHOUd3V3VFcV9hNkVQcU5OR2lhYW1PcGl1cmozN0tYUlBfMGhKWGRIbHl5YWhWWW5RVHpnLTdmTUZVZktNcVBZZUZCSWNCSjR6OHJ1MFlR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-30",
+   "keywords": [
+    "קשת 12",
+    "ערוץ 14",
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בין שבת לראשון: עלייה נוספת במחיר הדלק",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pb3M1TzI1dUhmaHd3eDVxRzRndmxQVGtFeEZLOFJQSkZWcXpWVkFhQ0VLRWhybHJ1MHRSbTZJdF8xY1FabkRVOWdEblJ4Zw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
