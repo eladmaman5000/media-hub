@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T03:00+00:00",
+ "updated": "2026-07-30T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הפנים הטובות והרעות של חיים יבין שלא נראו על המסך",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGQ1NVYzTFY4R2JGdVRDTnpGTU13M0hGMGkwWDY1NGttMFBEMlYxOUR1U1B5Sm1uTnhJMWVWTUlMOHAteHA4VERVbjYtbFBDdVQ1NzMzMUZVY2xKU2pQZ0NkSms4aVpiRXNJZDhBSl93SnE5ZmFaWi1zTVVEdlVncWFDajF0RGdnWERjRnU4enRlSU1rRHNXM2tha3M5dDF1TFlvaXpFamRCdU5XQVAwYUxUNktlcTA?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "haaretz.co.il"
+  },
+  {
+   "title": "טראמפ מימש את האיומים: ארה\"ב תקפה בעוצמה באיראן",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1S2dIdDRKOFdRNFFUX25kNEUwb0dwTjNVYktIeVZWSEpQOGhHUEx6cHhPNF8tT3QycWROVEp4ZEtoMXlWUHBNV3p4b3Z6SDg?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הכנסת הרחיבה את סמכויות ועדת הדיור הלאומי",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMWVSanMxazVkWVlxdUxZb1puVFVreGoxb2RGLWpVaUxaTXdPeWctVUZKUXlWVXdOMkVoSl81X0JETEg4TmpkTWNRYzB3X2ZXdHVkczU3ZkpjTXRpT2dmWXln?oc=5",
