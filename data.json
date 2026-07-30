@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T16:30+00:00",
+ "updated": "2026-07-30T16:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -257,7 +257,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "פס\"ד רוטמן: הברית הסמויה בין בית המשפט לערוץ 12",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wM2pfLWlZTThXSVh6bDZ1c1ZJd1JueldkYzg4clp4U3oxc1BBYWU1bmlnNVk3dmQ0QVB6R0FfaDhTVFd6NDdfbTVfMXhWUQ?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
   {
    "title": "המשטרה עצרה חשוד במסגרת מכתב האיומים למשרדי חדשות 12",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GdnlucFZ5LV9lNS1uNVh5ZE9GY3hzRWRIVk1JM0RlM2FyTXBNN0xEZVBnaFdUSFNEbEI1MnRTMzNINll5dTAyU3VkaGtISnNWVnRjYjgxMFcxclRsY096NU9nOU44bGhzZjlqeUx4bHc0MDd0?oc=5",
