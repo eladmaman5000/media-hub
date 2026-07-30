@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T18:00+00:00",
+ "updated": "2026-07-30T18:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"כמו ארגון פשיעה\": קצינים בכירים דורשים להדיח את אריה דורון",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IRFpZU09EYlVkc3lQM0FMcVJDTVFlVTlRamlxNjJOMXNfc0VhWmVrTnJScVo4THpZNmdkUTRoNnVneVJTTzZrWUhqejlSdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בת 72 נפצעה קשה ברכיבת אופניים ליד גבעת עדה",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9heWxoTEp4eUxOcTNIUS1tTmpHMWdGTXRBVkhEemlUc1RQUGxrYmJuZjI2cXZzQnJCaE9QWjhFdWdTR3pfNUN5R1A3T2JxRkk?oc=5",
