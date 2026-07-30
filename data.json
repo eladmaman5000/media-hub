@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T05:15+00:00",
+ "updated": "2026-07-30T05:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -251,7 +251,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -286,7 +286,27 @@
  ],
  "items": [
   {
-   "title": "העולם הערבי הסתמך על התקשורת הישראלית - ושוב נפל בפח",
+   "title": "כך קטאר קנתה את השקט של לקוחותיה מחדש | דיווח",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MWWh2NWcwN2F2dkdzNE5ZMnp3Q0VYQWZZSmNJUzMyaDFpRS1ZWl9TcDdlTHdMWXNIT1hwaUZ4V0c0SXlGeVRWbFowaXA3UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "c14.co.il"
+  },
+  {
+   "title": "מכה קשה לאסף רפפורט וערוץ 13: הכתב הוותיק עוזב לאחר למעלה מעשור",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NU0cyOWdKS3VvaktzMUVxazVGQS1lZkNYVXVMYUVOQ3F0Y2EwOFI4NG03NHdUbnZzcEl0TGpBWHZJaVFfSVR6UUFNaUxUVUFndi1HUnlWNnF1OGgx?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice.co.il"
+  },
+  {
+   "title": "העולם הערבי הסתמך על התקשורת הישראלית",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94Smp5cnNpQnNqRXRBbmdzMXNPaElZNXRNSzB1ZkNtNEQwQ29HenA0T1MwY3NBelhJQkJDTnR2ak0yN1JtZWhlbHdYR0lsbU0?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
