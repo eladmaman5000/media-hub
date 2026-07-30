@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T12:15+00:00",
+ "updated": "2026-07-30T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -161,7 +161,7 @@
    "source": "גלובס · גלית חתן",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -286,6 +286,29 @@
  ],
  "items": [
   {
+   "title": "אחרי הפרידה מקשת 12: התפקיד החדש של מעיין פרתי",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001550906",
+   "source": "גלובס · גלית חתן",
+   "type": "site",
+   "date": "2026-07-30",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true
+  },
+  {
+   "title": "נעמה לזימי הציבה דד ליין לינון מגל: \"יש לך 24 שעות לשלם לי\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vZDNqS0xPalpZclRUYVl3TnNja2NCYUVRa2REUFZlcVVzbTZUTzIzUFBnUUNLamZzYlRSQ2tNekJWS0QxeXV1S0RLdTl6TXYxYU5hNk5ydXVvZzd1Qlh6aXZtbVRHTTJvOVR5bEVaMFBtUdIBekFVX3lxTE4yejhlLVRNRDdNVWRBNV95dlp5bWtWdWd6X2ZhNjV1WDc1amJ0V0NoQVhxYXM0QnBxai1wc0dXV0gwT0FucmpuQ2RkYWJrMXczeEdjME9DU2stZnhzOHBOQVpvRDJLUmk2Tkt1cHlPYkQ2STFEX2UxT1NB?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
+  },
+  {
    "title": "Israel’s founders envisioned inclusion, not a Zionist coalition",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12UnFFbkVlekpPT0JsWndsTUpERUQ3ZFpYWF84R2NweUdWbklMMU9tY0RWOTkzMUxyR05JMFA2d0NCQUFSSHZmdDJhMjQzLWpjX05QZUpBMA?oc=5",
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -306,7 +329,7 @@
    "publisher": "C14"
   },
   {
-   "title": "גרסת הלוחמים מהמרד הגדול ביותר בצה\"ל - והתגובה: \"לא נשתוק\"",
+   "title": "גרסת הלוחמים מהמרד הגדול ביותר בצה\"ל",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mQXNKQ1VKaGgxRzVvdXM3bENySGU0eFhpUzdfd0hyc2RiQXZOaGdqVTFxcUo1R0hvbWkydi1VenJPUkxhMVdpZHozdU9VUQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
