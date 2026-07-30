@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T14:15+00:00",
+ "updated": "2026-07-30T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -286,7 +286,29 @@
  ],
  "items": [
   {
-   "title": "אלפי מסתננים מסתערים על הגבול עם ספרד - שמתקשה להתמודד איתם",
+   "title": "פאנליסטית ערוץ 14 מצטרפת למפלגתו של אביגדור ליברמן - ערוץ 14 | C14",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55bjI0bkp6ZDJ6a1YyaF9pZ1BiLTcyQ0NOV0xWT1oyRlNiVEtZSkdTLThiQll3emlBUVlBdURYSkVPWUpGTmhYNDhXa2c5UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אחרי ההפסקה: גם ישראייר מחזירה את הטיסות הישירות למרוקו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GbTFxWk1id1dhZEJCbGtsdWIwZEREcHdrTUJFX2FyaC15TEVOeTFmT041OGkzN1pSZUJVWnBZc0NxSUp1UVVtMzB2SGJHZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אלפי מסתננים מסתערים על הגבול עם ספרד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tU2tULWhDU0gzTU1Mc3pyZzQ1c0tJbG5XY1pKNUtZRC03bXhDbEd3WFFTd0UzQmtMMmZUOElzbW1zQkRVNTZyanVsMUYwdw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
