@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T08:45+00:00",
+ "updated": "2026-07-30T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -251,7 +251,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "מסתמנות הסכמות: חמאס יחל למסור נשק כבד וקל בעוד כשבועיים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEM2dVcEphWkFOUm00aFRlbDZadFVWZXRkQzVkMmNIb3dSUTF3bVh3Z3pmMlJNN2xXMEItLWdOR2tGNXd3eU9LVFA1VEJZUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "נתן זהבי מחפש עבודה ברשת: \"תפנו רק עם הצעות רציניות\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LQU0xM0E3bzFIdmZBVUNndXZSSkpSSU1mdWh6SkZ4cU5aay1zS21SUC1UOUNUbXg0bnk4dDlGWTlwTUpOYXRoQmFjNFJMUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "במשטרה מכחישים את זימונה של ח\"כ השכל: \"היא לא כאן\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YcTgxdjFZLU10bjJQdmtKYjVPTW5oOExfakQzdUxXRFFHd0ZubWxmNllKdXNMTzFVRzZIenhCb3hrVlo3bW1PaGRUTjQtdw?oc=5",
