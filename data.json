@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T16:45+00:00",
+ "updated": "2026-07-30T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "שב\"כ קבע שפרשת קטאר פגעה בביטחון המדינה, אך חוות הדעת טרם נחתמה",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTndCV05ERGJHOWpVS2FrRXFyOENiSEFFdVVhUkFyT0ZkQzVvM3pJWnhRbmIyX0lPRTRFRElQUmdra2tHd0tlTENyX1dKMFlnaENMdVdmVEtKYk5xbzhRUWpMTnRyUTQyOEg5UXJWZkZOZjFZQVhBMnVJQi1QbWctREFQYnRabWFYcnk1UUJUQ3FVdGE4OEMyTlYxSUpvQmpodEdHbzV3UE1uOVJUdFE?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "המרד בחטיבת גבעתי: כלל החיילים מלבד מחלקה אחרת חזרו לבסיס",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IZnJTNlJxU0RaQWNLelJCek5sYXBsaDhMX05TbUVnRGZJYm9TRDBYS2dxTElXdDJEM0pLcnN5OER5MGZMVy1hbVpRWUVLQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "פס\"ד רוטמן: הברית הסמויה בין בית המשפט לערוץ 12",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wM2pfLWlZTThXSVh6bDZ1c1ZJd1JueldkYzg4clp4U3oxc1BBYWU1bmlnNVk3dmQ0QVB6R0FfaDhTVFd6NDdfbTVfMXhWUQ?oc=5",
