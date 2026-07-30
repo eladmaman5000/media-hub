@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T03:45+00:00",
+ "updated": "2026-07-30T04:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -286,6 +286,16 @@
  ],
  "items": [
   {
+   "title": "העימות שהוציא את הבכירים מדעתם: המלחמה נגד ממדאני עולה שלב",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKNEJjRDYzejJHT0dLMTU1ZzRGVkMzRVN1aXcwdko2UlBhZnduQVJ1RFRjVEdac2JyWnVSWDNiTjNCNnI1SEFBSlY1c2YtZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "הפגישה החשאית במטוס האייר פורס 1 שהובילה לפקודה הדרמטית",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TbUJ1RUVHRzYtbGswWEwzRW9oWFlwTTFoVTlWLV9pN2N1WUJveWtrbnNQdEtBYjllbmhZTHVXaU5UV3BPMVAxUHJSMEJidw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -311,6 +321,16 @@
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
    "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "צפו לסוף שבוע קיצוני: הטמפרטורות מזנקות | תחזית מזג האוויר",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OUnJYTWdsVlpBb284dzJKRGhaNVBhc0RzZWJzNW9OWmRYclZxRDJmb041YklsbzNwRkhDSXdNeTJFSlZQdDJBYkVFWjBIdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-29",
    "keywords": [],
    "pv": true,
    "publisher": "C14"
