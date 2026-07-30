@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T20:30+00:00",
+ "updated": "2026-07-30T20:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -155,7 +155,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "גלובס · גלית חתן",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אושיית הרשת ופעיל הימין עידו גבעוני בג'וב חדש בערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTVZNOTJTX2lCVTUwVEZqdjNLTHJmd2lvUmt4ZWRMbHdIeXR0TWhIY1VoS3o5TDZIS194OFNaR3pNYi15bmJhNXFXYUdORTFSUUc2Y3dCQlU?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-30",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "התרגיל הכי ישן בספר: איראן מאשימה את ישראל בתקיפת מצרים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KdjhKMlNwMHdScFRBakliZWRucmlQdnhmbTdxUWgtTWpTWWplaVpUbGc1NmhTZ1ZmRVhxVUNJTWdJVHlzQnBITkJuUW9Jdw?oc=5",
