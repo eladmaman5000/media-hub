@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T11:00+00:00",
+ "updated": "2026-07-30T11:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "פועל בן 34 נפצע באורח בינוני בנפילה מגובה במעליא",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5weTJpOTJZOFpOcnNreXdtNk8zQlNMbzZ0M1VCZDAzd3UzTG5mYUIzOVpSSUwteTE3OTlSa0cxTlIxczZCSE5CUEVVSUVIUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אפרת רייטן תובעת 170 אלף שקל מינון מגל: \"יש לך 24 שעות\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BS2ZrVVZpNVZyWk40Y1V0c0NwQ01zUVZOdVlKai1kcjJha2VBOXUzbTQzUWlPZ3pHdENsS2tGMzlwMkJMemVkWC02OXRPb3BsWWwyWmpGR1BNM1hwMERocWFaNA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "חיסול מסתורי בצנעא: מתנקשים ירו במפקד חות'י בכיר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyTHEtaUNKTzhvdmQ2T2lvSDgwdEF3R2VBcUFJWXpHaXhHRHJMd2pJNmo2LU1KUEk0djRnR0cxZnlSc0ZtR3hpYm9aUlo4dw?oc=5",
