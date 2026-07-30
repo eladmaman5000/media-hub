@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T11:45+00:00",
+ "updated": "2026-07-30T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -286,7 +286,17 @@
  ],
  "items": [
   {
-   "title": "ירה בראשו מטווח קצר - ואז צעק למשפחה: “מי ירה בו?”",
+   "title": "בן 13 נפצע בינוני בתאונת קרטינג בדייר אל-אסד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PMTBpNzdWQzRFY1l0M3RkWUQ0cVFLVXJRWUdzTjZfZk5oUTFReUItMkNidWIxLUItdXNTTndDWkFOM19BRUl0SHJoNk9qZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ירה בראשו מטווח קצר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CWHpBYWxRSGc5OW1rcWR1bWEzazNmcVk5dFhMWnZkWlJZS2RwWjJSVmllQ0Z2MkJKaXVZN3F5eFRwR2dfOUM0eS1rOXBUQQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
@@ -672,6 +682,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "Fringe Israeli Settlers Quietly Enter Syria to Stake Claim for Jewish Outpost",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWdYUDNKTjVXYVFseFFJWW55LWhsdktkNE1yRlJlSmVGVko3RXczSUFxYkNYcU80Q3RVeF9wTGJNMktteVNLc3R3elVwOGxoQnZzRXptLTdILU9NMlE1TEIzY1FrWGZWZjdTaUQ1OHg3WEtndXBiSXphcGpVeTduT2J1bmlIZk5RUV93eUEyN29tMEFldy1laDQtVWd2VzdPU2poZnJmc1B2NU1UWkRWUjg5bVRheUVBek4yTFVEckPSAcYBQVVfeXFMT3p0Nnlod090dF9kVGFYdUtJTHExZjlLOFgydkVvbzRLN0tOMm55ODRwQ3ZiWFdXTTFib2FOYUE0QnVyY09wN3EzWHlnbGtCSERqRGl3cmxYUUlxQl84WnhfOUpvVkZDMmdNSWVfRERxcUZ6bW80dWY3OVFsbG5Ya3JsYW4xdDNUX0JCSWp6YWdINi11ckJiUUpsdGwwSDh5S0lUQ1FxYi1qUFdlZlgyTDdqWC1vWlVEb0p1T0ZUN2JTZ2hTR3Jn?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Deccan Chronicle"
   },
   {
    "title": "דרמה בכינרת: שני שייטי סאפ נסחפו וחולצו מעומק הימה",
