@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T10:15+00:00",
+ "updated": "2026-07-30T10:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -286,6 +286,28 @@
  ],
  "items": [
   {
+   "title": "מהפכה מסחרית באנגליה: השינוי הדרמטי בחולצות הפרמייר ליג",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMWVpV0pkRng3WkZia3Y5OHlUNmVWUmlYcHBkTkVGZFkzbGU2ODlnbmVSamlPdjVXcTRTanFNejJPV2Q2T19Za01ZX09hZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "צפו: ינון מגל חשף בדמעות מה קרה איתו בגירוש גוש קטיף",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZWndxNnFUYThnSFdhMllDU2h4OWRIY1ZXc2plSHVCMlNfdFNiSmR0cklTRG1JNVc5am5McjVNMTY3dWdoSlRGbQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "חב\"ד אינפו"
+  },
+  {
    "title": "\"חבורת מטומטמים\": המודעה שהוציאה את ינון מגל מדעתו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vdVVTUTVrVnkwMS1Yb2JZakhmbk1jVGRiREhRNW9tR2RHZUYtTnJmbnIxTGNqQ25NdW1CSWh1SjQ3TzhvaVh1Nld3bWhrdw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -298,7 +320,7 @@
    "publisher": "C14"
   },
   {
-   "title": "השמאל מחפש מנהיג - ומסתפק בעוד גנרל",
+   "title": "השמאל מחפש מנהיג",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrOVJVNDQ2SzFQUXVXb2g5N0l3dzJiUV9HdEE2QTg2bjMyV0k4SkcxMVg2S1lienJleFVVZk1Cc3R2U2x0R1BxUDJLMncydw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
