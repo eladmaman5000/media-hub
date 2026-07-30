@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T09:45+00:00",
+ "updated": "2026-07-30T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,28 @@
   }
  ],
  "items": [
+  {
+   "title": "מתקפה רוסית קטלנית באוקראינה: פולין הזניקה מטוסי קרב",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jem5mTTg1SmJpeC1lWmt3VHFRclVBYzRtSm5lV3NHNGpfc0NnTF9LMmZkVmFpaDd6M3IwYWU0UGwtWHp0MV9sZUtKcUJQQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ינון מגל על השופט: \"טיפש גדול או רשע גמור\"",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOLW9NUnZiWnotZU96ZUEwVzhzdGM4eG4yQ25ZeFZnbDFKVTRMM2NnUjJVNDhLaFk5WEs3NDVWWmlNeU1rVHBjVDg4YlFuWks5YmxJc0R0cUdLVjRIUllTYUNqZzhlTjg0bzltZ0k1MEhVM1czMGtlV3loOUlsNDJnNnFqNUYxeU9pUjZjVUtac1BQYVZYWngweXVXRkdVVmpSeXNzMzA0SEhzekNCQjdDeWVIdjBkNEM4dktYbWJqcEczalhUaVJZaWxTN3pRM2RQLWFtNzRmWkd1T3FjeER5ZW9samYzV0NESENfOGZNb1BYWE1jeFhqcDIwNWJ4OTdzdVJoY3RjUFJpUkY2aUFPdDNwdy0wczRxN0hmcWcxcG9VN21nc3lMZ1NXdmtZZjdTUERGLVBseXZTNE1OMkpQNEJsc1Z2dE13THMwaw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "טראמפ התפרץ על יועציו בעקבות התמשכות המלחמה באיראן | דיווח",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yQVRaNGJzZWo0VkVKT0dVcVl2XzF0ZWJmZTZ5NGktN3BnNTE0U19iREd5WHd4U3hzM1lsTWlKSXg2TDlPRklaTUQtd244Zw?oc=5",
