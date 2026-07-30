@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T12:00+00:00",
+ "updated": "2026-07-30T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -209,7 +209,7 @@
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
@@ -285,6 +285,46 @@
   }
  ],
  "items": [
+  {
+   "title": "Israel’s founders envisioned inclusion, not a Zionist coalition",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12UnFFbkVlekpPT0JsWndsTUpERUQ3ZFpYWF84R2NweUdWbklMMU9tY0RWOTkzMUxyR05JMFA2d0NCQUFSSHZmdDJhMjQzLWpjX05QZUpBMA?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "The Jerusalem Post"
+  },
+  {
+   "title": "בן 22 נפצע בראשו בכסיפה ופונה במצב בינוני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PbndDM2ttLU8zb01qNE95YXJ2ZmxpOUwxMTJfRjJMdTBHWktTdUpUV0VLV0NpazRRbTVSM01VSWw5N0xFX0JJcl9qQWdVUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "גרסת הלוחמים מהמרד הגדול ביותר בצה\"ל - והתגובה: \"לא נשתוק\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mQXNKQ1VKaGgxRzVvdXM3bENySGU0eFhpUzdfd0hyc2RiQXZOaGdqVTFxcUo1R0hvbWkydi1VenJPUkxhMVdpZHozdU9VUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הפיצ'ר האהוב של סמסונג שבור? התוסף שגורם לבעיה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QT2tlZTVENWpOUGhuNXQzSndIaUdSNUx2MXhiRnNsYlZGcFkxN29hMXRoNUY3bGNwdklTcktjNmk5aU9jeE5HdzJndFlGdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-30",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בן 13 נפצע בינוני בתאונת קרטינג בדייר אל-אסד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PMTBpNzdWQzRFY1l0M3RkWUQ0cVFLVXJRWUdzTjZfZk5oUTFReUItMkNidWIxLUItdXNTTndDWkFOM19BRUl0SHJoNk9qZw?oc=5",
