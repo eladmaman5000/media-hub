@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T00:01+00:00",
+ "updated": "2026-07-30T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -154,9 +154,8 @@
   {
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "גלובס · גלית חתן",
@@ -286,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכנסת הרחיבה את סמכויות ועדת הדיור הלאומי",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMWVSanMxazVkWVlxdUxZb1puVFVreGoxb2RGLWpVaUxaTXdPeWctVUZKUXlWVXdOMkVoSl81X0JETEg4TmpkTWNRYzB3X2ZXdHVkczU3ZkpjTXRpT2dmWXln?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-29",
+   "keywords": [],
+   "pv": true,
+   "publisher": "news1.co.il"
+  },
   {
    "title": "גבר כבן 40 נפצע באירוע אלימות במשהד",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUlBvMnhRUlN4SGs2QWppb3RBdEdzMm90aHVEdjZuVlhGRi0wRTIyVzk0RzN6M3J4MjE5YUYyN2ZXTDhiS056QjFsUUM5QQ?oc=5",
@@ -1512,6 +1521,31 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "\"להעניש את המבקרים, לסייע למקורבים\": קשת 12 עתרה נגד חוק השידורים",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMcjFVdVlRUmNOanV0OU5xdUd1cmpVWDRYTkZBdDNrbjR6WVdHT19aaXVULTRvUDdHZTdTd3JwbUEzTHdkNGt3aXhyaUVzVmNrZmZvaHJjVXVWX09sblZJWG9fcFU3UdIBbkFVX3lxTE40b21qNl9qckwxaWlOUUczV0pXN1ZMNWU4RDVGREJCT1Z4bEFMWE85YTQ4a3JESlR3Z0pjRVlTMmtPdUxvR0F3bFZiTEpTRC1uWTV1QW1LaEFtZnE5aFJxanJCbDd3T1NJNnU4TlFB?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12",
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "קשת 12 עותרת לבג\"ץ: \"מטרתה לפרק את הערוץ\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvbUZrYlcyNVJjMDlGZHNDMDZ6bXM3bHZmNUUwanZQd0NLRy10NHFOSlhaVHN2M19aMThfb3JlTi1sU2lLR3laM2toODlTb0hmdGlNTzdxRHdhbWxV?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-28",
+   "keywords": [
+    "קשת 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "קשת 12 מצטרפת לעתירות לבג\"ץ: \"הממשלה צריכה לחדול מהשתלחויות מסיתות\"",
