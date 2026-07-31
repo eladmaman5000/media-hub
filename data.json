@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T13:15+00:00",
+ "updated": "2026-07-31T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -257,7 +257,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גורם מדיני: \"לא תהיה נסיגה ללא פירוק אמיתי של חמאס מנשקו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56b3gzUDRmV2JfcGlua1pMLWI2bGpGSXdXUlg2cWdZY3VOLVRxSmRCV3k3ZzRsU0NtSjN6SXNBcjZsTU5tTVZKU0Y3ZzNmZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "המדינה האירופית שתפסה מרגל איראני בסמוך לבסיס צבאי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nd2tBTkc0UUROaVd2Y0JuNTVocFQwcXdMRllIY1RDeURjUng5NHY1UjFRUXczbnlKLXg2RUszay1fazNwbFhES0ktT0JSUQ?oc=5",
