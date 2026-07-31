@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T16:00+00:00",
+ "updated": "2026-07-31T16:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -245,7 +245,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -285,6 +285,36 @@
   }
  ],
  "items": [
+  {
+   "title": "עכשיו זה רשמי: קינגס קאנגווה חתם בפנאתינייקוס היוונית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qMERuYVFBLWwzSnVXZUgzdWtVMlFyaEI5VjRNWDZfbms5djFBYUM2Qkh2X3kxcFJQeDhqbDUxREd3NDFVVDFXZlUyNXlUQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "חוסל מחבל שהחזיק ברומי גונן ורב\"ט נועה מרציאנו הי\"ד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSdkhXa1VnNnpONHA2YVpCWXVvVFoxLXVoQzByenFDMG0zdFVlRzRoZVBTZ1AwQkNPaDhkUVV0Z1hPZWFvTU85NngweDA3UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "שלומית טנא: וולגריות וגסות רוח מקיפות אותנו בכל מקום",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzakZVdzZHa2NyckJLR1hrdVV6TlpiZFo4X09BcGF5UVFTZE5RR2F2MVdRU09xZGYxWjNQNk95d2lmR0V2?oc=5",
+   "source": "חיפוש גוגל · גלית דיסטל",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "מנגנוני האכיפה והאפשרות לחזרה ללחימה: האותיות הקטנות בהסכם",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tUWFKb0JydWZhTTB6dXdpcHRGdkZsUUEtT25QMmxTdTRRRHdERWRUbV9keDRTVUcwc2VCM0gtclZ5aXJfR3FObjR5WlFTdw?oc=5",
