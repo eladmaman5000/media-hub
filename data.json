@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T14:00+00:00",
+ "updated": "2026-07-31T14:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,7 +191,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -215,7 +215,7 @@
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מנגנוני האכיפה והאפשרות לחזרה ללחימה: האותיות הקטנות בהסכם",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tUWFKb0JydWZhTTB6dXdpcHRGdkZsUUEtT25QMmxTdTRRRHdERWRUbV9keDRTVUcwc2VCM0gtclZ5aXJfR3FObjR5WlFTdw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "גורם מדיני: \"לא תהיה נסיגה ללא פירוק אמיתי של חמאס מנשקו\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56b3gzUDRmV2JfcGlua1pMLWI2bGpGSXdXUlg2cWdZY3VOLVRxSmRCV3k3ZzRsU0NtSjN6SXNBcjZsTU5tTVZKU0Y3ZzNmZw?oc=5",
