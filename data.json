@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T10:00+00:00",
+ "updated": "2026-07-31T10:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ישראל וארה\"ב שוקלות מצור יבשתי על איראן | דיווח",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LU2JLc2NYSEVoQjlXeUloeGJRYzlsZkM5c3pNWEdYWVVIMzZZRmExdlVyb2FkYnNKYkQtNWQxR0FFZ3dHU1lRNVppeDh4UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "העונש שקיבלו החיילים המורדים בחטיבת גבעתי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fWnYyYWpJZUFjcy1WU3JuSHdNOUZPSkg4UmZ1TFlPOTFCS2JJdmJXUlo3cXFlTDlnNVZPQ1dVbmFGV0xwMXR0NmVBaTByUQ?oc=5",
