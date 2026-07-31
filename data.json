@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T17:17+00:00",
+ "updated": "2026-07-31T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,19 @@
   }
  ],
  "items": [
+  {
+   "title": "תביעת הענק נגד גיא פלג וחדשות 12 נדחתה: \"פסק דין מוקרץ\"",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40TzVUSk53UWhrVjIzWGcxZXZqcUdkVWFsb3RZdnBNT3NObEFKcjdTb3NXeEtTdFl0cXJhaVhLUUhpaE9MLTBiMDJXY1FIUUdMQThzQkVLTF9iZw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-31",
+   "keywords": [
+    "חדשות 12",
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "מאי גולן בהאשמה מטלטלת: \"רונן בר שלח אליי אנשים שאיימו\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JVFBUX1RMTEM3eXVieDc3enkwR1pFNXpuV0czS3gzNG9oVjJFQ0o1VjJZclM1STZyMWlJQ1lFTld0VHFzaU8tekdoRS1yY1RHVC1UT1Vid2lMbWVy?oc=5",
