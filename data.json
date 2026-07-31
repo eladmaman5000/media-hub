@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T09:45+00:00",
+ "updated": "2026-07-31T10:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "העונש שקיבלו החיילים המורדים בחטיבת גבעתי",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fWnYyYWpJZUFjcy1WU3JuSHdNOUZPSkg4UmZ1TFlPOTFCS2JJdmJXUlo3cXFlTDlnNVZPQ1dVbmFGV0xwMXR0NmVBaTByUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שרפת ענק מאיימת על תחנת הכוח הגרעינית הגדולה ביותר בבריטניה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VczNnVnpJV1RwYlZwbnlnMTIxTnNYSXdBclViQ0MwaXdoVHlLNk1sc0ljSGl0OVNfWWp6UHM2SWhwSGhpUHFQeUFuX3NUUQ?oc=5",
