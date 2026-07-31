@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T03:30+00:00",
+ "updated": "2026-07-31T03:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,19 +203,19 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "העריקים החרדים הם רק משל על האנשים שרוצים להיות מעל החוק - סופשבוע - TheMarker",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGt5dTNSdmlqTnROR3FuQmpCVkZ5VjNJWEkzTEotbFc5SGw4di1TSy0yeHVtdF9KRlVVVVBDbmVlYUNfemc2eWJRSllvdlcxWUtWYkxqSm13WjRiRkp2enNva1dwRXhKOUw1cmdBaG1BLWZUZU5BakQ0MlhscllZSnNYN3hncW12ZVBiUl9fck9GR1M2YWxFYVd6N0p0QWw3STJZSEh4Wi1qaHN1WEtz?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "האם כל מי שמתחפש לעיתונות זכאי להגנות שנועדו לעיתונות?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1RxZlJWbkZBSWRjTEcwc000c0pzSzBtUjU0ZTJ2dVFLME1feEIzc0hFR0ZqSzJFclo2aXM2X1VhNTdnSlRxdHEtTnU5RmRQWVFUblkwZG1ycml3T0lhbnNoMVE1TjBuQ3kwZW1IYU5Da0stTERWR0dvSWVkeVlqZ2RmQWN4WHZLX0h0X3lIY2xkd3B3VkkxeUxfMmY5SVE0OHZUeF9kNnI3QW0yQ2hQemx3?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "לא טרמפיסט: ח\"כ אביגדור ליברמן מדבר על הכל | ריאיון מיוחד",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56NnlSMzRkckhrWmdVNzVsWDdBOTJIbXNUUTZIdUNYWlFuZU5PR183VVRhTlFZYXdraEtjZkNta1NCZ1ExNk1qcVlaNTY1bHhtZ3RtOFVVQUVzTzJ4SnJBeVFPTmU?oc=5",
