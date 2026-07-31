@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T12:15+00:00",
+ "updated": "2026-07-31T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "פורסם שמו של החשוד ברצח אחיו בחוף הכרמל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nbHBQNzNtU2lKY1NlTGpYN3NJNF9HQXpIdTJjZ3BsVS1pUEt6SWYtNlVtX3BnYXphcmpObkEtZTVfaHVHUS1Ed2dXZXc3dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ילד בן 11 טבע בבריכה באופקים; מצבו בינוני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyVkI0a2l6QW9OTFJlNzBST0t5VF9aUDU0SnpvdGpxNEdRV1g0NUk4bTRXX2ZlZUJ5X2VyeXRaV2VlNDZUdndYWE5yQ2hQUQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שלושה נפצעו בתאונה באזה\"ת בבאר טוביה, בהם אישה במצב בינוני",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YaW15MmtfQWREMDR2b2t4ckdIM3dwbWdtZU1PUzdVMUFDZmN5Q25PdVp4TmZDTXVYa1NIVXlGRHhGM2pWWjl0YzhtbmFpUQ?oc=5",
