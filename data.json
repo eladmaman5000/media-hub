@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T00:00+00:00",
+ "updated": "2026-08-01T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לאחר מכתב ההתראה: איתמר פליישמן התקפל והתנצל בפני יאיר לפיד בשידור-חי",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16MFVfdjF4LXN3b3dlbDUtNy15RXZjcmxIaW1RWERpQzBEa1JCbDdBSGRMMW53U2NaTGlXd3pWenBYQ1FUWnY4?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ch10.co.il"
+  },
   {
    "title": "לפיד הכתיב לערוץ 14 את נוסח ההתנצלות שהוא דורש",
    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeFdEcWZnTkgwR1VaZzVaakFVQjRJMDlwX3lldzJ6LTg4T0ZfZWxvOEFBNUh0SHp0NG1fNlNNTDFlczd2SDBtUEV6ZHUwV3BwSWxnLUdGd3hPdm1xbnBZV1Q1aGFkMWRwLWp0Ti1wMWlWeG92QjlRVXo4R3JzVC1hRTl1eDliSzV5Y0tCVXE4T1VFNUoyYlgyQTRnbC14cnVybzJ1NXN6YkhqSEpCOWMxUnNLWTVkekNsNlNqa1A1R092bktWV19kQjM5dE9HclgtTEh6bU5xejNGZ2lIX0UwU2EyUUhqV2VqSWxtSnprRkQzU29xOHhlWXFxSG0yWHQwYnJFeGRHejJ0VGhZbzlTSUZreEZONDUzaTZERDRrOWVWcEhQZ05tb1RYdFFQNGhuVTZZTnZn?oc=5",
@@ -714,6 +724,30 @@
    ],
    "pv": true,
    "publisher": "mako"
+  },
+  {
+   "title": "פייס אוף בייס | הרשתות של שלמה קרעי",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjFOTTVMcHI3aUJIZG5keEc5RzRnLWdvSTdJZzYwV1kwYTF0cUVGYjVkcEhuc0FRZW8yVU5qZVVOcVdrdXJPMDdXUm1QQTRjQ29neWxjZ1l6Y1hzdXJPbmFYdERCMS1taktkS0gwR0hRaTI5bEF3T1p0QW9keEp6dmVhTnZQSG8?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-30",
+   "keywords": [
+    "שלמה קרעי"
+   ],
+   "pv": true,
+   "publisher": "mako"
+  },
+  {
+   "title": "אפרת רייטן תובעת 170 אלף שקל מינון מגל: \"יש לך 24 שעות\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BS2ZrVVZpNVZyWk40Y1V0c0NwQ01zUVZOdVlKai1kcjJha2VBOXUzbTQzUWlPZ3pHdENsS2tGMzlwMkJMemVkWC02OXRPb3BsWWwyWmpGR1BNM1hwMERocWFaNA?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-30",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "יאיר לפיד בתביעת ענק נגד ערוץ 14: \"חבורת מטורפים רעילים\"",
