@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T04:30+00:00",
+ "updated": "2026-08-01T04:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -233,7 +233,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אנחנו לא סובלים פה, אבל נהיה יקר מאוד לגור במרכז העיר\"",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3AxLXlVbjFLbTFQZC1VMnNVd2F0RElZMTFoUFU1RzYzSlV1akNJTG1rSEJaaHZvMDBFUmNkVjVlbTZoTkdrRFpfcm1RdHhBV2lXXzQ2OE5aNDRPODdzdHpiLTM3NWhybXZaeTBnVlFhZEV5dWdVTGZ5QjM0RnNKU1pRWlZTLTRYNDR2WE12N0dEblNJdUlwY3NUeWFJWG9SOW1DWldiVmF2T0lDRW1iQUlTRG1LUjZoeUxUZDNLUkhqNk40?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "אחרי OpenAI: אנתרופיק חושפת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NUUlPUTZQV3lRZk9GbUxPYzhqS2NhM1hrUl80WjhZYlA3cW05M0o3Y29rLVdyQmYxZ2hOc1NZODA5aWNhNzUtM2F3eFU3UQ?oc=5",
