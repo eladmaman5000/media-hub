@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T21:16+00:00",
+ "updated": "2026-08-01T21:32+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "עדן הראל חושפת: \"לא הייתה לי דוגמה לבית מתפקד\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuV2Y5MXQyNVhVQU1RaGl5LVNwdGFMcUxKQzJ3UEJ1TnFXSG5rbHNPcDIzakxtVWJoc05heU55akJRWGRDOWJPWXE0anpFZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "c14.co.il"
+  },
+  {
+   "title": "גל האנטישמיות בקנדה: מסעדה כשרה במונטריאול הוצתה ונשרפה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9maDN0LVhLUzdSdHk0dExQNnRzd1RTLXNzS2E5ZzVZa21PeDcyRFFjUW9fWi1VSV9mZXVnTWt4eU1iQi10aTNib0VzRExUZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "c14.co.il"
+  },
   {
    "title": "על רקע המתיחות: איראן מחריפה את המסרים נגד ישראל וארה\"ב",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlY251SzNNNTkwQkpGNWZMaUxGMExoNVNsc3ZDWUtTMmpLc2t0Sy1zTUZEWXFkNGFjUFpUazhmRmV2QmdqMjBySXZydGswQQ?oc=5",
