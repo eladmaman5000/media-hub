@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T04:46+00:00",
+ "updated": "2026-08-01T05:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -179,7 +179,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -294,6 +294,17 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "\"עובדה\" מועלת בתפקידה, אז שאילנה דיין לא תזהיר מפני חיסול העיתונות",
+   "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-07-31/ty-article/.highlight/0000019f-b6d5-d6b6-afff-fefff7e20000",
+   "source": "הארץ · עידו דוד כהן",
+   "type": "site",
+   "date": "2026-07-31",
+   "keywords": [
+    "עובדה"
+   ],
+   "pv": true
   },
   {
    "title": "אחרי OpenAI: אנתרופיק חושפת",
