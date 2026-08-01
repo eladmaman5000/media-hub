@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T09:15+00:00",
+ "updated": "2026-08-01T09:32+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -251,7 +251,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "איש העסקים דיויד פדרמן הלך לעולמו בגיל 81",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83S1c2WFJreUgya2lqTUdOTnlDdm5EYm1uamZYbTRWTlZ0R1k0dkJFM3lJaWFpdVVmOVUwZFBmaUJGVGF5a0NhZHZWN3NUeDRpc2NDSDkyMEpQcEZ5NnlFSmpR?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "\"אנחנו לא סובלים פה, אבל נהיה יקר מאוד לגור במרכז העיר\"",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3AxLXlVbjFLbTFQZC1VMnNVd2F0RElZMTFoUFU1RzYzSlV1akNJTG1rSEJaaHZvMDBFUmNkVjVlbTZoTkdrRFpfcm1RdHhBV2lXXzQ2OE5aNDRPODdzdHpiLTM3NWhybXZaeTBnVlFhZEV5dWdVTGZ5QjM0RnNKU1pRWlZTLTRYNDR2WE12N0dEblNJdUlwY3NUeWFJWG9SOW1DWldiVmF2T0lDRW1iQUlTRG1LUjZoeUxUZDNLUkhqNk40?oc=5",
