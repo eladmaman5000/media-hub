@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T17:17+00:00",
+ "updated": "2026-08-01T17:33+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -221,7 +221,7 @@
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "דיווחי התקיפה, האיומים והכוננות האמריקנית: המתיחות גוברת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydXVXdWlBdDRrem1TN3MyeExGY2IzZ2NYcHJYQ3oyREVUTW92RDIwaFRyb0JPdUFHN2xsN0dNcERjZXJlby00YkZZdG12dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "דקה אחר דקה: UFC: עדכונים חיים מפייט נייט בלגרד",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hdC1Wb0FtTkthdXoyU3g1bko5MGU1YVFBRnV4TjlyMjdkeHd3eFFuemhJVFhJcmx4bzA5ajhGbl9acExPd081MzI2OTJCTVN2YlcxSHJBa1ZIRGVqekFLTDM3Tkt5bkJkZlltejR5Y1JTQ1Ny?oc=5",
