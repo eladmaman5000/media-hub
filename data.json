@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T18:47+00:00",
+ "updated": "2026-08-01T19:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "\"עד האחרון\": התגובה של רומי גונן לחיסול המחבל שהחזיק בה",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KMGFHbnhPY3o5eGJKeEhVazRqQzN3NF85bDZ0QXlSWFJJdVFwQUVhaEdPQjdsTGxNTXh6bmFwSnktbnFjdjVlQTB2R0V4U0U?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "לוחם קפץ להגן על רועה צאן שהותקף - ונעצר על ידי המשטרה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfNFVwTHNDcWhHdm1Rc2t5b1gtaXNtZ2RaamVtMkJRRk90OFp3ak9HZk56NWloeXpzY0JVZDM3ajM3RUk1S0huWDN6VVdDQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "אזהרה חריגה מוושינגטון: המשך ההגנה על ישראל בסימן שאלה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TNmdVdmN6cWp6MjNJbE5jazFHOGx0YjItNmZrTjYwQUlaTVR5NEFBY3VCZklxMWduTFlqcnhfc29WbVZNN3Q5czNQMHBpUQ?oc=5",
