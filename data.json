@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T02:15+00:00",
+ "updated": "2026-08-01T02:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -191,13 +191,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -286,7 +286,7 @@
  ],
  "items": [
   {
-   "title": "אחרי OpenAI: אנתרופיק חושפת - מודלי AI פרצו לחברות אמיתיות",
+   "title": "אחרי OpenAI: אנתרופיק חושפת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NUUlPUTZQV3lRZk9GbUxPYzhqS2NhM1hrUl80WjhZYlA3cW05M0o3Y29rLVdyQmYxZ2hOc1NZODA5aWNhNzUtM2F3eFU3UQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
