@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T15:32+00:00",
+ "updated": "2026-08-01T15:46+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -221,7 +221,7 @@
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אלי שגב, בעלי מכבי נתניה לשעבר, הלך לעולמו",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sSTZUQ3ZlVGNPSlpQcmRyaUpoQkc2a1ZqRi0tRElxX1V3UkRoNDJ4TlZYdWpaTzZCVWp0UnE2R1czdWFHb3Q2YXhXWUtJQldQSl9hUTNpTXgtNXJNTENDU0JnY2sxdHlfSjhJMGJrb1o?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Sport5"
+  },
   {
    "title": "שיאן העולם בטיפוס הרים וכוכב \"14 פסגות\" נהרג במפולת שלגים",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zUXVBRVhqRno5cXUyWDIwMk9RRFlod1YwelBKckNlRVRnemotRXN6cl9oUmJhZXlDUUxXQ0lpcjhTaTVMbG5fNkRmbXhYbXdsbFp5cWppRHdBaTRDX3RxUll3?oc=5",
