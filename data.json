@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T09:32+00:00",
+ "updated": "2026-08-01T09:47+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,7 +197,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -286,6 +286,16 @@
  ],
  "items": [
   {
+   "title": "עוד לא נגמר: חשיבות המשחק מול יוון",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JdmJJY0pEcUh2T0JBdTNxdmZkRVR4OTl2NFhiZjh5QWNEOVNsdDNpNHg1NVN4cEZncDhjS0llVXBLaXlTTENBYVNsX2dRQVcxOVRRZElrMEZrR3hRYXVXUEJCaEp5UTBFUGNrTllUbmdSZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Sport5"
+  },
+  {
    "title": "איש העסקים דיויד פדרמן הלך לעולמו בגיל 81",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83S1c2WFJreUgya2lqTUdOTnlDdm5EYm1uamZYbTRWTlZ0R1k0dkJFM3lJaWFpdVVmOVUwZFBmaUJGVGF5a0NhZHZWN3NUeDRpc2NDSDkyMEpQcEZ5NnlFSmpR?oc=5",
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -304,6 +314,58 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "אמסלם: תאמינו להבטחות השמאל, הם אכזריים",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zeVpuTXVkeGgwTGpySXFFLWNuekZsUURxaW1HVVlVTnM0OXAzZHJQbUFTQ0V1OGMzZjZJYmlWczdiVlRtMEQ0YQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ערוץ 7"
+  },
+  {
+   "title": "אחרי הלחץ הציבורי: ערוץ 14 מתחיל להיעלם מהמסכים",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yekJ6YkZibkN0ZVpseWpzREcwcHlIWVRLNG9RaVEzR2taRFJzeEtSME9lVGpJekxpRlJWaGFEWVloSENNZTVWdkRpZmdYR2hrcWlJc3VUZVBiNnVU?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "MSN"
+  },
+  {
+   "title": "הקול שהציל את נתניהו והשריון שטרם הגיע: מה יעלה בגורל אלמוג כהן?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fcXdCcjVoMFFCdmt5UFN1aFg2TjROWDk0M2hBemotRnZ2dnRzQzVuZ1RWa19sLVdid0hNc05feXdrU1AzTV84QnJKVE10SDlPU3V5T3ZRWW8?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חדשות באר שבע והנגב"
+  },
+  {
+   "title": "שיחק בגמר האלופות ומתאמן בליגה העשירית",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WTUJjVWVjRGlnZ044NW1tWlk3eDFxc1NScVRYTEVMOTZZTVN6TmozXzY1WDBDaDFTNmpLTllvN0ZBcklTZVh4ZkJHWE9EQnJmVEUwRC1KU01OTTZtSzI2WjJBV3Q2N2tIejlSTmVGY0c4QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Sport5"
+  },
+  {
+   "title": "לוחמי האמת: כך נלחמים בהפצת השקרים והפייק ניוז ברשת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zZ05JUTlHdDBjUGM2NkRGY0NfeWZtTXZzeHB0YmdtODZTbFpScWV0RzFSVnM5bEJ3SUNHVHcxZFBJM3hseUVuRVFranR2UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
   },
   {
    "title": "\"עובדה\" מועלת בתפקידה, אז שאילנה דיין לא תזהיר מפני חיסול העיתונות",
