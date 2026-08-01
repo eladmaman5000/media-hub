@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T14:18+00:00",
+ "updated": "2026-08-01T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -221,7 +221,7 @@
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -285,6 +285,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"תעלומת ענק\": מונאקו בדרך הבטוחה לפירוק",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DY2ZQamoyVEFKYTRqTWl2dHdOVVJxWjRQaGxOZ1pZWGxOeVdpUTlYc1FLYWdxUlBqMVhjeEc3Y0NfMVFaNUE4cmJQVW5mMmNSVmhOZ3lmZDhJdlQyOUxBWW1CeklEVkZ3cURYT3k4d0czZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Sport5"
+  },
   {
    "title": "צפו בתקציר: נבחרת הנוער הובסה מול יוון",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yRUZSbnktcy1KdmY1SUduY2dGUWxkSWU2M0toLXkyTjdJejQzWHY4ZndELVl3c3Q4cER4cEk0MU02OVU3TXRrdWJhcGsyLUtXZUNEQk4zQl92Wlc0MHFTRTg3RmhvUzhCbjdoWDJtNUx1Zw?oc=5",
