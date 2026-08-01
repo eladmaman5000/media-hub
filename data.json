@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T12:02+00:00",
+ "updated": "2026-08-01T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -184,124 +184,119 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "שמחה רוטמן שיקר לגיא פלג ושיקר בביהמ\"ש, הפסיד בתביעת הדיבה: אמר שדמם של נרצחים בפיגוע אדום יותר מזה של נרצחי ה-7.10",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GNWhzY2M1THE3OTVKR1g5a0RncFQzaHp5cklXbE41R0hRb3NHZVM2clJaSDVKSVA3QVRQN2VISFh6cXViTHdxeQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "\"דניאל תייס על סף סיכום במכבי תל אביב\"",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3OVBkalg0ajZHS2pUVVg0b1pJUXFtbXNSM05nbW5oM0RyMk44SWdSTWFOM2dIMVMtUTV5STUyZF85bmZYdzJzMHN3OWw5RlUxLVN5bVU1S3IwVnljNEM0M3BCc3JUaldqM0dNR0xHNA?oc=5",
