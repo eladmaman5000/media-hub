@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T17:48+00:00",
+ "updated": "2026-08-01T18:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -286,7 +286,37 @@
  ],
  "items": [
   {
-   "title": "במהלך השבת: שלושה גברים טבעו באירועים שונים - מצבם אנוש",
+   "title": "חמישה מחסני נשק הושמדו בעזה, אחד ליד בית חולים | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGdFNmMGpGaVRpSEQ1bzBFaEtnTGlmR0pLaTJ2U2ZZS1AzcVVhbDdVYU1IRl9mVVc0WjNRN25tTW1NTS05OUdjRDk5SHZHQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "הוא לא ידע: החשבון הארוך שמחכה לנתניהו | רון קופמן",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVHNRc1h2cHFUbzZkRXNfUmxlX1I1SmNCRzgtVUhZbVJ3ZE0teGV3Wkd1UWFzSzZVTXdIdk8zMzF0aUJPLVJvb01XVmV1em5xSUFxOGd0OVMtQnFaSGdYS1M4Nm0?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "מטוס קרב מסוג F-35B התרסק בקליפורניה - הטייס פונה במצב יציב",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpN2x1X1o5cFdBU1lDM3VGSXp5a2pxQXF3ZFBreVR3VmZJOHhXS2wtbEFUd3V4RjRwUl9SOTZuaC0yMUZCSmZyaHFXc2J0Zw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "במהלך השבת: שלושה גברים טבעו באירועים שונים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2QUo3YnVudm15Mkt0dEFyNjJJSElQVTJmY0gtTXVYNUh0ZWlYNkcwVTNvSDBJY2tCREVSY1Z4djM2YkVTZzZoMlFHVFNKZw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
@@ -296,7 +326,7 @@
    "publisher": "C14"
   },
   {
-   "title": "האקרים תקפו מתקני מים ב-7 מדינות בארה\"ב - שרמזה לקשר איראני",
+   "title": "האקרים תקפו מתקני מים ב-7 מדינות בארה\"ב",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wMU5sY0hBTEx1cFAtdHhaUHZvUGlIUlBtRWNtYTkxYmd6alg0cWcyeFd6cVZNbXZxalNIaTRKTmZxUkRVdDBjZldLQ3RXQQ?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
