@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T17:33+00:00",
+ "updated": "2026-08-01T17:48+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -221,7 +221,7 @@
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "במהלך השבת: שלושה גברים טבעו באירועים שונים - מצבם אנוש",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2QUo3YnVudm15Mkt0dEFyNjJJSElQVTJmY0gtTXVYNUh0ZWlYNkcwVTNvSDBJY2tCREVSY1Z4djM2YkVTZzZoMlFHVFNKZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "האקרים תקפו מתקני מים ב-7 מדינות בארה\"ב - שרמזה לקשר איראני",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wMU5sY0hBTEx1cFAtdHhaUHZvUGlIUlBtRWNtYTkxYmd6alg0cWcyeFd6cVZNbXZxalNIaTRKTmZxUkRVdDBjZldLQ3RXQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "דיווחי התקיפה, האיומים והכוננות האמריקנית: המתיחות גוברת",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ydXVXdWlBdDRrem1TN3MyeExGY2IzZ2NYcHJYQ3oyREVUTW92RDIwaFRyb0JPdUFHN2xsN0dNcERjZXJlby00YkZZdG12dw?oc=5",
