@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T09:47+00:00",
+ "updated": "2026-08-01T10:03+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -197,13 +197,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -286,6 +286,16 @@
  ],
  "items": [
   {
+   "title": "\"פניתי לגולן ושאלתי אותו - ביבי משלם לך משכורת?\": ליברמן בריאיון ללא פילטרים",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBReGowcEpXaXNMZTJCSVNmek10NDBDaDZ5b1hHMmxsWnhEbFhQcEIyR2NEUGVvbGV6QVloQzBnS3BiOHVzUW5ydl9BdDFtUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
+  {
    "title": "עוד לא נגמר: חשיבות המשחק מול יוון",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JdmJJY0pEcUh2T0JBdTNxdmZkRVR4OTl2NFhiZjh5QWNEOVNsdDNpNHg1NVN4cEZncDhjS0llVXBLaXlTTENBYVNsX2dRQVcxOVRRZElrMEZrR3hRYXVXUEJCaEp5UTBFUGNrTllUbmdSZw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
@@ -314,6 +324,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "אלי אוחנה נקלע לעימות חריג בגלל ערוץ 12: \"אתה אפס\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3R0VNZnlWWkMxLVdrX3hlQ0xSZ3gwd0c1djU4ZzhKNkhWanV3aUtTT1dVMDNqRFluNlk2NFAwMVZFbVNpZDVJM2J6UnBCMjRNcUlpM05ZaWhVUVRoeGl4NTBQOA?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-07-31",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "אמסלם: תאמינו להבטחות השמאל, הם אכזריים",
