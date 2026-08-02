@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T17:00+00:00",
+ "updated": "2026-08-02T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,13 +210,13 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -268,6 +268,26 @@
   }
  ],
  "items": [
+  {
+   "title": "חטיבה 401 מסכמת שמונה חודשים בלבנון: 1,200 מטרות הושמדו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHc1VqeHBxSjVZSHoyWXl2NlFPWERnQWU4RXNabC1PdnZIVHl1YnczNFBRSVE3SkZwZmZmUW5VV2lzc3pIR2t6LTl5MjVjQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "\"קבוצות באירופה פחות רוצות לעשות עסקים עם קבוצות מישראל\"",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBM29MTFNwWkcxRzlEN050TzFYaG1Td093ZEJiaVF4aHNKUmZrWkhwUTg4QWpyUnpXN1l2TUhRU0R0aUtJUGxWZjY0M3FSSHBsa000bTU3SDRiYzVkT2U2LVFtd0E3TzZUd0l2NFdmbFlIWFdMMWRoYkZRQW5teUE?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "ממשלת הימין בסכנה? האזהרה החריפה של יו\"ר הקואליציה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xNVIwQnFKYWVDb0VJQjBoVTNEUzF4VFM4WWZBVlZYUmJCaWsxMWQ0TEhSSC1RVVJhSXludTdoYWQxSnBMYXhOU2tVQWd1QQ?oc=5",
