@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T18:15+00:00",
+ "updated": "2026-08-02T18:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,28 @@
   }
  ],
  "items": [
+  {
+   "title": "סער נגד השכל בתצהיר לבג\"ץ: לא נדרשה לצלם בהצבעה על המבקר, זו פרובוקציה",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lQk9qZVBBMWhMNkI2X1NDdlVzUExqM2tPcDVXektZbDF0TGgyNGpFQ1kyX1hYN1NQTWZ6b0pFQmJIbUdjcUcyQ0ZhdkxzaDJMd1ZyWVJ1bG9WQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
+  {
+   "title": "רייטינג: עמית סגל עשה זאת שוב - והמסך הישראלי הגיב מיד",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UMUdVVUNxc2xwMkVwd3A2OWdGd0IxbWpVR0IwV0hQNnVtMDVhMXdyNW9sd2xwVzBUN3djRzFMYnA1SU5WQV9jR0lOV3RRWFQyMGFYY2NNMVRiZjV0bTJ5Wg?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [
+    "רייטינג"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "קרעי: \"ראית סרטון שיאיר גולן ירה כדור אחד ב-7/10? לא חושב שהציל מישהו\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtbjZXMURLVWRaQi05TXlacmh6X093cHBCNTQ5Z3AwVklSQTY2UldZNkRMeFNnLWx5RTZraktmOXF3VjRiN3dwdkJESlZMVWllYjVyMVlNMzRmUQ?oc=5",
