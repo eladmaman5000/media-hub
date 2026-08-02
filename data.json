@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T12:15+00:00",
+ "updated": "2026-08-02T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -367,6 +367,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "Ashdod4U"
+  },
+  {
+   "title": "עדן הראל חושפת: \"לא הייתה לי דוגמה לבית מתפקד\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuV2Y5MXQyNVhVQU1RaGl5LVNwdGFMcUxKQzJ3UEJ1TnFXSG5rbHNPcDIzakxtVWJoc05heU55akJRWGRDOWJPWXE0anpFZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "דרמה בערוץ 14: כוכב \"הפטריוטים\" בהתבטאות חריגה על יאיר גולן",
