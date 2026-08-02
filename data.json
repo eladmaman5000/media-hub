@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T08:15+00:00",
+ "updated": "2026-08-02T08:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -285,6 +285,46 @@
   }
  ],
  "items": [
+  {
+   "title": "טל מאיר מזהירה: \"זה מה שיקרה אם השמאל יעלה לשלטון\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNnVnQmc1WWtIdDJ1U3VJb1RHYXNUZGZuOUNJamFlendHQktFTFRRY1RESE1qNGZhb3RQZUZnR0F6T05kQXVIV2RBeEczZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "אסון באתר התיירות המפורסם בפרו: 13 נהרגו בהתרסקות מטוס קל",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxQlh0a250Y1loMGVLVmlqQWN1YW1rMDk3ejlFbXkyN0FTR0RSQmVucjNlSW55UHJrcHI2WDR3RXRfTHdtSTZVVENkRG9XQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "חטיבה 401 מסכמת שמונה חודשים בלבנון: 1,200 מטרות הושמדו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHc1VqeHBxSjVZSHoyWXl2NlFPWERnQWU4RXNabC1PdnZIVHl1YnczNFBRSVE3SkZwZmZmUW5VV2lzc3pIR2t6LTl5MjVjQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ההבטחה האמריקנית למוחמד דחלאן - והקריאה החריגה לפלגים בעזה",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0ekctYzJuY2hBZjBndHdZbnMxWnVHSW94clJyY3U2d1hISEZPb3ZvUEdYMFVZVzNmX1ZTUlBXT2NOQlVtYUJxcktzd2RpWWs?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הפריט שכמעט בכל תיק נאסר",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mMHAtenRZNWExcHBtOVVub0IyU1lhMExTdHFuOU1JcE1SYTNEUFhEU1lNQk9DQTZyOG5rT2kyTVJOOERyRXNHRmdXUHA2QQ?oc=5",
@@ -504,6 +544,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "C14"
+  },
+  {
+   "title": "\"מעניין אותי איפה השופרות הבוקר? מה יגידו?\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzU1SnlpWUZ3azdGTW0yRUloRjc5Y2FsYVpaM1VOcjNybjBFV2h2eGV6MnRQQUNfOWlpWlZNNkN6bzlRcUE2WXRXdV9wMC1NNWNPeS1VUTMtYUFKVEEzcVlKZnVkZHNkMXA2ZXpqUXpoVFRuMVdoQXYtSWJMRHRHMA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
   },
   {
    "title": "לא פירוז, לא ניצחון - \"ההימור המוחלט\": במפת הדרכים לעזה יש יותר מדי חורים",
