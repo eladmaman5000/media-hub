@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T21:30+00:00",
+ "updated": "2026-08-02T21:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נהג אוטובוס הותקף באכזריות בירושלים: איבד את ההכרה ושיניו נעקרו",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fazdrZGJNZ1BsRUJ2OFluOUFzeVB4dTBZRm90MkxuOTY2S2dLYmstaUpXbnlHc2hLTk9fR00wU0NFbWYyWDExa2UtSG9GVmVFVGJZbE9uUzlfbkU?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "כוכב הרשת הישראלי עבר תאונה ביום ההולדת: \"מתנה מהממת\"",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTnVMU1A4UGR3b1d1aWk0d1RsT05qdUVaamFBUWxWWDJHcGp1aVZ4SWVWd090d2lwdEROVEZiX2lNZDZCbDcxcXpNcjlBVUpZWUp4SUlfLUttYU40OVVn?oc=5",
