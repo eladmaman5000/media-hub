@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T00:02+00:00",
+ "updated": "2026-08-02T00:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -600,6 +600,19 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "רייטינג: קשת מובילה - וינון מגל במסר חד לאסנהיים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yenViLV9RODNMSFdDY3huODNQLU92TzN1Q3pqYUlKbkhIRUpPdzhPRk1EdUZpdEJRanI3TTQ5Z1o5aE1PMUthb0Z6cjEzcHBpRW1xY1lMRGpDZy1QQVBKWDVR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-07-31",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "ערוץ 12: כל התגיות והחדשות החמות באתר על ערוץ 12 - אייס",
