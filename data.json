@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T23:46+00:00",
+ "updated": "2026-08-02T00:02+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -203,7 +203,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -285,6 +285,18 @@
   }
  ],
  "items": [
+  {
+   "title": "אחרי 11 שנה: הריאליטי בו עדן הראל תשתתף בערוץ 12",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yU0pEZ29nNG1vZXIzc2NxTmUyTnMzd0RLc19jeGc4N05UcmFXbVN5bE5Ub3o5UjdvTjZGaHJZUkZpeTVWQy1qRnp1WFZqa1hJSFR0TllKOWxhRGNaTW5zVEd6N05TeGt20gFwQVVfeXFMTVllM1N3elIyLU9rY1VLTlROdE9vcEtJZUtHeTdTV19UeUF5bFdnQTFINl9EUlI3eWZfVXlrc2ZzeUpsSjRqSXN0VDJ4TDAxclEzckNob3VGMHdVeVVrdC1KcjFsOEVDQkdUenJldmU3Qw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "עדן הראל חושפת: \"לא הייתה לי דוגמה לבית מתפקד\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuV2Y5MXQyNVhVQU1RaGl5LVNwdGFMcUxKQzJ3UEJ1TnFXSG5rbHNPcDIzakxtVWJoc05heU55akJRWGRDOWJPWXE0anpFZw?oc=5",
@@ -590,16 +602,6 @@
    "publisher": "TheMarker"
   },
   {
-   "title": "13% ממצביעי הקואליציה יעברו לגוש השני, 6% טוענים שלא יצביעו",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBETUYycllxa2o1TDFDUjE5dDctMm1FSHVtbWVpTGV3eVpZcENOSmRCQzdfQm9wWnFPMy12aWxCNC11TmpRV3Zmck1jX3FlTEt4S3Fyb0xycHdMZDNEakZIOGx3b3l4ejBBQllwMXBrWENFQQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
    "title": "ערוץ 12: כל התגיות והחדשות החמות באתר על ערוץ 12 - אייס",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Kd0NGdFpBUjZHMTJtZS1saWZNVEhvYW1hTmk5a0h2YWxNUmhzU0lHNEtfRm9DU3RlcHVCeVlucTRyVVZIZ2V4QkplWUF5cWgySU5DbWxXZlJyVkh5aGx4RzNTQTF1UFNFMVV4UF9RSXQ?oc=5",
    "source": "ice · תקשורת",
@@ -612,70 +614,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "אלי אוחנה נקלע לעימות חריג בגלל ערוץ 12: \"אתה אפס\"",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3R0VNZnlWWkMxLVdrX3hlQ0xSZ3gwd0c1djU4ZzhKNkhWanV3aUtTT1dVMDNqRFluNlk2NFAwMVZFbVNpZDVJM2J6UnBCMjRNcUlpM05ZaWhVUVRoeGl4NTBQOA?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "אמסלם: תאמינו להבטחות השמאל, הם אכזריים",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zeVpuTXVkeGgwTGpySXFFLWNuekZsUURxaW1HVVlVTnM0OXAzZHJQbUFTQ0V1OGMzZjZJYmlWczdiVlRtMEQ0YQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "אחרי הלחץ הציבורי: ערוץ 14 מתחיל להיעלם מהמסכים",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yekJ6YkZibkN0ZVpseWpzREcwcHlIWVRLNG9RaVEzR2taRFJzeEtSME9lVGpJekxpRlJWaGFEWVloSENNZTVWdkRpZmdYR2hrcWlJc3VUZVBiNnVU?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "MSN"
-  },
-  {
-   "title": "הקול שהציל את נתניהו והשריון שטרם הגיע: מה יעלה בגורל אלמוג כהן?",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fcXdCcjVoMFFCdmt5UFN1aFg2TjROWDk0M2hBemotRnZ2dnRzQzVuZ1RWa19sLVdid0hNc05feXdrU1AzTV84QnJKVE10SDlPU3V5T3ZRWW8?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "חדשות באר שבע והנגב"
-  },
-  {
-   "title": "שיחק בגמר האלופות ומתאמן בליגה העשירית",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WTUJjVWVjRGlnZ044NW1tWlk3eDFxc1NScVRYTEVMOTZZTVN6TmozXzY1WDBDaDFTNmpLTllvN0ZBcklTZVh4ZkJHWE9EQnJmVEUwRC1KU01OTTZtSzI2WjJBV3Q2N2tIejlSTmVGY0c4QQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "Sport5"
-  },
-  {
-   "title": "לוחמי האמת: כך נלחמים בהפצת השקרים והפייק ניוז ברשת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zZ05JUTlHdDBjUGM2NkRGY0NfeWZtTXZzeHB0YmdtODZTbFpScWV0RzFSVnM5bEJ3SUNHVHcxZFBJM3hseUVuRVFranR2UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה חדשות"
-  },
-  {
    "title": "\"עובדה\" מועלת בתפקידה, אז שאילנה דיין לא תזהיר מפני חיסול העיתונות",
    "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-07-31/ty-article/.highlight/0000019f-b6d5-d6b6-afff-fefff7e20000",
    "source": "הארץ · עידו דוד כהן",
@@ -685,72 +623,6 @@
     "עובדה"
    ],
    "pv": true
-  },
-  {
-   "title": "אחרי OpenAI: אנתרופיק חושפת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NUUlPUTZQV3lRZk9GbUxPYzhqS2NhM1hrUl80WjhZYlA3cW05M0o3Y29rLVdyQmYxZ2hOc1NZODA5aWNhNzUtM2F3eFU3UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "רכב התהפך בראשון לציון: הולכת רגל נפצעה בינוני",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwenUteTRTTVc5WHMxOEJPY3M0b3QzSnFYQkp1LXRqUHUyQjdZaXV3MnVFX0h2NF9hLUlDVVJHazZjLUhaYnZXYWM3Vi1Cdw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "לאחר מכתב ההתראה: איתמר פליישמן התקפל והתנצל בפני יאיר לפיד בשידור-חי",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16MFVfdjF4LXN3b3dlbDUtNy15RXZjcmxIaW1RWERpQzBEa1JCbDdBSGRMMW53U2NaTGlXd3pWenBYQ1FUWnY4?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ch10.co.il"
-  },
-  {
-   "title": "לפיד הכתיב לערוץ 14 את נוסח ההתנצלות שהוא דורש",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeFdEcWZnTkgwR1VaZzVaakFVQjRJMDlwX3lldzJ6LTg4T0ZfZWxvOEFBNUh0SHp0NG1fNlNNTDFlczd2SDBtUEV6ZHUwV3BwSWxnLUdGd3hPdm1xbnBZV1Q1aGFkMWRwLWp0Ti1wMWlWeG92QjlRVXo4R3JzVC1hRTl1eDliSzV5Y0tCVXE4T1VFNUoyYlgyQTRnbC14cnVybzJ1NXN6YkhqSEpCOWMxUnNLWTVkekNsNlNqa1A1R092bktWV19kQjM5dE9HclgtTEh6bU5xejNGZ2lIX0UwU2EyUUhqV2VqSWxtSnprRkQzU29xOHhlWXFxSG0yWHQwYnJFeGRHejJ0VGhZbzlTSUZreEZONDUzaTZERDRrOWVWcEhQZ05tb1RYdFFQNGhuVTZZTnZn?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "srugim.co.il"
-  },
-  {
-   "title": "פאנליסטית ערוץ 14 מצטרפת לליברמן",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdjRYc0lKTG1odGdOZ1A3SV8tbDR4UHpiRXlLMDZrWThqTG9CVmN6Qk00M2dqWFV4T3VRUk1kakJRcWdIWW9yZm5JZEVYLVdZbWdqX2dDNjdjOG1QV3l6S0pvWVRuODkzYjQ2LTA3dV91My11ZWFORkhXYlRTZ05RTERhWDMzdkJZd0oteXNVVEdZMmoyaGJJd0hkcktKQmhQUko4TU55V3Bib0tpd2w3cWl2b0xLLS1RemVFX3FzdlcxcmdqQTFCQWVudTdZazZqSVI3ektZcVBpQWtmUDZNY0gxRDFfa1FCZ1kwVWN1UXBhV1pXcFJIT3RnVnNLbUh6VjRndzNiNHVIQ0dJcG9yQlZ1WkQyc0RqNjZ4TE1scnluNkU?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "srugim.co.il"
-  },
-  {
-   "title": "משה כהן-אליה רוצה לעשות ״תפוז מכני״ עם ערוץ 14. סך הכל נורמלי",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNE5mbnlBUFoxTXhUbENCd2Mtelh4dl9jbjZUMDJydVQ4SVRnTThZX05qVXJ3c05LWmRvb2pQeFdpSGJvdDQ1b0xoWEVXX1loM3JHemtreWJjb1JfR2JTdjd6TC1yVlJ1MHdhay0xNUV4dWhIX1BxenhDSFplWS1nYTB5NHM0dnl2MkE1VHFDZ2NKWTVXX2YzN1V1T0txRGcxQ1RjM0VJaGlGQ2ZoamR5TUxQSTFoQ2JwX3NwWnFFTDl3R0J2aWQwaWxVUDNzTFFq?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "טיים אאוט"
   },
   {
    "title": "תביעת הענק נגד גיא פלג וחדשות 12 נדחתה: \"פסק דין מוקרץ\"",
@@ -766,293 +638,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "מאי גולן בהאשמה מטלטלת: \"רונן בר שלח אליי אנשים שאיימו\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JVFBUX1RMTEM3eXVieDc3enkwR1pFNXpuV0czS3gzNG9oVjJFQ0o1VjJZclM1STZyMWlJQ1lFTld0VHFzaU8tekdoRS1yY1RHVC1UT1Vid2lMbWVy?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "עכשיו זה רשמי: קינגס קאנגווה חתם בפנאתינייקוס היוונית",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qMERuYVFBLWwzSnVXZUgzdWtVMlFyaEI5VjRNWDZfbms5djFBYUM2Qkh2X3kxcFJQeDhqbDUxREd3NDFVVDFXZlUyNXlUQQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "חוסל מחבל שהחזיק ברומי גונן ורב\"ט נועה מרציאנו הי\"ד",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSdkhXa1VnNnpONHA2YVpCWXVvVFoxLXVoQzByenFDMG0zdFVlRzRoZVBTZ1AwQkNPaDhkUVV0Z1hPZWFvTU85NngweDA3UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "שלומית טנא: וולגריות וגסות רוח מקיפות אותנו בכל מקום",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzakZVdzZHa2NyckJLR1hrdVV6TlpiZFo4X09BcGF5UVFTZE5RR2F2MVdRU09xZGYxWjNQNk95d2lmR0V2?oc=5",
-   "source": "חיפוש גוגל · גלית דיסטל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "מנגנוני האכיפה והאפשרות לחזרה ללחימה: האותיות הקטנות בהסכם",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tUWFKb0JydWZhTTB6dXdpcHRGdkZsUUEtT25QMmxTdTRRRHdERWRUbV9keDRTVUcwc2VCM0gtclZ5aXJfR3FObjR5WlFTdw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "גורם מדיני: \"לא תהיה נסיגה ללא פירוק אמיתי של חמאס מנשקו\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56b3gzUDRmV2JfcGlua1pMLWI2bGpGSXdXUlg2cWdZY3VOLVRxSmRCV3k3ZzRsU0NtSjN6SXNBcjZsTU5tTVZKU0Y3ZzNmZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "המדינה האירופית שתפסה מרגל איראני בסמוך לבסיס צבאי",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nd2tBTkc0UUROaVd2Y0JuNTVocFQwcXdMRllIY1RDeURjUng5NHY1UjFRUXczbnlKLXg2RUszay1fazNwbFhES0ktT0JSUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "c14.co.il"
-  },
-  {
-   "title": "אחרי האיום של יאיר לפיד, פליישמן מתנצל. ינון מגל: \"לא מבין למה אתה מתנצל\"",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1wT2xTd1gxQVdsMkFQZkJjUjBWc3VGUVhKNkRlOHFsSnhPbjVWQnA3WG1MYnFCVGtzY1JnWXlPTzNuYzFiTnJwa2ZB?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "וואלה תרבות"
-  },
-  {
-   "title": "רוכב אופניים חשמליים נפגע מרכב בתל אביב, מצבו בינוני",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xcjJ5ZGIyS3BXTTkyc1ZxRjVlbS1ZWXBlREZWTnItT0pFQVpOVmpwb2I5UXdjajhfTkU5UGJ3b2IwTkM0bzdDbjYtak5BZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "פורסם שמו של החשוד ברצח אחיו בחוף הכרמל",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nbHBQNzNtU2lKY1NlTGpYN3NJNF9HQXpIdTJjZ3BsVS1pUEt6SWYtNlVtX3BnYXphcmpObkEtZTVfaHVHUS1Ed2dXZXc3dw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "ילד בן 11 טבע בבריכה באופקים; מצבו בינוני",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyVkI0a2l6QW9OTFJlNzBST0t5VF9aUDU0SnpvdGpxNEdRV1g0NUk4bTRXX2ZlZUJ5X2VyeXRaV2VlNDZUdndYWE5yQ2hQUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "שלושה נפצעו בתאונה באזה\"ת בבאר טוביה, בהם אישה במצב בינוני",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YaW15MmtfQWREMDR2b2t4ckdIM3dwbWdtZU1PUzdVMUFDZmN5Q25PdVp4TmZDTXVYa1NIVXlGRHhGM2pWWjl0YzhtbmFpUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "השיטה הפשוטה והזולה שתקרר לכם את הבית בלי להדליק מזגן",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lRF9sNnFFd0NTeW1weHFmUU1vVmxaZ0hRN0N1Ml9uWDZmWnJla09vc3F6ZVdHcHMyTnAxUTNVMF9zcnB6ZHlZMDMzMUx6Zw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "c14.co.il"
-  },
-  {
-   "title": "ישראל וארה\"ב שוקלות מצור יבשתי על איראן | דיווח",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LU2JLc2NYSEVoQjlXeUloeGJRYzlsZkM5c3pNWEdYWVVIMzZZRmExdlVyb2FkYnNKYkQtNWQxR0FFZ3dHU1lRNVppeDh4UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "העונש שקיבלו החיילים המורדים בחטיבת גבעתי",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fWnYyYWpJZUFjcy1WU3JuSHdNOUZPSkg4UmZ1TFlPOTFCS2JJdmJXUlo3cXFlTDlnNVZPQ1dVbmFGV0xwMXR0NmVBaTByUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "שרפת ענק מאיימת על תחנת הכוח הגרעינית הגדולה ביותר בבריטניה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VczNnVnpJV1RwYlZwbnlnMTIxTnNYSXdBclViQ0MwaXdoVHlLNk1sc0ljSGl0OVNfWWp6UHM2SWhwSGhpUHFQeUFuX3NUUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "פאנליסט 14: \"החברים הימניים שלי יצביעו איזנקוט\" | כך הגיב ינון מגל",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZVDV4eUNGUVZMa3dPMGlHUmNXcEszeUpveGFxWHViSkRYWVpfb2E1VXQwaEo1Zm4wWTkwbFBlclBzYzNTeE5WWVNPWFJwVmF4dGo0Zk0zb3laRFRnWV9GblRjUXd2akxBUnRTZ9IBdEFVX3lxTFBBaU1LLWFDbU5IUFNER012RnFnbHlhSGM3bm9Xdkl4ZlVLcmhYbkFGSGJXTF9KckU0YnhqMnlSdnB3Vm9vVXMyUktjX0gyLUJUYXBIaEk2MldhS1d3NUNCampNSWFsLTlOZDlyc3hLSFJpYV91?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "חיזוק מרשים בבירה: שייק מילטון חתם בהפועל ירושלים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iNk82OXlVT01XQjN5bjZwWXFHaWkzdVBjX1FuakhPeXNJMk1fNjBJMjdCMXdSejhHclBYekNJQWNzQkhYNUp1RWd0TjlzQQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "תאונה קשה בנגב: בת 30 פונתה במסוק לסורוקה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mMnV0N3F0Vm5GRnR1Wjk2WVRidm5ZYmJOVUd2eC1SVjBJaGNRbllFQ0E5RHNZVmVzYlY4UEFpY1pRRFRiTE83U0hyNzRRdw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "תאונה קטלנית בכביש 90: צעיר נהרג, נהג אוטובוס נפצע קל",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lV3ZuTmRmYUhPemFyYjREUThYYnFwWkc1WXRfRllZQ3pwWFBycFhodEhwYlJPVUVHSjVZTkY0VlZNYzZJc2tMUGN0MS12UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "בן 67 נפצע באורח בינוני עם פציעה חודרת בבאר שבע",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43cnpfR3BNOTBhZmdWb3R6Zl9FYUtIc2tkYTFXMWhpSEJTVlBkUE4tbjAxQzZrUFVrUS0tUlBqMDdacV92YUdfZVVVZ0Nidw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "חמישה שב\"חים ומסיע נעצרו ברכב בכביש 65",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hN2NKcFJ5Wi1OWE5WTmp4aWNaWnlkclV0TVNFWTAwTzNjQVNTRTRUdDlMeXVUWlpBUmJuWmE2Zk01dUROYnZ5UUVkTTN0Zw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "בעל מסעדה נעצר, שבעה שב\"חים אותרו במחסן בכפר מנדא",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UajJ0YnltSGZ5cEdCQVVnOHJUb3lIQldjalJCeE44a0FXVDd4aFdTQjJVNm9NRldxNkdMNHd2c0cyLXh4V3hJdjFuSzl1UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "\"זה שלב קריטי\": כך על ישראל לפעול כעת ברצועת עזה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mbk5XWldzRGNnMmk4cENmSG51MGRZX1ZPdEMycVFZM1YyZjIwOE5pdWFxcTZha1E1UTFWallxV2VBNkFzaTJKZmx5UlNrUQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "רייטינג: קשת מובילה",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yenViLV9RODNMSFdDY3huODNQLU92TzN1Q3pqYUlKbkhIRUpPdzhPRk1EdUZpdEJRanI3TTQ5Z1o5aE1PMUthb0Z6cjEzcHBpRW1xY1lMRGpDZy1QQVBKWDVR?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [
-    "רייטינג",
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "ד\"ר אדי כהן מזהיר: \"זו מלכודת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44RVhnR3NOdWxlaHBHTlZWNU5WaVdsNEx2Y2FicU5COGFyRjVCaGdoTmplbTVyMllmZjIwZzdjajBHTFNjX0J1c2xuOEI2dw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "המהלך הסעודי במענה לאיום הגובר מצד החות'ים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4TWpKZkptSVl4akw2WV9MVkRjOUlYZjN2MFJlcjRlRVBsaFhlS0dpM1FvWVhPV2tfSVFjNjk0TjI2MWpqRVhVeGdUMEt5Zw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "מתי נכנסת שבת? | זמני השבת לפרשת עקב 31.07.2026",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OTmJfazRXbzNjeV9uR0RPU005UkRMeXFJVnBkb3FYQlRUZ1dhZmY5X3VsUHBqaFlzeEhZNldYc3NyT2p0bm4tbUVZSm9CZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
    "title": "יאיר לפיד מגיש תביעת ענק נגד ערוץ 14: \"לפי החוק מגיע דין מוות\"",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51dFhoN0JUZENZZlZnVFp2a3dUcjB4UHk3dmJZbVQyNzdRTVNENnJiZEUxSURfbFVMd1FmenVvdDJfenR1X1BQNFNYOUpuaVVDRHpZV1A0X1JhQQ?oc=5",
    "source": "ice · תקשורת",
@@ -1063,76 +648,6 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"זו תהיה העונה שלו\": ההצגה של אוסקר גלוך בניצחון אייאקס",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxR2ZTamlQZ21iaXlkX0tUTUpNTTRFd09rU0IyN3RweGtuWF9HbllxM0tiNUpyTFZENFkwUUxfWlM3eVd4VDhCOXE1bkJIZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "בכיר חמאס מציב תנאי לפירוק מנשק: \"לא לפני נסיגת ישראל\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YVEVPWmVhSEFSeTlKVFhuMlN2U0RpS3BlRTRtZEVJN0xUZHNyNXNSWjhnaXgycXg2cS1UMEFISUI2aC1yWGxla3hZNWlkZw?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "בכירים בבית הלבן: כך אמור להיראות \"היום שאחרי\" בעזה",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VkVFVm1pdXN4WHQxSkVXU1VxekVNeGFETjhXOWFHQTFiU04tNUxncVRicGN3eXdOWFFpU2xZYUp3TGV4bmxtVHlMMk55UQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "העריקים החרדים הם רק משל על האנשים שרוצים להיות מעל החוק",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGt5dTNSdmlqTnROR3FuQmpCVkZ5VjNJWEkzTEotbFc5SGw4di1TSy0yeHVtdF9KRlVVVVBDbmVlYUNfemc2eWJRSllvdlcxWUtWYkxqSm13WjRiRkp2enNva1dwRXhKOUw1cmdBaG1BLWZUZU5BakQ0MlhscllZSnNYN3hncW12ZVBiUl9fck9GR1M2YWxFYVd6N0p0QWw3STJZSEh4Wi1qaHN1WEtz?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "האם כל מי שמתחפש לעיתונות זכאי להגנות שנועדו לעיתונות?",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1RxZlJWbkZBSWRjTEcwc000c0pzSzBtUjU0ZTJ2dVFLME1feEIzc0hFR0ZqSzJFclo2aXM2X1VhNTdnSlRxdHEtTnU5RmRQWVFUblkwZG1ycml3T0lhbnNoMVE1TjBuQ3kwZW1IYU5Da0stTERWR0dvSWVkeVlqZ2RmQWN4WHZLX0h0X3lIY2xkd3B3VkkxeUxfMmY5SVE0OHZUeF9kNnI3QW0yQ2hQemx3?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
-  },
-  {
-   "title": "לא טרמפיסט: ח\"כ אביגדור ליברמן מדבר על הכל | ריאיון מיוחד",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56NnlSMzRkckhrWmdVNzVsWDdBOTJIbXNUUTZIdUNYWlFuZU5PR183VVRhTlFZYXdraEtjZkNta1NCZ1ExNk1qcVlaNTY1bHhtZ3RtOFVVQUVzTzJ4SnJBeVFPTmU?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "שילמתם להם 380 אלף שקל כדי לרוץ. אז הם רצים",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNck1mSG9IcUp0cVNKQmNGVjdGdlI3M3BidGVCenVnTU1rZWstNjNSV2tlWXZJMkNvQVFfdVRsNk95TXZfcmNLS3RGMFdWSWQwZlVRdE9zdlRCVDdxLWpQemR6RzVUaDkxQkJKZFdiNndYS2ZHd2RvU1pkSkxMdm5XZG1aTVdlYXZfbTN4VC02MWNCaFRJUmRsd19Bc0ZiMEFLdDF0LXFmbWZldGVCR3RlSjVR?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-07-31",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
   },
   {
    "title": "איתמר מינמר, כתב חדשות 12, מסביר למה עזב: \"רוצה לעשות כסף גדול\"",
@@ -2178,18 +1693,6 @@
    "keywords": [
     "קשת 12",
     "גיא פלג"
-   ],
-   "pv": true
-  },
-  {
-   "title": "\"האח הגדול\" ניצחה את \"הבת\"; ערוץ 14 התקרב לחדשות 12 במהדורה - ביזפורטל",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNVg2c0RnYTJ2Ui0ySzhjb0hXcklEYldVSldiYjBMX1RFU2ZHaHhITXpEWmpKX0Z2MmdLV1dvREM5a25IaXNxYldRRmJndms0N2c3aXVScVVESjI4bjFITGFIRHkxbW1ya1gwQXF2NDRJVGRhMEtzWVN5bE9uOWs?oc=5",
-   "source": "ביזפורטל",
-   "type": "site",
-   "date": "2026-06-02",
-   "keywords": [
-    "חדשות 12",
-    "ערוץ 14"
    ],
    "pv": true
   }
