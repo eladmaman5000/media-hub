@@ -1,10 +1,9 @@
 {
- "updated": "2026-08-02T09:45+00:00",
+ "updated": "2026-08-02T09:58+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
   "חדשות 12",
-  "ערוץ 14",
   "כוח מאה",
   "גיא פלג",
   "דודי ורטהיים",
@@ -34,6 +33,7 @@
   "תבהלה",
   "חוק קרעי",
   "גלית דיסטל",
+  "shlomo karhi",
   "i24",
   "הוט",
   "HOT"
@@ -91,11 +91,6 @@
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "kind": "google",
-   "active": true
-  },
-  {
-   "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
    "active": true
   },
@@ -179,7 +174,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 2
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -191,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -218,16 +213,10 @@
    "kept": 1
   },
   {
-   "source": "חיפוש גוגל · ערוץ 14",
-   "kind": "google",
-   "ok": true,
-   "kept": 12
-  },
-  {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -1771,6 +1760,18 @@
    "pv": true
   },
   {
+   "title": "למרות הביקורת: הכנסת אישרה סופית את חוק השידורים; הוגשו עתירות לבג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DTzgwUV9pR2NfWjdNeHlWR2NOZHRMbmZPZUlYWXByVUxSRDBCbklyT1lTLVA3NXhEUG9jaEh2TEFwQjdYSnpvc1MtaTg0Q1hjbEdYbVlVRm5kU0dmNVFjaWxtWTJyMjBL?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-16",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
    "title": "חוק התקשורת אושר; הוארך שירות החובה ל-32 חודשים במסגרת הוראת שעה",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96b2hsdXpSb3ZDeWRkeE1aVExDTEJsczEyZm4xLWZEd3VoMUxQSEhIU2tTeUJFNFY1TmlObkxIdWdCdzI5WGlfcEI3NUstZTlybzhibU0yQ1V1V0hMbFFqak1rbjhYcGdlN3pic9IBdEFVX3lxTE5yTVI3QXJMQUFwdEFONEdjVEdkSU1YaUJjRm9ubjZCWk1seWZzV0dIRG9nRElZS3Q3aGNEVEhQekRZbDFodS11M3NsUW9jaEZFOUVwakZjVGRIekVUSUVUaUkzY3RCbTlmZUh3RHlRa1lVWU9t?oc=5",
    "source": "ישראל היום · ביני אשכנזי",
@@ -1874,6 +1875,18 @@
    "pv": true
   },
   {
+   "title": "ליקויים בחקיקה ופגיעה בתקשורת: בג\"ץ ידון מחר בעתירות נגד חוק השידורים של קרעי",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5QmYtMUswbHVORTNjVnExaU1XT0I5Rk9EbHU2SE1CUjdEdFE5ck0xM0ZwUndOUUdMdEgyQ3poSHVGM1RMMU4tZDVuUjBCT1ltSEhLbkFVYkhBOVBCb2xHYUtBTkpMVzBy?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-12",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
    "title": "\"לפי החלטת הממשלה אין מנכ\"ל לרשות השנייה\": אושרה רפורמת ענק ברדיו",
    "url": "https://www.themarker.com/news/themedia/2026-07-12/ty-article/0000019f-5570-d9b4-abdf-dd79e3540000",
    "source": "דה-מרקר · יסמין גואטה",
@@ -1906,6 +1919,30 @@
     "שלמה קרעי"
    ],
    "pv": true
+  },
+  {
+   "title": "\"מנוגד לחוק ולצו בג\"ץ\": קרעי פועל להדחת שתי חברות במועצת הרשות השנייה",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNlNmcXBGT3JDSGxYYW1CeV9ocGU4Zlc1SFlKS1lMTTcxWDRTVXBCLTVzMFVnMmRtY0lIYzMzU0J2dGhFUGZHZVI1c1pmMkJFZEszMnpzMjJYbHZVdzRzWWxkWVBHZ09K?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-07",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
+  {
+   "title": "כך הפכה הרשות השנייה לחזית החדשה של המשבר החוקתי",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14Z21aM0Q2Q3pmZlllQXB6NkZxMVBMNUJvQXpOSklPdGJoSURwS3R4STkybDFzbVBfU2pSR3pHeXRwZ0lxVG9ub0UxbFBwbGhEb0U4X1ktakJHZDV2UGtlbWMzazFZV3I4?oc=5",
+   "source": "כלכליסט · עומר כביר",
+   "type": "site",
+   "date": "2026-07-07",
+   "keywords": [
+    "הרשות השנייה"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
   },
   {
    "title": "לאחר שהחזרת סעיפי החרדים נפסלה: חוק השידורים עבר לקריאה שנייה ושלישית",
