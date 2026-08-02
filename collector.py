@@ -49,7 +49,7 @@ KEYWORDS = ["קשת 12","ערוץ 12","חדשות 12","כוח מאה","גיא פ
     "שוק התקשורת","החוק להחלשת התקשורת","הרשות השנייה",
     "אבי ניר","ארץ נהדרת","עובדה","רייטינג","ניר ברקת","יואב קיש","יעקב ברדוגו","ינון מגל",
     "גוגל","יוטיוב","מטא","פייסבוק","רגולציה","תרעלה","תבהלה",
-    "חוק קרעי","גלית דיסטל","shlomo karhi","i24","הוט","HOT"]
+    "חוק קרעי","גלית דיסטל","shlomo karhi","i24","הוט","HOT","ישראל בידור","אסף רפפורט"]
 
 # Writer / tag pages. `pattern` = regex an ARTICLE href must match on that domain.
 SITES = [
@@ -273,6 +273,11 @@ def main():
     if before != len(merged):
         print(f"purged {before-len(merged)} stale google items (>24h)", file=sys.stderr)
     merged = [i for i in merged if i.get("type") != "twitter"]        # X removed from sources
+    valid_sources = {s["source"] for s in SITES} | {s["source"] for s in SEARCHES}
+    before3 = len(merged)
+    merged = [i for i in merged if i.get("source") in valid_sources]  # purge orphaned-source items
+    if before3 != len(merged):
+        print(f"purged {before3-len(merged)} items from removed/renamed sources", file=sys.stderr)
     before2 = len(merged)
     merged = [i for i in merged if str(i.get("date","")) >= AGE_CUTOFF]   # drop old items
     if before2 != len(merged):
