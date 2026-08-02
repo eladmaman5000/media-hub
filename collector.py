@@ -44,12 +44,12 @@ HEADERS = {
     "Accept-Language": "he-IL,he;q=0.9,en;q=0.8",
 }
 
-KEYWORDS = ["קשת 12","ערוץ 12","חדשות 12","ערוץ 14","כוח מאה","גיא פלג","דודי ורטהיים",
+KEYWORDS = ["קשת 12","ערוץ 12","חדשות 12","כוח מאה","גיא פלג","דודי ורטהיים",
     "קוקה קולה","חרם ערוץ 12","שלמה קרעי","חוק התקשורת","חוק השידורים","רפורמת התקשורת",
     "שוק התקשורת","החוק להחלשת התקשורת","הרשות השנייה",
     "אבי ניר","ארץ נהדרת","עובדה","רייטינג","ניר ברקת","יואב קיש","יעקב ברדוגו","ינון מגל",
     "גוגל","יוטיוב","מטא","פייסבוק","רגולציה","תרעלה","תבהלה",
-    "חוק קרעי","גלית דיסטל","i24","הוט","HOT"]
+    "חוק קרעי","גלית דיסטל","shlomo karhi","i24","הוט","HOT"]
 
 # Writer / tag pages. `pattern` = regex an ARTICLE href must match on that domain.
 SITES = [
@@ -81,7 +81,6 @@ SEARCHES = [
     {"source":"חיפוש גוגל · שלמה קרעי","q":"שלמה קרעי","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · shlomo karhi (בינלאומי)","q":"shlomo karhi","unconditional":True,"recent":True,"locale":"en"},
     {"source":"חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12","q":"ערוץ 14 ברדוגו ערוץ 12","unconditional":True,"recent":True},
-    {"source":"חיפוש גוגל · ערוץ 14","q":"ערוץ 14","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · ינון מגל","q":"ינון מגל","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · אבי ניר","q":"אבי ניר","unconditional":True,"recent":True},
     {"source":"חיפוש גוגל · דודי ורטהיים","q":"דודי ורטהיים","unconditional":True,"recent":True},
