@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T20:15+00:00",
+ "updated": "2026-08-02T20:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,13 +186,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -269,7 +269,17 @@
  ],
  "items": [
   {
-   "title": "פליישמן במתקפה חריפה: \"שיניח את המפתחות - וילך לפוליטיקה\"",
+   "title": "בדגל התורה לא מגיבים לתדרוך נתניהו נגד חוק הקפאת המעצרים: \"שיתמודד עם מה שבישל\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YOHNFNE02TmZMRUFZUjFyOTFZRHBzV3BsbmtvRGx4UzVWX1RfU1AzbU1jQi1zZnhDOEd6a2xTenZCbnlKU3FsbTVXSQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "בחדרי חרדים"
+  },
+  {
+   "title": "פליישמן במתקפה חריפה: \"שיניח את המפתחות",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15bnZDM1pyYkFkZVVNRm0wd3dkR01LdkY3ZzJpTjE5RHJvdk45OXFRN2hUdDJobjg5bWI4ajVCTlo4Rnp2TnlUZWhiZVRmUQ?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
