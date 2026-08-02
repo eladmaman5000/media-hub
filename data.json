@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T08:45+00:00",
+ "updated": "2026-08-02T09:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -285,6 +285,26 @@
   }
  ],
  "items": [
+  {
+   "title": "הווידוי של רוביו: \"אשתי תשנא את התשובה הזו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QR3g0eGJ6MXpKTWRJTXVfei1WVnp5VHdlYlZZMzFqa012MWdkbDM1b0pMRjVVTVRxbVpEVVhraVdQUlk3ZjNuMmFfUTV5Zw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ההבטחה האמריקנית למוחמד דחלאן - והקריאה החריגה לפלגים בעזה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1abnQyWVp4M2ZQQWp6Nm5YbWlLQ2t2cVNEcExHQ3Q1eWdlTEZld3FSVWdIdktHRzVyLUJmOWRMZnY0d3pWT05qdHAyYWI1dw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "טל מאיר מזהירה: \"זה מה שיקרה אם השמאל יעלה לשלטון\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNnVnQmc1WWtIdDJ1U3VJb1RHYXNUZGZuOUNJamFlendHQktFTFRRY1RESE1qNGZhb3RQZUZnR0F6T05kQXVIV2RBeEczZw?oc=5",
