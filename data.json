@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T10:30+00:00",
+ "updated": "2026-08-02T10:37+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -38,7 +38,10 @@
   "הוט",
   "HOT",
   "ישראל בידור",
-  "אסף רפפורט"
+  "אסף רפפורט",
+  "ערוץ 14",
+  "מריוס נכט",
+  "מירילשוילי"
  ],
  "sources": [
   {
@@ -88,11 +91,6 @@
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
-   "kind": "google",
-   "active": true
-  },
-  {
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
    "active": true
   },
@@ -176,19 +174,19 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -209,16 +207,10 @@
    "kept": 0
   },
   {
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
-   "kind": "google",
-   "ok": true,
-   "kept": 1
-  },
-  {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -277,8 +269,8 @@
  ],
  "items": [
   {
-   "title": "רגע לפני חיסול: חוליה חמושה סוכלה בצפון, חמישה נעצרו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44OU0xaTNvb3hqSDFQeXoyRldWX3pvLVJyM0djQXA4dHJkdXBTRXNJVkd4MDU4TTFWelZVR3NFdWRIVWw1ZVNNWmluQ2lWQQ?oc=5",
+   "title": "טל מאיר מזהירה: \"זה מה שיקרה אם השמאל יעלה לשלטון\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNnVnQmc1WWtIdDJ1U3VJb1RHYXNUZGZuOUNJamFlendHQktFTFRRY1RESE1qNGZhb3RQZUZnR0F6T05kQXVIV2RBeEczZw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
    "date": "2026-08-02",
@@ -287,9 +279,9 @@
    "publisher": "C14"
   },
   {
-   "title": "במדינות המפרץ חשפו מה עומד מאחורי ההתנגדות למלחמה מול איראן",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53NnJCUmxHR2NVSWtiNm1SZ013ZDdwQ3VsT1pTSmVZa1dlM0dhQ2c4X2RMQ0RzSnBUMGZQRHY3WFJlSFBSUnZwWnlxVEEtQQ?oc=5",
-   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "title": "רגע לפני חיסול: חוליה חמושה סוכלה בצפון, חמישה נעצרו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44OU0xaTNvb3hqSDFQeXoyRldWX3pvLVJyM0djQXA4dHJkdXBTRXNJVkd4MDU4TTFWelZVR3NFdWRIVWw1ZVNNWmluQ2lWQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
    "date": "2026-08-02",
    "keywords": [],
