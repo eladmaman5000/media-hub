@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T06:49+00:00",
+ "updated": "2026-08-02T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -184,124 +184,147 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ערוץ 14",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
+  {
+   "title": "תחקיר דרמטי: רשת ההימורים שהפכה לזרוע של משמרות המהפכה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZS1uc2NWTnh3el9pd08wUlUzTDZvTGFFaTVITGExQzFHZmVOSlJRMVBTU2FFMW41R3owY1VJRmJxakVOX1lFSXRHUUl0QQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "באיראן לועגים לטראמפ אחרי ביטול המתקפה - וממשיכים לאיים",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9odDZwYndyTjNSeFpkazh6QVRuSVpOQ21HSGgxcWNqTnhYNzZrWlVmemhMYkU5Ykc3cGYwbUpMU00zeWFkYXh5TkJ2b0dqTnc?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ההבטחה האמריקנית למוחמד דחלאן - והקריאה החריגה לפלגים בעזה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1abnQyWVp4M2ZQQWp6Nm5YbWlLQ2t2cVNEcExHQ3Q1eWdlTEZld3FSVWdIdktHRzVyLUJmOWRMZnY0d3pWT05qdHAyYWI1dw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "בית המשפט קיבל את תביעת סער נגד ברק סרי: כמה עלו לסרי הציוצים?",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPUWV1eU1ZbGFFZmZYZGRvYng2YjRVdGhUSWQzeHBNSTFhbG5XZlhaMUxxN2E5UHlTcDZGa0NFSVdkQXVKN3hobHFTY0VmR1dsZ1Q3MUJ2NUxXNnZQcngyQko0bUhWNlYycGllSUUtWmlfUG82Mjk5bllMbjZNNjF1RVd4RjYtRnFvQzFFVlpWZ05mWWFOWVlEZE40NlhXUWhPNEZhRm90TEVpVW11MTU5dmpQeGpWNDBMMUs5MDR1UFpKN0V6N09DQXdMRE1pNW93cnZQdUU0UTFrRTcyZ0NuOHE1dnRKMXExbi1FbG5EMXdLeDRuX09lQXNLS2xWV3A1V3BhQmE4UXpBalNuVU5qaGZhODJFVktpem5KOFF1ZUJ2RzlhNWNTS29iSy1QUXBVdHNoRkh0UUpmZG9wYklFeVdR?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Ashdod4U"
+  },
   {
    "title": "באיראן לועגים לטראמפ אחרי ביטול המתקפה",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10ZnpTS1h6WUlrYzY1WmJsa0FaeHpFUzZDV3NUVnU3SU9MaWpJNEVYcG5sTHFBZUtnSkk0OWdSNlpBdHdaNDBXTHdMY2RKZw?oc=5",
