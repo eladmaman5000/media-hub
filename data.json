@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T09:15+00:00",
+ "updated": "2026-08-02T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -185,7 +185,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -227,7 +227,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -286,6 +286,36 @@
  ],
  "items": [
   {
+   "title": "\"טראמפ מהסס, רוסיה וסין רואות את זה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Bbk4ta0ZnSVBuSzZGT2hwU3prdS14SkplX2M5d1NZa1g0b3dHNER5VU1fYnF2b2V2c2M4RXBVME04eE5WR3laSHN0QlpFZw?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ח\"כ גוטליב: \"אין הסכם עם חמאס, הם רוצים אותנו בים\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ycFR6bERMSVpkRVlwcjY1YzlCUmxGZWRtYWdRQXhBTjhjX3hqWE5PLVl4cGh2VzhaN3F1NDZYa201NUVLYjVNQnJnNWs3UQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "רגע לפני חיסול: חוליה חמושה סוכלה בצפון, חמישה נעצרו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44OU0xaTNvb3hqSDFQeXoyRldWX3pvLVJyM0djQXA4dHJkdXBTRXNJVkd4MDU4TTFWelZVR3NFdWRIVWw1ZVNNWmluQ2lWQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "משרד התיירות מקדם קרן הלוואות של 400 מיליון שקל להקמת בתי מלון",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OLVMzLW96ZUtVa2V3Zk0xWGMzSUNuYkNpcmdfOFFBVnNXTHdsVklVOFNLT2JwWXFOYUxQS3pDamxWdHJKLVZWaFNra3lWTW51cGp3NUExU3BkV1RSbHd0MTBR?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -296,7 +326,7 @@
    "publisher": "News1 מחלקה ראשונה"
   },
   {
-   "title": "איראן זיהתה את נקודת התורפה של טראמפ - ומנצלת אותה היטב",
+   "title": "איראן זיהתה את נקודת התורפה של טראמפ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qdjRMYnBUQm5YVlB2dTBfbDlUcW1iTnYySnN5dmNvZWlZcmJhejNiUDhReE1zRE1PcVBQR1ZfaUM3N1BpTjlES3oxeS04Zw?oc=5",
    "source": "חיפוש גוגל · ערוץ 14",
    "type": "google",
