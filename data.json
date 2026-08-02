@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T11:45+00:00",
+ "updated": "2026-08-02T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "גוטליב במתקפה חריפה על השכל: \"שקרנית, הכול בשביל כסף\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80LU9CcGhuaGRYQS1iaEpYYzhEU3FjM0JZaVRiNW5FajdnOXR4cTNrNzJfTHFNVHBvdXRKcWlEYWM5YTY0dVNJaXBjN2d6NzA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "במשך שעה וחצי: ח\"כ שרן השכל העידה בלהב 433",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUR1JycEZGMlo0VUdoTDRIaEU2cWc3S2lfdGQyeDBDOXdVbEZSOG8xR0IwT2hxeE5JTXpVSjJnZWJ4bjRYeGVCUm1wbzRMcnlzNVBUTnFwb09qdEJOU0xXcDJJMWZMSktZZEJiOC1mUUl5V1J40gF0QVVfeXFMUFRHUnJwRkYyWjRVR2hMNEhoRTZxZzdLaV90ZDJ4MEM5d1VsRlI4bzFHQjBPaHF4TklNelVKMmdlYnhuNFh4ZUJSbXBvNExyeXM1UFROcXBvT2p0Qk5TTFdwMkkxZkxKS1lkQmI4LWZRSXlXUng?oc=5",
