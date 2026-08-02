@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T10:00+00:00",
+ "updated": "2026-08-02T10:07+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -36,7 +36,9 @@
   "shlomo karhi",
   "i24",
   "הוט",
-  "HOT"
+  "HOT",
+  "ישראל בידור",
+  "אסף רפפורט"
  ],
  "sources": [
   {
@@ -150,7 +152,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "גלובס · גלית חתן",
@@ -174,7 +176,7 @@
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אילי זילברברג",
@@ -216,7 +218,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -275,6 +277,36 @@
  ],
  "items": [
   {
+   "title": "במדינות המפרץ חשפו מה עומד מאחורי ההתנגדות למלחמה מול איראן",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53NnJCUmxHR2NVSWtiNm1SZ013ZDdwQ3VsT1pTSmVZa1dlM0dhQ2c4X2RMQ0RzSnBUMGZQRHY3WFJlSFBSUnZwWnlxVEEtQQ?oc=5",
+   "source": "חיפוש גוגל · ערוץ 14 / ברדוגו / ערוץ 12",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "תיעוד דרמטי מהחיסול בנתיבות: המתנקש מגיח מסמטה - ופותח באש",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JV25obWI1bEk3aWQycVA1MGVVdllXdkNaa0tpQkFFeTF2N0V2eEFpT0RxY2VOWmEyeDEwVFpDSElTOHJkYmJIeWJ0cWdPdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ח\"כ גוטליב: \"אין הסכם עם חמאס, הם רוצים אותנו בים\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ycFR6bERMSVpkRVlwcjY1YzlCUmxGZWRtYWdRQXhBTjhjX3hqWE5PLVl4cGh2VzhaN3F1NDZYa201NUVLYjVNQnJnNWs3UQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
    "title": "משרד התיירות מקדם קרן הלוואות של 400 מיליון שקל להקמת בתי מלון",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OLVMzLW96ZUtVa2V3Zk0xWGMzSUNuYkNpcmdfOFFBVnNXTHdsVklVOFNLT2JwWXFOYUxQS3pDamxWdHJKLVZWaFNra3lWTW51cGp3NUExU3BkV1RSbHd0MTBR?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -313,6 +345,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "Ashdod4U"
+  },
+  {
+   "title": "דרמה בערוץ 14: כוכב \"הפטריוטים\" בהתבטאות חריגה על יאיר גולן",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3eFJCa1FlTlhDa2IzcklDTHdCSzFNcXJnMmk2VXk5UTA3bFpMQkVLZGdFYnlzbUhTbE9Obmw1akJlaVBCbFlPZmc4QjJFOFllSGpRaE1hTlZoZ1Ax?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-01",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "\"מעניין אותי איפה השופרות הבוקר? מה יגידו?\"",
@@ -523,6 +565,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מינוי חדש לאסף רפפורט: דוד אנוליק ימונה למנכ\"ל קבוצת ישראל בידור",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001550771",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-07-29",
+   "keywords": [
+    "ישראל בידור",
+    "אסף רפפורט"
+   ],
+   "pv": true
   },
   {
    "title": "גיא פלג וקשת 12 בבית המשפט: תביעת דיבה בסך 1,091,300 שקל",
