@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T12:00+00:00",
+ "updated": "2026-08-03T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -228,7 +228,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כמעט עימות פיזי בין בן גביר לעו\"ד הערבי: \"נגרש אותך\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0akFia19TRjRsTmk2b1piekhZSnA5bmpKN1p6RUdoUm9ZWWozU2JiNXpiUko2bkhxc0liOGgtVDNtTmEzVDFWRW9jRWlLdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "397 כסאות ריקים: יותר ממחצית המושבים בדירקטוריונים הממשלתיים אינם מאוישים",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQ0JBekdGTFI2UVJFaHZWOUNWS1BmbTRsOFRWQXEtaWNBTnhHelJYTVV3RWFmQ2pRNFVLVXZIUWFVa29iRkNhMFpCQUVLeGFXMTcwR2NudEJrZ3MtSmdCTWlB?oc=5",
