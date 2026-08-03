@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T22:00+00:00",
+ "updated": "2026-08-03T22:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,13 +192,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בלי פיקוח על מימון המפלגות, עם דוחות תקועים: כיסא המבקר ריק - ויש מי שמרוויח",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PUXd1d2R5cWl3b1YwWmstbC10Sm1rcENTUVJVQ1lpNGhCdUFPRW1iR25XMjhHNUVZMEYzaTdCdGMxeFMyUENxeHRTaHhZNG5CQ3BnVTliMEN0ZENtM3JFdmdGNlRmTENLVlNuTtIBdEFVX3lxTFBoQ2tMTV9NUXd0YVd6cHQ2aUVWZVNESG9MbWs1UXZQRXJuWUxMYl9MOW56TkZPc05XMm1WXzE3SXhQZm50ZHNKeWFqTTM1WGVEMGRfRUd1VkVncnF5dElJdmxEUHdobFEwY3RZNDdyYlVmUmRG?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "ינון מגל על סערת אבי בלוט: \"נון מגל על סערת אבי בלוט\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03MkpSdlptZzB5R2VTdmJoOUhvc2M4NGp5aHp1M1hxb3dMajhsQl9Jc09Wc002QW5oSkZzTE5JVmVBVGFxTUFyc1d2YUtBQQ?oc=5",
