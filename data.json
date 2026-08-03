@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T05:47+00:00",
+ "updated": "2026-08-03T06:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,13 +186,13 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל בהחלטה חריגה נגד בן כספית: \"אקרא לך תולעת מעכשיו\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZUJKdURkRGZzeWNneERVelpxYWd5X0J4SkJzUVh5aHRrelRMSV9FYVJwXzltWVdqQmFxS19fbDdscnlrdjdLaml1RE1YSnpscm1XVmdRU0cyTVha?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "צופה בפטריוטים התפרצה לדברי השר כ\"ץ והאשימה: \"זה לא נכון\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rdHRhU3RRUWpSZC1tSkk3ajJJdHprNWxyNXE5UnhOZE1DdmdCT1owQ0lwZHhacU1DS0hBb2F3bzdnSjB3SXZlWXNPUW5iUQ?oc=5",
