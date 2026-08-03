@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T14:15+00:00",
+ "updated": "2026-08-03T14:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,7 +192,7 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "זו לא עיתונות, זו חטטנות: האובססיה של ערוץ 12 לנתניהו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPVy1Ic3g5Y1RWWVY2OEt5Nk5tSUhteTY5WkNYZ1kxM1ViSHVyS0owbHNZQkFnWmF3MTEzMUYyOHRSd0Y1bjVqUkhMNXM2dw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "ינון מגל מתפוצץ על בן כספית בשידור חי: \"תוריד את הידיים שלך\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZW5tSF9uVV83clBGRXQ4WEhKYmR4TUdoX0xlNzdIUHlzZmZwUng5NDA0c2RveW9JalNqUGVtR2I4RDBVd2xXejdwN1Y0V2p4dW5BaE5KZTVUOEZW?oc=5",
