@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T09:00+00:00",
+ "updated": "2026-08-03T09:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -228,13 +228,13 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,50 @@
   }
  ],
  "items": [
+  {
+   "title": "ענבל שגיב נקדימון: חוק השידורים שהבטיח \"תחרות\" יוצר ריכוזיות לטובת אילי התקשורת",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5RTY0c2xLUjVZZjJyZjRXOGVrX3hLUWxPbE1RVlk0OHB5S2p1Ti1HQk40cExMakZlR2g2WWVad3BoSkJt?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [
+    "חוק השידורים"
+   ],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
+  {
+   "title": "אושר: צו 8 יוארך עד סוף ספטמבר",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5OTVzX25UckEyRm8tUzBhTG5pOEswS0JOVVhFSnRMNFF2ZnBKSGxSd2o0dUZPS0RsT0pVSThyXzdlSFFqaWZpR19SUmJWRnVYaGY2QTVTeklDWkRqV2llVGdn?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "\"האירוע זה לעקר שמות יהודיים - תמשכו את העורלות\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWN2cTB1eFZUV29VOTdLalBwM0RuTGp3LWFUcHc3eU9IYUFlbmVSTEV3QlhaOE15Y0hidnJOR0JNUm03dUw1cVlMQnV3MzR0U0NSQkhtQnRCRU4wQmY5UXN2aG1RcnJacVQ2Q09OM3d6NHJwSkpKYVR6SWZoaW1wUQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
+   "title": "פיצוץ חסר תקדים בין ינון מגל לבן כספית בשידור: \"תוריד את הידיים שלך\" | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhVm9tdUpKSXZHSFBHeE1UWlFDdlgtcjc0WFpXaTZwOFAxaXM4Y1RldFlGSi1rR3ZuMEJrdHVIbnZkbk9Fd3I3U2xHNXpfQnVWUnlwdnBDdlRWVWRxbF9wb3lB?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "הליכוד טמן לעצמו מלכודת פלילית בבג\"ץ",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Lbk1CNkZxc1lmNVVIc0h5Nl96YmNaeVQxX09nTVNKYzdTOF9tekFua3hzZUlYUlN4ZnVJU2tCV0hzcnJr?oc=5",
