@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T07:00+00:00",
+ "updated": "2026-08-03T07:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "טיקטוק מצפצפת על קרעי: מתעלמת מהצו להגביל השידורים החיים של אל-ג'זירה בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43U3A2NW9qYmlTZ1puS1haUHViOGtGZk1INWxKZ2t0QWdhV1lQN01DY2VWUVdmMnBxeGxiTUlULXByd0hJdHphcQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "קרוב מתמיד: האם הטכנולוגיה בבית שלנו מחוברת לצבא הסיני?",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yZ1ViTDBNWk45b0pUVTdYWmkwNUFFZGZtaEtqV043Zko5RjBYbTY3NFZDcTRSdUJtTTRvZnF0eHFiOV9Gd3JJaC1naEFYZw?oc=5",
