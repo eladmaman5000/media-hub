@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T17:47+00:00",
+ "updated": "2026-08-03T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,13 +192,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "בהובלת השר קרעי: הדרישה לכינוס חירום של הכנסת נגד בג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmZlhYMTBrajRiS2pSTlZLcnVHbTFYTkFpX0J0ZUE5V2JBMzdZX0NGM19IS01CVTE5UkVkalpERzBxUDJGeFJ1TmRyX0NGUQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "צפו: החייל הישראלי שהותקף בפיליפינים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQnh2QVQ1aTRCdnNvd1pnYTBlaHlZSElFbW9PclMybFZZUXFLSC03UHp0QkNHaVdfLW95VWJvZjNrY094N1gtWmstUUtUUQ?oc=5",
