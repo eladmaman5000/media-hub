@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T23:45+00:00",
+ "updated": "2026-08-03T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אין דבר כזה טרור יהודי, מדובר בקמפיין אנטישמי\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55aDVFczhVNGdKYUJQdllWOG8xdzF6eTEyZ1dZNzJCVE9iSWpPakk5R3RNTzJROXhTYjRPdTBjdmMwUEptRjBzdTB1QTM0Zw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "נהג אוטובוס הותקף באכזריות בירושלים: איבד את ההכרה ושיניו נעקרו",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fazdrZGJNZ1BsRUJ2OFluOUFzeVB4dTBZRm90MkxuOTY2S2dLYmstaUpXbnlHc2hLTk9fR00wU0NFbWYyWDExa2UtSG9GVmVFVGJZbE9uUzlfbkU?oc=5",
@@ -561,66 +571,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "Ashdod4U"
-  },
-  {
-   "title": "עדן הראל חושפת: \"לא הייתה לי דוגמה לבית מתפקד\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuV2Y5MXQyNVhVQU1RaGl5LVNwdGFMcUxKQzJ3UEJ1TnFXSG5rbHNPcDIzakxtVWJoc05heU55akJRWGRDOWJPWXE0anpFZw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-01",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "דרמה בערוץ 14: כוכב \"הפטריוטים\" בהתבטאות חריגה על יאיר גולן",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3eFJCa1FlTlhDa2IzcklDTHdCSzFNcXJnMmk2VXk5UTA3bFpMQkVLZGdFYnlzbUhTbE9Obmw1akJlaVBCbFlPZmc4QjJFOFllSGpRaE1hTlZoZ1Ax?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-01",
-   "keywords": [],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"מעניין אותי איפה השופרות הבוקר? מה יגידו?\"",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzU1SnlpWUZ3azdGTW0yRUloRjc5Y2FsYVpaM1VOcjNybjBFV2h2eGV6MnRQQUNfOWlpWlZNNkN6bzlRcUE2WXRXdV9wMC1NNWNPeS1VUTMtYUFKVEEzcVlKZnVkZHNkMXA2ZXpqUXpoVFRuMVdoQXYtSWJMRHRHMA?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-01",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "\"פניתי לגולן ושאלתי אותו - ביבי משלם לך משכורת?\": ליברמן בריאיון ללא פילטרים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBReGowcEpXaXNMZTJCSVNmek10NDBDaDZ5b1hHMmxsWnhEbFhQcEIyR2NEUGVvbGV6QVloQzBnS3BiOHVzUW5ydl9BdDFtUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-01",
-   "keywords": [],
-   "pv": true,
-   "publisher": "וואלה חדשות"
-  },
-  {
-   "title": "איש העסקים דיויד פדרמן הלך לעולמו בגיל 81",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83S1c2WFJreUgya2lqTUdOTnlDdm5EYm1uamZYbTRWTlZ0R1k0dkJFM3lJaWFpdVVmOVUwZFBmaUJGVGF5a0NhZHZWN3NUeDRpc2NDSDkyMEpQcEZ5NnlFSmpR?oc=5",
-   "source": "חיפוש גוגל · פטריק דרהי",
-   "type": "google",
-   "date": "2026-08-01",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "\"אנחנו לא סובלים פה, אבל נהיה יקר מאוד לגור במרכז העיר\"",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc3AxLXlVbjFLbTFQZC1VMnNVd2F0RElZMTFoUFU1RzYzSlV1akNJTG1rSEJaaHZvMDBFUmNkVjVlbTZoTkdrRFpfcm1RdHhBV2lXXzQ2OE5aNDRPODdzdHpiLTM3NWhybXZaeTBnVlFhZEV5dWdVTGZ5QjM0RnNKU1pRWlZTLTRYNDR2WE12N0dEblNJdUlwY3NUeWFJWG9SOW1DWldiVmF2T0lDRW1iQUlTRG1LUjZoeUxUZDNLUkhqNk40?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-01",
-   "keywords": [],
-   "pv": true,
-   "publisher": "TheMarker"
   },
   {
    "title": "אסף רפפורט ואיל וולדמן מכניסים מיליארדים למדינה, ואקזיט נוסף בישראל",
@@ -1789,18 +1739,6 @@
    ],
    "pv": true,
    "publisher": "כלכליסט"
-  },
-  {
-   "title": "גרפיטי רוסס מחוץ למשרדי קשת: \"פלג, דרוקר ואברמוביץ', תשלמו בדם יקירכם\"",
-   "url": "https://www.haaretz.co.il/gallery/media/2026-06-03/ty-article/.premium/0000019e-8c4d-d36b-a7bf-ff5ff35f0000",
-   "source": "הארץ · עידו דוד כהן",
-   "type": "site",
-   "date": "2026-06-03",
-   "keywords": [
-    "קשת 12",
-    "גיא פלג"
-   ],
-   "pv": true
   }
  ]
 }
