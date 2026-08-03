@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T03:45+00:00",
+ "updated": "2026-08-03T04:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "כ\"ץ: \"לא זזים מעזה עד שחמאס יפורק מנשקו והמנהרות יפורקו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lSUlkZUlrdl9TN1RlLVlfVVY4UmtOZ0VBUDlob050M3FkTDdiUWFvd1ZJOWJtTkRObnlLNnRQU1l1NWZQUk1ZTkNMMndrdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "שר הביטחון הודיע על הדחת אלוף פיקוד מרכז בשידור חי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMdjgyNzFnWmpoWUs0Z01VbnVDSDRpcGktY0FLeXA3ZTEwVjZMTjM1RVIwcDI4RXZGMi1ZeGJfUjl6NXJjc2o5YWRibHpqUQ?oc=5",
