@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T20:00+00:00",
+ "updated": "2026-08-03T20:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,26 @@
   }
  ],
  "items": [
+  {
+   "title": "צו בג\"ץ לשידורים: קרעי מוביל כינוס חירום בכנסת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xWXpTcG1sdUlDRS1Sc1IzU1pUT0VnS1J6TGpBVGxRNlU4MGRJbmY0SlhxWS16RFB5dUdvS0Rud2ZBU1ZJeU1xbWFTNk56Zw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "\"נתניהו שמאלני?\": העימות החזיתי עם גיא מרוז בפטריוטים | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HMnZ1Nk1OSk9vWndpaWJCN2c0UzEyNXRzNGM0YUJXcW9YbHM1SzVqMHZ6ZVpJNXcxZExuR1JDTUZScmdDU2dNc1RUVG5Ddw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "עימות חריף ב\"הפטריוטים\": ינון מגל ניסה להשתלט על העימות הסוער",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81TWY1czZUQXVuWTdOcDkyNktYcGVqeVBycUZSNGg4WXh2SEZpb3hENDdYaGozRGZtYWpNVFFHeTAzY2VTVW1kQg?oc=5",
