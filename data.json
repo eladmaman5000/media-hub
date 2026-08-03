@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T02:15+00:00",
+ "updated": "2026-08-03T02:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "על גב הלוחמים: כך נראה \"השמאל הציוני החדש\" בחסות יאיר גולן",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yaDA5TV8yWXVLLUw0WE1MeDdEUzhfZFdDNy1PUkltTTVlVng1cXZwcXdaNmRQdWoxeS1uR2l2UHVwa20zaUgtd3JzNVF5Zw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"שרן השכל נתנה עדות לא מדויקת בשביל כמעט שני מיליון שקל\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QWXR2WWZHbF80MExwOEk4X1h1TUEwcnBmWHFFOW9fc0JjbExacEo1bVRjUmpKSmpldVRCUHE0UlozTHB5YzNPTk1YZGJwZw?oc=5",
