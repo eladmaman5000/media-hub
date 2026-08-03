@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T15:30+00:00",
+ "updated": "2026-08-03T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,7 +150,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "גלובס · גלית חתן",
@@ -216,7 +216,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תמיר בלאט חתם לשלוש שנים בהפועל תל אביב",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEdrSUJHUDBKYkltLTJqNmMxTFZGVThQS3pLd3JRelFuOFJxWUljZ09LN2psemRrNDRTYmM3N1dDbHBNRGgtS3Q3NGRSMUtIdURjR3gxV015RjFiQ3U0RTZMUEhNYW1zaTlrdHlnSEZfSkhMTjdUa1hvVUJpTlZUd3dGdUc4QkhxYmRLM0hUSGtDRlIwbVhrcWJudEdUMFFVTHQ4?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "זו לא עיתונות, זו חטטנות: האובססיה של ערוץ 12 לנתניהו",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPVy1Ic3g5Y1RWWVY2OEt5Nk5tSUhteTY5WkNYZ1kxM1ViSHVyS0owbHNZQkFnWmF3MTEzMUYyOHRSd0Y1bjVqUkhMNXM2dw?oc=5",
