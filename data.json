@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T11:45+00:00",
+ "updated": "2026-08-03T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "397 כסאות ריקים: יותר ממחצית המושבים בדירקטוריונים הממשלתיים אינם מאוישים",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQ0JBekdGTFI2UVJFaHZWOUNWS1BmbTRsOFRWQXEtaWNBTnhHelJYTVV3RWFmQ2pRNFVLVXZIUWFVa29iRkNhMFpCQUVLeGFXMTcwR2NudEJrZ3MtSmdCTWlB?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "דואר היום ליום שני, 3 אוגוסט 2026: אלוף פיקוד מרכז הליכוד",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95N1BmUlVQS290a3plUjhUUGdsRm83VUUySzlqUGs3NjhqVS1rMTBjQVRHTHVaUDhFX1lia2hBVlVoUTBFVUxlTUZZUndsZUhvTnVOSS12VHA?oc=5",
