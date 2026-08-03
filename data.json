@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T08:00+00:00",
+ "updated": "2026-08-03T08:16+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,13 +192,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -269,6 +269,26 @@
  ],
  "items": [
   {
+   "title": "הליכוד טמן לעצמו מלכודת פלילית בבג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Lbk1CNkZxc1lmNVVIc0h5Nl96YmNaeVQxX09nTVNKYzdTOF9tekFua3hzZUlYUlN4ZnVJU2tCV0hzcnJr?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
+  {
+   "title": "בן כספית נגד ישראל כ''ץ: כסיל שגורם נזק גדול יותר מה-BDS ביחד",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlNjalBwWHM3dXVwMEJIVEVwSjU2UHhuTDZlcEc3WUU3dFNHQnFnam93ay1OZmNjTTdiVER3cWY1cmVoZjZyNnZkT05rZUVSV2RWVGRMWk5xMDdoWHJsVzI0SHRYVWltOXR0dXZkNEZycFVsYjQ4WkwyRXNxeFJKTA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
+  {
    "title": "רועי קונקול נגד ישראל כ\"ץ: \"אלוהים, במה חטאנו שמגיע לנו העונש הזה?\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTd2dFQ0R3cW5nMS1TR3J5REQ4WXFfYm1QSWpsWjU5d3NuX3ktZzZBTTE1Tkw4S3RMVm1HX1RqZ0puV01PR2lPUTlaWWx5U202cGF5OGZTLXJUZVplZEw2eXJEOU0?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
@@ -309,6 +329,18 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "ינון מגל ובן כספית",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmNCM2xLWkk2djRSdHBxZXp6WFBna3V1d3M4VUxxVElEVWJ4T1R3YTlmUUFfVklFemtram51UmxKcXIxeVJHOURoY1E2VDRlMk1RRzNGcG1tTHdieks1d3VzZ1FZOERKSkE1V3VlWUJoRW5UZEtlanIyUlhjSWtNUw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-02",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "103FM"
   },
   {
    "title": "צופה בפטריוטים התפרצה לדברי השר כ\"ץ והאשימה: \"זה לא נכון\"",
