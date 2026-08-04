@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T12:15+00:00",
+ "updated": "2026-08-04T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הכוכב של מחוז גוש דן: דור חרלפ, מועמד הליכוד לכנס, מסתער על הפריימריז",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdy1lRWJNVDZVNko1MXp5UG9fNXJXVDQ3TEYyVmowOVIxTjBwZ0RnajZoZ0dkZVpHaGd5VU5HYXE1UjQyRGgxUmVfQ3Q2QVY3Nk1sN0NwQWRQN21FX2dFNDNzT2ZlcHZkZlNkbGI3NlpFck55ZG5MWjVCY0txb0VHbA?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "אידה קידר-מליץ: שלושה מדדים מחקריים מתעדים נסיגה של הדמוקרטיה בישראל",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SSkgxcFp4T1pxdWlvbU9YRFljNTFQc3lRb2MxaHVzT2VUSk5pOXpfVmNCdG5nYkUwUzI3VkswV2xieUlC?oc=5",
