@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T16:45+00:00",
+ "updated": "2026-08-04T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה לחרדים? משקיפים לא יוכלו לדווח מי הגיע להצביע בקלפי - כדי לעודד הצבעה",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xTTUtcFNEZC0yM0c0dEhCMWNET042SU9Tb0hVNktQajFIVERXLXJmSHVLOTByRm5fd0VzQlhEX1MwN3doMklR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "חרדים10"
+  },
   {
    "title": "סולברג: אסור לנציגי מפלגות בקלפי לדווח מי הצביע לצורך \"המרצה\"",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oOTFSdzFIVnNnZ2p3cVIyejlTMEgzbF84SUFCeDkwb2hoWGxEa0hLWnVoSHl6MnVGblJHbV91dVlwSENMOFRv?oc=5",
