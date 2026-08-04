@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T12:01+00:00",
+ "updated": "2026-08-04T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -155,9 +155,8 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -181,13 +180,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -199,13 +198,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -269,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אידה קידר-מליץ: שלושה מדדים מחקריים מתעדים נסיגה של הדמוקרטיה בישראל",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1SSkgxcFp4T1pxdWlvbU9YRFljNTFQc3lRb2MxaHVzT2VUSk5pOXpfVmNCdG5nYkUwUzI3VkswV2xieUlC?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "אבי בלוט הודח בשידור, האם זה יכשיר פיטורי-נקמה בחילופי שלטון?",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mUmg2S3pjMjdsMVEwTlRHWExDX3lwS0Q4SWNDMU5xOVBvNVpBV2hKZEF4SHd0X1dXLVdUTVR5NU0zZGRLcjlwWVBvSjVSdw?oc=5",
