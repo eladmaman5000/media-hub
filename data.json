@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T11:45+00:00",
+ "updated": "2026-08-04T12:01+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -155,8 +155,9 @@
   {
    "source": "גלובס · גלית חתן",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.globes.co.il', port=443): Read timed out. (read timeout=25)"
   },
   {
    "source": "דה-מרקר · יסמין גואטה",
@@ -216,7 +217,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -268,6 +269,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אבי בלוט הודח בשידור, האם זה יכשיר פיטורי-נקמה בחילופי שלטון?",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mUmg2S3pjMjdsMVEwTlRHWExDX3lwS0Q4SWNDMU5xOVBvNVpBV2hKZEF4SHd0X1dXLVdUTVR5NU0zZGRLcjlwWVBvSjVSdw?oc=5",
+   "source": "חיפוש גוגל · אבי ניר",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "וואלה חדשות"
+  },
   {
    "title": "Channel 14 Inciting and Crying Foul",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rRXBNTzlTM1BGTDJZS2dheGRzVnlTWUkwQlJPVGdaM2hLdHNPWVZBWVNlVnk2bDJDVk9IOUsxMXdaOW51ZXZVUw?oc=5",
