@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T17:45+00:00",
+ "updated": "2026-08-04T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"להגיד לא לאמריקנים, להגיד כן ליהודים\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblRUX3VHc2dCeU13RnlHUkl5RVowa2FqMzlvRVB0VGFFb3E2M0R4eFN0bi1rX3ppZ3lqWnB6WU1YLTNpd1BEVjV2LVFHYXdxZEZUTDI0MXZpMGRyZnNkNFRDVmkwSmRFRW1EQUtaZEVBc0VXcUt6YTZvNlBWNkpoYw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "סוף לאפליקציית אלקטור: האיסור החדש בקלפיות",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMkExT2pVTmpOV1lGUVVDWFpVR3NMM1U2T19zSF8tSFNoV1NBRjg2bHRaMVFtY2UxYzUyTkNva1VFUHpNWWl0X2ZIQ0Jvd3A4d3d0cDdhNTYtQQ?oc=5",
