@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T15:45+00:00",
+ "updated": "2026-08-04T16:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 0
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "זעם בימין על החלטת סולברג: \"נשיג את המידע בכל דרך\"",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPOVhOWkpzeTZzMFVKTWR0RTdLTmRxMzJuNUF5dHlRLXIwc09GcXlNOXVvbk5EcFZGSmNMaksxMnRYWm1rMGFoWjhrUlZrSERWaDd2UFJFUEZGMXd0bkh5VGwtX29nOVBRTk0xTTBsQkd3OU85Y1hLdGlrU3NVSjVOY1hKSVYxRG1RMUJHR1hlM3JSbklya044S24xWU9VclgwRHAwcjE2T3RTVXYtT01WT2RjN1o5bXZqeExuMmtwaDdRWmxMSVJ5TWtndGpxV2h0WWV6Mk1DSEthdkJkQU9CeFlRc2kwbFhvU0RVdzFQSTBHanVTWmlJYUkxUXZHa1R2d25qWkYtTzdUcEZHbHpCUHBUVVlTNGwxd2phXzlHSF9VLTlfUE13U1ZLQlNVb0JxYnZmMGJZVGN2N1NuOXJoYXVfSkN6dWZUZWdldl9uejIwb2Zq?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "srugim.co.il"
+  },
   {
    "title": "בימין תוקפים את סולברג: \"חושב שוועדת הבחירות היא אולם בג\"ץ\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZVdCSWpXaU9xbGtCQlFsLWh4WWNzLWU0ZC1KQ3Rwd1ZEU01iVVRKVFd6Yk9jX1NrVms1UHR4TjZLeGp0QnEyZ0JTa1R5QQ?oc=5",
