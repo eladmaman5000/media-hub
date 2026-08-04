@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T07:45+00:00",
+ "updated": "2026-08-04T08:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "\"אתה לא רואה כמה אתה מכוער\": מגל וכספית שוב התפוצצו",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOcDB5XzI2SU1aTFNIaTZEd3pfc19TaW9nRlhPcGh3Q05UTGduTDNaVlBkRS1KOF9iNUJQRFhtNldpM3FpOXZZWU9ydWZ0Wm1MN1V2cjh6QkxtSlVpYjlqSVhUbmduOXpTMTFXaFJrS0pXNEhxN1E1Rm5SRTRVdVNrOTdFZzdEclJHTjB3UjhwN0dlR1ZvMzdQV05naFFvVm5nREg2bHVpMWdKaTZYdnU2NEVhR014QXMyV2FNOFRhWEJmWTNmeGduV05MLUNrR3VWeUlOUWcyZk5kTEcxUmd5Q0h2SGUxTkJjaFc1Y1c1ZDQ2bktGTjR3SXJESnhabWx3X3ZuSERLcnNPdHJuTi1tSzFaZmZXQ0ZMQ0xteU11bThBOHFOTUpkNmVfdVRQdElBOUxxS2pDek9OUmdxVEdNWVVpODdwWjBtTThMS1hoajZad1BB?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "סרוגים"
+  },
   {
    "title": "רוני מאנה מתפוצץ על ינון מגל: \"אתם אשמים במה שקרה לא פחות מהצבא\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pbTVpb0pzM1J4ZkpXWjh3RU9iZDJRWFVoc0hFTTFDM0wwUWxVaUhYYW45VUhMUm9qLWctQnVtWGVrUE5uLXo4QzIza0N5Mm5hRW9xakxzeUhkQkdS?oc=5",
