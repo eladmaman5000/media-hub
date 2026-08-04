@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T17:15+00:00",
+ "updated": "2026-08-04T17:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -173,15 +173,14 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 4
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -270,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "סוף לאפליקציית אלקטור: האיסור החדש בקלפיות - והמפסידות העיקריות",
+   "title": "סוף לאפליקציית אלקטור: האיסור החדש בקלפיות",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMkExT2pVTmpOV1lGUVVDWFpVR3NMM1U2T19zSF8tSFNoV1NBRjg2bHRaMVFtY2UxYzUyTkNva1VFUHpNWWl0X2ZIQ0Jvd3A4d3d0cDdhNTYtQQ?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
