@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T17:00+00:00",
+ "updated": "2026-08-04T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -173,20 +173,21 @@
   {
    "source": "הארץ · עידו דוד כהן",
    "kind": "site",
-   "ok": true,
-   "kept": 4
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -269,7 +270,17 @@
  ],
  "items": [
   {
-   "title": "מכה לחרדים? משקיפים לא יוכלו לדווח מי הגיע להצביע בקלפי - כדי לעודד הצבעה",
+   "title": "סוף לאפליקציית אלקטור: האיסור החדש בקלפיות - והמפסידות העיקריות",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jMkExT2pVTmpOV1lGUVVDWFpVR3NMM1U2T19zSF8tSFNoV1NBRjg2bHRaMVFtY2UxYzUyTkNva1VFUHpNWWl0X2ZIQ0Jvd3A4d3d0cDdhNTYtQQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ynet"
+  },
+  {
+   "title": "מכה לחרדים? משקיפים לא יוכלו לדווח מי הגיע להצביע בקלפי",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xTTUtcFNEZC0yM0c0dEhCMWNET042SU9Tb0hVNktQajFIVERXLXJmSHVLOTByRm5fd0VzQlhEX1MwN3doMklR?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
