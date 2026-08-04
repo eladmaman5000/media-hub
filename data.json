@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T01:15+00:00",
+ "updated": "2026-08-04T01:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "הראיון והכותרות השגויות: האמת על ה\"עימות\" בין ישראל כ\"ץ לאלוף בלוט",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISENtMzJYOEJzSkhsVHRkN0RkV0M5UGZVZ1BIU05fME11ZGhUbWs4YmJmUzdPTWwwSWdtVmxOMEdrX1pYWFkxcV9YRVZTU2xaeWwzbl9nWGdhV1FOaGc4VEhON2VaSE9kbXJxcQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-03",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מקור ראשון"
+  },
   {
    "title": "ינון מגל ובן כספית",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGUyd3hQTWtmVEdOTk15VEppMFpPSlJhYjl3eUN1NGpmaGpPTG50bHA4dXVBUklPeDQ2MUF6RDJnczN0VlMxVUVvcU0zWDVwTnpkRTBjV0Iwekl3TXNzTTFveVBpT2txYjJPeW5IZk5peHpQSHFROTlLSi12a2FQSg?oc=5",
