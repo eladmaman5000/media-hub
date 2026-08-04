@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T16:00+00:00",
+ "updated": "2026-08-04T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,7 +150,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
@@ -180,13 +180,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 0
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,27 @@
   }
  ],
  "items": [
+  {
+   "title": "תעלומת וואטסאפ: החשבונות נחסמים, ובמטא לא מספקים הסברים",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001551291",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-08-04",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true
+  },
+  {
+   "title": "ועדת הבחירות עצרה את אלקטור: המפלגות לא יקבלו מידע מהקלפיות",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHYlZvSC1zUU5vTEljb2U5S3R3WUlXNVR3MDVTVmJBSGhDcmF1Sm5wVnFLWXowM3ROd3pLczVFN2ZkRV9kbVl4aWMwREpVT25acWhWTUtYbXdJRGJPR0xoRXRPd2tkeExU?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "זעם בימין על החלטת סולברג: \"נשיג את המידע בכל דרך\"",
    "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPOVhOWkpzeTZzMFVKTWR0RTdLTmRxMzJuNUF5dHlRLXIwc09GcXlNOXVvbk5EcFZGSmNMaksxMnRYWm1rMGFoWjhrUlZrSERWaDd2UFJFUEZGMXd0bkh5VGwtX29nOVBRTk0xTTBsQkd3OU85Y1hLdGlrU3NVSjVOY1hKSVYxRG1RMUJHR1hlM3JSbklya044S24xWU9VclgwRHAwcjE2T3RTVXYtT01WT2RjN1o5bXZqeExuMmtwaDdRWmxMSVJ5TWtndGpxV2h0WWV6Mk1DSEthdkJkQU9CeFlRc2kwbFhvU0RVdzFQSTBHanVTWmlJYUkxUXZHa1R2d25qWkYtTzdUcEZHbHpCUHBUVVlTNGwxd2phXzlHSF9VLTlfUE13U1ZLQlNVb0JxYnZmMGJZVGN2N1NuOXJoYXVfSkN6dWZUZWdldl9uejIwb2Zq?oc=5",
