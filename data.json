@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T11:00+00:00",
+ "updated": "2026-08-04T11:17+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -179,97 +179,112 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": true,
-   "kept": 5
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": true,
-   "kept": 4
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": true,
-   "kept": 9
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": true,
-   "kept": 1
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": true,
-   "kept": 0
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": true,
-   "kept": 12
+   "ok": false,
+   "kept": 0,
+   "err": "HTTP 503"
   }
  ],
  "items": [
   {
-   "title": "הח\"כים שצפויים להינצל מהכאוס - והפאניקה בליכוד",
+   "title": "הח\"כים שצפויים להינצל מהכאוס",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NV05pc1hINU1oOFB4enpvRl94MVprOEhDenhId1F6OU5NUkM4YTlWYW1GX0hUMjI3SGRjQ2VSdHVnSUp2cy1CUlBUeUhWcG9EY3I1RXg1WUFxcDMyeGo0azV2RVNVdDZQR1hWcVZpNU5LTVJj0gF0QVVfeXFMT01XTmlzWEg1TWg4UHh6em9GX3gxWms4SEN6eEh3UXo5Tk1SQzhhOVZhbUZfSFQyMjdIZGNDZVJ0dWdJSnZzLUJSUFR5SFZwb0RjcjVFeDVZQXFwMzJ4ajRrNXZFU1V0NlBHWFZxVmk1TktNUmM?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
    "type": "google",
