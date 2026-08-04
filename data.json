@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T11:30+00:00",
+ "updated": "2026-08-04T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,13 +198,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Channel 14 Inciting and Crying Foul",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rRXBNTzlTM1BGTDJZS2dheGRzVnlTWUkwQlJPVGdaM2hLdHNPWVZBWVNlVnk2bDJDVk9IOUsxMXdaOW51ZXZVUw?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "העין השביעית"
+  },
   {
    "title": "\"עלק מרוקאי\": המתקפה של ינון מגל על איזנקוט | צפו",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtZURlTHB3aEJaTGNmYllneWpya0NfWDlTLW9Pa3lhcy0xWXMtMWY1b2F3eDU2TFVMTG1QN09YV1dRVmRnenZmWm02b05NYjVnZW5ha2JiQUVGdHdNMTIwZUU4VW1DOThKaGRZWXlWSk9DRExDb2FqSTZyYzVZQdIBfkFVX3lxTFBtZURlTHB3aEJaTGNmYllneWpya0NfWDlTLW9Pa3lhcy0xWXMtMWY1b2F3eDU2TFVMTG1QN09YV1dRVmRnenZmWm02b05NYjVnZW5ha2JiQUVGdHdNMTIwZUU4VW1DOThKaGRZWXlWSk9DRExDb2FqSTZyYzVZQQ?oc=5",
