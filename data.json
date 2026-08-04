@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T06:45+00:00",
+ "updated": "2026-08-04T07:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רוני מאנה מתפוצץ על ינון מגל: \"אתם אשמים במה שקרה לא פחות מהצבא\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pbTVpb0pzM1J4ZkpXWjh3RU9iZDJRWFVoc0hFTTFDM0wwUWxVaUhYYW45VUhMUm9qLWctQnVtWGVrUE5uLXo4QzIza0N5Mm5hRW9xakxzeUhkQkdS?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "הליכוד בדרך לקרב יוצא דופן: 36 ייאבקו על כ-16 מקומות ריאליים | אלה השמות, ראש בראש",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92LWlaLXozYkE4bm1DVG9ITy04VzZCWmVNR3VXNGltaVdRQXRBZ2tmdGhKbGhZYlpNdlc1VlRHQmRycEYzeEJpNnktbWxkQVVwMkVxaTQwbGVXQQ?oc=5",
