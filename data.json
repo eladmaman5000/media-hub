@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T21:00+00:00",
+ "updated": "2026-08-05T21:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -228,7 +228,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "אראל סגל תקף בפטריוטים: \"יש תרבות של תחקרי שקר בצבא\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44Nnk0a2k0Y3FsRFg0RGZRalFYcW1wTEp1YVd1U0Y0UV9pNzFKNEhWVldwV0dhTkFlMmdIYzVjcGt3bHhxSi0xUXhCQklWdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הפאנליסט שתקף בחריפות מאמר מ'הארץ': \"הוביל לשבעה באוקטובר\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81ZmN2cU05bXJTTVlOWG9STHROdVZxZlBRR1k5WURqZHNBMkxkbHh5SnNSekRHX0hlYlRLcmtoWFRQUlRIT21ZVVdTRWt1UQ?oc=5",
