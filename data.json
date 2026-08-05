@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T16:45+00:00",
+ "updated": "2026-08-05T17:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -240,7 +240,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נשים במפלגה הן סימן לשפיות. אלא אם כן הן במקרה ימניות",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vV1RnRm5RNFFpc2t6a1VnTTU2UWEzeUEzT0NwbzlIcktxRTVuczVjU1BzT19zc1lrLWFWOTJWcjVzNG9xSUFmUURybkF2MmdBRGI5VFFYeE84aWdPTU5OU0dmRUZ2WkRkckdtOWtRVGhkY20xeFQ2eUpn0gF6QVVfeXFMT29XVGdGblE0UWlza3prVWdNNTZRYTN5QTNPQ3BvOUhyS3FFNW5zNWNTUHNPX3NzWWstYVY5MlZyNXM0b3FJQWZRRHJuQXYyZ0FEYjlUUVh4TzhpZ09NTk5TR2ZFRnZaRGRyR205a1FUaGRjbTF4VDZ5Smc?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "פקעה ההוראה שהתירה ליצחק מירילשוילי להחזיק במקביל בערוץ 14 וברדיו קול-חי. כיצד תפעל הרשות השנייה?",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TdjE4WDFqcWhfMTc1dFlEYVpSeGcwNnhuTGxXQU9PM29GRWxVeUFvYTJEZlFlZDIyTVVzTzRfaGRjN2F5M0xPNA?oc=5",
