@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T23:45+00:00",
+ "updated": "2026-08-05T00:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -269,21 +269,8 @@
  ],
  "items": [
   {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-04",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
    "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
    "date": "2026-08-04",
@@ -616,126 +603,6 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "\"חמינאי מת\": הטראנס שהרים את אולפן הפטריוטים על הרגליים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aY0lkYjRzdmpkWEFKdXFubmhPMVZybDFlR3RkbS1zbmpRQmFmajAta3plWXNYR2FFV0lYcXZSdVlLQUJJRi16OVg3elpJdw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "הראיון והכותרות השגויות: האמת על ה\"עימות\" בין ישראל כ\"ץ לאלוף בלוט",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISENtMzJYOEJzSkhsVHRkN0RkV0M5UGZVZ1BIU05fME11ZGhUbWs4YmJmUzdPTWwwSWdtVmxOMEdrX1pYWFkxcV9YRVZTU2xaeWwzbl9nWGdhV1FOaGc4VEhON2VaSE9kbXJxcQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מקור ראשון"
-  },
-  {
-   "title": "ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGUyd3hQTWtmVEdOTk15VEppMFpPSlJhYjl3eUN1NGpmaGpPTG50bHA4dXVBUklPeDQ2MUF6RDJnczN0VlMxVUVvcU0zWDVwTnpkRTBjV0Iwekl3TXNzTTFveVBpT2txYjJPeW5IZk5peHpQSHFROTlLSi12a2FQSg?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "חדשות 04 - השר קרעי דורש מהכנסת לקבוע שחוקים לא יוקפאו על ידי בג\"ץ",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wQ0FDMlQtWWtLYkF0YkkzNk41bWRjSTQ0NTB3UnI0OVFrNmRlamtBUGdLR01obmVkTjhNUjNFM0FvTzIwb0ktUTBn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "0404"
-  },
-  {
-   "title": "בלי פיקוח על מימון המפלגות, עם דוחות תקועים: כיסא המבקר ריק",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PUXd1d2R5cWl3b1YwWmstbC10Sm1rcENTUVJVQ1lpNGhCdUFPRW1iR25XMjhHNUVZMEYzaTdCdGMxeFMyUENxeHRTaHhZNG5CQ3BnVTliMEN0ZENtM3JFdmdGNlRmTENLVlNuTtIBdEFVX3lxTFBoQ2tMTV9NUXd0YVd6cHQ2aUVWZVNESG9MbWs1UXZQRXJuWUxMYl9MOW56TkZPc05XMm1WXzE3SXhQZm50ZHNKeWFqTTM1WGVEMGRfRUd1VkVncnF5dElJdmxEUHdobFEwY3RZNDdyYlVmUmRG?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
-  },
-  {
-   "title": "ינון מגל על סערת אבי בלוט: \"נון מגל על סערת אבי בלוט\"",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03MkpSdlptZzB5R2VTdmJoOUhvc2M4NGp5aHp1M1hxb3dMajhsQl9Jc09Wc002QW5oSkZzTE5JVmVBVGFxTUFyc1d2YUtBQQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "צו בג\"ץ לשידורים: קרעי מוביל כינוס חירום בכנסת",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xWXpTcG1sdUlDRS1Sc1IzU1pUT0VnS1J6TGpBVGxRNlU4MGRJbmY0SlhxWS16RFB5dUdvS0Rud2ZBU1ZJeU1xbWFTNk56Zw?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "אמס"
-  },
-  {
-   "title": "\"נתניהו שמאלני?\": העימות החזיתי עם גיא מרוז בפטריוטים | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HMnZ1Nk1OSk9vWndpaWJCN2c0UzEyNXRzNGM0YUJXcW9YbHM1SzVqMHZ6ZVpJNXcxZExuR1JDTUZScmdDU2dNc1RUVG5Ddw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "עימות חריף ב\"הפטריוטים\": ינון מגל ניסה להשתלט על העימות הסוער",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81TWY1czZUQXVuWTdOcDkyNktYcGVqeVBycUZSNGg4WXh2SEZpb3hENDdYaGozRGZtYWpNVFFHeTAzY2VTVW1kQg?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ערוץ 7"
-  },
-  {
-   "title": "דרוד בלאזאדה מציג: אלו התגובות באיראן להפסקת האש",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oeEpSWkJOWG41TTdxRW1lVTJMekcxWjYtMXlTTHhLTUNQbEhJX0pNakVnczdoRnFGN0VTU3JDc3hubXJfbmt2VzlIM2hZdw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "c14.co.il"
-  },
-  {
-   "title": "ינון מגל על \"הזעזוע\" של התקשורת מ\"ההדחה בשידור\" | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jVlJnLW5LWUI4R1RTOVQ4aUQ2aEM3RUp5OXFvTXZ5RzAxRkNiNmlId2U2MWFfbFlQc2tVNzhCRllWa0hBU2N3NEhCR0Ridw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
    "title": "קרב הענקים ממשיך: המסקנות שעלו מסקר הבחירות של ערוץ 12",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tNmNoRzYxeGplWWhreWx1MGo3WElEczZHdHA2d2ZCYjNlZVdKMXJPTVgtTjJsMTFQNmFSZmhzdXFndFlJUmtPcFVqVnhzX0FqclViV2Q0ejlpc3BMREI0eTJOYw?oc=5",
    "source": "ice · תקשורת",
@@ -743,236 +610,6 @@
    "date": "2026-08-03",
    "keywords": [
     "ערוץ 12"
-   ],
-   "pv": true,
-   "publisher": "ice (אייס)"
-  },
-  {
-   "title": "\"תעוף מפה!\": הוויכוח בפטריוטים בין גיא מרוז ופליישמן",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xWDcwV2ZpaHdzU01tOTB2Zm9mYm5RUGd1TmM0T2dSWkM5a1gwNW00RHN6SjZvWGNtV1htV2ZKYU1ZYkZUSEwxSWlOY19Xdw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "בהובלת השר קרעי: הדרישה לכינוס חירום של הכנסת נגד בג\"ץ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmZlhYMTBrajRiS2pSTlZLcnVHbTFYTkFpX0J0ZUE5V2JBMzdZX0NGM19IS01CVTE5UkVkalpERzBxUDJGeFJ1TmRyX0NGUQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "צפו: החייל הישראלי שהותקף בפיליפינים",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQnh2QVQ1aTRCdnNvd1pnYTBlaHlZSElFbW9PclMybFZZUXFLSC03UHp0QkNHaVdfLW95VWJvZjNrY094N1gtWmstUUtUUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "לא הדחה, אלא החלפה מתוכננת: הסערה סביב האלוף בלוט",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBT0pZTDZWZkU2eWxuSXM5MmRBWVpGTjJMS3RVUkNhdXVIcTYwWXMxbnNocGxCNlVGUVBOOE14M0plXy1GbzRxYW1rOG9LZw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "תמיר בלאט חתם לשלוש שנים בהפועל תל אביב",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEdrSUJHUDBKYkltLTJqNmMxTFZGVThQS3pLd3JRelFuOFJxWUljZ09LN2psemRrNDRTYmM3N1dDbHBNRGgtS3Q3NGRSMUtIdURjR3gxV015RjFiQ3U0RTZMUEhNYW1zaTlrdHlnSEZfSkhMTjdUa1hvVUJpTlZUd3dGdUc4QkhxYmRLM0hUSGtDRlIwbVhrcWJudEdUMFFVTHQ4?oc=5",
-   "source": "חיפוש גוגל · אבי ניר",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "הארץ"
-  },
-  {
-   "title": "זו לא עיתונות, זו חטטנות: האובססיה של ערוץ 12 לנתניהו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPVy1Ic3g5Y1RWWVY2OEt5Nk5tSUhteTY5WkNYZ1kxM1ViSHVyS0owbHNZQkFnWmF3MTEzMUYyOHRSd0Y1bjVqUkhMNXM2dw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ערוץ 12"
-   ],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "ינון מגל מתפוצץ על בן כספית בשידור חי: \"תוריד את הידיים שלך\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZW5tSF9uVV83clBGRXQ4WEhKYmR4TUdoX0xlNzdIUHlzZmZwUng5NDA0c2RveW9JalNqUGVtR2I4RDBVd2xXejdwN1Y0V2p4dW5BaE5KZTVUOEZW?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "ice.co.il"
-  },
-  {
-   "title": "אירוע חריג באולפן: \"אל תתערב; תוריד את הידיים שלך\"",
-   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQS05UMzRrWEdzZnRNbzlEbm5BbUNTS1hRam8yWGNTYS1FWlNEYTBqQmlFQzBnRUhYTndFY0lBZWJOams3QmRkWnladEdQcWdCdVFadWM5ekk5aUVOMmZyWXphZzZoa1ZSWXRNSkVJaTFqOUxXdXN3UGVPdWdXZHU2SlNKeUo2ZGwwSVktalhEZGtoa05EZ3VKT0pnZ01mRUhkRlpNSmZTS0pUVVJNSHBUclhqZWlZaXVvb3U3NXdiNGQ3NHlKVWhuSWJ6M3Z4MjRkUVZGcWtKOGs3YXJGUHU2U05hRUFCMWlhaVR2bjV1UlVSY3JXdHZZQU1aMUsyVTFaZEgzMHVIczBZU29udnVvWUVGV0NFd21Xd2F1akxIcGNGbkt4WU9hUHJTUnpTNjRMUTZEWElEVlpraEE?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "סרוגים"
-  },
-  {
-   "title": "כתב חדשות 14 בפנייה לאיראנים: \"אין ברירה אחרת\" | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRkRhSXZLMkVUbktHUDR1d2RvMjh1b1g4bE1GZ0RITE1ZeHpIOHRxYm04Z3Z3TWJmcDVrUTNXcWsyZl9HekY0dE9UUGcwUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "כמעט עימות פיזי בין בן גביר לעו\"ד הערבי: \"נגרש אותך\" | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0akFia19TRjRsTmk2b1piekhZSnA5bmpKN1p6RUdoUm9ZWWozU2JiNXpiUko2bkhxc0liOGgtVDNtTmEzVDFWRW9jRWlLdw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "397 כסאות ריקים: יותר ממחצית המושבים בדירקטוריונים הממשלתיים אינם מאוישים",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQ0JBekdGTFI2UVJFaHZWOUNWS1BmbTRsOFRWQXEtaWNBTnhHelJYTVV3RWFmQ2pRNFVLVXZIUWFVa29iRkNhMFpCQUVLeGFXMTcwR2NudEJrZ3MtSmdCTWlB?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "דואר היום ליום שני, 3 אוגוסט 2026: אלוף פיקוד מרכז הליכוד",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95N1BmUlVQS290a3plUjhUUGdsRm83VUUySzlqUGs3NjhqVS1rMTBjQVRHTHVaUDhFX1lia2hBVlVoUTBFVUxlTUZZUndsZUhvTnVOSS12VHA?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "ענבל שגיב נקדימון: חוק השידורים שהבטיח \"תחרות\" יוצר ריכוזיות לטובת אילי התקשורת",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5RTY0c2xLUjVZZjJyZjRXOGVrX3hLUWxPbE1RVlk0OHB5S2p1Ti1HQk40cExMakZlR2g2WWVad3BoSkJt?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "חוק השידורים"
-   ],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "אושר: צו 8 יוארך עד סוף ספטמבר",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5OTVzX25UckEyRm8tUzBhTG5pOEswS0JOVVhFSnRMNFF2ZnBKSGxSd2o0dUZPS0RsT0pVSThyXzdlSFFqaWZpR19SUmJWRnVYaGY2QTVTeklDWkRqV2llVGdn?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "News1 מחלקה ראשונה"
-  },
-  {
-   "title": "\"האירוע זה לעקר שמות יהודיים",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWN2cTB1eFZUV29VOTdLalBwM0RuTGp3LWFUcHc3eU9IYUFlbmVSTEV3QlhaOE15Y0hidnJOR0JNUm03dUw1cVlMQnV3MzR0U0NSQkhtQnRCRU4wQmY5UXN2aG1RcnJacVQ2Q09OM3d6NHJwSkpKYVR6SWZoaW1wUQ?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "פיצוץ חסר תקדים בין ינון מגל לבן כספית בשידור: \"תוריד את הידיים שלך\" | צפו",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhVm9tdUpKSXZHSFBHeE1UWlFDdlgtcjc0WFpXaTZwOFAxaXM4Y1RldFlGSi1rR3ZuMEJrdHVIbnZkbk9Fd3I3U2xHNXpfQnVWUnlwdnBDdlRWVWRxbF9wb3lB?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
-   ],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "הליכוד טמן לעצמו מלכודת פלילית בבג\"ץ",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5Lbk1CNkZxc1lmNVVIc0h5Nl96YmNaeVQxX09nTVNKYzdTOF9tekFua3hzZUlYUlN4ZnVJU2tCV0hzcnJr?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "זמן ישראל"
-  },
-  {
-   "title": "בן כספית נגד ישראל כ''ץ: כסיל שגורם נזק גדול יותר מה-BDS ביחד",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlNjalBwWHM3dXVwMEJIVEVwSjU2UHhuTDZlcEc3WUU3dFNHQnFnam93ay1OZmNjTTdiVER3cWY1cmVoZjZyNnZkT05rZUVSV2RWVGRMWk5xMDdoWHJsVzI0SHRYVWltOXR0dXZkNEZycFVsYjQ4WkwyRXNxeFJKTA?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "103FM"
-  },
-  {
-   "title": "רועי קונקול נגד ישראל כ\"ץ: \"אלוהים, במה חטאנו שמגיע לנו העונש הזה?\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTd2dFQ0R3cW5nMS1TR3J5REQ4WXFfYm1QSWpsWjU5d3NuX3ktZzZBTTE1Tkw4S3RMVm1HX1RqZ0puV01PR2lPUTlaWWx5U202cGF5OGZTLXJUZVplZEw2eXJEOU0?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "מעריב"
-  },
-  {
-   "title": "טיקטוק מצפצפת על קרעי: מתעלמת מהצו להגביל השידורים החיים של אל-ג'זירה בישראל",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43U3A2NW9qYmlTZ1puS1haUHViOGtGZk1INWxKZ2t0QWdhV1lQN01DY2VWUVdmMnBxeGxiTUlULXByd0hJdHphcQ?oc=5",
-   "source": "חיפוש גוגל · שלמה קרעי",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "העין השביעית"
-  },
-  {
-   "title": "קרוב מתמיד: האם הטכנולוגיה בבית שלנו מחוברת לצבא הסיני?",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yZ1ViTDBNWk45b0pUVTdYWmkwNUFFZGZtaEtqV043Zko5RjBYbTY3NFZDcTRSdUJtTTRvZnF0eHFiOV9Gd3JJaC1naEFYZw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [],
-   "pv": true,
-   "publisher": "C14"
-  },
-  {
-   "title": "ינון מגל בהחלטה חריגה נגד בן כספית: \"אקרא לך תולעת מעכשיו\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DZUJKdURkRGZzeWNneERVelpxYWd5X0J4SkJzUVh5aHRrelRMSV9FYVJwXzltWVdqQmFxS19fbDdscnlrdjdLaml1RE1YSnpscm1XVmdRU0cyTVha?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-03",
-   "keywords": [
-    "ינון מגל"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
