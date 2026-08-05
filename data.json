@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T03:17+00:00",
+ "updated": "2026-08-05T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -216,7 +216,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -269,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
+   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
@@ -290,19 +290,6 @@
    "keywords": [],
    "pv": true,
    "publisher": "כיכר השבת"
-  },
-  {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-04",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
   },
   {
    "title": "למרות הדממה בישראל: הציוץ של השר אחרי הפיצוצים",
