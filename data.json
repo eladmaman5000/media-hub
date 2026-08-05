@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T07:30+00:00",
+ "updated": "2026-08-05T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -216,7 +216,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,26 @@
   }
  ],
  "items": [
+  {
+   "title": "צמרת הליכוד חוזרת לאשדוד: שרים, חברי כנסת ובכירי המפלגה יגיעו לכנס מרכזי בעיר",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOVUJXdXFaSlFzcmxFS0E1TjdsTm5mT29wdUlKX2R3UWRBdkRheW5vMmY3SlBjdm1aNGU0c3ZiaExHeDV0eGllbDQxckoyaE11ZUdYekRXZEFRckNSZS11R0tWRVFERXlJUnlOaThpRmRYYk1jVmdwZDI2dGFDN0dvZ0ZGNGpKVmpaenBGUEV4ZVJpV09NMGhlaHprOXlRd1ZZZklhb1BNSS1qNVZPNlFobkFpTTJfcFFyMnpTQjItRTlaRzB6M1FxUFZGaDhwckd1Tkp3MFowWTY5NkNUZ3ZzdTNlMjU0elpOR2Q0UklIU1gyaElXS3BrSmo0blBGaHZ2WGZHSHU1aGIzMzdhMVVWMU54akNnX0I0aFZXckROZmZqV0ExeG40U0pNYktRaXNHRGx6eDhob1Y0ZDJCN05DdGF1OUo?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ashdod10.co.il"
+  },
+  {
+   "title": "\"הניתוח שלכם לגבי איזנקוט והציבור המזרחי מנותק מהמציאות\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlhWOHYtOFBIR1hBT1llMXh1c0xpRHFWcFIyQXpHc0JWWVJiQVdTMlMtemZkQlBfX3d1U05NLTdPWDZVaXg3Q1VrRUFRYzR4amVoLUJ5NE5YV0lxU1g4WV92cUxKa0hhbHQ4TmppTXpjQTdxdEhZNzZ6U2VvMVBEZQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "ינון מגל לא ציפה שזה יקרה לו | רייטינג",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG5VWUNMUmhLSXoydUxCQlpUZk0zVlRveHlHVDN1VlI1OU12eXlnRVhIWUo4VlpZTk1YUEdsdFZxMTNoNGN5UlFqMl9rS2x4X1A3SC0wLXc2R2lLMlZ1cTVQWE1fekc3OGFvUWQ4Wng4anBCYnFoNDBaQkdkMWVvQThTU20za09tVTNIVHhtLW9mZEVBRVdkaGF5cFF5eVp4VXZxdmxWVndoVFFhUUJFWmloek16UXFWclZV0gG7AUFVX3lxTE5YblVZQ0xSaEtJejJ1TEJCWlRmTTNWVG94eUdUM3VWUjU5TXZ5eWdFWEhZSjhWWllOTVhQR2x0VnExM2g0Y3lSUWoyX2tLbHhfUDdILTAtdzZHaUsyVnVxNVBYTV96Rzc4YW9RZDhaeDhqcEJicWg0MFpCR2QxZW9BOFNTbTNrT21VM0hUeG0tb2ZkRUFFV2RoYXlwUXl5WnhVdnF2bFZWd2hUUWFRQkVaaWh6TXpRcVZyVlU?oc=5",
@@ -303,6 +323,19 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [
+    "ינון מגל",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "13tv.co.il"
   },
   {
    "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
