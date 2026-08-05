@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T15:30+00:00",
+ "updated": "2026-08-05T15:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,51 @@
   }
  ],
  "items": [
+  {
+   "title": "בניגוד לחוק: בעלי ערוץ 14, יצחק מירילשוילי, מחזיק במקביל בתחנת רדיו אף שפקע ההיתר",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGpjSHNRdW43dzJ2c2FvTGd3Tmd5a0JBTWdIRm5KUUpYVU9GT18wSjJfY1pWTk1oWEZ0WE5mazVTUUJPU3ZycHRncjFERGRXQ2FySmNfVjVKSV9jRnFwV3g3YTlGXzR1ajM5NVZtQkIyaExJWjBGR3dfZjNteFlMNVB1UkUwaFhKNGtXb0stLUdEdnl0TWNYZ2VVZUtuVVVLclhMRmN6QVlsRTQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "ערוץ 14",
+    "מירילשוילי"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "ינון מגל נכנס בעינב צנגאוקר: \"מטומטמת, כפוית טובה ובהמה\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92YlI4SExRbzFzdVZudXlxUDdGbWFlbnk5YXJhcVF6UXFQNmdJNVhFajNsaWxvZVliYWpXa0Rmem5RclVObkh3TVgyZ2dpX3pCOWJMSnNGUU1TdGdv?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "בקריאה להתיישבות בלבנון: נערות ישראליות חצו את הגבול | צפו",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91REM4OW9aSHJHaEFzVWJxbGh6X1VyZmQtZzlTVzJYVFFjT0xHenVOX3FqMVdaVnZ0dFMtMG5xMVR3ZWctMjJDOC1UOUJmQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "שובל מסתורי בשמי דרום הארץ וטיסות שהוסטו מנתב\"ג | תיעוד",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVU1ZOTzBrejBxejBzcWVQaUtsSWVIaFdoM1hiZC14Tno2bjhrcUZOUEJOb3BVNjU0M0NOZDBPdWpnWmp2bHdvMzBXM1pIQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "בניגוד לחוק: בעלי ערוץ 14 מחזיק במקביל בתחנת רדיו אף שפקע ההיתר",
    "url": "https://www.themarker.com/news/themedia/2026-08-05/ty-article/.premium/0000019f-d266-d04a-a3df-d6e6f6250000",
@@ -545,21 +590,8 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-04",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
    "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
    "date": "2026-08-04",
