@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T13:00+00:00",
+ "updated": "2026-08-05T13:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,28 @@
   }
  ],
  "items": [
+  {
+   "title": "\"עובדת מהעוטף נלחצה\": עדות מרגעי החרדה במטה הציונות הדתית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nNVpfOHNRRkdxVjZLUk5nM1JfTGlIcy1yV2V2dHNHRFJsVEowSWM5X1dva2NQeXUtQlAydmJ0MThhcWRPS29OX0dFaHhuQQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "רשות התחרות אישרה את עסקת המכירה של הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12Tkl2dkdjSVJhSG5BVnVxSDBVVzJrbms3UmJtcS1JQjNJMjZZdVV3NWVWc1Z4eEwwZXBLeXRDSU9lVFpGbzBkUlNsb25tTDNMOWNaX2tMTkozTktMUERZZmJRNGdsa0tp?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "כשהנייר הפך לבינה מלאכותית",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15cG9XNUlPeGZqQ2k0enBXSXZGeERwcDR6dXBVeUVWVFVid0FsSGdyMDlFSmNkTV9fcVI1SHN1aG5TWERDVkZTZ1JKcTRrZw?oc=5",
@@ -467,21 +489,8 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-04",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
    "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
    "date": "2026-08-04",
