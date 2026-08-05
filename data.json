@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T17:45+00:00",
+ "updated": "2026-08-05T18:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רשות התחרות אישרה: הוט מובייל תימכר לפי שווי של 1.8 מיליארד שקל",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13TjVqR0QzSGEtMDhXbjlubHFBb1Jhb0tJZTFZdnRQa1h5TTV5djEwOG9DZ2tRcEkwVW1NTFc0LXVxWmo3eE12NjQ4RUpfTGItY1lF?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "הידברות"
+  },
   {
    "title": "בעלי ערוץ 14 מסתבך בענק: בדרך לאבד את השליטה בכלי התקשורת?",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWXJTcnlKOU9hS3JpNG5zTFJJTl9WQUNrZFNZV3l0VlVuSy1jUDFXaVp4YTZOZ0xoRzBDVTBYY3lKNl8zTTlhb3BKWTNFUkNkczlVZ040S01nelk?oc=5",
