@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T11:30+00:00",
+ "updated": "2026-08-05T11:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,13 +180,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,39 @@
   }
  ],
  "items": [
+  {
+   "title": "כשהנייר הפך לבינה מלאכותית",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15cG9XNUlPeGZqQ2k0enBXSXZGeERwcDR6dXBVeUVWVFVid0FsSGdyMDlFSmNkTV9fcVI1SHN1aG5TWERDVkZTZ1JKcTRrZw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "המכון הישראלי לדמוקרטיה"
+  },
+  {
+   "title": "\"זה שיש לסולברג כיפה לא מרשים אותי\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2NVOHJpVkZPOEppQk5TYXREZUhSZGk0YXdENHdkUnQ2eFRTY2pBZGl6cmhnbm51ZU5YdURmbzVmR1VNV3VrMGVjdmpiY1NvNzlPTHNxNHUzRXd3Mnd2ZlVNbEs3YjZSMUoxQ1NSQ2R4b1dqWUNldU9faEE4Z0ZTag?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "103fm.maariv.co.il"
+  },
+  {
+   "title": "דרמה בשוק התקשורת: i24NEWS יוצא למלחמה בבג\"ץ",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GeGNpWEJMUzBNTzZwM09yZjk0SjlDRFdCTC1CWk81Y2hzQjZVZjVuTDUxTUNhRnNWOTEyZENPNElKSUxrMHB4c0dnOXcweVM4bU1hWC1jTmJyd25y?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-05",
+   "keywords": [
+    "שוק התקשורת",
+    "i24"
+   ],
+   "pv": true,
+   "publisher": "ice.co.il"
+  },
   {
    "title": "דואר היום ליום רביעי, 5 אוגוסט 2026: הקרב על טוהר הבחירות",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vNld5UktRWWhBbnJqWVNxdWtzTjBLckRKWGI4bXl6cWJqUmc1SXUybmk3c05FWmRqMndUWERyOE16N0hqNUp0cnV0Vzg0YUJrOUtwbWdxcng?oc=5",
@@ -434,21 +467,8 @@
    "publisher": "ice (אייס)"
   },
   {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-04",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
-  },
-  {
    "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
    "date": "2026-08-04",
