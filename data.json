@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T00:45+00:00",
+ "updated": "2026-08-05T01:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -269,6 +269,26 @@
  ],
  "items": [
   {
+   "title": "למרות הדממה בישראל: הציוץ של השר אחרי הפיצוצים",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdW5lQnFELUNvUmlGYW1RNnVLNTNjR1ZLRUdYZWZ2ZlVzYzhoZkM1V0lzWExhN0xUN29xeUU5NmJTUWNTcDNJYVVUejBYTlF5T21VdHp0RmtibTRvQ1gwem9FZDA5RXI2WDI4SllpOGI4UVQ5VGw4bGpwWXRmYW5rV3g5TWRIWEI3NXhMSmpua3IxN1hyUEJnVXNZT3V6R2tmSVc1S09abXRZVVo0WUZ3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "מכה למערכי המרצת הבוחרים: נאסר הדיווח בזמן אמת מהקלפיות",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaYnUtZWkzWW5aNWxZSDU4cVVVMDJ1VU9VS21XcnVuUUpSUjFOVXU5Tkt2VjMwQzViYjJHZVZRZ2h2anY1WkIzYW9tTy1PQU9FazJ6QjBEX0N6Vk4xQzdBX3BR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
+  {
    "title": "ענבל שגיב נקדימון: חוק השידורים שהבטיח \"תחרות\" יוצר ריכוזיות לטובת אילי התקשורת",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5RTY0c2xLUjVZZjJyZjRXOGVrX3hLUWxPbE1RVlk0OHB5S2p1Ti1HQk40cExMakZlR2g2WWVad3BoSkJt?oc=5",
    "source": "חיפוש גוגל · שלמה קרעי",
@@ -291,7 +311,7 @@
    "publisher": "זמן ישראל"
   },
   {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
+   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1dCamI0ZlhHYktCZ3BUVlVFN19KMU9DLWw0ak53SlRsbEtHUFNwOXRoV0o3a0ZhQVhrT3MzLXZrNDBJOVpEd0dEdWpnNE5xeXBHX1pBNHhWYXVfM1BHdkM3S0txaHQ2UnJ2OWp5cUZZMlVCdUtIS3hnUlFPYTBxOWRB?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
@@ -314,19 +334,6 @@
    ],
    "pv": true,
    "publisher": "103FM"
-  },
-  {
-   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-04",
-   "keywords": [
-    "ינון מגל",
-    "ערוץ 14"
-   ],
-   "pv": true,
-   "publisher": "רשת 13"
   },
   {
    "title": "העברות החינוך אושרו למרות התנגדות האופוזיציה לכינוס הוועדה",
