@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T13:15+00:00",
+ "updated": "2026-08-05T13:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רשות התחרות אישרה את מכירת הוט מובייל לפי שווי 1.8 מיליארד שקל",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dEd4TTB6bko5N2x0MXhTQUo5cDRiZWV1cDduU2QtcHNFcEgtVnFIVWRyM2NqN1ZJY1Bnc242bHZyRERCTFpJRXVlLVFJRDJSZ1c4Q0lQN2k4WEZlbVh1RQ?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "ynet"
+  },
   {
    "title": "\"עובדת מהעוטף נלחצה\": עדות מרגעי החרדה במטה הציונות הדתית",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nNVpfOHNRRkdxVjZLUk5nM1JfTGlIcy1yV2V2dHNHRFJsVEowSWM5X1dva2NQeXUtQlAydmJ0MThhcWRPS29OX0dFaHhuQQ?oc=5",
@@ -487,6 +499,19 @@
    ],
    "pv": true,
    "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית – וערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcU9GOE5uSzJxYUR1M01LbXdKeHJEbTZycXM2RG54YVBTX3lFSGtHQlBDcTlSSmp4QmJ5d2tfZU9hTGpIQnZtemhDM1NWLUdxMU1DSTlfV1dqRllvclRWTDFnWEczZUFVWXU0S0VWdmNidnZLUzBRZDBSaw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-04",
+   "keywords": [
+    "ינון מגל",
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "רשת 13"
   },
   {
    "title": "מצעד הטרלול: איתן נוימן, ינון מגל ובן כספית",
