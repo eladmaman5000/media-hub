@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05T22:00+00:00",
+ "updated": "2026-08-05T22:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -269,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן - מי הילדים שלך\"",
+   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rdzhNYURhQ2RNNkdsZWI1N0xjcGRZWU0zOVpkUzNacG1yRWZPaXkyMndweW52UEE1Q0JUQjM5SWRGaFJKTEh5QVFzNEtXWEJLUGxjNU5zZFBxdFFyUGJXdUc4OEh1d2lxM2RpNW9pNjNKQXBh0gF0QVVfeXFMT2t3OE1hRGFDZE02R2xlYjU3TGNwZFlZTTM5WmRTM1pwbXJFZk9peTIyd3B5bnZQQTVDQlRCMzlJZEZoUkpMSHlBUXM0S1dYQktQbGM1TnNkUHF0UXJQYld1Rzg4SHV3aXEzZGk1b2k2M0pBcGE?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
@@ -703,6 +703,18 @@
    "keywords": [
     "ינון מגל",
     "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "שלמה קרעי: כל התגיות והחדשות החמות באתר על שלמה קרעי - אייס",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlpYd0xuYXVqZmdXNkJJeVhHNGJMWUJMT3dtZmE3Mmw5VEd3VWNYUklEWGZYSVl2eTBEMEVhN28yU3lTSy0wNVFCa1VwaDVleUtGUjNLQkFadE9YaFBxdVhEYnoxdmxWcVQ1ekgyTDF6SHFCdTVjVGtDanU3U1hCSDdGbjJjTkk5TDhiZzRR?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-04",
+   "keywords": [
+    "שלמה קרעי"
    ],
    "pv": true,
    "publisher": "ice (אייס)"
@@ -2020,6 +2032,18 @@
    "pv": true
   },
   {
+   "title": "ככה לא מחוקקים: החוק להחלשת התקשורת הפך לבדיחה",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZUR5MUFQTVN2bkVSeWpKU2Q0TDVhZVdBU08yN0c4dzVHWmpTV0s4dXVzZmt0NGJWNWdXRE1jZW51N1hFTUc3NmxLLU5TZFNuRUY4cWlud2FETDdmT2hZWEcwM2ZSaFRfZGNCSWtRa3VObWYwNDk1bDdZN0hnbU0?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-15",
+   "keywords": [
+    "החוק להחלשת התקשורת"
+   ],
+   "pv": true,
+   "publisher": "mako.co.il"
+  },
+  {
    "title": "למרות הרייטינג המדשדש, המדד מוכיח שלתאגיד השידור הציבורי עדיין יש ערך",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001548388",
    "source": "גלובס · נבו טרבלסי",
@@ -2099,6 +2123,18 @@
     "שלמה קרעי"
    ],
    "pv": true
+  },
+  {
+   "title": "רה\"מ נתניהו הורה לזיני לחקור את ערוץ 12",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sSEN4VWVkSm5Ua3k4MkxVSVp0T1NOdjk4TWdrN3Z0XzhBNFREeFFndXMyM1BoSmV5NGgxbGZXVDUtTkJGZmdxVmU5Y2NQamQ3VEljY2JrYkxkd0J5WkhRMWJqS3FQd2dITVc0Y3dyVjRzcTgtRDZZVm5XNDdidw?oc=5",
+   "source": "n12 / מאקו · חדשות 12",
+   "type": "site",
+   "date": "2026-07-11",
+   "keywords": [
+    "ערוץ 12"
+   ],
+   "pv": true,
+   "publisher": "mako.co.il"
   },
   {
    "title": "קרעי התקפל מול החרדים: האפליקציה שאמורה להחליף את עידן פלוס תוסר מהחוק",
