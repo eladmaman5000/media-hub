@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T15:15+00:00",
+ "updated": "2026-08-06T23:03+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -192,13 +192,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -234,13 +234,13 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -268,6 +268,80 @@
   }
  ],
  "items": [
+  {
+   "title": "יומן בחירות: יום חמישי, 6 באוגוסט 2026",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1sNzZ3UVVjVlkyVHFMS253UC1rVFp4SlpvQzZxM2k0aHA3ejY1QkV1bUtFQmlPOXVwQzNxa3lWV3d5Qnpw?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
+  {
+   "title": "סולימאן מסוודה החליף את מוריה אסרף - ונתן הודעה בלתי נשכחת",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lU2JhNFA4Umt1aVNFc1RyY1BkaTA4QUtkWWhVSm1GZzdFSVNYU25pa2tOTG5nNENmUEJaVUx5LWoxRjI0RFJ2ZFVmM1kwUGE4ckVabGdnMEdJU2VoaHdYTQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "במערכת הביטחון בודקים: ייתכן והפיצוץ בלבנון נגרם מתאונה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zUHIwSm1NWlJYVEVMLWpNUFlKX28wUzZsT3lrbzdTaWFHNHphU213c0ZnWEFpWGNnSzNOSnVfcWgzZWpFYkF5Rk5kdHo0UQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "לבן גביר ברח תנין | החדשות הלא חשובות של השבוע עם יוסי עבדו",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5udGpndVZSUDBlYzlXV3lGTzZzTXZvX0FleTY1N3FNWTN3V3ROSkd4ZExzZnVxYXgxRXRZWWh3clJrX1Y5OXFpbFVia09ld3U0OFNlXzl4NXpLRGViNVBUcFA0SFQxZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "כיכר השבת"
+  },
+  {
+   "title": "הרשימה נחשפת: אלו 15 הישראלים העשירים ביותר",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uZEE5elpxZGtjaTBBZXVGd3poc3Ywa2F2UmdaU3VZYkwyR2x6em1OdkdvSjA3dTRhMnZQbjRXaDdNNmY5MWpkSmg0Nk15Zw?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "אמס"
+  },
+  {
+   "title": "לאחר שניצח בתביעת המיליון - גיא פלג זועם: \"מאוכזב מנשיא העליון\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNWk1TFZZd0xvXzR3XzllTzByNU9KdzVlNm5sX3QtYlQyV3VfcDJNWjlYUlRhdkRjOVVkSktXbnZYMVlKOHEycUtGc0h0d2FKY19IMzFyc3E3OF9n?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-06",
+   "keywords": [
+    "גיא פלג"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
+  {
+   "title": "מינויים חדשים בהנהלת i24News: מנהל תוכן וראש מערך דיגיטל",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UUlRFRm9PYkFFeE94R1JOYjUwSHpTSnNOOFdQSk8xSUdhX1NiajZjUVVIWDVfcjl0OURPNXVvR08tQlZRd0dmWGUtbUF2d2swNWpiZkxfcTBYeHM3Q0xMRDBB?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-06",
+   "keywords": [
+    "i24"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "למרות קרעי, עסקת ענק: אסף רפפורט רכש את \"ישראל בידור\" בכ-48 מיליון שקל",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY2lBQnFKRnQ2SHpiQ21IWUNqc1pfZHFZdmVCOXVZa19vUm01eDJTSkZIQjBpd0xEcFB1TkUzUVoyOEFPRFk4VGdHLVlFMHRTYWstekVRUXh5cmp3TlZneFdRbF83Zw?oc=5",
@@ -1770,6 +1844,18 @@
     "ערוץ 14"
    ],
    "pv": true
+  },
+  {
+   "title": "בג\"ץ הקפיא את כניסת חוק התקשורת של קרעי לתוקף",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiWEdfcDVqREU1eFA4ajg2QzMycTVuWnNMUGtEdTVhZjRvUzl3b29uYW0xd1pxc21XSmRaUTMycjhFbHpEekQzLTZfLVJDYmhQNmRlVHJPa1d0ZUN5WWpqcnFDUnFMc2vSAW9BVV95cUxONzhpQlFVRjBrQ21MOXJGUXZidFR1b3dlMjRRMk1KNC1mOW1jSl9VV1lNM1VXbGc2dmE2UWw2NTF1SjdYcVhUbkswbDRHRHBuRENmNWloQUhtSVBmb0tDNnJQejdTVmJTSFdCVXRRUVE?oc=5",
+   "source": "ישראל היום · אלינור שירקני קופמן",
+   "type": "site",
+   "date": "2026-07-19",
+   "keywords": [
+    "חוק התקשורת"
+   ],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "בג\"ץ: הוראות חוק השידורים של קרעי יוקפאו עד להחלטה אחרת",
