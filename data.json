@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T04:15+00:00",
+ "updated": "2026-08-06T04:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -192,13 +192,13 @@
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל יורד מהפסים: כך אמר על ילדיו של איזנקוט, כספית התפוצץ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IQWNGb2hObVpGSnowVUtaM2NnUVJmd1JUNEEwLTNPRTVHdmVra0E4MjZJVUZ1dUZoUmxZalJqNzE4YUc3ZVBTN2g0VnRWdExtTDY4eXpHdXJPbmM?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
+  },
   {
    "title": "סולברג חטף מברדוגו, שטיין — מחנוך. אז איך דווקא קליינר יצא בזול?",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDJ0b1B6RVkwT2diWDZscEdrdF9mb1ZLMHdRTnNGcjlzQTZIUkVkZzJnZGNhRFZrUlJLWWRhZjI1NTBfVHVaaDFjanEtTWtqZExsdC1xdGRYQ1dmcDBRbFB2elcwV0hMdGhIbWpFeGQwY3B2LWZsSl8ycjJ5YVpQaG1RS2U5VHRVYm9nb19BYXlxQ0pBRzlFbHppdUdIYXJiRzBVVUdDeWZfbHc?oc=5",
