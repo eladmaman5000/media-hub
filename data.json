@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T09:15+00:00",
+ "updated": "2026-08-06T09:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,13 +180,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"ינון מגל מתברר כקמפיינר הכי טוב ויעיל של גדי אייזנקוט\"",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2hlN1BDVjB4QkdReXRxNjQ4aTc3MTYyZG5mLXZyaHFPT2EzazZZd084Q3dZc1FDY2RRSHdMUmRmOWRncHRFZkIzVFB0eVZsQ2wyNi01NGI5dTdVT2ZKUndMZ1pNdGh6Uk5Sc2pqcHZaUXZwdDNiOUREYjRha3AzWHlXNV9SOGJIVUM2MnBTNXVjQjh4NDZqTXVmWm52NlR1SjV1amw3cjRvM2ozanNIVXRBSdIBuwFBVV95cUxPS2dkSXgyLTgxcmt6NndZTkpGVFYzaWpIWndfY2RQb3RtUXRZd01jcGt3YWNxbG50eXFXT25aOVd4VXVFQ0xMWG53NFIxN1dsYU1wbV9nWkEzcFBtUU9ZNlEwSl9XM1pfSXJpUHpZNktWdkxlWjBBcGNMXzJ4eXJMT0lGems0STJZNmhrWVJ5OVhkVDBZclYta092c3lkampjNzJwWURJQkVTSzFBRjFtdy1CNmFFUDRDX2FV?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "לא ינון מגל: זאת האהבה הגדולה שבן כספית חשף",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SOXJkVjlkZWkxeklJa01HNDROMXJPb0VGaGpOdlBwU2NWUnpQVkFFeFJXbk95elZ0ZEpNQnhDeGpqV2IzQ25FTEFXdEw5bjcwc0JZc0JPeFE0d3lBLVh6UjBOeGk?oc=5",
