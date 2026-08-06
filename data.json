@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T12:00+00:00",
+ "updated": "2026-08-06T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -150,7 +150,7 @@
    "source": "גלובס · נבו טרבלסי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "גלובס · גלית חתן",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,39 @@
   }
  ],
  "items": [
+  {
+   "title": "עד השלמת הרכישה: מנכ\"ל הוט מובייל אילן ברוק יסיים את תפקידו לאחר שבע שנים",
+   "url": "https://www.globes.co.il/news/article.aspx?did=1001551585",
+   "source": "גלובס · נבו טרבלסי",
+   "type": "site",
+   "date": "2026-08-06",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true
+  },
+  {
+   "title": "אתגר הרביעיות סחף את הצופים: \"רוקדים עם כוכבים\" עם 494 אלף צופים",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOS1ZfTUdTazZsZmt4OHpHQjhvOVAxTjFmWW5pMkJ5NElxaDNGWVI1ZGdHVUxTLTdpZEplbzdodU82bm00cERHa2RnU2gzeFhtdV9KYUhkOWs1bnNPUXBVR21pQW05Nzk5czlVYlpnQlRtdlpuc1BPZnZEZlVnaWM?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "ביזפורטל"
+  },
+  {
+   "title": "מה עומד מאחורי מהלך ההשקעה הכפול של לאומי פרטנרס בעסקת הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV0x4SWJWeUkzbk9fRkhoSFppUnpSLVE4aGNXUUR6WHNhX3U2Wm5JN1FGWVEtSGxyNFFZcUpvZ0NLMWlYNHp3WG44eWJQY0l6R3RrVk0zMkFPWUU1YjhNd05vdWozRHlC?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "אחרי שדיבר על ילדיו של גדי איזנקוט: הקולגות מסתערות על ינון מגל: \"באמת אדיוט\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMOFdweExUbXA0VWFONHpqS29SQlotLVVnZnFabHBwanVhRW5nRDZLVHFEYkhrSlFSdWUtSWdTbm9RRnhMcXlOc3NZRUgyWXhXMjFWcWhNS0cweUdnQVBqYkNkYms?oc=5",
