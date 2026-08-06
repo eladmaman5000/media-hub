@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T12:15+00:00",
+ "updated": "2026-08-06T12:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -234,7 +234,7 @@
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "בעקבות האישור למכירת החברה: מנכ\"ל הוט מובייל אילן ברוק פורש",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeXhjazFPNXRHMjFURTYwQUVFVVJLUVlrQlFkLTVFd0FUdVpQWEp4eW5CaVo2ZE5ucUFNNlBxd2lOanl0c1l5d0hseXc1NnJpaDlMdjF5Zk5WbHdhOHJRbFZTcFZkMk84?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "Calcalist"
+  },
   {
    "title": "עד השלמת הרכישה: מנכ\"ל הוט מובייל אילן ברוק יסיים את תפקידו לאחר שבע שנים",
    "url": "https://www.globes.co.il/news/article.aspx?did=1001551585",
