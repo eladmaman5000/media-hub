@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T12:47+00:00",
+ "updated": "2026-08-06T13:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -179,107 +179,92 @@
   {
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 2
   },
   {
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 0
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 1
   },
   {
    "source": "n12 / מאקו · חדשות 12",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ice · תקשורת",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "ביזפורטל",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   },
   {
    "source": "כלכליסט · עומר כביר",
    "kind": "site",
-   "ok": false,
-   "kept": 0,
-   "err": "HTTP 503"
+   "ok": true,
+   "kept": 12
   }
  ],
  "items": [
@@ -472,6 +457,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן - מי הילדים שלך\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rdzhNYURhQ2RNNkdsZWI1N0xjcGRZWU0zOVpkUzNacG1yRWZPaXkyMndweW52UEE1Q0JUQjM5SWRGaFJKTEh5QVFzNEtXWEJLUGxjNU5zZFBxdFFyUGJXdUc4OEh1d2lxM2RpNW9pNjNKQXBh0gF0QVVfeXFMT2t3OE1hRGFDZE02R2xlYjU3TGNwZFlZTTM5WmRTM1pwbXJFZk9peTIyd3B5bnZQQTVDQlRCMzlJZEZoUkpMSHlBUXM0S1dYQktQbGM1TnNkUHF0UXJQYld1Rzg4SHV3aXEzZGk1b2k2M0pBcGE?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
   },
   {
    "title": "כיסאות, לום וסדרנים שנעצרו: הכאוס במשחק גביע הטוטו",
