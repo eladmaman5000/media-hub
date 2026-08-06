@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T07:30+00:00",
+ "updated": "2026-08-06T07:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ינון מגל פתח על ילדיו של איזנקוט וחטף מהקולגות: \"אידיוט\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kcWF4NlFmOHU2MGRET1k4TFE1NmVZME5UenlPOUQzamtlVjhzSldhWERfUloyY21NQ082eUhjWjMycWRXc3p0dW1uamhIR2JRQTZQcmRfMVpmU09iZ1dGc19B?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "TMI"
+  },
   {
    "title": "כשהאלימות מגיעה משמאל, פתאום כולם שותקים ונעלמים",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xWTBJOFlxRVZVQTdfV1A4ME9FbGdIb1ZPalNVTjZ3Q3lzckZCUWtBRHpvMGV3X2pOZTdoalZqOVBYRW4wZF9LNE5JUjROZw?oc=5",
