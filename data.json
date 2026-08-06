@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T00:00+00:00",
+ "updated": "2026-08-06T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,28 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה למערכי המרצת הבוחרים: נאסר הדיווח בזמן אמת מהקלפיות",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaYnUtZWkzWW5aNWxZSDU4cVVVMDJ1VU9VS21XcnVuUUpSUjFOVXU5Tkt2VjMwQzViYjJHZVZRZ2h2anY1WkIzYW9tTy1PQU9FazJ6QjBEX0N6Vk4xQzdBX3BR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
+  {
+   "title": "ינון מגל ובן כספית",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakVVdkdrRDJaSEZadm1sY2s2SUdkTHAzUnRfdE15WUk5VGFjLWdzSzg3YmpqVWEwdEhySXNNM2IwX09tMTBpSWZlZWJNd0c5WVNKOHQyY0kybFFUNEVsMW9ld1BJQWxKVkZERlk2cUI3RGV6RXQ0TkxGT3IzRGM5dw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "103FM"
+  },
   {
    "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rdzhNYURhQ2RNNkdsZWI1N0xjcGRZWU0zOVpkUzNacG1yRWZPaXkyMndweW52UEE1Q0JUQjM5SWRGaFJKTEh5QVFzNEtXWEJLUGxjNU5zZFBxdFFyUGJXdUc4OEh1d2lxM2RpNW9pNjNKQXBh0gF0QVVfeXFMT2t3OE1hRGFDZE02R2xlYjU3TGNwZFlZTTM5WmRTM1pwbXJFZk9peTIyd3B5bnZQQTVDQlRCMzlJZEZoUkpMSHlBUXM0S1dYQktQbGM1TnNkUHF0UXJQYld1Rzg4SHV3aXEzZGk1b2k2M0pBcGE?oc=5",
