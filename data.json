@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T14:30+00:00",
+ "updated": "2026-08-06T14:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -228,7 +228,7 @@
    "source": "חיפוש גוגל · גלית דיסטל",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · פטריק דרהי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "תושב מזרח ירושלים נעצר בחשד שאיים לרצוח את ח\"כ סוכות",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mYjhYcXFFaXpaZS11aTl2RFJTZzVicV9lN3VtRzhxY0l3Qnk3dnc5THo0OG5xelU4R2JfRWxmdDJ2NElvbGNkN3FmaVVydWxNSkFXdzFNYnFTVDF6Q3UxdlhR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "בעקבות האישור למכירת החברה: מנכ\"ל הוט מובייל אילן ברוק פורש",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeXhjazFPNXRHMjFURTYwQUVFVVJLUVlrQlFkLTVFd0FUdVpQWEp4eW5CaVo2ZE5ucUFNNlBxd2lOanl0c1l5d0hseXc1NnJpaDlMdjF5Zk5WbHdhOHJRbFZTcFZkMk84?oc=5",
