@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T08:00+00:00",
+ "updated": "2026-08-06T08:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "\"הרצתי אחורה לוודא ששמעתי נכון\": זעם בעקבות האמירה של ינון מגל על איזנקוט וילדיו",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNM0VMYUQwLXJTb3F2UGdFRzRWVWJKUktHeGh5WkZkd1FZcG42dUthajNRM0ZJVVY2NzhEeE5SeVlrVWcwbTJUaU93?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "וואלה תרבות"
+  },
   {
    "title": "זה הדבר היחיד שגורם לבן כספית לשכוח מהפוליטיקה",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55M0UtN1VQWF93dHNHcDE3cDBUQzNMeUtTMkNMUkFwaloteG45bkpPaXhVWnE1YjZBSkxCUmo4RGEtYUhFcDIzUU9FWGNFdjh0REJtUVViRlJzTDhPcFlwZg?oc=5",
