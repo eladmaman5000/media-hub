@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T03:30+00:00",
+ "updated": "2026-08-06T03:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -277,6 +277,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "צנגאוקר עקצה את \"השופרות\", ינון מגל התפוצץ: \"מטומטמת ובהמה\"| האזינו",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VVmp3cnNLQlZERzJoczRWbUNmM20zQnhxczRSYlVUNm1hZHJpUlNDdnFnY3ZIUFQ2amt5WHEyZHFURXdDTHpDN0o5c1owNm9NRlFxQnQ4MjJ4TGpxQ1hieUc3Tks?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
   },
   {
    "title": "נתניהו למתגייסים בבקו\"ם: \"האחדות רחבה ממה שחושבים\" | צפו",
