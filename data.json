@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T15:00+00:00",
+ "updated": "2026-08-06T15:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -240,7 +240,7 @@
    "source": "חיפוש גוגל · יפעת בן חי שגב",
    "kind": "google",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "n12 / מאקו · חדשות 12",
@@ -268,6 +268,19 @@
   }
  ],
  "items": [
+  {
+   "title": "למרות קרעי, עסקת ענק: אסף רפפורט רכש את \"ישראל בידור\" בכ-48 מיליון שקל",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY2lBQnFKRnQ2SHpiQ21IWUNqc1pfZHFZdmVCOXVZa19vUm01eDJTSkZIQjBpd0xEcFB1TkUzUVoyOEFPRFk4VGdHLVlFMHRTYWstekVRUXh5cmp3TlZneFdRbF83Zw?oc=5",
+   "source": "חיפוש גוגל · יפעת בן חי שגב",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ישראל בידור",
+    "אסף רפפורט"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "תושב מזרח ירושלים נעצר בחשד שאיים לרצוח את ח\"כ סוכות",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mYjhYcXFFaXpaZS11aTl2RFJTZzVicV9lN3VtRzhxY0l3Qnk3dnc5THo0OG5xelU4R2JfRWxmdDJ2NElvbGNkN3FmaVVydWxNSkFXdzFNYnFTVDF6Q3UxdlhR?oc=5",
