@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T14:45+00:00",
+ "updated": "2026-08-06T15:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -2178,6 +2178,18 @@
    "source": "ישראל היום · אילי זילברברג",
    "type": "site",
    "date": "2026-06-23",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "היום"
+  },
+  {
+   "title": "העתירה שעצרה את הזרמת הקמפיינים הממשלתיים לערוץ 14",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NY3lPVnU1STlPdnBqYS1neS1fSTBLTk9jMU5BR3gtWDR1RDVIVTg5bGRKWEZFQ1JvS2w4WDFIZ2t5U3hQSXRONXRvZlhCQmdzWjZ3RmJQYzh3cS16UjR1QVZiOTVTZ9IBbkFVX3lxTE9xYTlUcHc0bVhpVWpPYUoxYWtxRzcxVTd5RVlpaExfWk5GQkg0VU9uekg5bHBuRzFkZnNCOWhuZFVBbUROR2NiQnBVT0Q0U1VPcnVpUEx5angtQ2ZlZVAtMlBwdlB3azdUZHlNRC1B?oc=5",
+   "source": "ישראל היום · אילי זילברברג",
+   "type": "site",
+   "date": "2026-06-18",
    "keywords": [
     "ערוץ 14"
    ],
