@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T00:30+00:00",
+ "updated": "2026-08-06T00:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -269,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן - מי הילדים שלך\"",
+   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FY0M3WFlzdUJ5bl9sQzlHOUhKUWVFXzVJMk15WVJrdkowbWpCbS1TbkVzeDlRTFEwbkpHZmFoT0d4eXJfb2I5S0NRLU5vdUljMVI2eXNOcTdWTG9GUDJKSTJuOXk4V0g5NFR5MtIBdEFVX3lxTE9rdzhNYURhQ2RNNkdsZWI1N0xjcGRZWU0zOVpkUzNacG1yRWZPaXkyMndweW52UEE1Q0JUQjM5SWRGaFJKTEh5QVFzNEtXWEJLUGxjNU5zZFBxdFFyUGJXdUc4OEh1d2lxM2RpNW9pNjNKQXBh?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
@@ -299,16 +299,6 @@
    ],
    "pv": true,
    "publisher": "103FM"
-  },
-  {
-   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rdzhNYURhQ2RNNkdsZWI1N0xjcGRZWU0zOVpkUzNacG1yRWZPaXkyMndweW52UEE1Q0JUQjM5SWRGaFJKTEh5QVFzNEtXWEJLUGxjNU5zZFBxdFFyUGJXdUc4OEh1d2lxM2RpNW9pNjNKQXBh0gF0QVVfeXFMT2t3OE1hRGFDZE02R2xlYjU3TGNwZFlZTTM5WmRTM1pwbXJFZk9peTIyd3B5bnZQQTVDQlRCMzlJZEZoUkpMSHlBUXM0S1dYQktQbGM1TnNkUHF0UXJQYld1Rzg4SHV3aXEzZGk1b2k2M0pBcGE?oc=5",
-   "source": "חיפוש גוגל · ינון מגל",
-   "type": "google",
-   "date": "2026-08-05",
-   "keywords": [],
-   "pv": true,
-   "publisher": "היום"
   },
   {
    "title": "אבי שושן חשף בפטריוטים: \"חשבתי שעבאס שונה מטיבי, טעיתי\"",
