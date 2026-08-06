@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T00:15+00:00",
+ "updated": "2026-08-06T00:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "ב-14 דנו בחיבור למסורת של איזנקוט, מגל: \"המבחן - מי הילדים שלך\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FY0M3WFlzdUJ5bl9sQzlHOUhKUWVFXzVJMk15WVJrdkowbWpCbS1TbkVzeDlRTFEwbkpHZmFoT0d4eXJfb2I5S0NRLU5vdUljMVI2eXNOcTdWTG9GUDJKSTJuOXk4V0g5NFR5MtIBdEFVX3lxTE9rdzhNYURhQ2RNNkdsZWI1N0xjcGRZWU0zOVpkUzNacG1yRWZPaXkyMndweW52UEE1Q0JUQjM5SWRGaFJKTEh5QVFzNEtXWEJLUGxjNU5zZFBxdFFyUGJXdUc4OEh1d2lxM2RpNW9pNjNKQXBh?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "היום"
+  },
   {
    "title": "מכה למערכי המרצת הבוחרים: נאסר הדיווח בזמן אמת מהקלפיות",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaYnUtZWkzWW5aNWxZSDU4cVVVMDJ1VU9VS21XcnVuUUpSUjFOVXU5Tkt2VjMwQzViYjJHZVZRZ2h2anY1WkIzYW9tTy1PQU9FazJ6QjBEX0N6Vk4xQzdBX3BR?oc=5",
