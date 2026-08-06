@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T23:30+00:00",
+ "updated": "2026-08-06T23:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,50 @@
   }
  ],
  "items": [
+  {
+   "title": "משבר חוקתי עלול לסכן את האזרחים הערבים באופן חסר תקדים",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOU1hGcEFZTTk1eFVQTWJhQktiZm9VWkUwMG91NFVnazBPZ2U4b0xaU2xvRTl1TktKbXBuQ29uYTlTR016cXFqMWxLemtQUUhxb2RfRmV4RE9NbzNuYV8tTlZZUFV4Z2hVdmo1ZTRvWnFxM0xxdXpzeWwyZk5idmo4WmpIV3FEZmJDdVhGTTRuUkViajlvQVNJSDN3TDZEd3JjNnRzWW9DMU5KRFZNbldvd0tydnhCVmwxdTUtUExJSC1qcjgySDlkZ1V6Q0dLZndxTDJzU1pFSV9MQ2JzanBzWnRnWHpvVHhfbkYxVjVxUlRCNXpRdnhHcjVDRnJ4Nk1pa3diVzZoYjltaV90dWtYeDVBMlJsWWlQZTBVX3Z4bnpTUTJ4QXVVMkRzdXFBU0dmVTBhUHVsNHN1cFNyUFVpRjdwS3h1OHRv?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "שיחה מקומית"
+  },
+  {
+   "title": "נתניהו משתמש בבינה מלאכותית להטיית דעת הציבור בישראל | רן אדליסט",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qRzZVLVF2VVJtNlpPbHBnakJsdDJpX1FlbjR1azIyUFhEM1QtWUl4eTJsR0E2OWZ1MjVPNjJfZXhDNHd2ZWt4VHhMUy1Wb0Q3MmF4YzRYTl93eTl4ZEhKZzdHSDk?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "מעריב"
+  },
+  {
+   "title": "ינון מגל מגיב ליאיר גולן: \"ממציא שטויות בזמן מלחמה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByLWJmbkFtSVhCWWhPQ3gtS3pZVTZfTlROQlRJaHYyeTlGWVZ1dVl4dVg3MUU0NFV1M2tva2hzd0ZEVnRUYVIwSkdLN09NUQ?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
+  {
+   "title": "ינון מגל תוקף את בנט: \"עושה הסברה למשמרות המהפכה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9feDJfSk9DT2p5X0tPM2N2cnk4djNITUdWVVBlN05nSjN3Z0V1S1BfUDFTUDVPQlc1eEV3Y05ZSENLc1JUeXlNdWUwTGVXZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "הסדרנים מפתח תקווה יובאו להארכת מעצר: \"להרחיקם לצמיתות\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15b1JxU2VISHNUS09rSkVVSWVZR0thalZoQmNpQ2VXMG9rS055UVFrZlc5anFSd09MQzJ3U1UyNGpQdVVHc3hCbFJaa0ZiUQ?oc=5",
