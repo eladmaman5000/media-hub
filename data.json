@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T06:30+00:00",
+ "updated": "2026-08-06T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -269,7 +269,7 @@
  ],
  "items": [
   {
-   "title": "רייטינג: לראשונה - ינון מגל ו\"הפטריוטים\" נבעטים לתחתית",
+   "title": "רייטינג: לראשונה",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxSFdKVy1zMXpzc2VpS19QSTBFYmlOZGlrLXhNSGRyUzhYMGVBdF9MS3A5bVpsb1JfMlF3UW1XazBreGJzb1BtdnZKNUNSbmxqMmdfZFlrTC10TXBiaFEyNW93?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
@@ -302,6 +302,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "איומי המרד, זעם ברשת והמתנה לימין: הדרמה שמאחורי סערת הקלפיות",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QRTdPTTc4eWJ2eWFBR1Z4dkhNWXgxbDg1OHgzQTJxRWE0SFRFWmhoV1diT1VxdW56bXRWZWFpSFN0MzZrOG5aREN3QlVZUFktRnhRTk9zLV9ka3FmVnY0NFptZDQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-05",
+   "keywords": [],
+   "pv": true,
+   "publisher": "maariv.co.il"
   },
   {
    "title": "\"גניבת בחירות\": ההחלטה הדרמטית של סולברג מטלטלת את הרשת",
