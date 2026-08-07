@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T03:00+00:00",
+ "updated": "2026-08-07T03:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,13 +198,13 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · ינון מגל",
@@ -216,7 +216,7 @@
    "source": "חיפוש גוגל · אבי ניר",
    "kind": "google",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "חיפוש גוגל · דודי ורטהיים",
@@ -268,6 +268,46 @@
   }
  ],
  "items": [
+  {
+   "title": "פרשנות הפריימריז בליכוד מטלטל את המפלגה כמו סופת סופר אל ניניו",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFN3LU5wd3VXMWZMX2RqZEsxekRLT3JSSXhjYTAwLUlwTU9UYnJzR3l0X2xlMUh3UjFmZmhiZld6MEp4am1DT1dPMk9xRnJHTEw3TTVORUkyUlNjdGpEdUs4VGZReURtVWd3emZxaFdOamtVYkFVY0pXVUJRemhHUjBQRzRCMnEwamhiZ2JZekY2UU1jWGs4aVVadE1mVHc1Skh4Z2N4OGl3UWVvdGk0?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
+  {
+   "title": "\"איזה תותח. איזה חיוך חינני!\": מה עשו השרים ב-380 אלף שקל?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVh4em9FckhuakZENWxpUlhTOGpUdVZEaW0xVGNvcjU1SGlKeXRWRGtCd3lqSmlKZ2ZyV1RON081VVBvTkh5MFIydmdkUlBVYjRDQ1VBTEl5dzc1WnU5SFlBc0FOMWQ0eFRoYllaQ2RXLWI3Wlhid0RkVlJwSjh5dVFTSWdIWXR4UUxGUFllNTBfNXJSTVNtYjBxSG9Oc2ltTVg2Tk1YdnFaOU5MTFpJ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
+  {
+   "title": "Analysis • Smearing Eisenkot backfires, and Netanyahu's paying the price in Likud",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdTRWVlpPYVotbkFwc1l2dk14QXBKU0JrRmVUUGNtNjhUU0lkd01PN1ctY1pZTXBvSUZpVmRZUzhubVhRdVI0akR3cDdPYTBweHBHV25RMFBOMUF0cmg5Z18xTU9kbFAtVUp3S3Mwa3dtelYxNUhBLWprRk01dE92U01lZGdxYlNjcWhJUkxDQ0F3aTdYMVJEUjhIdjNlQ1Etd0hLUVJDUzdCRllEaV9hUWx5bXc1Qko0bFhGNEZyMnVSOG4tZTdLWkVTSUc5U25KWW1udWtZa2JUZFFjd2psZG5sOVUtckZTajRGMWlOc0R1OXBWRnFlZGZDY0tHZWQyN2FOd0hjVll3d1ROZHpF?oc=5",
+   "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "haaretz.com"
+  },
+  {
+   "title": "אמסלם עלה על הבעיה של הליכוד",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEZXMkVPMi1YWl9VUDJXbktrR0x5M2FsLUFPcWEyMnFmNFZDMTFteElTWlZUOUJNNy11WWF6ZWRPSnVMODlUdzQ3aTMxS2ExeHc4R01BY2JPTWNnMWE1c3dlQzJxMGE4UVFHa25YcmtNblM4a3FDSVpXZVMtUHM1QXpaQ0QtNUQ5OG84a1E2emRURXljN2RrVkxoUkw1YjAzT1FWTHVhbkxyd1M5ZHg4?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "הארץ"
+  },
   {
    "title": "כוחותינו תקפו באיראן, דיווחים על פיצוצים בעיראק",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5namNvSU1XeFdGd0NQQUJWcmVmNExtc0lBbkViR1lvZ3ZId2RybmNub3JzazF0RDdNVHU1UklCejN2a2NQU1VhbkxTeGtiQQ?oc=5",
