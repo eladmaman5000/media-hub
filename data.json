@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T06:30+00:00",
+ "updated": "2026-08-07T06:45+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,19 @@
   }
  ],
  "items": [
+  {
+   "title": "הקרב בין ינון מגל לעמרי אסנהיים הסתיים בתוצאה מפתיעה | רייטינג",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXpQRUw0TUh6UDNpcHJEcGlUYXVKZU9pblEyZzd3VmZXb05hcDZJMGxQN1l6STVuTHhRaWdRT0hremZXbWJGMTlrUVNiQ29qSXYxa2hmcmkzNnlKdTRUZTNxYmdNbkF1WDk4U21PeXpFSHYtNjdrTjV0c1Myc2tWZDlTV1ZxSTE4ajk4bmdGejllVzlnVzVLaXZDcUtNQ1M5Z2dKRXFwZnZYdl94QXloRTh0RdIBuwFBVV95cUxQeWdPRlNDMkpITVVkUmtjQTRFTEMyWFdsTmpwYTBDQ2tHdm9RcUQzRHo4N25ZcTlVdWVUVTJIQVdjTVJWRm1ReDVoMldXay11clYxVHJVRE8zX1c3WlZHdGFsZXM4QzNUUjhtSGNmYTRlTVVVUWRIRFhNbEFpbExRZnQ4Uk9QemNoY3REMTZQczFJUU5hLTV1WUxSd0R4UTBPbnpMOXc1NU10OTRCRkZzZGlaOHd1SkxwTG5z?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [
+    "רייטינג",
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "כיפה"
+  },
   {
    "title": "המתקפה של ינון מגל על משפחת איזנקוט הפכה לפיגוע עצמי | בן כספית",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVUozYkhHNF90cHlZbnZLbjZnZFpsbzlkQmJadDh2OThad01qYkxocmpreVl1cERVaDc0WlpKSFlybjhjQ0NpdkQtUHdEeEZ3S1QtUTN1bDdDX09jdmtJS1NDVzM?oc=5",
