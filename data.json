@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T11:45+00:00",
+ "updated": "2026-08-07T12:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "נתניהו ובן גביר התעמתו: \"אסור שיעבור יום בלי סיכולים בעזה\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYRG9DUHptRnRYY1BDTGpUMGF0M3JuNENhMmpjOUxsT0lON2djbHBNQ0NQV0RpdnMtQUpFZEtyQi12cXlyb0pxUVVlTkZLZw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
+  },
   {
    "title": "\"ההליך הפלילי מחליש את הצבא\"",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHhaUW5yZDZFLTdKdmdYa1NhSXdYN0Z3UUJ0cTRsYjVueWFDOFZSb2V6V2otT1MwTTE4NjNBNlN2UTVDbTEwblY5VlZNc0tYNXlsTUh5eWpqcmJWZFRoVWVYZ253bndJc1dRaEpEMnFWcWF1Q3FhUGl3Y2dCWkQzeg?oc=5",
@@ -404,6 +414,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "הניסיון לרתום את כספי הסטודנטים לקמפיין פוליטי - והביקורת",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nTE56Z0ZWRHNMN19XdnEtQk10bjZjZXEwRG5pZnNUeDVhTmJxRU1RTUVCR3VCSFlJaEd6VWJvUGgyVTdNYTkxWGJnVHZRdw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "חשש במערכת הביטחון: ישנם עוד עשרות פרשות ריגול לאיראן שטרם נחשפו",
