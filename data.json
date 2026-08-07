@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T13:45+00:00",
+ "updated": "2026-08-07T14:00+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "מכה קשה למטא: תשלם 567 מיליון דולר בגלל פגיעה בצעירים",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBURkEtRUZmQm54cXU0WW5DeEpuc3VuTFBRRml0dUw2a1ByMTVTZDlvQnZRNmNyNGY3aVJRb09LaEFRX2RLLXhiNmJyZUczZ2t1dURaWmJ6S1BzZw?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-07",
+   "keywords": [
+    "מטא"
+   ],
+   "pv": true,
+   "publisher": "ice.co.il"
+  },
   {
    "title": "מגי טביבי החליטה לשחרר: \"נמנעתי עד כה\"",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xZzF6OWdXek4xZmhveUdYa19vTnh6ZlhYTll5VnVBN3NhS2RrXzNEMk1Od01aN3BrMmQ3cjByLUtxZ3FGdmJ3TWdsdHZRNlBKYUxVMFRGc0x3MGZDcFl5R1JsQWY0azZ4b3U4ZHFn0gF2QVVfeXFMUENjWDM0V3lod3BPM0VnN1ZsR1hMWlgtQWhXdWRnRXN5VWFjYTh5N1JhLWdONnpLdUpDYlo1cjRET1FQcEp1YVVvaW5ramRfWkpIZzNNc2ktSUs2T3FLWldobjROeUJseHk5ZkJtNTM2RVhQRUpXQQ?oc=5",
@@ -424,6 +436,16 @@
    "keywords": [],
    "pv": true,
    "publisher": "הארץ"
+  },
+  {
+   "title": "פרסום ראשון: מפלגת ימין חדשה נרקמת בהובלת פרופ' כהן אליה",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zVThKbl9tUTQtd2NZVmxtTnNsLUxMVVNyOWt4aXRiYlVLbG5VNkJsNERvdGxCeElmTHVmV3F4c0ZOZzhURGVXR01LLTA3Zw?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [],
+   "pv": true,
+   "publisher": "C14"
   },
   {
    "title": "הניסיון לרתום את כספי הסטודנטים לקמפיין פוליטי",
