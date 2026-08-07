@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T03:15+00:00",
+ "updated": "2026-08-07T03:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "ואם יש ביקוש לרעל של ערוץ 14 — אז זה בסדר להפיץ שנאה ולשקר?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGdNbGVzOFNxQml1V2wxb1AzUjJVME5hYldHTUFDUUdzZTAtS1BJWnpnSFJ1ekt0Z3BGbmJRRnd6TzFsc2hOcmdjRW9oLUZ6WGtXOHhKS0RsXzFlQ3UtR1VLSk1fY28xLUUxdTNtOVhJRXI2R19LcE5nTGp0ZS01ZnBueG5OZU1iWm9hMnZzUHBjQk5yYWtKcWpsS2RISmVxZU94WmxKenJlcGc0NFdVc0R3?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "TheMarker"
+  },
   {
    "title": "פרשנות הפריימריז בליכוד מטלטל את המפלגה כמו סופת סופר אל ניניו",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFN3LU5wd3VXMWZMX2RqZEsxekRLT3JSSXhjYTAwLUlwTU9UYnJzR3l0X2xlMUh3UjFmZmhiZld6MEp4am1DT1dPMk9xRnJHTEw3TTVORUkyUlNjdGpEdUs4VGZReURtVWd3emZxaFdOamtVYkFVY0pXVUJRemhHUjBQRzRCMnEwamhiZ2JZekY2UU1jWGs4aVVadE1mVHc1Skh4Z2N4OGl3UWVvdGk0?oc=5",
