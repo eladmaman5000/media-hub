@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T00:00+00:00",
+ "updated": "2026-08-07T00:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -186,7 +186,7 @@
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "רשות התחרות אישרה את עסקת המכירה של הוט מובייל",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12Tkl2dkdjSVJhSG5BVnVxSDBVVzJrbms3UmJtcS1JQjNJMjZZdVV3NWVWc1Z4eEwwZXBLeXRDSU9lVFpGbzBkUlNsb25tTDNMOWNaX2tMTkozTktMUERZZmJRNGdsa0tp?oc=5",
+   "source": "חיפוש גוגל · פטריק דרהי",
+   "type": "google",
+   "date": "2026-08-06",
+   "keywords": [
+    "הוט"
+   ],
+   "pv": true,
+   "publisher": "גלובס"
+  },
   {
    "title": "משבר חוקתי עלול לסכן את האזרחים הערבים באופן חסר תקדים",
    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOU1hGcEFZTTk1eFVQTWJhQktiZm9VWkUwMG91NFVnazBPZ2U4b0xaU2xvRTl1TktKbXBuQ29uYTlTR016cXFqMWxLemtQUUhxb2RfRmV4RE9NbzNuYV8tTlZZUFV4Z2hVdmo1ZTRvWnFxM0xxdXpzeWwyZk5idmo4WmpIV3FEZmJDdVhGTTRuUkViajlvQVNJSDN3TDZEd3JjNnRzWW9DMU5KRFZNbldvd0tydnhCVmwxdTUtUExJSC1qcjgySDlkZ1V6Q0dLZndxTDJzU1pFSV9MQ2JzanBzWnRnWHpvVHhfbkYxVjVxUlRCNXpRdnhHcjVDRnJ4Nk1pa3diVzZoYjltaV90dWtYeDVBMlJsWWlQZTBVX3Z4bnpTUTJ4QXVVMkRzdXFBU0dmVTBhUHVsNHN1cFNyUFVpRjdwS3h1OHRv?oc=5",
@@ -608,6 +620,18 @@
    "keywords": [],
    "pv": true,
    "publisher": "TheMarker"
+  },
+  {
+   "title": "בעלי ערוץ 14 מסתבך בענק: בדרך לאבד את השליטה בכלי התקשורת?",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OQlNpbjZzTEVPSjBEVWJZc0ZBWHJJYldHUHYxNXJmX0pzdVNLLXRuak5jQjdCbDJVX1J2MFMzTEdGQXhxMHV6bHh0d3lnSnNEdkE5djBDdlEtV3Fn?oc=5",
+   "source": "ice · תקשורת",
+   "type": "site",
+   "date": "2026-08-05",
+   "keywords": [
+    "ערוץ 14"
+   ],
+   "pv": true,
+   "publisher": "ice (אייס)"
   },
   {
    "title": "בניגוד לחוק: בעלי ערוץ 14 מחזיק במקביל בתחנת רדיו אף שפקע ההיתר",
