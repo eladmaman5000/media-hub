@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T06:00+00:00",
+ "updated": "2026-08-07T06:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,7 +180,7 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,18 @@
   }
  ],
  "items": [
+  {
+   "title": "המתקפה של ינון מגל על משפחת איזנקוט הפכה לפיגוע עצמי | בן כספית",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVUozYkhHNF90cHlZbnZLbjZnZFpsbzlkQmJadDh2OThad01qYkxocmpreVl1cERVaDc0WlpKSFlybjhjQ0NpdkQtUHdEeEZ3S1QtUTN1bDdDX09jdmtJS1NDVzM?oc=5",
+   "source": "חיפוש גוגל · ינון מגל",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [
+    "ינון מגל"
+   ],
+   "pv": true,
+   "publisher": "מעריב"
+  },
   {
    "title": "הקואליציה לא מחפשת אנשי ציבור שמרנים אלא צייתנים",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95UkhGSW9nZ3pFd2RrWTdYYk9TYVVWSTZ4TnRLcFNwYXdaNmVKdG5HWld3bjJJaXh1a2Y5dW1JNkdjWUJiTndLNlUyeDRQMFVRTXZ6Vko0NHBzSFROSTJyTEpZMA?oc=5",
