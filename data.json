@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T12:00+00:00",
+ "updated": "2026-08-07T12:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -180,13 +180,13 @@
    "source": "ישראל היום · אילי זילברברג",
    "kind": "site",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "ישראל היום · ביני אשכנזי",
    "kind": "site",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "ישראל היום · אלינור שירקני קופמן",
@@ -416,7 +416,7 @@
    "publisher": "הארץ"
   },
   {
-   "title": "הניסיון לרתום את כספי הסטודנטים לקמפיין פוליטי - והביקורת",
+   "title": "הניסיון לרתום את כספי הסטודנטים לקמפיין פוליטי",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nTE56Z0ZWRHNMN19XdnEtQk10bjZjZXEwRG5pZnNUeDVhTmJxRU1RTUVCR3VCSFlJaEd6VWJvUGgyVTdNYTkxWGJnVHZRdw?oc=5",
    "source": "חיפוש גוגל · ינון מגל",
    "type": "google",
