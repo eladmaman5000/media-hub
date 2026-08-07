@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T16:15+00:00",
+ "updated": "2026-08-07T16:30+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "לוין נגד בג\"ץ: \"ראבילו צריך פשוט להיכנס לתפקידו\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12YlR3dHAwTVJXZGVxNUdrWGFhczVCZVREbTltdGkzMl8xUF92TGdrVXpqMFRuZk1NQV80YUgyb3Q2QmNVRHJGY2xVSGN6UQ?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "c14.co.il"
+  },
   {
    "title": "יומן בחירות: יום שישי, 7 באוגוסט 2026",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sdTFIbjhmZDRNdzVQYmE1NjdTN2xRUVFCYzd3UW9tR0QzMGpXTVJyMWotM0xJUU53VEhsd1hobXFBdVE4?oc=5",
