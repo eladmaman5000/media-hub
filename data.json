@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T16:00+00:00",
+ "updated": "2026-08-07T16:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -198,7 +198,7 @@
    "source": "חיפוש גוגל · שלמה קרעי",
    "kind": "google",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "חיפוש גוגל · shlomo karhi (בינלאומי)",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "יומן בחירות: יום שישי, 7 באוגוסט 2026",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sdTFIbjhmZDRNdzVQYmE1NjdTN2xRUVFCYzd3UW9tR0QzMGpXTVJyMWotM0xJUU53VEhsd1hobXFBdVE4?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "זמן ישראל"
+  },
   {
    "title": "מכה קשה למטא: תשלם 567 מיליון דולר בגלל פגיעה בצעירים",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBURkEtRUZmQm54cXU0WW5DeEpuc3VuTFBRRml0dUw2a1ByMTVTZDlvQnZRNmNyNGY3aVJRb09LaEFRX2RLLXhiNmJyZUczZ2t1dURaWmJ6S1BzZw?oc=5",
