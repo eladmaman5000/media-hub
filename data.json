@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T17:00+00:00",
+ "updated": "2026-08-07T17:15+00:00",
  "keywords": [
   "קשת 12",
   "ערוץ 12",
@@ -210,7 +210,7 @@
    "source": "חיפוש גוגל · ינון מגל",
    "kind": "google",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "חיפוש גוגל · אבי ניר",
@@ -268,6 +268,16 @@
   }
  ],
  "items": [
+  {
+   "title": "משרד השיכון הסיר עריקים חרדים מהגרלות הדיור",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrNmU3UUFxdnpEc1ZiSU9RSDVockZPWndkYUlIUGtPelMxeVpuT0dLU1dFX1R5eUxmYmdQeVlEQXJGLVFBNGlNakFMaG9MZENCZlpqREFndWRVeFp1N1RkdTVR?oc=5",
+   "source": "חיפוש גוגל · שלמה קרעי",
+   "type": "google",
+   "date": "2026-08-07",
+   "keywords": [],
+   "pv": true,
+   "publisher": "News1 מחלקה ראשונה"
+  },
   {
    "title": "לוין נגד בג\"ץ: \"ראבילו צריך פשוט להיכנס לתפקידו\"",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12YlR3dHAwTVJXZGVxNUdrWGFhczVCZVREbTltdGkzMl8xUF92TGdrVXpqMFRuZk1NQV80YUgyb3Q2QmNVRHJGY2xVSGN6UQ?oc=5",
